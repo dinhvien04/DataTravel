@@ -1,104 +1,38 @@
 1. Giới thiệu địa điểm
 
-FLC Zoo Safari Park Quy Nhơn là công viên động vật bán hoang dã được nhận diện trước hết qua khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành. Trong dữ liệu chatbot du lịch, địa điểm này nên được mô tả rõ theo cả tên gọi phổ biến và ngữ cảnh hành chính cũ - mới: trước đây thường ghi là Khu 4, Nhơn Lý, Quy Nhơn, Bình Định, còn khi chuẩn hóa theo dữ liệu mới có thể ghi là khu FLC Quy Nhơn, Quy Nhơn Đông/Cát Tiến, tỉnh Gia Lai. Cách ghi song song giúp hệ thống hiểu đúng khi người dùng hỏi theo thói quen cũ hoặc theo tên tỉnh, phường, xã mới.
-
-Khi xây dựng dữ liệu RAG, FLC Zoo Safari Park Quy Nhơn không nên được viết quá chung chung. Cần nêu rõ địa điểm thuộc nhóm công viên động vật bán hoang dã, có đặc điểm nhận diện là khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành, và có thể phân biệt với các điểm gần đó. Nếu người dùng chỉ mô tả bằng hình ảnh hoặc vài từ khóa, các chi tiết về cảnh quan, vị trí, hoạt động và đối tượng phù hợp sẽ giúp chatbot trả lời chính xác hơn.
-
-Đây là điểm đến phù hợp để giới thiệu cho du khách muốn hiểu một lớp cảnh quan hoặc văn hóa đặc trưng của vùng. xem động vật, đi xe điện, chụp ảnh gia đình, cho trẻ nhận biết loài thú, chèo thuyền/đạp vịt hoặc dịch vụ giải trí tùy mùa là những trải nghiệm nên được đưa vào câu trả lời ngắn, còn khi người dùng hỏi sâu thì cần mở rộng sang lịch sử, giá trị văn hóa, đường đi, thời điểm tham quan và lưu ý an toàn.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+FLC Zoo Safari Park Quy Nhơn là công viên động vật bán hoang dã được nhận diện trước hết qua khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành. Trong dữ liệu chatbot du lịch, địa điểm này nên được mô tả rõ theo cả tên gọi phổ biến và ngữ cảnh hành chính cũ - mới: trước đây thường ghi là Khu 4, Nhơn Lý, Quy Nhơn, Bình Định, còn khi chuẩn hóa theo dữ liệu mới nên ghi là khu FLC Quy Nhơn, phường Quy Nhơn Đông, tỉnh Gia Lai. Cách ghi song song giúp hệ thống hiểu đúng khi người dùng hỏi theo thói quen cũ hoặc theo tên tỉnh, phường, xã mới.
 
 2. Mô tả tổng quan
 
-Tổng thể FLC Zoo Safari Park Quy Nhơn có thể hiểu như một điểm đến vừa có giá trị tham quan vừa có giá trị nhận diện địa phương. Điểm mạnh của địa điểm nằm ở không gian rộng, nhiều cây xanh, hồ nước, khu chuồng trại/bán tự nhiên, đường dạo, xe điện và nền cảnh quan bán đảo Phương Mai. Khi mô tả cho người chưa từng đến, nên bắt đầu bằng cảm giác không gian: địa điểm rộng hay hẹp, mở hay kín, thiên về thiên nhiên hay công trình, dễ đi hay cần chuẩn bị trước.
-
-Một câu trả lời tốt cho chatbot cần chỉ ra rằng FLC Zoo Safari Park Quy Nhơn không tồn tại tách rời khỏi vùng xung quanh. Các địa điểm gần như FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn tạo thành tuyến tham quan tự nhiên, giúp du khách dễ lên lịch trình theo nửa ngày, một ngày hoặc nhiều ngày. Vì vậy, dữ liệu nên lưu cả mô tả điểm chính và gợi ý kết hợp xung quanh.
-
-Đối với người dùng đi lần đầu, nên mô tả FLC Zoo Safari Park Quy Nhơn bằng các cụm từ đơn giản, dễ hình dung: khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành. Đối với mô hình nhận diện địa điểm bằng ảnh, nên nhấn mạnh các dấu hiệu thị giác như hình khối, nền cảnh, đường tiếp cận, loại vật liệu, cây xanh, biển, đồi, đá hoặc công trình biểu tượng.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+FLC Zoo Safari Park Quy Nhơn là điểm tham quan gia đình trong quần thể FLC Quy Nhơn, phù hợp với nhu cầu xem động vật, đi xe điện, chụp ảnh, cho trẻ nhận biết các loài thú và kết hợp tuyến Nhơn Lý - Eo Gió - Kỳ Co. Địa điểm cần được mô tả như một công viên động vật bán hoang dã, không phải vườn thú đô thị nhỏ hay khu vui chơi độc lập tách khỏi FLC Quy Nhơn.
 
 3. Lịch sử hình thành
 
-địa điểm được giới thiệu khai trương năm 2017 như một phần trong chiến lược mở rộng trải nghiệm nghỉ dưỡng, biển, golf và gia đình của quần thể FLC Quy Nhơn. Đây là lớp thông tin quan trọng vì nhiều người dùng không chỉ hỏi “địa điểm ở đâu” mà còn hỏi “vì sao nổi tiếng”, “có ý nghĩa gì” hoặc “có lịch sử không”. Khi trả lời, chatbot nên dùng cách diễn đạt thận trọng, nhất là với chi tiết chưa có văn bản chính thức thống nhất.
-
-Trong tiến trình phát triển du lịch, FLC Zoo Safari Park Quy Nhơn được biết đến nhiều hơn nhờ sự kết hợp giữa giá trị sẵn có và nhu cầu trải nghiệm của du khách hiện đại. Những bài viết du lịch thường nhấn mạnh cảnh quan, hoạt động và góc chụp; trong khi nguồn chính thống hoặc địa phương thường nhấn mạnh giá trị văn hóa, bảo tồn, quản lý và vai trò của điểm đến trong bản đồ du lịch.
-
-Khi dùng cho hệ thống hỏi đáp, phần lịch sử nên tránh kể quá dài theo kiểu sách giáo khoa. Thay vào đó, cần chuyển hóa thành các ý trả lời được câu hỏi: địa điểm hình thành trong bối cảnh nào, gắn với nhân vật/sự kiện/vùng văn hóa nào, vì sao đến nay vẫn có sức hút, và chi tiết nào nên kiểm tra lại khi có nguồn mới.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+FLC Zoo Safari Park Quy Nhơn được giới thiệu trong quá trình phát triển quần thể du lịch FLC Quy Nhơn tại khu vực Nhơn Lý cũ. Khi dùng trong dữ liệu RAG, nên ghi theo cả địa danh cũ và đơn vị hành chính mới để tránh nhầm giữa Bình Định cũ và Gia Lai sau sáp nhập.
 
 4. Giá trị văn hóa
 
-Giá trị văn hóa của FLC Zoo Safari Park Quy Nhơn thể hiện qua giáo dục nhận thức về động vật, du lịch gia đình, mô hình nghỉ dưỡng kết hợp sinh thái và trải nghiệm ngoài trời. Đây là phần giúp chatbot phân biệt một điểm đến chỉ để check-in với một điểm đến có chiều sâu. Khi người dùng hỏi “có gì đặc biệt”, câu trả lời không nên chỉ liệt kê cảnh đẹp mà cần nói được ý nghĩa của địa điểm trong đời sống địa phương.
-
-Địa điểm cũng phản ánh cách cộng đồng sử dụng không gian: có nơi là chỗ sinh hoạt cộng đồng, có nơi là di tích cần bảo tồn, có nơi là không gian tâm linh hoặc trải nghiệm thiên nhiên. Vì vậy, dữ liệu nên luôn đi kèm lưu ý ứng xử: đi nhẹ, nói khẽ, không xả rác, không leo trèo lên di tích, tôn trọng người dân và quy định quản lý.
-
-Với khách du lịch, giá trị văn hóa thường được cảm nhận qua chi tiết rất cụ thể: một tên gọi cũ, một câu chuyện địa phương, một vật liệu kiến trúc, một món ăn sau chuyến đi hoặc cách người dân sử dụng địa điểm hằng ngày. Những chi tiết này nên được giữ lại để chatbot có câu trả lời tự nhiên hơn.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+Giá trị của địa điểm nằm ở trải nghiệm giáo dục về động vật, du lịch gia đình và khả năng bổ sung cho tuyến du lịch biển Nhơn Lý. Nội dung trả lời cần tránh quảng cáo quá mức, đồng thời nhắc rằng số lượng loài, khu mở cửa, giá vé, giờ vận hành và dịch vụ có thể thay đổi.
 
 5. Điểm nổi bật
 
-Điểm nổi bật thứ nhất của FLC Zoo Safari Park Quy Nhơn là khả năng nhận diện mạnh qua hình ảnh: khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành. Khi người dùng gửi ảnh, mô hình có thể dựa vào chi tiết này để phân biệt địa điểm với những nơi cùng tỉnh hoặc cùng loại hình.
-
-Điểm nổi bật thứ hai là tính kết nối với tuyến tham quan. Từ FLC Zoo Safari Park Quy Nhơn, du khách có thể ghép với FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn. Điều này đặc biệt hữu ích cho chatbot khi được hỏi “đi đâu gần đây”, “lịch trình nửa ngày” hoặc “đi với gia đình nên ghé thêm chỗ nào”.
-
-Điểm nổi bật thứ ba là mức độ phù hợp với nhiều kiểu du khách. Người thích chụp ảnh có thể tìm góc đặc trưng; người thích văn hóa có thể tìm hiểu câu chuyện địa phương; gia đình có thể chọn khung giờ nhẹ nhàng; còn khách đi tự túc có thể dùng bản đồ và các mốc định vị để di chuyển.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+Điểm nổi bật là khu safari trong quần thể FLC Quy Nhơn, không gian rộng, cây xanh, hồ nước, đường dạo, khu chuồng trại/bán tự nhiên và các hoạt động phù hợp trẻ em. Khi nhận diện bằng ảnh, nên ưu tiên các dấu hiệu như xe điện, khu nuôi động vật, cảnh quan bán đảo Phương Mai và bảng/không gian FLC Quy Nhơn.
 
 6. Kiến trúc / cảnh quan
 
-Về cảnh quan hoặc kiến trúc, FLC Zoo Safari Park Quy Nhơn nên được mô tả bằng các chi tiết nhìn thấy được: không gian rộng, nhiều cây xanh, hồ nước, khu chuồng trại/bán tự nhiên, đường dạo, xe điện và nền cảnh quan bán đảo Phương Mai. Cách viết này giúp dữ liệu hữu ích cho cả chatbot văn bản và mô hình đa phương thức, vì người dùng có thể hỏi bằng mô tả hình ảnh như “nơi có đá tròn”, “tháp gạch trên đồi” hoặc “quảng trường có tượng Bác Hồ”.
-
-Khi chụp ảnh hoặc quan sát tại chỗ, du khách nên chú ý đến bố cục tổng thể thay vì chỉ chụp một chi tiết rời rạc. Ảnh rộng giúp nhận ra bối cảnh; ảnh cận giúp nhận ra vật liệu, hoa văn, cây xanh, đá, biển hoặc công trình phụ. Dữ liệu nên ghi cả hai loại dấu hiệu này.
-
-Một lưu ý quan trọng là cảnh quan có thể thay đổi theo mùa, thời tiết, công tác bảo trì hoặc lượng khách. Mùa nắng cho ảnh sáng, rõ màu; mùa mưa xanh hơn nhưng có thể trơn, âm u hoặc hạn chế hoạt động ngoài trời. Khi trả lời, chatbot nên linh hoạt theo thời điểm người dùng định đi.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+Cảnh quan chủ đạo gồm khuôn viên rộng, nhiều cây xanh, hồ nước, đường dạo, các khu nuôi động vật và nền cảnh quan bán đảo Phương Mai. Đây là điểm tham quan ngoài trời nên thời tiết ảnh hưởng nhiều đến trải nghiệm.
 
 7. Các khu vực chính
 
-Các khu vực chính liên quan đến FLC Zoo Safari Park Quy Nhơn gồm khu quan sát động vật, hồ nước, khu vui chơi gia đình, khu dịch vụ vé, tuyến xe điện, khu nghỉ dưỡng FLC lân cận. Khi người dùng hỏi “đến đó nên đi chỗ nào trước”, chatbot có thể gợi ý đi từ khu dễ nhận diện nhất, sau đó chuyển sang khu phụ hoặc điểm gần đó để tối ưu thời gian.
-
-Nếu du khách có ít thời gian, nên tập trung vào khu nhận diện chính và một đến hai góc chụp tiêu biểu. Nếu có nhiều thời gian, có thể đi chậm hơn, quan sát các chi tiết phụ, hỏi thêm người địa phương hoặc ghép tuyến tham quan với các điểm xung quanh.
-
-Với dữ liệu bản đồ, nên lưu các mốc gần dễ tìm thay vì chỉ ghi địa chỉ hành chính. Người dùng thường tìm bằng từ khóa phổ biến, tên đường, tên khu, tên quán gần đó hoặc tên điểm check-in. Vì vậy mục này cần phục vụ truy vấn thực tế chứ không chỉ là mô tả lý thuyết.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+Các khu vực chính gồm khu thú, khu hồ, đường dạo, điểm check-in, khu dịch vụ và khu di chuyển bằng xe điện nếu đang vận hành. Du khách nên kiểm tra thông tin mới trước khi đi vì dịch vụ có thể thay đổi theo mùa, bảo trì hoặc chính sách vận hành.
 
 8. Từ khóa mô tả địa điểm
 
-Từ khóa nhận diện chính: FLC Zoo Safari Park Quy Nhơn, công viên động vật bán hoang dã, khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành, Khu 4, Nhơn Lý, Quy Nhơn, Bình Định, khu FLC Quy Nhơn, Quy Nhơn Đông/Cát Tiến, tỉnh Gia Lai. Các từ khóa này giúp hệ thống hiểu đúng cả khi người dùng viết có dấu, không dấu, viết tắt hoặc hỏi theo tên cũ.
-
-Từ khóa trải nghiệm: xem động vật, đi xe điện, chụp ảnh gia đình, cho trẻ nhận biết loài thú, chèo thuyền/đạp vịt hoặc dịch vụ giải trí tùy mùa. Từ khóa tuyến gần: FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn. Từ khóa ẩm thực và dịch vụ: nhà hàng/quầy dịch vụ trong khu FLC hoặc khu Nhơn Lý; có thể kết hợp hải sản ở làng chài Nhơn Lý. Khi tạo embedding, nên giữ các cụm từ này trong cùng một ngữ cảnh để tăng khả năng truy hồi.
-
-Từ khóa cảnh quan: không gian rộng, nhiều cây xanh, hồ nước, khu chuồng trại/bán tự nhiên, đường dạo, xe điện và nền cảnh quan bán đảo Phương Mai. Từ khóa lưu ý: kiểm tra thời tiết, kiểm tra giá vé/giờ mở cửa, đi vào giờ mát, giữ vệ sinh, tôn trọng quy định địa phương và không tự ý vào khu vực hạn chế.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
-Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
+FLC Zoo Safari Park Quy Nhơn; khu FLC Quy Nhơn; phường Quy Nhơn Đông; tỉnh Gia Lai; Nhơn Lý cũ; Quy Nhơn; Bình Định cũ; công viên động vật bán hoang dã; safari Quy Nhơn; du lịch gia đình; xem động vật; Eo Gió; Kỳ Co; bán đảo Phương Mai.
 
 9. Nguồn tham khảo
 
 - https://flc.vn/
 - https://www.flchotelsresorts.com/
-- https://www.flchotelsresorts.com/quan-the/flc-quy-nhon/
-- https://dulichquynhon.com.vn/
-
-Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.
+- https://quynhon.gov.vn/
+- https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
