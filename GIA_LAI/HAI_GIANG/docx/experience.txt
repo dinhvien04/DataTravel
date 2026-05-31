@@ -1,0 +1,91 @@
+1. Hoạt động du lịch chính
+
+Hoạt động du lịch chính ở Hải Giang là ngắm cảnh biển, tắm biển, check-in, tham quan bán đảo, trải nghiệm khu du lịch nghỉ dưỡng và kết hợp tour biển đảo quanh Nhơn Hải. Với khách yêu cảnh tự nhiên, Hải Giang hấp dẫn ở không gian bãi biển có núi bao quanh, nước biển xanh và cảm giác tách khỏi phố. Với khách thích trải nghiệm hiện đại, MerryLand Quy Nhơn là điểm được nhắc nhiều nhờ quy mô lớn và các hạng mục du lịch, thương mại, giải trí.
+
+Tắm biển là hoạt động phổ biến nếu điều kiện thời tiết và khu vực cho phép. Biển Hải Giang có hình ảnh đẹp vào mùa nắng, nước trong và bãi cát sáng. Tuy nhiên, khách cần tuân thủ biển báo, không tắm xa bờ, không xuống nước khi có sóng lớn hoặc thời tiết xấu. Nếu không chắc khu vực nào được phép tắm, nên hỏi người địa phương, nhân viên khu dịch vụ hoặc đơn vị tour.
+
+Check-in và chụp ảnh là hoạt động phù hợp nhất với đa số du khách. Hải Giang có nhiều lớp cảnh: biển xanh, bờ cát, núi đá, cung đường bán đảo, công trình nghỉ dưỡng và không gian vịnh. Góc chụp đẹp thường là từ bãi biển nhìn ra biển, từ điểm cao nhìn xuống vịnh hoặc từ khu vực có công trình kiến trúc của MerryLand nếu được phép vào.
+
+Đi tour kết hợp là lựa chọn thực tế. Khách có thể đi Hải Giang cùng Hòn Khô, Nhơn Hải, Eo Gió, Kỳ Co hoặc đồi cát Phương Mai. Tour trọn ngày thường phù hợp với người lần đầu đến Quy Nhơn vì đã có xe, cano, ăn uống và hướng dẫn viên. Đi tự túc phù hợp với người muốn linh hoạt, nhưng cần tự kiểm tra đường, giá dịch vụ và thời tiết.
+
+2. Điểm check-in nổi bật
+
+Điểm check-in đầu tiên là bãi biển Hải Giang. Đây là nơi dễ nhận ra nhất qua ảnh với nước biển xanh, nền cát sáng và triền núi phía sau. Khi chụp ảnh, nên chọn thời điểm sáng sớm hoặc chiều để ánh sáng mềm hơn. Giữa trưa nắng mạnh có thể làm ảnh bị gắt, người chụp mệt và dễ cháy nắng.
+
+Điểm check-in thứ hai là các góc nhìn từ bán đảo, nơi thấy rõ địa hình núi ôm biển. Nếu có đường hoặc điểm quan sát an toàn, đây là góc giúp thể hiện “chất Hải Giang” rõ hơn ảnh chụp sát mặt nước. Tuy nhiên, không nên tự ý leo vách đá, trèo hàng rào hoặc vào khu vực đang thi công.
+
+Điểm check-in thứ ba là các khu vực thuộc MerryLand Quy Nhơn nếu đang mở cho khách tham quan. Những công trình như quảng trường, bến du thuyền, khu phố thương mại hoặc khu cảnh quan nội khu có thể tạo hình ảnh hiện đại, khác với các điểm hoang sơ như Hòn Khô. Trước khi đến, cần kiểm tra khu vực nào được phép vào và có cần vé hay đăng ký không.
+
+Điểm check-in thứ tư là tuyến kết hợp Nhơn Hải - Hòn Khô. Nếu du khách đã đến Hải Giang, việc ghé Nhơn Hải và Hòn Khô sẽ giúp album ảnh phong phú hơn: làng chài, thuyền thúng, bến cano, đảo nhỏ, cầu gỗ, bãi đá, san hô và mùa rong mơ nếu đúng thời điểm. Khi xây dựng chatbot, có thể gợi ý tuyến này cho người hỏi “đi Hải Giang chụp ảnh thì nên ghé đâu nữa?”.
+
+3. Trải nghiệm theo từng khu vực
+
+Ở khu bãi biển, trải nghiệm chính là tắm biển, đi dạo, chụp ảnh, ngồi nghỉ và ngắm cảnh. Bãi biển phù hợp với người muốn tìm không gian biển khác trung tâm Quy Nhơn. Nếu bãi không quá đông, du khách có thể cảm nhận rõ sự yên bình của bán đảo. Tuy vậy, dịch vụ trên bãi có thể không đồng đều như các bãi tắm đô thị, vì vậy cần chuẩn bị nước uống, đồ chống nắng và hỏi trước nơi thay đồ, tắm nước ngọt hoặc gửi xe.
+
+Ở khu bán đảo và đường ven biển, trải nghiệm chính là ngắm cảnh từ xa, dừng chụp ảnh, cảm nhận gió biển và quan sát địa hình núi đá. Đây là phần phù hợp với người thích lái xe máy hoặc đi ô tô tự túc. Tuyến đường có thể đẹp nhưng cũng nắng, gió và có đoạn vắng, nên không phù hợp để đi quá muộn hoặc đi một mình nếu không quen đường.
+
+Ở khu MerryLand Quy Nhơn, trải nghiệm phụ thuộc tình trạng vận hành. Nếu các khu dịch vụ mở cửa, khách có thể check-in công trình, tham quan không gian du lịch nghỉ dưỡng, trải nghiệm ăn uống, giải trí hoặc sự kiện. Nếu một số khu vực chưa mở hoặc hạn chế, du khách chỉ nên tham quan phần được phép. Chatbot cần nói rõ tính cập nhật của thông tin này để tránh hứa hẹn quá mức.
+
+Ở khu kết nối Nhơn Hải - Hòn Khô, trải nghiệm nghiêng về làng chài, cano, lặn ngắm san hô, ăn hải sản và ngắm đảo. Đây là phần bổ sung rất tốt cho Hải Giang vì giúp chuyến đi có cả cảnh quan bán đảo lẫn trải nghiệm biển đảo. Nếu khách chỉ dành nửa ngày, nên chọn một trọng tâm; nếu có một ngày, có thể kết hợp nhiều hoạt động hơn.
+
+4. Những thứ nên thử
+
+Du khách nên thử ngắm Hải Giang từ góc cao hoặc từ phía biển nếu có điều kiện. Hải Giang đẹp nhất khi thấy được hình dáng bán đảo, núi ôm vịnh và mặt nước xanh. Ảnh chụp cận bãi biển đẹp, nhưng ảnh toàn cảnh mới giúp nhận ra sự khác biệt của nơi này so với những bãi tắm thông thường.
+
+Nên thử tắm biển hoặc đi dạo bãi biển vào buổi sáng khi trời chưa quá nắng. Không khí lúc này dễ chịu, nước biển thường trong hơn và bãi chưa quá đông nếu không phải mùa cao điểm. Nếu không muốn tắm, chỉ cần đi bộ trên cát, nghe sóng và ngắm núi cũng đủ tạo trải nghiệm thư giãn.
+
+Nên thử kết hợp ăn hải sản ở khu vực Nhơn Hải hoặc các điểm lân cận. Hải Giang gắn với vùng biển Nhơn Hải nên hải sản là trải nghiệm tự nhiên trong hành trình. Các món thường gặp ở Quy Nhơn và làng biển gồm mực, tôm, cua, cá, ốc, hàu, cầu gai, bánh xèo hải sản và các món nướng. Giá cần hỏi trước, đặc biệt khi gọi hải sản theo kg.
+
+Nếu đi theo tour có hoạt động cano hoặc lặn ngắm san hô ở khu vực lân cận, du khách nên thử khi sức khỏe phù hợp và biển êm. Cần mặc áo phao, nghe hướng dẫn, không bẻ san hô, không giẫm lên rạn và không xả rác xuống biển. Trải nghiệm này phù hợp với nhóm trẻ, gia đình có trẻ lớn và khách thích hoạt động ngoài trời.
+
+5. Những điều không nên bỏ lỡ
+
+Không nên bỏ lỡ cảnh biển Hải Giang vào ngày trời trong. Đây là yếu tố làm địa điểm có giá trị nhận diện cao. Nếu đến vào ngày mưa, biển đục hoặc trời âm u, trải nghiệm có thể giảm đáng kể. Vì vậy, nên linh hoạt đổi lịch nếu mục tiêu chính là ảnh đẹp.
+
+Không nên bỏ lỡ việc phân biệt Hải Giang với các điểm cùng tuyến. Hải Giang là bán đảo/bãi biển và khu du lịch gắn với MerryLand; Hòn Khô là đảo nhỏ gần Nhơn Hải; Eo Gió là thắng cảnh vách đá; Kỳ Co là bãi biển du lịch nổi tiếng; Hải Minh là làng chài dưới núi Tam Hòa. Nhận diện đúng giúp tránh nhầm khi đặt tour, tìm ảnh hoặc xây dựng dữ liệu mô hình.
+
+Không nên bỏ lỡ cầu Thị Nại nếu đi đường bộ từ Quy Nhơn. Đây là công trình và cung đường mang tính biểu tượng khi sang bán đảo Phương Mai. Việc đi qua cầu, nhìn đầm Thị Nại và vùng Nhơn Hội cũng làm hành trình đến Hải Giang thú vị hơn.
+
+Không nên bỏ lỡ việc hỏi người địa phương hoặc nhân viên dịch vụ về khu vực được phép tắm, điểm chụp đẹp và đường đi an toàn. Ở các điểm đang phát triển du lịch, bản đồ số đôi khi chưa cập nhật đầy đủ hoặc dẫn vào đường không thuận tiện. Một câu hỏi trực tiếp có thể giúp tránh mất thời gian.
+
+6. Thời lượng tham quan đề xuất
+
+Nếu chỉ muốn ghé Hải Giang để chụp ảnh và ngắm cảnh, thời lượng khoảng 1,5 đến 2,5 giờ có thể đủ. Lịch trình này phù hợp với người đã có xe riêng, đi vào buổi sáng hoặc chiều và không tắm biển quá lâu. Tuy nhiên, nếu tính cả thời gian đi từ trung tâm Quy Nhơn, nên dành ít nhất nửa buổi.
+
+Nếu muốn tắm biển, ăn uống và tham quan khu MerryLand hoặc bãi biển kỹ hơn, nên dành nửa ngày. Nửa ngày cho phép khách không quá vội, có thời gian nghỉ dưới nắng và linh hoạt nếu cần đổi điểm vì thời tiết. Với nửa ngày, nên chọn sáng sớm đến trưa hoặc chiều đến hoàng hôn, tránh lịch giữa trưa kéo dài.
+
+Nếu muốn kết hợp Hải Giang với Nhơn Hải, Hòn Khô hoặc Eo Gió Kỳ Co, nên dành một ngày. Lịch trình một ngày giúp có thời gian đi cano, ăn hải sản, chụp ảnh nhiều điểm và không bị gấp. Nếu đi gia đình, một ngày cũng dễ sắp xếp nghỉ ngơi hơn so với cố nhồi nhiều điểm trong nửa ngày.
+
+7. Lịch trình tham quan gợi ý
+
+Lịch trình nửa ngày buổi sáng: xuất phát từ trung tâm Quy Nhơn sớm, đi qua cầu Thị Nại, dừng chụp ảnh trên cung đường bán đảo nếu thuận tiện, đến Hải Giang ngắm biển và check-in. Sau đó tham quan khu vực được phép ở MerryLand hoặc bãi biển Hải Giang, rồi quay về Nhơn Hải hoặc trung tâm ăn trưa. Lịch trình này phù hợp với khách muốn ảnh đẹp và tránh nắng gắt.
+
+Lịch trình nửa ngày buổi chiều: xuất phát khoảng đầu giờ chiều, đến Hải Giang khi nắng đã dịu hơn, chụp ảnh bãi biển, ngắm cảnh bán đảo, sau đó ghé Nhơn Hải ăn hải sản hoặc về trung tâm Quy Nhơn. Lịch trình này phù hợp với khách không thích dậy sớm, nhưng cần lưu ý không ở lại quá muộn nếu không quen đường.
+
+Lịch trình một ngày kết hợp Nhơn Hải - Hòn Khô - Hải Giang: buổi sáng đi Nhơn Hải, ra Hòn Khô bằng thuyền/cano nếu thời tiết cho phép, tắm biển hoặc lặn ngắm san hô, ăn trưa hải sản. Buổi chiều ghé Hải Giang/MerryLand để check-in, ngắm cảnh bán đảo, rồi quay về Quy Nhơn qua cầu Thị Nại. Lịch trình này phù hợp với khách muốn có cả làng chài, đảo nhỏ và khu du lịch mới.
+
+Lịch trình một ngày kết hợp Eo Gió - Kỳ Co - Hải Giang: buổi sáng đi Nhơn Lý, tham quan Eo Gió hoặc Kỳ Co theo tour, ăn trưa ở khu Nhơn Lý, chiều di chuyển về phía Nhơn Hải/Hải Giang nếu sức khỏe và thời gian cho phép. Lịch trình này khá dày, nên chỉ phù hợp với nhóm trẻ, có xe riêng hoặc tour thiết kế sẵn.
+
+8. Kinh nghiệm tham quan
+
+Kinh nghiệm quan trọng nhất là kiểm tra thời tiết. Hải Giang đẹp nhờ biển và nắng; nếu mưa lớn, biển động hoặc trời xám, trải nghiệm giảm đáng kể. Với tour đường biển, thời tiết còn ảnh hưởng đến an toàn. Nên liên hệ đơn vị tour vào tối hôm trước hoặc sáng sớm ngày đi để xác nhận.
+
+Kinh nghiệm thứ hai là xác định rõ mình muốn đi “Hải Giang tự nhiên”, “MerryLand Quy Nhơn” hay “tour Hải Giang kết hợp Hòn Khô”. Ba cách đi này có lịch trình và chi phí khác nhau. Nếu không xác định rõ, khách dễ kỳ vọng sai, ví dụ muốn tắm biển hoang sơ nhưng lại đến khu công trình, hoặc muốn vui chơi khu du lịch nhưng chưa kiểm tra khu nào đang mở.
+
+Kinh nghiệm thứ ba là chuẩn bị đồ chống nắng và nước uống. Bán đảo Phương Mai nhiều nắng, gió và ít bóng râm tự nhiên ở một số khu vực. Nên mang mũ, kính râm, kem chống nắng, khăn mỏng, dép dễ đi và túi chống nước. Nếu có trẻ em, nên mang thêm đồ ăn nhẹ và khăn thay.
+
+Kinh nghiệm thứ tư là giữ gìn môi trường. Hải Giang có giá trị ở cảnh quan biển và hệ sinh thái ven bờ. Du khách không nên xả rác, không lấy san hô, không giẫm lên rạn, không đốt lửa bừa bãi và không gây ồn ở khu dân cư. Nếu ăn uống ngoài trời, cần gom rác mang về hoặc bỏ đúng nơi quy định.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo chính:
+- Cổng thông tin du lịch Quy Nhơn - MerryLand Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/merrylandquynhon
+- Cổng thông tin điện tử tỉnh Gia Lai - Phường Quy Nhơn Đông: https://gialai.gov.vn/don-vi-hanh-chinh/phuong-quy-nhon-dong.html
+- Cổng thông tin điện tử tỉnh Gia Lai - văn bản nhắc đến thôn Hải Giang, xã Nhơn Hải, thành phố Quy Nhơn: https://gialai.gov.vn/chi-dao-dieu-hanh/v-v-giai-quyet-don-kien-nghi-cua-cac-ho-dan-thon-hai-giang-xa-nhon-hai-ve-noi-bo-tri-tai-dinh-cu.html
+- Hưng Thịnh Land - dự án MerryLand Quy Nhơn: https://www.hungthinhland.com/projects/detail/MerryLand-Quy-Nhon.html
+- Vietnamnet - Hải Giang, Quy Nhơn, bán đảo của những kỳ quan độc nhất: https://vietnamnet.vn/interactive/hai-giang-quy-nhon-ban-dao-cua-nhung-ky-quan-doc-nhat/
+- Quy Nhơn Tourist - Tour Hòn Khô, Hải Giang Merry Land Quy Nhơn 1 ngày: https://quynhontourist.com/tour-hon-kho-hai-giang-merry-land-quy-nhon-1-ngay/
+- Quy Nhơn Tourist - Hải Giang Merry Land Quy Nhơn: https://quynhontourist.com/hai-giang-merry-land-quy-nhon/
+- Quy Nhơn Group Tour - Đảo Hải Giang, khám phá thiên đường biển Quy Nhơn: https://quynhongrouptour.com.vn/dao-hai-giang-kham-pha-thien-duong-bien-quy-nhon/
+- Vinpearl - Làng chài Nhơn Hải có gì, kinh nghiệm du lịch chi tiết: https://vinpearl.com/vi/lang-chai-nhon-hai-quy-nhon
+- Bamboo Airways - Cẩm nang du lịch làng chài Nhơn Hải: https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/du-lich-lang-chai-nhon-hai

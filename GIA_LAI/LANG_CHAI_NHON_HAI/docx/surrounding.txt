@@ -1,0 +1,71 @@
+1. Các địa điểm gần đó
+
+Các địa điểm gần và liên quan trực tiếp gồm Hòn Khô, bãi biển Nhơn Hải, Bãi Hải Đông, bãi rêu, Bờ Đập, Rạn Cầu và bến thuyền đi Hòn Khô. Đây là nhóm điểm nên ưu tiên khi xây dựng dữ liệu cho làng chài Nhơn Hải.
+
+Các điểm có thể kết hợp trong cùng khu vực bán đảo Phương Mai gồm Nhơn Lý, Eo Gió, Kỳ Co, đồi cát Phương Mai, cầu Thị Nại và đầm Thị Nại. Cần phân biệt Nhơn Hải với Nhơn Lý để không nhầm bối cảnh.
+
+Nếu mở rộng về trung tâm Quy Nhơn, có thể kết hợp Ghềnh Ráng, Tháp Đôi, biển Quy Nhơn, chợ đêm hoặc các quán đặc sản. Lịch trình nên sắp theo thời gian di chuyển để tránh quá tải.
+
+
+
+2. Sự kiện / lễ hội
+
+Đời sống Nhơn Hải gắn với nghề biển, thuyền thúng, ghe đánh cá, lưới, hải sản và tín ngưỡng thờ Cá Ông. Lễ Cầu ngư thường được nhắc vào ngày 11 đến 12 tháng 2 âm lịch, là dịp ngư dân cầu mong biển yên, thuyền về an toàn và mùa cá thuận lợi. Đây là dữ liệu văn hóa quan trọng khi xây dựng chatbot du lịch cộng đồng.
+
+Nếu du khách đến đúng dịp lễ, có thể quan sát nghi thức truyền thống, văn nghệ, thể thao và các trò chơi dân gian. Tuy nhiên, cần giữ thái độ tôn trọng vì đây là sinh hoạt tín ngưỡng của cộng đồng.
+
+Các chương trình du lịch cộng đồng có thể thay đổi theo từng năm. Thông tin tham khảo, cần kiểm tra lại trước khi đi, nhất là lịch tổ chức cụ thể và khu vực diễn ra.
+
+
+
+3. Hoạt động theo mùa
+
+Mùa khô từ khoảng tháng 3 hoặc tháng 4 đến tháng 9 thường thuận lợi cho tắm biển, đi Hòn Khô, cano và lặn san hô. Từ tháng 5 đến tháng 7, Hòn Khô có mùa rong mơ, nước trong và các thảm rong vàng tạo cảnh quan đặc biệt. Từ tháng Giêng đến tháng 3 âm lịch, bãi đá rêu Nhơn Hải có thể đẹp nếu thủy triều rút và thời tiết thuận lợi.
+
+Mùa mưa phù hợp hơn với trải nghiệm trong làng và ăn uống, không phù hợp cho cano, lặn san hô hoặc leo đá. Khi biển động, nên hủy hoạt động biển.
+
+Mùa lễ hội Cầu ngư là thời điểm tốt để hiểu văn hóa ngư dân, nhưng có thể đông và cần tôn trọng không gian nghi lễ.
+
+
+
+4. Đối tượng phù hợp
+
+Nhơn Hải phù hợp với nhóm bạn trẻ thích tự túc, chụp ảnh, đi cano, lặn san hô và trải nghiệm làng chài. Nhóm này nên đi sớm để có ánh sáng đẹp và tránh nắng.
+
+Gia đình có trẻ em có thể đi nếu chọn ngày biển êm, dùng dịch vụ có áo phao, tránh bãi rêu trơn và không để trẻ tự xuống nước. Người lớn tuổi nên ưu tiên đi dạo làng, ăn hải sản và ra đảo khi lên xuống thuyền thuận tiện.
+
+Khách quốc tế phù hợp nếu muốn tìm hiểu làng chài Việt Nam và văn hóa biển. Nên có người biết tiếng Việt hỗ trợ khi thuê thuyền, gọi món và giải thích về lễ Cầu ngư.
+
+
+
+5. Gợi ý tuyến tham quan kết hợp
+
+Tuyến nửa ngày: trung tâm Quy Nhơn, cầu Thị Nại, làng chài Nhơn Hải, Hòn Khô, ăn hải sản rồi quay về. Đây là tuyến dễ đi và phổ biến nhất.
+
+Tuyến một ngày: Nhơn Hải, bãi rêu nếu đúng mùa, Hòn Khô, ăn trưa hải sản, chiều ghé đồi cát Phương Mai hoặc cầu Thị Nại. Nếu muốn thêm Eo Gió và Kỳ Co thì cần đi sớm.
+
+Tuyến hai ngày: ngày đầu Nhơn Hải và Hòn Khô, ngày sau Nhơn Lý, Eo Gió, Kỳ Co và các điểm trung tâm Quy Nhơn. Cách này đỡ gấp và giúp trải nghiệm sâu hơn.
+
+
+
+6. Nguồn tham khảo
+
+Cổng Du lịch Quy Nhơn - Bình Định, bài Hòn Khô: https://dulichquynhon.binhdinh.gov.vn/vi/dryisland
+
+Cổng Du lịch Quy Nhơn - Bình Định, bài mùa rong mơ Hòn Khô: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3193
+
+Vietnam Airlines, Làng chài Nhơn Hải: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/lang-chai-nhon-hai
+
+Vietnam Airlines, Hòn Khô: https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/hon-kho
+
+Bamboo Airways, cẩm nang du lịch làng chài Nhơn Hải: https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/du-lich-lang-chai-nhon-hai
+
+Vinpearl, kinh nghiệm Hòn Khô Quy Nhơn: https://vinpearl.com/vi/review-du-lich-hon-kho-quy-nhon
+
+Traveloka, Làng chài Nhơn Hải Quy Nhơn: https://www.traveloka.com/vi-vn/explore/destination/lang-chai-nhon-hai-quy-nhon/626594
+
+Cục Du lịch Quốc gia Việt Nam, bãi đá rêu Nhơn Hải: https://vietnamtourism.gov.vn/post/48708
+
+Báo Gia Lai, tường thành dưới biển ở Nhơn Hải: https://baogialai.com.vn/tuong-thanh-duoi-bien-o-nhon-hai-buoc-dau-giai-ma-bi-an-post331128.html
+
+UBND phường Quy Nhơn Đông, thông tin du lịch cộng đồng Nhơn Hải: https://quynhondong.gialai.gov.vn/tin-tuc2/doi-ngoai/du-lich-cong-dong-nhon-hai-gin-giu-bien-xanh-va-danh-thuc-nhung-gia-tri-ngan-doi.html
