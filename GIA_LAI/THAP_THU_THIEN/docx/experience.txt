@@ -1,67 +1,104 @@
 1. Hoạt động du lịch chính
 
-Hoạt động chính tại Tháp Thủ Thiện là tham quan di tích Chăm Pa, quan sát kiến trúc gạch cổ, chụp ảnh và tìm hiểu bối cảnh văn hóa Tây Sơn. Đây không phải điểm vui chơi náo nhiệt, không có nhiều hoạt động giải trí, nên trải nghiệm phù hợp nhất với người yêu lịch sử, kiến trúc, khảo cổ và những tuyến du lịch chậm.
+Hoạt động chính tại Tháp Thủ Thiện gồm xem kiến trúc Chăm, chụp ảnh tháp cổ, tìm hiểu gạch nung, nghe câu chuyện Vijaya, kết hợp tuyến di tích Tây Sơn. Đây là các trải nghiệm dễ giới thiệu cho khách lần đầu vì gắn trực tiếp với đặc điểm nhận diện của địa điểm.
 
-Du khách có thể đi quanh tháp để quan sát các mặt kiến trúc, chú ý thân tháp, vòm cửa, mạch gạch, phần đế và các tầng thu nhỏ phía trên. Nếu đi cùng hướng dẫn viên am hiểu Chăm Pa, chuyến tham quan sẽ có chiều sâu hơn vì có thể giải thích phong cách Bình Định, vị trí của Tháp Thủ Thiện trong hệ thống tháp Chăm và sự khác biệt so với Dương Long, Bánh Ít, Phú Lốc.
+Nếu người dùng hỏi “có gì chơi”, chatbot nên trả lời theo kiểu lựa chọn: trải nghiệm nhẹ cho gia đình, trải nghiệm chụp ảnh, trải nghiệm tìm hiểu văn hóa và trải nghiệm kết hợp tuyến gần. Không nên chỉ đưa một danh sách ngắn thiếu bối cảnh.
+
+Điểm cần nhấn mạnh là không phải hoạt động nào cũng phù hợp mọi mùa. Một số hoạt động phụ thuộc thời tiết, ánh sáng, lượng khách hoặc quy định quản lý. Vì vậy nên kèm lời khuyên kiểm tra trước khi đi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Điểm check-in nổi bật
 
-Điểm check-in quan trọng nhất là góc chụp toàn cảnh tháp giữa không gian làng quê. Vì tháp nằm trên vùng đất tương đối bằng phẳng, ảnh toàn cảnh có thể nhấn vào dáng tháp cô độc, đường chân trời, ruộng đồng hoặc con đường nhỏ dẫn vào di tích.
+Điểm check-in nổi bật nhất là các góc thể hiện rõ tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ. Ảnh nên lấy đủ bối cảnh để người xem nhận ra địa điểm chứ không chỉ chụp cận một chi tiết khó phân biệt.
 
-Một góc chụp khác là phần thân tháp với mảng gạch cổ. Góc này phù hợp cho ảnh tư liệu, ảnh kiến trúc và ảnh mô tả chất liệu. Nên hạn chế chạm tay vào gạch, không leo lên nền hoặc phần nguy hiểm, nhất là khi tháp đang trong tình trạng cần bảo tồn.
+Góc ảnh rộng giúp thấy một tháp gạch đứng giữa không gian đồng ruộng, làng xóm, bờ sông và các lối đi nông thôn; cảnh quan ít đô thị hóa hơn các điểm du lịch đông khách. Góc ảnh cận giúp nhấn mạnh vật liệu, đường nét, màu sắc, cây xanh, đá, nước hoặc công trình biểu tượng. Với dữ liệu nhận diện ảnh, nên ưu tiên ảnh sáng rõ, ít người che khuất và không chỉnh màu quá mạnh.
 
-Nếu có thời gian, du khách có thể chụp ảnh tháp trong bối cảnh sông Kôn hoặc làng Thủ Thiện. Dạng ảnh này giúp thể hiện đúng tinh thần của di tích: một tháp Chăm cổ nằm trong không gian nông thôn Tây Sơn, khác với các điểm du lịch đã thương mại hóa mạnh.
+Khi đông khách, nên chọn góc chụp lệch, chờ khoảng trống hoặc đi sớm. Không nên leo rào, trèo lên di tích, bước vào khu cấm hoặc làm ảnh hưởng người khác chỉ để có ảnh đẹp.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Trải nghiệm theo từng khu vực
 
-Người yêu lịch sử và kiến trúc sẽ phù hợp nhất vì có thể quan sát cấu trúc tháp, so sánh với các tháp Chăm khác và tìm hiểu niên đại. Người thích chụp ảnh có thể đến nếu thích ảnh di tích, làng quê và phong cách tối giản. Gia đình có trẻ em vẫn có thể ghé, nhưng nên giải thích trước đây là di tích cổ, không phải khu vui chơi.
+Khu vực chính của Tháp Thủ Thiện gồm khu chân tháp, sân/quanh tháp, lối tiếp cận làng Thủ Thiện, vùng bờ sông Kôn, các điểm di tích Tây Sơn gần đó. Mỗi khu có vai trò khác nhau: có nơi để nhận diện, có nơi để nghỉ chân, có nơi để tìm hiểu văn hóa, có nơi để chụp toàn cảnh hoặc quan sát đời sống địa phương.
 
-Người lớn tuổi có thể tham quan nếu di chuyển bằng ô tô và đi vào lúc trời mát. Tuy nhiên, cần lưu ý nền đất, khoảng cách đi bộ và điều kiện thực tế quanh tháp. Nếu đang có thi công hoặc rào chắn, nên giữ khoảng cách an toàn.
+Du khách nên đi theo trình tự từ dễ tiếp cận đến sâu hơn. Đi nhanh quá dễ bỏ qua các chi tiết quan trọng, còn ở quá lâu tại một điểm phụ có thể làm lỡ khung giờ đẹp của điểm chính.
 
-Không nên leo trèo lên thân tháp, không cạy gạch, không viết vẽ lên di tích, không tự ý vào khu vực đang thi công hoặc gia cố. Không nên dùng flycam nếu chưa rõ quy định địa phương, đặc biệt ở khu vực di tích văn hóa hoặc gần khu dân cư.
+Nếu đi cùng trẻ em hoặc người lớn tuổi, nên ưu tiên khu bằng phẳng, gần lối ra, gần dịch vụ và có bóng mát. Những khu dốc, đá, bậc thang hoặc xa điểm gửi xe nên cân nhắc sức khỏe trước khi vào.
 
-Không nên biến chuyến đi thành hoạt động check-in ồn ào, bật nhạc lớn hoặc xả rác. Tháp Thủ Thiện là di tích quốc gia và là không gian văn hóa cần sự tôn trọng.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Những thứ nên thử
 
-Khi đến đây, du khách nên thử một số trải nghiệm tiêu biểu. Hoạt động chính tại Tháp Thủ Thiện là tham quan di tích Chăm Pa, quan sát kiến trúc gạch cổ, chụp ảnh và tìm hiểu bối cảnh văn hóa Tây Sơn. Đây không phải điểm vui chơi náo nhiệt, không có nhiều hoạt động giải trí, nên trải nghiệm phù hợp nhất với người yêu lịch sử, kiến trúc, khảo cổ và những tuyến du lịch chậm. Du khách có thể đi quanh tháp để quan sát các mặt kiến trúc, chú ý thân tháp, vòm cửa, mạch gạch, phần đế và các tầng thu nhỏ phía trên.
+Nên thử quan sát địa điểm ở hai khoảng cách: nhìn tổng thể để hiểu bố cục và nhìn gần để nhận ra chi tiết. Cách này đặc biệt hữu ích với di tích tháp Chăm, vì giá trị của địa điểm thường nằm ở cả không gian chung và những dấu hiệu nhỏ.
+
+Nên thử kết hợp trải nghiệm tại chỗ với ẩm thực hoặc điểm gần đó. Sau khi tham quan Tháp Thủ Thiện, du khách có thể tìm các món như món địa phương khu Tây Sơn và An Nhơn như bánh ít lá gai, nem chợ Huyện, bánh hỏi, các món gà/vịt đồng quê tùy quán hoặc ghé tuyến Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn nếu còn thời gian.
+
+Nên thử hỏi người dân địa phương, nhân viên điểm đến hoặc hướng dẫn viên về thời điểm đẹp, góc ảnh tốt và câu chuyện ít được ghi trong bài review. Tuy nhiên thông tin truyền miệng nên được ghi nhận ở mức tham khảo.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Những điều không nên bỏ lỡ
 
-Có những điều bạn không nên bỏ lỡ khi tham quan. Điểm check-in quan trọng nhất là góc chụp toàn cảnh tháp giữa không gian làng quê. Vì tháp nằm trên vùng đất tương đối bằng phẳng, ảnh toàn cảnh có thể nhấn vào dáng tháp cô độc, đường chân trời, ruộng đồng hoặc con đường nhỏ dẫn vào di tích. Một góc chụp khác là phần thân tháp với mảng gạch cổ.
+Không nên bỏ lỡ chi tiết nhận diện chính: tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ. Đây là phần giúp chuyến đi có điểm nhấn và giúp ảnh chụp sau này không bị lẫn với địa điểm khác.
+
+Không nên bỏ lỡ bối cảnh vùng xung quanh. Tháp Thủ Thiện có liên hệ với Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn, vì vậy một lịch trình tốt thường không chỉ dừng ở một điểm mà sắp xếp các điểm theo tuyến hợp lý.
+
+Không nên bỏ lỡ các lưu ý ứng xử. Dù là điểm thiên nhiên, di tích, chùa, quảng trường hay khu dịch vụ, du khách đều nên giữ vệ sinh, không gây ồn quá mức, không xâm phạm khu cấm và tôn trọng cộng đồng địa phương.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Thời lượng tham quan đề xuất
 
-Thời lượng cơ bản là khoảng 30 phút nếu chỉ ghé ngắn, chụp ảnh và xem tổng quan. Thời lượng phù hợp hơn là 45 đến 60 phút nếu du khách muốn quan sát kỹ các chi tiết kiến trúc, đọc thông tin nguồn, chụp nhiều góc và nghỉ ngơi trong lúc di chuyển tuyến Tây Sơn.
+Thời lượng tham quan đề xuất cho Tháp Thủ Thiện là 30-60 phút tại tháp; nửa ngày nếu ghép Bảo tàng Quang Trung và Dương Long. Khoảng này phù hợp với khách đi tự túc muốn quan sát, chụp ảnh và nghỉ ngắn.
 
-Nếu đi theo nhóm nghiên cứu, nhóm học sinh hoặc người quan tâm kiến trúc Chăm, thời gian có thể kéo dài hơn 1 giờ. Khi đó nên chuẩn bị trước câu hỏi và tài liệu, vì tại điểm có thể không có nhiều bảng thuyết minh hoặc dịch vụ hướng dẫn như các khu di tích lớn.
+Nếu chỉ ghé nhanh, có thể rút ngắn thời gian nhưng nên ưu tiên khu nhận diện chính. Nếu muốn quay video, chụp bộ ảnh, tìm hiểu lịch sử hoặc đi cùng gia đình, nên cộng thêm thời gian nghỉ và di chuyển nội khu.
+
+Không nên xếp quá nhiều điểm xa nhau trong một buổi. Lịch trình tốt là lịch trình có thời gian dự phòng cho thời tiết, giao thông, ăn uống và thay đổi kế hoạch.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Lịch trình tham quan gợi ý
 
-Lịch trình nửa ngày từ Quy Nhơn có thể bắt đầu buổi sáng, di chuyển đến Tháp Thủ Thiện, tham quan khoảng 30 đến 45 phút, sau đó tiếp tục đến Bảo tàng Quang Trung hoặc tháp Dương Long. Lịch trình này phù hợp với người muốn tập trung vào tuyến Tây Sơn nhưng không có cả ngày.
+Lịch trình ngắn: đến Tháp Thủ Thiện, xác định khu nhận diện chính, đi một vòng quan sát, chụp ảnh, nghỉ vài phút rồi di chuyển đến điểm ăn uống hoặc cà phê gần đó. Lịch trình này phù hợp với khách có ít thời gian.
 
-Lịch trình một ngày có thể gồm Bảo tàng Quang Trung, Tháp Thủ Thiện, tháp Dương Long và Hầm Hô. Buổi sáng nên ưu tiên các điểm ngoài trời như Tháp Thủ Thiện và Dương Long khi trời còn mát; buổi trưa nghỉ ăn uống ở khu vực Tây Sơn; buổi chiều tham quan bảo tàng hoặc Hầm Hô tùy sức khỏe và thời tiết.
+Lịch trình nửa ngày: kết hợp Tháp Thủ Thiện với Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn. Nên sắp xếp điểm ngoài trời vào sáng sớm hoặc chiều mát, còn điểm trong nhà/quán ăn vào lúc nắng hoặc mưa.
 
-Nếu đi theo chủ đề tháp Chăm, có thể xây tuyến dài hơn gồm Tháp Đôi, Bánh Ít, Cánh Tiên, Phú Lốc, Dương Long và Thủ Thiện. Tuyến này cần một ngày dài hoặc chia thành hai ngày vì các tháp nằm rải rác, không cùng một cụm.
+Lịch trình một ngày: chọn một tuyến rõ ràng, không nhảy quá nhiều hướng. Ví dụ đi theo cụm trung tâm, cụm biển đảo, cụm cao nguyên hoặc cụm di tích. Cách này giúp giảm thời gian di chuyển và tăng chất lượng trải nghiệm.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Kinh nghiệm tham quan
 
-Nên đi giày đế bám tốt, nhất là nếu trời mưa hoặc mặt đất quanh tháp ẩm. Không nên mang dép trơn vì khu vực di tích có thể có cỏ, đất hoặc nền gạch không đều. Nên chuẩn bị nước uống và đồ chống nắng vì không gian quanh tháp không nhiều dịch vụ.
+Kinh nghiệm quan trọng nhất là kiểm tra thời tiết, giờ hoạt động và tình trạng dịch vụ trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nên đọc trước thông tin về phong cách kiến trúc Bình Định để chuyến đi có ý nghĩa hơn. Nếu chỉ nhìn tháp trong vài phút, du khách có thể thấy công trình nhỏ và ít trang trí; nhưng nếu hiểu bối cảnh Chăm Pa và vị trí của tháp trong hệ thống di sản, trải nghiệm sẽ sâu hơn nhiều.
+Nên chuẩn bị nước uống, giấy tờ cá nhân, điện thoại đủ pin, giày dễ đi, nón/áo khoác chống nắng hoặc áo mưa mỏng. Với điểm di tích và chùa, nên chọn trang phục lịch sự; với điểm biển hoặc đồi núi, nên ưu tiên an toàn hơn ảnh đẹp.
 
-Không nên kỳ vọng Tháp Thủ Thiện giống một khu du lịch có quầy vé, khu check-in, nhà hàng, quán cà phê và hoạt động giải trí. Giá trị của địa điểm nằm ở sự yên tĩnh, dấu tích cổ và cảm giác phát hiện một di sản ít người biết.
+Khi hỏi chatbot, người dùng có thể nêu rõ đi với ai, đi tháng nào, xuất phát từ đâu và có bao nhiêu thời gian. Dữ liệu này giúp hệ thống đưa lịch trình sát hơn thay vì trả lời chung chung.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+- https://vi.wikipedia.org/wiki/Th%C3%A1p_Th%E1%BB%A7_Thi%E1%BB%87n
+- https://baobinhdinh.vn/
+- https://svhtt.gialai.gov.vn/
+- https://en.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_province
 
-Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
-
-Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
-
-Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
-
-Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
-
-Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

@@ -1,71 +1,78 @@
 1. Giá vé
 
-Biển Quy Nhơn là bãi biển đô thị nằm ở trung tâm. Trong các nguồn du lịch tham khảo, địa điểm được mô tả như bãi tắm/không gian ven biển công cộng chứ không phải một khu du lịch khép kín có cổng vào riêng. Vì vậy, khi chatbot trả lời về “giá vé Biển Quy Nhơn”, cách an toàn là: hiện không thấy thông tin vé vào cửa riêng cho bãi biển trung tâm; chi phí thường phát sinh ở gửi xe, ăn uống, thuê ghế/chòi nếu có, hoặc các dịch vụ/tour lân cận.
+không thấy thông tin vé vào cửa riêng cho bãi biển trung tâm; chi phí thường phát sinh ở gửi xe, ăn uống, thuê dịch vụ hoặc tour lân cận. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Không nên nhầm giá vé của Kỳ Co, Eo Gió, Khu du lịch Cửa Biển hoặc các tour cano với Biển Quy Nhơn trung tâm. Nếu người dùng hỏi “giá vé biển Quy Nhơn” nhưng ngữ cảnh nhắc Kỳ Co/Eo Gió/Hòn Khô, chatbot cần hỏi lại hoặc trả lời tách bạch từng điểm.
+Khi người dùng hỏi giá vé, chatbot nên trả lời theo hướng thận trọng: nêu thông tin tham khảo, giải thích loại chi phí có thể phát sinh và khuyến nghị kiểm tra lại trước khi đi. Điều này đặc biệt quan trọng với điểm có dịch vụ theo mùa, sự kiện hoặc thay đổi đơn vị quản lý.
+
+Không nên trộn giá vé của địa điểm khác vào Biển Quy Nhơn. Nếu người dùng hỏi chung theo tuyến Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp, cần tách rõ từng điểm vì có nơi miễn phí, có nơi thu vé, có nơi chỉ phát sinh gửi xe, và có nơi dùng combo dịch vụ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Giá các dịch vụ đi kèm
 
-Ngoài giá vé tham quan, tại địa điểm có thể phát sinh thêm chi phí cho một số dịch vụ đi kèm. Biển Quy Nhơn là bãi biển đô thị nằm ở trung tâm. Trong các nguồn du lịch tham khảo, địa điểm được mô tả như bãi tắm/không gian ven biển công cộng chứ không phải một khu du lịch khép kín có cổng vào riêng. Vì vậy, khi chatbot trả lời về “giá vé Biển Quy Nhơn”, cách an toàn là: hiện không thấy thông tin vé vào cửa riêng cho bãi biển trung tâm; chi phí thường phát sinh ở gửi xe, ăn uống, thuê ghế/chòi nếu có, hoặc các dịch vụ/tour lân cận.
+Các dịch vụ đi kèm có thể gồm gửi xe, nước uống, ăn uống, thuê xe điện, thuê hướng dẫn, thuyết minh, chụp ảnh, hoặc các hoạt động bổ sung tùy loại hình điểm đến. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Với Biển Quy Nhơn, chi phí thường phụ thuộc vào nhu cầu của du khách hơn là chỉ riêng vé vào cổng. Người đi tự túc nên chuẩn bị tiền mặt nhỏ, nhưng vẫn kiểm tra thanh toán QR hoặc chuyển khoản nếu sử dụng dịch vụ tại quán/điểm dừng.
+
+Nếu đi đoàn đông, nên liên hệ trước để hỏi khả năng tiếp nhận, chỗ đỗ xe, hướng dẫn viên hoặc lịch hoạt động. Điều này giúp tránh tình trạng đến nơi nhưng dịch vụ tạm dừng hoặc không đủ chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Giờ mở cửa
 
-Vì là bãi biển đô thị, Biển Quy Nhơn có thể tiếp cận vào nhiều khung giờ trong ngày. Tuy nhiên, hoạt động tắm biển nên ưu tiên sáng sớm hoặc chiều mát, khi nắng dịu và có đông người hơn. Các dịch vụ ven biển như quán cà phê, nhà hàng, khu vui chơi, bar bãi biển có giờ mở cửa riêng.
+Giờ mở cửa hoặc thời gian tiếp cận của Biển Quy Nhơn có thể khác nhau giữa không gian ngoài trời, khu dịch vụ và khu quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Ví dụ, nguồn Cổng thông tin Du lịch Quy Nhơn ghi Surf Bar trên đường Xuân Diệu mở cửa từ 06:00 đến 22:59 và mức giá trung bình 25.000-150.000 đồng/người. Thông tin này chỉ đại diện cho một cơ sở dịch vụ, không phải giờ mở cửa của toàn bãi biển.
+Nếu địa điểm là không gian mở, du khách vẫn nên đi vào khung giờ có ánh sáng, đông người vừa phải và an toàn. Nếu địa điểm có cổng, quầy vé, bảo vệ hoặc dịch vụ bên trong, cần kiểm tra giờ vận hành chính thức trước khi xuất phát.
+
+Khung giờ đẹp thường không trùng hoàn toàn với giờ mở dịch vụ. Có nơi đẹp nhất vào sáng sớm hoặc chiều muộn, nhưng quầy dịch vụ có thể mở muộn hơn hoặc đóng sớm hơn. Chatbot nên tách bạch hai ý này khi trả lời.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Thời điểm nên tham quan
 
-Khung giờ đẹp nhất trong ngày là sáng sớm khoảng 5:00-7:30 để ngắm bình minh, tắm biển nhẹ, chụp ảnh và cảm nhận nhịp sống địa phương. Chiều muộn khoảng 16:00-18:30 phù hợp đi dạo, tắm biển, ngắm hoàng hôn và ăn tối hải sản. Buổi tối phù hợp dạo đường biển, ngồi quán cà phê, ghé quảng trường hoặc khu ẩm thực, nhưng không nên tắm biển xa bờ khi thiếu ánh sáng/cứu hộ.
+Thời điểm nên tham quan Biển Quy Nhơn là lúc thời tiết dễ chịu, ánh sáng tốt và lượng khách vừa phải. Với điểm ngoài trời, sáng sớm và chiều mát thường phù hợp hơn buổi trưa vì giảm nắng, dễ chụp ảnh và ít mệt.
 
-Giữa trưa, đặc biệt từ 10:30-15:00 vào mùa nắng, không nên tắm biển lâu vì nắng mạnh, nguy cơ say nắng, bỏng da và mất nước. Nếu cần tham quan giờ này, nên chọn quán cà phê ven biển, nhà hàng hoặc điểm trong nhà.
+Nếu mục tiêu là chụp ảnh, nên ưu tiên ánh sáng mềm. Nếu mục tiêu là tìm hiểu văn hóa hoặc đi cùng gia đình, nên chọn khung giờ không quá đông để có thời gian quan sát và nghỉ chân.
+
+Dịp cuối tuần, lễ Tết hoặc mùa du lịch có thể đông hơn bình thường. Với những ngày có sự kiện, địa điểm có thể thay đổi lối vào, hạn chế khu vực hoặc yêu cầu tuân thủ hướng dẫn của ban quản lý.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Mùa đẹp nhất
 
-Quy Nhơn có mùa khô và mùa mưa khá rõ. Nhiều nguồn du lịch ghi mùa khô là thời điểm đẹp cho du lịch biển, thường rơi vào khoảng tháng 3 đến tháng 9 hoặc rộng hơn từ đầu năm đến tháng 8 tùy cách phân mùa. Đây là giai đoạn biển thường trong hơn, ít mưa hơn, thuận lợi cho tắm biển, chụp ảnh, đi đảo, lặn san hô và các hoạt động ngoài trời.
+Mùa đẹp nhất phụ thuộc loại hình của Biển Quy Nhơn. Điểm biển thường thuận lợi hơn vào mùa khô, điểm cao nguyên đẹp khi trời trong hoặc mùa cây xanh, còn di tích/chùa/quảng trường có thể tham quan quanh năm nếu chọn giờ phù hợp.
 
-Mùa mưa thường tập trung vào giai đoạn cuối năm, đặc biệt từ khoảng tháng 9-11 hoặc tháng 10-12 tùy nguồn khí hậu. Nếu đi mùa mưa, du khách vẫn có thể có ngày nắng đẹp nhưng cần theo dõi dự báo thời tiết, biển động, gió mạnh và lịch tàu/cano trước khi đi Kỳ Co, Hòn Khô, Cù Lao Xanh.
+Mùa mưa không nhất thiết phải tránh hoàn toàn, nhưng cần dự phòng áo mưa, giày chống trơn và kế hoạch thay thế. Với đường dốc, bãi đá, ven biển hoặc đồi núi, mưa làm tăng rủi ro trượt ngã và giảm chất lượng ảnh.
 
-Tháng 3-5: đẹp cho tắm biển, trời sáng, chưa quá đông như cao điểm hè.
+Khi chatbot trả lời “mùa nào đẹp”, nên nói kèm điều kiện: đẹp để chụp ảnh, đẹp để tắm biển, đẹp để đi bộ, đẹp để tìm hiểu văn hóa hay đẹp để tránh đông. Mỗi mục tiêu có lựa chọn khác nhau.
 
-Tháng 6-8: cao điểm du lịch hè, nhiều hoạt động biển, nhưng nắng gắt và giá dịch vụ có thể tăng.
-
-Tháng 9-12: cần kiểm tra mưa bão/biển động; thích hợp hơn cho nghỉ dưỡng nhẹ, ăn uống, city tour nếu thời tiết ổn.
-
-Tháng 1-2: thời tiết dễ chịu, ít khách hơn cao điểm hè; phù hợp nghỉ dưỡng và đi dạo biển.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Thông tin thời tiết
 
-Quy Nhơn có mùa khô và mùa mưa khá rõ. Nhiều nguồn du lịch ghi mùa khô là thời điểm đẹp cho du lịch biển, thường rơi vào khoảng tháng 3 đến tháng 9 hoặc rộng hơn từ đầu năm đến tháng 8 tùy cách phân mùa. Đây là giai đoạn biển thường trong hơn, ít mưa hơn, thuận lợi cho tắm biển, chụp ảnh, đi đảo, lặn san hô và các hoạt động ngoài trời.
+Thời tiết là yếu tố quan trọng khi tham quan Biển Quy Nhơn. Nắng mạnh có thể gây mất nước, mỏi mắt và cháy nắng; mưa có thể làm trơn nền, giảm tầm nhìn hoặc ảnh hưởng hoạt động ngoài trời.
 
-Mùa mưa thường tập trung vào giai đoạn cuối năm, đặc biệt từ khoảng tháng 9-11 hoặc tháng 10-12 tùy nguồn khí hậu. Nếu đi mùa mưa, du khách vẫn có thể có ngày nắng đẹp nhưng cần theo dõi dự báo thời tiết, biển động, gió mạnh và lịch tàu/cano trước khi đi Kỳ Co, Hòn Khô, Cù Lao Xanh.
+Du khách nên kiểm tra dự báo thời tiết trong ngày, đặc biệt nếu đi cùng trẻ nhỏ, người lớn tuổi hoặc dự định kết hợp nhiều điểm như Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Nên chuẩn bị mũ, nước uống, kem chống nắng, áo mưa mỏng và giày phù hợp.
 
-Tháng 3-5: đẹp cho tắm biển, trời sáng, chưa quá đông như cao điểm hè.
+Với các địa điểm có cảnh quan mở, gió lớn cũng cần được chú ý. Không nên đứng sát mép đá, mép nước, lan can hoặc khu vực nền trơn khi trời mưa/gió chỉ để chụp ảnh.
 
-Tháng 6-8: cao điểm du lịch hè, nhiều hoạt động biển, nhưng nắng gắt và giá dịch vụ có thể tăng.
-
-Tháng 9-12: cần kiểm tra mưa bão/biển động; thích hợp hơn cho nghỉ dưỡng nhẹ, ăn uống, city tour nếu thời tiết ổn.
-
-Tháng 1-2: thời tiết dễ chịu, ít khách hơn cao điểm hè; phù hợp nghỉ dưỡng và đi dạo biển.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Lưu ý cập nhật giá vé và lịch hoạt động
 
-Giá vé, giá dịch vụ đi kèm, giờ mở cửa và lịch hoạt động tại địa điểm có thể thay đổi theo mùa, ngày lễ, sự kiện hoặc theo quyết định của đơn vị quản lý. Du khách nên kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Giá vé, giờ mở cửa, dịch vụ đi kèm, số điện thoại, quy định chụp ảnh và lịch hoạt động có thể thay đổi theo mùa, ngày lễ, sự kiện, bảo trì hoặc quyết định của đơn vị quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Trước khi đi, nên kiểm tra lại trên website chính thức, cổng thông tin du lịch địa phương, fanpage/điện thoại của đơn vị quản lý, khách sạn hoặc đơn vị tour uy tín. Không nên chỉ dựa vào một bài review cũ.
+
+Khi đưa vào chatbot, mọi thông tin có khả năng biến động nên được viết bằng ngôn ngữ mở: “thường”, “có thể”, “tham khảo”, “nên kiểm tra lại”. Cách này giúp hệ thống tránh trả lời sai khi giá hoặc lịch đã thay đổi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 8. Nguồn tham khảo
 
-Vietnam Travel - Binh Dinh: Where the Surf Meets the Soul: https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
+- https://en.wikipedia.org/wiki/Quy_Nh%C6%A1n
+- https://vietnam.travel/places-to-go/central-vietnam/quy-nhon
+- https://www.vietnamairlines.com/vn/vi/travel-guide/vietnam-travel-guide/attractions-in-vietnam/quy-nhon-beach
+- https://quynhon.gov.vn/
 
-Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
-
-Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
-
-Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
-
-Cổng thông tin Du lịch Quy Nhơn - Surf Bar: https://dulichquynhon.binhdinh.gov.vn/vi/suftbar
-
-VinWonders - Quy Nhon weather: typical features and useful travel tips: https://vinwonders.com/en/wonderpedia/news/quy-nhon-weather/
-
-WeatherSpark - Average Weather in Qui Nhon, Vietnam: https://weatherspark.com/y/120742/Average-Weather-in-Qui-Nhon-Vietnam
-
-Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

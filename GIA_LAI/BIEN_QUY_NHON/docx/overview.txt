@@ -1,87 +1,104 @@
 1. Giới thiệu địa điểm
 
-Biển Quy Nhơn trong bộ dữ liệu này được hiểu là bãi biển đô thị nằm dọc khu trung tâm Quy Nhơn, đặc biệt gắn với trục ven biển Xuân Diệu - An Dương Vương và khu quảng trường Nguyễn Tất Thành. Đây không phải là toàn bộ hệ thống bãi biển của Quy Nhơn như Kỳ Co, Hòn Khô, Bãi Xếp hay Trung Lương; các bãi biển ngoại vi được đưa vào nhóm dữ liệu xung quanh để chatbot phân biệt đúng khi người dùng hỏi.
+Biển Quy Nhơn là bãi biển đô thị được nhận diện trước hết qua đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Trong dữ liệu chatbot du lịch, địa điểm này nên được mô tả rõ theo cả tên gọi phổ biến và ngữ cảnh hành chính cũ - mới: trước đây thường ghi là bãi biển trung tâm Quy Nhơn, Bình Định, còn khi chuẩn hóa theo dữ liệu mới có thể ghi là khu trung tâm Quy Nhơn, tỉnh Gia Lai. Cách ghi song song giúp hệ thống hiểu đúng khi người dùng hỏi theo thói quen cũ hoặc theo tên tỉnh, phường, xã mới.
 
-Điểm nhận diện dễ nhất của Biển Quy Nhơn là đường bờ cong hình lưỡi liềm/vầng trăng khuyết ôm lấy đô thị, một bên là biển xanh và bãi cát vàng, một bên là đường ven biển, công viên, khách sạn, quán cà phê, nhà hàng hải sản và khu dân cư trung tâm. Với người dùng hỏi “biển ngay trung tâm Quy Nhơn”, “bãi biển đường Xuân Diệu”, “biển thành phố Quy Nhơn”, “bãi tắm trung tâm”, hệ thống nên ánh xạ về Biển Quy Nhơn.
+Khi xây dựng dữ liệu RAG, Biển Quy Nhơn không nên được viết quá chung chung. Cần nêu rõ địa điểm thuộc nhóm bãi biển đô thị, có đặc điểm nhận diện là đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành, và có thể phân biệt với các điểm gần đó. Nếu người dùng chỉ mô tả bằng hình ảnh hoặc vài từ khóa, các chi tiết về cảnh quan, vị trí, hoạt động và đối tượng phù hợp sẽ giúp chatbot trả lời chính xác hơn.
 
-Theo nguồn Vietnam Travel, Quy Nhon Beach nằm ở trung tâm thành phố và có khoảng 5 km cát vàng, kèm lối đi/đường xe đạp dọc theo bãi biển. Vietnam Airlines cũng mô tả Bãi biển Quy Nhơn ở dọc đường Xuân Diệu, nằm ngay trung tâm và phù hợp cho tắm biển, dạo hoàng hôn, thưởng thức hải sản ven biển.
+Đây là điểm đến phù hợp để giới thiệu cho du khách muốn hiểu một lớp cảnh quan hoặc văn hóa đặc trưng của vùng. tắm biển gần bờ, ngắm bình minh, đi bộ/chạy bộ ven biển, chụp ảnh hoàng hôn, ăn hải sản, uống cà phê view biển là những trải nghiệm nên được đưa vào câu trả lời ngắn, còn khi người dùng hỏi sâu thì cần mở rộng sang lịch sử, giá trị văn hóa, đường đi, thời điểm tham quan và lưu ý an toàn.
 
-Về hành chính, nhiều nguồn du lịch vẫn gọi địa danh theo thói quen “Quy Nhơn, Bình Định”. Từ năm 2025 có thay đổi sắp xếp đơn vị hành chính cấp tỉnh; nguồn Gia Lai chính thức nêu Bình Định và Gia Lai sáp nhập thành tỉnh mới mang tên Gia Lai, trung tâm chính trị - hành chính đặt tại Quy Nhơn. Khi huấn luyện mô hình, nên lưu cả cụm từ cũ và cụm từ mới để tăng khả năng truy hồi.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Mô tả tổng quan
 
-Biển Quy Nhơn là dạng bãi biển đô thị, thuận tiện cho du khách lưu trú trong trung tâm vì chỉ cần đi bộ hoặc di chuyển vài phút từ nhiều khách sạn ven biển là đến được bãi tắm. Không gian biển phù hợp với các nhu cầu phổ biến: ngắm bình minh, tắm biển buổi sáng, đi bộ/chạy bộ dọc bờ biển, chụp ảnh hoàng hôn, uống cà phê ven biển, ăn hải sản và tham gia các hoạt động thể thao nhẹ như bóng chuyền bãi biển.
+Tổng thể Biển Quy Nhơn có thể hiểu như một điểm đến vừa có giá trị tham quan vừa có giá trị nhận diện địa phương. Điểm mạnh của địa điểm nằm ở bãi cát rộng, mặt biển hướng Đông, đường dạo, hàng dừa/cây xanh ven biển, nền xa là bán đảo Phương Mai và các dãy núi thấp. Khi mô tả cho người chưa từng đến, nên bắt đầu bằng cảm giác không gian: địa điểm rộng hay hẹp, mở hay kín, thiên về thiên nhiên hay công trình, dễ đi hay cần chuẩn bị trước.
 
-Khác với Kỳ Co hay Hòn Khô thiên về trải nghiệm đảo, cano và lặn san hô, Biển Quy Nhơn có ưu thế về tính tiếp cận: gần trung tâm, gần nhà hàng, gần quảng trường, gần chợ/siêu thị, dễ gọi taxi/xe công nghệ và dễ kết hợp với lịch trình city tour. Vì vậy địa điểm này phù hợp với khách đi gia đình có trẻ nhỏ, người lớn tuổi, khách công tác tranh thủ buổi sáng/tối, hoặc nhóm du khách muốn nghỉ dưỡng nhẹ nhàng mà không phải di chuyển xa.
+Một câu trả lời tốt cho chatbot cần chỉ ra rằng Biển Quy Nhơn không tồn tại tách rời khỏi vùng xung quanh. Các địa điểm gần như Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp tạo thành tuyến tham quan tự nhiên, giúp du khách dễ lên lịch trình theo nửa ngày, một ngày hoặc nhiều ngày. Vì vậy, dữ liệu nên lưu cả mô tả điểm chính và gợi ý kết hợp xung quanh.
 
-Về mặt cảnh quan, bãi biển có đường cong dài, không gian mở, nhiều đoạn nhìn ra bán đảo Phương Mai và các dãy núi thấp phía xa. Khi trời nắng, mặt nước thường lên màu xanh ngọc hoặc xanh lam nhạt; vào sáng sớm, ánh sáng mềm tạo cảnh người dân tắm biển, tập thể dục, kéo lưới gần bờ; về chiều tối, tuyến đường ven biển sáng đèn và có nhiều hoạt động ăn uống, dạo chơi.
+Đối với người dùng đi lần đầu, nên mô tả Biển Quy Nhơn bằng các cụm từ đơn giản, dễ hình dung: đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Đối với mô hình nhận diện địa điểm bằng ảnh, nên nhấn mạnh các dấu hiệu thị giác như hình khối, nền cảnh, đường tiếp cận, loại vật liệu, cây xanh, biển, đồi, đá hoặc công trình biểu tượng.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Lịch sử hình thành
 
-Quy Nhơn nằm trong không gian lịch sử lâu đời của vùng Nam Trung Bộ. Các tư liệu du lịch và lịch sử thường gắn Quy Nhơn - Bình Định với văn hóa Chăm Pa, thương cảng Thị Nại, phong trào Tây Sơn và danh xưng “đất võ, trời văn”. Đối với Biển Quy Nhơn, phần lịch sử nên được trình bày theo bối cảnh đô thị biển: từ vị trí ven vịnh, gần cảng biển, gần trục giao thương đến vai trò ngày nay là không gian công cộng, nghỉ dưỡng và biểu tượng du lịch của đô thị.
+Quy Nhơn vốn là đô thị biển có lịch sử gắn với thương cảng Thị Nại, văn hóa Chăm Pa và vùng đất Tây Sơn; bãi biển trung tâm trở thành không gian sinh hoạt cộng đồng khi đô thị phát triển mạnh về dịch vụ và du lịch. Đây là lớp thông tin quan trọng vì nhiều người dùng không chỉ hỏi “địa điểm ở đâu” mà còn hỏi “vì sao nổi tiếng”, “có ý nghĩa gì” hoặc “có lịch sử không”. Khi trả lời, chatbot nên dùng cách diễn đạt thận trọng, nhất là với chi tiết chưa có văn bản chính thức thống nhất.
 
-Giá trị văn hóa của Biển Quy Nhơn không chỉ nằm ở cảnh tắm biển mà còn ở nhịp sống địa phương. Buổi sáng có người dân tập thể dục, tắm biển, ngư dân hoạt động gần bờ; buổi tối có khách du lịch và người dân đi dạo, ăn hải sản, ngồi quán cà phê ven biển. Với chatbot du lịch, nên mô tả địa điểm này như một “không gian sinh hoạt biển đô thị” thay vì chỉ là một bãi tắm.
+Trong tiến trình phát triển du lịch, Biển Quy Nhơn được biết đến nhiều hơn nhờ sự kết hợp giữa giá trị sẵn có và nhu cầu trải nghiệm của du khách hiện đại. Những bài viết du lịch thường nhấn mạnh cảnh quan, hoạt động và góc chụp; trong khi nguồn chính thống hoặc địa phương thường nhấn mạnh giá trị văn hóa, bảo tồn, quản lý và vai trò của điểm đến trong bản đồ du lịch.
 
-Bình Định/Quy Nhơn còn nổi tiếng với võ cổ truyền, bài chòi, hát bội, nhạc võ Tây Sơn và nhiều gương mặt văn chương - nghệ thuật như Hàn Mặc Tử, Xuân Diệu, Chế Lan Viên, Yến Lan. Các giá trị này không nằm ngay trên bãi biển nhưng tạo nên bối cảnh văn hóa khiến một chuyến đi biển Quy Nhơn thường được kết hợp với Ghềnh Ráng - mộ Hàn Mặc Tử, Tháp Đôi, Bảo tàng Quang Trung, các làng nghề và ẩm thực xứ Nẫu.
+Khi dùng cho hệ thống hỏi đáp, phần lịch sử nên tránh kể quá dài theo kiểu sách giáo khoa. Thay vào đó, cần chuyển hóa thành các ý trả lời được câu hỏi: địa điểm hình thành trong bối cảnh nào, gắn với nhân vật/sự kiện/vùng văn hóa nào, vì sao đến nay vẫn có sức hút, và chi tiết nào nên kiểm tra lại khi có nguồn mới.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Giá trị văn hóa
 
-Về giá trị văn hóa và ý nghĩa, Quy Nhơn nằm trong không gian lịch sử lâu đời của vùng Nam Trung Bộ. Các tư liệu du lịch và lịch sử thường gắn Quy Nhơn - Bình Định với văn hóa Chăm Pa, thương cảng Thị Nại, phong trào Tây Sơn và danh xưng “đất võ, trời văn”. Đối với Biển Quy Nhơn, phần lịch sử nên được trình bày theo bối cảnh đô thị biển: từ vị trí ven vịnh, gần cảng biển, gần trục giao thương đến vai trò ngày nay là không gian công cộng, nghỉ dưỡng và biểu tượng du lịch của đô thị.
+Giá trị văn hóa của Biển Quy Nhơn thể hiện qua đời sống biển, ẩm thực hải sản, văn hóa xứ Nẫu, nhịp sống đô thị ven biển và ký ức cảng thị miền Trung. Đây là phần giúp chatbot phân biệt một điểm đến chỉ để check-in với một điểm đến có chiều sâu. Khi người dùng hỏi “có gì đặc biệt”, câu trả lời không nên chỉ liệt kê cảnh đẹp mà cần nói được ý nghĩa của địa điểm trong đời sống địa phương.
+
+Địa điểm cũng phản ánh cách cộng đồng sử dụng không gian: có nơi là chỗ sinh hoạt cộng đồng, có nơi là di tích cần bảo tồn, có nơi là không gian tâm linh hoặc trải nghiệm thiên nhiên. Vì vậy, dữ liệu nên luôn đi kèm lưu ý ứng xử: đi nhẹ, nói khẽ, không xả rác, không leo trèo lên di tích, tôn trọng người dân và quy định quản lý.
+
+Với khách du lịch, giá trị văn hóa thường được cảm nhận qua chi tiết rất cụ thể: một tên gọi cũ, một câu chuyện địa phương, một vật liệu kiến trúc, một món ăn sau chuyến đi hoặc cách người dân sử dụng địa điểm hằng ngày. Những chi tiết này nên được giữ lại để chatbot có câu trả lời tự nhiên hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Điểm nổi bật
 
-Nằm ngay trung tâm, dễ tiếp cận bằng đi bộ, taxi, xe máy, xe đạp hoặc xe công nghệ.
+Điểm nổi bật thứ nhất của Biển Quy Nhơn là khả năng nhận diện mạnh qua hình ảnh: đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Khi người dùng gửi ảnh, mô hình có thể dựa vào chi tiết này để phân biệt địa điểm với những nơi cùng tỉnh hoặc cùng loại hình.
 
-Có đường bờ cong dài, bãi cát vàng, không gian mở, phù hợp nhận diện hình ảnh từ góc flycam hoặc ảnh dọc đường biển.
+Điểm nổi bật thứ hai là tính kết nối với tuyến tham quan. Từ Biển Quy Nhơn, du khách có thể ghép với Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Điều này đặc biệt hữu ích cho chatbot khi được hỏi “đi đâu gần đây”, “lịch trình nửa ngày” hoặc “đi với gia đình nên ghé thêm chỗ nào”.
 
-Phù hợp hoạt động miễn phí/chi phí thấp: đi dạo, tắm biển, ngắm bình minh, chụp ảnh, chạy bộ, ngồi cà phê ven biển.
+Điểm nổi bật thứ ba là mức độ phù hợp với nhiều kiểu du khách. Người thích chụp ảnh có thể tìm góc đặc trưng; người thích văn hóa có thể tìm hiểu câu chuyện địa phương; gia đình có thể chọn khung giờ nhẹ nhàng; còn khách đi tự túc có thể dùng bản đồ và các mốc định vị để di chuyển.
 
-Dễ kết hợp với quảng trường Nguyễn Tất Thành, phố ẩm thực Xuân Diệu, Ghềnh Ráng - Tiên Sa, Tháp Đôi và các tour biển đảo ngoại ô.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Là lựa chọn tốt cho người lần đầu đến Quy Nhơn vì vừa có biển, vừa có dịch vụ đô thị xung quanh.
-
-Các intent người dùng có thể gặp: “biển Quy Nhơn ở đâu”, “bãi biển trung tâm Quy Nhơn có đẹp không”, “đi biển Quy Nhơn mùa nào”, “gần biển Quy Nhơn có gì ăn”, “Biển Quy Nhơn có mất vé không”, “nên ở khu nào để gần biển”, “chơi gì ở biển Quy Nhơn buổi tối”, “biển Quy Nhơn khác Kỳ Co thế nào”.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Kiến trúc / cảnh quan
 
-Cảnh quan chính gồm bãi cát, mặt nước, đường ven biển, công viên và quảng trường. Cấu trúc đô thị ven biển giúp khách dễ định vị: phía biển là bãi tắm, phía trong là đường Xuân Diệu/An Dương Vương cùng hàng khách sạn, nhà hàng, quán cà phê. Một số góc nhìn phổ biến là cung đường biển lúc bình minh, bãi cát trước quảng trường, đoạn gần các quán cà phê ven biển và góc flycam nhìn toàn vịnh.
+Về cảnh quan hoặc kiến trúc, Biển Quy Nhơn nên được mô tả bằng các chi tiết nhìn thấy được: bãi cát rộng, mặt biển hướng Đông, đường dạo, hàng dừa/cây xanh ven biển, nền xa là bán đảo Phương Mai và các dãy núi thấp. Cách viết này giúp dữ liệu hữu ích cho cả chatbot văn bản và mô hình đa phương thức, vì người dùng có thể hỏi bằng mô tả hình ảnh như “nơi có đá tròn”, “tháp gạch trên đồi” hoặc “quảng trường có tượng Bác Hồ”.
+
+Khi chụp ảnh hoặc quan sát tại chỗ, du khách nên chú ý đến bố cục tổng thể thay vì chỉ chụp một chi tiết rời rạc. Ảnh rộng giúp nhận ra bối cảnh; ảnh cận giúp nhận ra vật liệu, hoa văn, cây xanh, đá, biển hoặc công trình phụ. Dữ liệu nên ghi cả hai loại dấu hiệu này.
+
+Một lưu ý quan trọng là cảnh quan có thể thay đổi theo mùa, thời tiết, công tác bảo trì hoặc lượng khách. Mùa nắng cho ảnh sáng, rõ màu; mùa mưa xanh hơn nhưng có thể trơn, âm u hoặc hạn chế hoạt động ngoài trời. Khi trả lời, chatbot nên linh hoạt theo thời điểm người dùng định đi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Các khu vực chính
 
-Cảnh quan chính gồm bãi cát, mặt nước, đường ven biển, công viên và quảng trường. Cấu trúc đô thị ven biển giúp khách dễ định vị: phía biển là bãi tắm, phía trong là đường Xuân Diệu/An Dương Vương cùng hàng khách sạn, nhà hàng, quán cà phê. Một số góc nhìn phổ biến là cung đường biển lúc bình minh, bãi cát trước quảng trường, đoạn gần các quán cà phê ven biển và góc flycam nhìn toàn vịnh.
+Các khu vực chính liên quan đến Biển Quy Nhơn gồm bãi tắm trung tâm, tuyến Xuân Diệu, khu An Dương Vương, quảng trường Nguyễn Tất Thành, các quán cà phê và nhà hàng ven biển. Khi người dùng hỏi “đến đó nên đi chỗ nào trước”, chatbot có thể gợi ý đi từ khu dễ nhận diện nhất, sau đó chuyển sang khu phụ hoặc điểm gần đó để tối ưu thời gian.
 
-Khu bãi tắm trung tâm: nơi người dân và du khách xuống biển, thường đông vào sáng sớm và chiều mát.
+Nếu du khách có ít thời gian, nên tập trung vào khu nhận diện chính và một đến hai góc chụp tiêu biểu. Nếu có nhiều thời gian, có thể đi chậm hơn, quan sát các chi tiết phụ, hỏi thêm người địa phương hoặc ghép tuyến tham quan với các điểm xung quanh.
 
-Khu đường Xuân Diệu: tuyến ven biển gắn với nhà hàng hải sản, khách sạn, quán cà phê và điểm dạo bộ.
+Với dữ liệu bản đồ, nên lưu các mốc gần dễ tìm thay vì chỉ ghi địa chỉ hành chính. Người dùng thường tìm bằng từ khóa phổ biến, tên đường, tên khu, tên quán gần đó hoặc tên điểm check-in. Vì vậy mục này cần phục vụ truy vấn thực tế chứ không chỉ là mô tả lý thuyết.
 
-Khu quảng trường Nguyễn Tất Thành: không gian công cộng gần biển, thường được dùng làm điểm hẹn, nơi tổ chức sự kiện lớn.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Khu công viên/đường dạo ven biển: phù hợp chạy bộ, đi bộ, ngắm cảnh, chụp ảnh.
-
-Khu dịch vụ ăn uống ven biển: phù hợp intent “ăn gì gần biển Quy Nhơn”, “quán view biển”.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Từ khóa mô tả địa điểm
 
-Biển Quy Nhơn; Bãi biển Quy Nhơn; Quy Nhon Beach; bãi tắm trung tâm Quy Nhơn; biển đường Xuân Diệu; bãi biển thành phố Quy Nhơn.
+Từ khóa nhận diện chính: Biển Quy Nhơn, bãi biển đô thị, đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành, bãi biển trung tâm Quy Nhơn, Bình Định, khu trung tâm Quy Nhơn, tỉnh Gia Lai. Các từ khóa này giúp hệ thống hiểu đúng cả khi người dùng viết có dấu, không dấu, viết tắt hoặc hỏi theo tên cũ.
 
-Biển trung tâm; bãi cát vàng; vịnh cong hình lưỡi liềm; đường biển Quy Nhơn; quảng trường Nguyễn Tất Thành; phố ẩm thực Xuân Diệu.
+Từ khóa trải nghiệm: tắm biển gần bờ, ngắm bình minh, đi bộ/chạy bộ ven biển, chụp ảnh hoàng hôn, ăn hải sản, uống cà phê view biển. Từ khóa tuyến gần: Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Từ khóa ẩm thực và dịch vụ: hải sản, bún chả cá Quy Nhơn, bánh xèo tôm nhảy, chả ram tôm đất, bánh hỏi cháo lòng, tré. Khi tạo embedding, nên giữ các cụm từ này trong cùng một ngữ cảnh để tăng khả năng truy hồi.
 
-Du lịch biển Quy Nhơn; du lịch Bình Định; Quy Nhơn - Bình Định; Quy Nhơn - Gia Lai; xứ Nẫu; đất võ trời văn.
+Từ khóa cảnh quan: bãi cát rộng, mặt biển hướng Đông, đường dạo, hàng dừa/cây xanh ven biển, nền xa là bán đảo Phương Mai và các dãy núi thấp. Từ khóa lưu ý: kiểm tra thời tiết, kiểm tra giá vé/giờ mở cửa, đi vào giờ mát, giữ vệ sinh, tôn trọng quy định địa phương và không tự ý vào khu vực hạn chế.
 
-Bình minh Quy Nhơn; hoàng hôn Quy Nhơn; tắm biển Quy Nhơn; hải sản Quy Nhơn; khách sạn gần biển Quy Nhơn.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-Vietnam Travel - Binh Dinh: Where the Surf Meets the Soul: https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
+- https://en.wikipedia.org/wiki/Quy_Nh%C6%A1n
+- https://vietnam.travel/places-to-go/central-vietnam/quy-nhon
+- https://www.vietnamairlines.com/vn/vi/travel-guide/vietnam-travel-guide/attractions-in-vietnam/quy-nhon-beach
+- https://quynhon.gov.vn/
 
-Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
-
-Cục Du lịch Quốc gia Việt Nam - Come to explore Quy Nhon City, Binh Dinh Province: https://vietnamtourism.gov.vn/en/post/17565
-
-Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
-
-Gia Lai official/ALBA - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
-
-Cổng thông tin Du lịch Quy Nhơn - Biển Trung Lương: https://dulichquynhon.binhdinh.gov.vn/vi/trungluongbeach
-
-Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

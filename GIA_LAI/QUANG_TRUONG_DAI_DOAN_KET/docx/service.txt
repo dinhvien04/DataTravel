@@ -1,63 +1,69 @@
 1. Dịch vụ tại địa điểm
 
-Với khách cá nhân, có thể tự tham quan bằng cách đọc thông tin trước về các hạng mục. Quảng trường dễ tham quan tự do vì không gian mở, không cần hướng dẫn viên trong đa số trường hợp.
+Dịch vụ tại Quảng trường Đại Đoàn Kết phụ thuộc loại hình điểm đến. Có nơi là không gian mở với ít dịch vụ cố định, có nơi thuộc khu du lịch hoặc quần thể nghỉ dưỡng, có nơi là di tích/chùa cần ưu tiên sự tôn nghiêm và bảo tồn.
 
-Với đoàn học sinh, đoàn cơ quan hoặc đoàn nghiên cứu, nên liên hệ Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý khu vực để biết khả năng hỗ trợ thuyết minh, tổ chức hoạt động trải nghiệm hoặc dâng hoa. Đây là điểm quan trọng vì quảng trường có tính chất chính trị - giáo dục, không đơn thuần là nơi vui chơi.
+Du khách nên chuẩn bị trước các nhu cầu cơ bản như nước uống, nón, khăn giấy, pin điện thoại và tiền lẻ. Không nên mặc định rằng mọi điểm đều có quầy bán hàng, nhà vệ sinh, wifi, xe điện hoặc nhân viên hỗ trợ thường trực.
 
-Các hoạt động giáo dục có thể xoay quanh chủ đề Chủ tịch Hồ Chí Minh với đồng bào Tây Nguyên, tinh thần đại đoàn kết dân tộc, văn hóa cồng chiêng, kiến trúc đô thị Pleiku, lịch sử hình thành công trình và vai trò của không gian công cộng trong đời sống đô thị.
+Nếu đi đoàn hoặc cần dịch vụ đặc biệt như thuyết minh, chụp ảnh, xe đưa đón, xe điện, phòng nghỉ hoặc ăn uống, nên liên hệ trước. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nếu tổ chức sự kiện, quay phim, chụp ảnh đoàn lớn, biểu diễn hoặc hoạt động tập thể, cần xin phép hoặc hỏi đơn vị quản lý. Không nên tự ý dựng sân khấu, âm thanh, bạt, bàn ghế hoặc thiết bị lớn trong khuôn viên.
-
-Không nên khẳng định quảng trường luôn có chương trình cồng chiêng cố định mỗi tối. Một số chương trình có thể tổ chức vào cuối tuần hoặc theo sự kiện, nhưng lịch thay đổi. Cần kiểm tra lịch mới nhất từ nguồn địa phương.
-
-Không nên khẳng định có bãi xe miễn phí cố định nếu chưa có thông báo mới. Nên dùng cách nói 'có thể gửi xe ở các điểm được phép gần khu vực; chi phí và vị trí gửi xe phụ thuộc thời điểm'.
-
-Không nên gợi ý ăn uống trong khu vực tượng đài hoặc sân quảng trường. Nên giữ vệ sinh, không xả rác, không tụ tập ăn uống gây ảnh hưởng cảnh quan và người khác.
-
-Không nên gợi ý hoạt động leo trèo, trượt patin, đạp xe trong khu vực hạng mục di tích nếu có biển cấm. Đây là không gian văn hóa - di tích cấp tỉnh nên cần ứng xử trang nghiêm ở các khu vực liên quan tượng đài và nơi thờ Bác.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Ăn uống
 
-Về ăn uống, Với khách cá nhân, có thể tự tham quan bằng cách đọc thông tin trước về các hạng mục. Quảng trường dễ tham quan tự do vì không gian mở, không cần hướng dẫn viên trong đa số trường hợp. Với đoàn học sinh, đoàn cơ quan hoặc đoàn nghiên cứu, nên liên hệ Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý khu vực để biết khả năng hỗ trợ thuyết minh, tổ chức hoạt động trải nghiệm hoặc dâng hoa.
+Ăn uống quanh Quảng trường Đại Đoàn Kết nên được gợi ý theo khu vực gần nhất, không khẳng định trong điểm đến luôn có đầy đủ quán. Với nhiều địa điểm, lựa chọn tốt hơn là ăn trước hoặc sau khi tham quan ở trung tâm/quán gần tuyến đường.
+
+Các món có thể gợi ý gồm cà phê Pleiku, phở khô Gia Lai, bún cua thối, bò một nắng, gà nướng cơm lam, các quán ăn trung tâm. Khi trả lời, chatbot nên phân biệt món đặc sản địa phương với nhà hàng cụ thể, vì nhà hàng có thể đóng cửa, đổi giá hoặc đổi địa chỉ.
+
+Nếu đi cùng trẻ em, người lớn tuổi hoặc người ăn kiêng, nên chuẩn bị đồ ăn nhẹ và nước uống. Với món địa phương lạ vị, nên thử lượng vừa phải trước khi gọi nhiều.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Đặc sản địa phương
 
-Về đặc sản địa phương, Với khách cá nhân, có thể tự tham quan bằng cách đọc thông tin trước về các hạng mục. Quảng trường dễ tham quan tự do vì không gian mở, không cần hướng dẫn viên trong đa số trường hợp. Với đoàn học sinh, đoàn cơ quan hoặc đoàn nghiên cứu, nên liên hệ Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý khu vực để biết khả năng hỗ trợ thuyết minh, tổ chức hoạt động trải nghiệm hoặc dâng hoa.
+cà phê Pleiku, phở khô Gia Lai, bún cua thối, bò một nắng, gà nướng cơm lam, các quán ăn trung tâm là nhóm món có thể đưa vào câu trả lời khi người dùng hỏi “gần đây ăn gì” hoặc “đi Quảng trường Đại Đoàn Kết nên thử món nào”. Tuy nhiên, nên tránh viết như thể tất cả món đều nằm ngay trong điểm tham quan.
+
+Đặc sản nên được gắn với tuyến du lịch: sau khi tham quan, du khách có thể quay về khu trung tâm, chợ, phố ăn uống hoặc nhà hàng gần điểm lưu trú để thử món. Cách này thực tế hơn và giảm rủi ro đi xa chỉ để tìm một quán.
+
+Khi dữ liệu dùng cho chatbot, nên kèm lưu ý giá và giờ mở cửa quán ăn có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Lưu trú / khách sạn
 
-Về lưu trú và khách sạn, Với khách cá nhân, có thể tự tham quan bằng cách đọc thông tin trước về các hạng mục. Quảng trường dễ tham quan tự do vì không gian mở, không cần hướng dẫn viên trong đa số trường hợp. Với đoàn học sinh, đoàn cơ quan hoặc đoàn nghiên cứu, nên liên hệ Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý khu vực để biết khả năng hỗ trợ thuyết minh, tổ chức hoạt động trải nghiệm hoặc dâng hoa.
+Lưu trú phù hợp phụ thuộc lịch trình. Nếu Quảng trường Đại Đoàn Kết gần trung tâm, du khách có thể ở khách sạn trung tâm để tiện ăn uống và gọi xe. Nếu nằm ở khu nghỉ dưỡng/ngoại ô, nên cân nhắc ở gần điểm để giảm thời gian di chuyển.
+
+Người đi gia đình nên ưu tiên nơi có chỗ đỗ xe, thang máy, phòng rộng và dễ gọi taxi. Người đi tự túc có thể chọn homestay hoặc khách sạn vừa túi tiền nhưng cần xem đánh giá gần đây.
+
+Không nên đưa tên khách sạn cụ thể nếu chưa kiểm tra tình trạng phòng và giá hiện tại. Chatbot nên gợi ý khu vực lưu trú thay vì cam kết một cơ sở nhất định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Tiện ích hỗ trợ
 
-Bảo tàng tỉnh Gia Lai nằm trong khu vực rất gần quảng trường và là điểm kết hợp phù hợp. Nếu người dùng hỏi 'đến quảng trường rồi đi đâu gần đó', nên ưu tiên gợi ý bảo tàng vì cùng mạch văn hóa - lịch sử.
+Các tiện ích có thể cần gồm nhà vệ sinh, gửi xe, chỗ nghỉ chân, điểm bán nước, hỗ trợ y tế gần nhất, lối đi cho người lớn tuổi và thông tin liên hệ đơn vị quản lý. Không phải tiện ích nào cũng có ở mọi địa điểm.
 
-Bảo tàng Hồ Chí Minh - Chi nhánh Gia Lai và Kon Tum là điểm gần quảng trường, phù hợp với chủ đề tìm hiểu về Bác Hồ và Gia Lai. Tuy nhiên, cần kiểm tra tên gọi/đơn vị quản lý mới nhất vì một số nguồn ghi có sự thay đổi thuộc Bảo tàng tỉnh.
+Với Quảng trường Đại Đoàn Kết, nên kiểm tra trước nếu đi cùng trẻ nhỏ, người lớn tuổi hoặc người có hạn chế vận động. Những yếu tố như bậc thang, đường dốc, nền đá, nắng gắt hoặc khoảng cách từ bãi xe đến điểm chính có thể ảnh hưởng trải nghiệm.
 
-Các trục đường trung tâm quanh quảng trường có quán ăn, cà phê, cửa hàng tiện lợi, ngân hàng, khách sạn và dịch vụ đô thị. Đây là lợi thế lớn so với các điểm tự nhiên xa trung tâm như Chư Đăng Ya, Chư Nâm hoặc Hồ Ayun Hạ.
+Nếu địa điểm đông khách, cần giữ đồ cá nhân cẩn thận và thống nhất điểm hẹn với nhóm. Với đoàn học sinh hoặc công ty, nên phân công người phụ trách và dặn trước quy định ứng xử.
 
-Khu vực có thể đông hơn vào buổi tối, cuối tuần hoặc ngày lễ. Nếu khách muốn yên tĩnh, nên đi sáng sớm hoặc các ngày thường. Nếu khách muốn không khí cộng đồng, nên đi chiều tối hoặc đúng dịp sự kiện.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Lưu ý về chi phí dịch vụ
 
-Về chi phí dịch vụ, Với khách cá nhân, có thể tự tham quan bằng cách đọc thông tin trước về các hạng mục. Quảng trường dễ tham quan tự do vì không gian mở, không cần hướng dẫn viên trong đa số trường hợp. Với đoàn học sinh, đoàn cơ quan hoặc đoàn nghiên cứu, nên liên hệ Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý khu vực để biết khả năng hỗ trợ thuyết minh, tổ chức hoạt động trải nghiệm hoặc dâng hoa.
+Chi phí dịch vụ quanh Quảng trường Đại Đoàn Kết có thể thay đổi theo mùa, ngày lễ, số lượng khách và chính sách từng đơn vị. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên hỏi giá trước khi sử dụng dịch vụ như gửi xe, thuê phương tiện, gọi món, thuê chụp ảnh, mua quà hoặc đặt tour. Với tour ghép, cần hỏi rõ bao gồm/không bao gồm những gì.
+
+Khi dùng dữ liệu cho chatbot, nên trả lời theo mức “có thể phát sinh” thay vì khẳng định cứng. Điều này giúp tránh sai lệch khi giá thay đổi hoặc nguồn review đã cũ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Nguồn tham khảo
 
-Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+- https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
+- https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+- https://vietnamtourism.gov.vn/post/61462
+- https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
+- https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
 
-Cục Du lịch Quốc gia Việt Nam - Quảng trường Đại Đoàn Kết, trái tim phố núi Pleiku: https://vietnamtourism.gov.vn/post/61462
-
-Báo Nhân Dân - Quảng trường Đại đoàn kết: https://nhandan.vn/quang-truong-dai-doan-ket-post808471.html
-
-Dân tộc và Phát triển / VietnamNet - Gia Lai trao Bằng xếp hạng Di tích cấp tỉnh Quảng trường Đại Đoàn Kết: https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
-
-Báo Gia Lai - Quảng trường Đại Đoàn Kết, công trình văn hóa tiêu biểu: https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
-
-Báo Gia Lai - thông tin bảo trì 205 ô cỏ Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/bao-tang-tinh-gia-lai-thong-bao-thi-cong-thay-the-co-tai-quang-truong-dai-doan-ket-post301469.html
-
-Báo Gia Lai - Pleiku mở thông toàn thời gian tuyến đường qua Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/pleiku-mo-thong-toan-thoi-gian-tuyen-duong-qua-quang-truong-dai-doan-ket-post576898.html
-
-Cổng Thông tin điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-Ghi chú: Các thông tin về giờ mở cửa, phân luồng giao thông, sự kiện cuối tuần, hoạt động bảo trì cảnh quan và đơn vị hành chính có thể thay đổi theo từng năm. Khi dùng cho chatbot, nên ưu tiên trả lời theo hướng mở và nhắc người dùng kiểm tra thông báo mới nhất của tỉnh Gia Lai, Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý quảng trường.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

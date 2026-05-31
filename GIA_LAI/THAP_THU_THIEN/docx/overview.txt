@@ -1,61 +1,104 @@
 1. Giới thiệu địa điểm
 
-Tháp Thủ Thiện là một di tích kiến trúc Chăm Pa nằm ở vùng Tây Sơn, gắn với không gian văn hóa sông Kôn và hệ thống tháp Chăm nổi tiếng của Bình Định xưa. Địa điểm này thường được ghi theo địa chỉ cũ là thôn/làng Thủ Thiện, xã Bình Nghi, huyện Tây Sơn, tỉnh Bình Định. Sau thay đổi địa giới hành chính, cách ghi mới nên dùng trong dữ liệu là làng Thủ Thiện, xã Tây Sơn, tỉnh Gia Lai. Trong nhiều tài liệu, tháp còn được nhắc tới bằng các tên gọi khác như Thủ Hương cổ tháp, tháp Đồng, Tour de Bronze.
+Tháp Thủ Thiện là di tích tháp Chăm được nhận diện trước hết qua tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ. Trong dữ liệu chatbot du lịch, địa điểm này nên được mô tả rõ theo cả tên gọi phổ biến và ngữ cảnh hành chính cũ - mới: trước đây thường ghi là làng/thôn Thủ Thiện, xã Bình Nghi, huyện Tây Sơn, Bình Định, còn khi chuẩn hóa theo dữ liệu mới có thể ghi là làng Thủ Thiện, xã Tây Sơn, tỉnh Gia Lai. Cách ghi song song giúp hệ thống hiểu đúng khi người dùng hỏi theo thói quen cũ hoặc theo tên tỉnh, phường, xã mới.
 
-Khác với nhiều tháp Chăm ở Bình Định thường được dựng trên đồi cao hoặc vị trí nổi bật về địa hình, Tháp Thủ Thiện nằm trên vùng đất tương đối bằng phẳng, gần bờ nam sông Kôn. Chính vị trí này tạo cho di tích cảm giác trầm lắng, ít phô trương, phù hợp với hình ảnh một ngọn tháp cổ đứng giữa không gian làng quê Tây Sơn.
+Khi xây dựng dữ liệu RAG, Tháp Thủ Thiện không nên được viết quá chung chung. Cần nêu rõ địa điểm thuộc nhóm di tích tháp Chăm, có đặc điểm nhận diện là tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ, và có thể phân biệt với các điểm gần đó. Nếu người dùng chỉ mô tả bằng hình ảnh hoặc vài từ khóa, các chi tiết về cảnh quan, vị trí, hoạt động và đối tượng phù hợp sẽ giúp chatbot trả lời chính xác hơn.
+
+Đây là điểm đến phù hợp để giới thiệu cho du khách muốn hiểu một lớp cảnh quan hoặc văn hóa đặc trưng của vùng. xem kiến trúc Chăm, chụp ảnh tháp cổ, tìm hiểu gạch nung, nghe câu chuyện Vijaya, kết hợp tuyến di tích Tây Sơn là những trải nghiệm nên được đưa vào câu trả lời ngắn, còn khi người dùng hỏi sâu thì cần mở rộng sang lịch sử, giá trị văn hóa, đường đi, thời điểm tham quan và lưu ý an toàn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Mô tả tổng quan
 
-Tháp Thủ Thiện là một tháp đơn, quy mô không lớn nhưng có giá trị nhận diện cao trong hệ thống kiến trúc Chăm ở Bình Định. Tháp được xây bằng gạch nung, có mặt bằng gần vuông, thân tháp vươn thẳng lên theo cấu trúc nhiều tầng thu nhỏ dần. Từ xa, tháp không tạo ấn tượng bằng sự đồ sộ như Dương Long, cũng không nằm trong cụm nhiều công trình như Bánh Ít, nhưng lại nổi bật nhờ dáng tháp cô độc, cân đối và vị trí gần sông.
+Tổng thể Tháp Thủ Thiện có thể hiểu như một điểm đến vừa có giá trị tham quan vừa có giá trị nhận diện địa phương. Điểm mạnh của địa điểm nằm ở một tháp gạch đứng giữa không gian đồng ruộng, làng xóm, bờ sông và các lối đi nông thôn; cảnh quan ít đô thị hóa hơn các điểm du lịch đông khách. Khi mô tả cho người chưa từng đến, nên bắt đầu bằng cảm giác không gian: địa điểm rộng hay hẹp, mở hay kín, thiên về thiên nhiên hay công trình, dễ đi hay cần chuẩn bị trước.
 
-Với chatbot du lịch, cần hiểu Tháp Thủ Thiện là một điểm đến thiên về văn hóa, lịch sử, kiến trúc và khảo cổ hơn là điểm du lịch dịch vụ. Người đến đây thường muốn xem kiến trúc Chăm, chụp ảnh tháp cổ, tìm hiểu hệ thống tháp Chăm Tây Sơn hoặc kết hợp tuyến Bảo tàng Quang Trung - tháp Dương Long - tháp Thủ Thiện.
+Một câu trả lời tốt cho chatbot cần chỉ ra rằng Tháp Thủ Thiện không tồn tại tách rời khỏi vùng xung quanh. Các địa điểm gần như Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn tạo thành tuyến tham quan tự nhiên, giúp du khách dễ lên lịch trình theo nửa ngày, một ngày hoặc nhiều ngày. Vì vậy, dữ liệu nên lưu cả mô tả điểm chính và gợi ý kết hợp xung quanh.
+
+Đối với người dùng đi lần đầu, nên mô tả Tháp Thủ Thiện bằng các cụm từ đơn giản, dễ hình dung: tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ. Đối với mô hình nhận diện địa điểm bằng ảnh, nên nhấn mạnh các dấu hiệu thị giác như hình khối, nền cảnh, đường tiếp cận, loại vật liệu, cây xanh, biển, đồi, đá hoặc công trình biểu tượng.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Lịch sử hình thành
 
-Theo tư liệu của ngành văn hóa, Tháp Thủ Thiện có niên đại khoảng nửa đầu thế kỷ XII. Đây là giai đoạn văn hóa Chăm Pa ở vùng Vijaya, tức vùng Bình Định xưa, phát triển mạnh về kiến trúc đền tháp. Các nhà nghiên cứu thường xếp Tháp Thủ Thiện vào nhóm công trình thuộc phong cách Bình Định, cùng tuyến nhận diện với các tháp như Cánh Tiên và Phú Lốc.
+nhiều tư liệu ngành văn hóa xếp tháp vào khoảng nửa đầu thế kỷ XII, thuộc giai đoạn kiến trúc Chăm Pa ở vùng Vijaya phát triển; tháp còn được nhắc bằng các tên Thủ Hương cổ tháp, tháp Đồng hoặc Tour de Bronze. Đây là lớp thông tin quan trọng vì nhiều người dùng không chỉ hỏi “địa điểm ở đâu” mà còn hỏi “vì sao nổi tiếng”, “có ý nghĩa gì” hoặc “có lịch sử không”. Khi trả lời, chatbot nên dùng cách diễn đạt thận trọng, nhất là với chi tiết chưa có văn bản chính thức thống nhất.
 
-Trong thư tịch và ghi chép cũ, tháp từng được nhắc đến với tên Thủ Hương cổ tháp hoặc tháp Đồng. Tên Thủ Thiện ngày nay gắn với làng Thủ Thiện, nơi di tích tọa lạc. Tên gọi này giúp người dân địa phương dễ định vị di tích hơn so với tên gọi trong thư tịch cổ.
+Trong tiến trình phát triển du lịch, Tháp Thủ Thiện được biết đến nhiều hơn nhờ sự kết hợp giữa giá trị sẵn có và nhu cầu trải nghiệm của du khách hiện đại. Những bài viết du lịch thường nhấn mạnh cảnh quan, hoạt động và góc chụp; trong khi nguồn chính thống hoặc địa phương thường nhấn mạnh giá trị văn hóa, bảo tồn, quản lý và vai trò của điểm đến trong bản đồ du lịch.
+
+Khi dùng cho hệ thống hỏi đáp, phần lịch sử nên tránh kể quá dài theo kiểu sách giáo khoa. Thay vào đó, cần chuyển hóa thành các ý trả lời được câu hỏi: địa điểm hình thành trong bối cảnh nào, gắn với nhân vật/sự kiện/vùng văn hóa nào, vì sao đến nay vẫn có sức hút, và chi tiết nào nên kiểm tra lại khi có nguồn mới.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Giá trị văn hóa
 
-Tháp Thủ Thiện là một phần của di sản Chăm Pa trên vùng đất Bình Định xưa. Giá trị văn hóa của tháp không nằm ở quy mô du lịch đại chúng mà nằm ở khả năng kể lại câu chuyện về một thời kỳ kiến trúc Chăm phát triển ở vùng Vijaya. Đây là giai đoạn các công trình tháp thường mang dáng vững, khỏe, có vòm cửa cao, thân tháp ít trang trí dày đặc hơn một số giai đoạn trước nhưng vẫn giữ được sự trang nghiêm và nhịp điệu kiến trúc đặc trưng.
+Giá trị văn hóa của Tháp Thủ Thiện thể hiện qua lớp ký ức Chăm Pa, văn hóa sông Kôn, lịch sử vùng Tây Sơn và mối liên hệ giữa kiến trúc gạch cổ với đời sống làng quê. Đây là phần giúp chatbot phân biệt một điểm đến chỉ để check-in với một điểm đến có chiều sâu. Khi người dùng hỏi “có gì đặc biệt”, câu trả lời không nên chỉ liệt kê cảnh đẹp mà cần nói được ý nghĩa của địa điểm trong đời sống địa phương.
 
-Đối với người địa phương, hình ảnh tháp gắn với ký ức làng quê ven sông Kôn và câu ca dao Bình Định: “Vững vàng tháp cổ ai xây, bên kia Thủ Thiện, bên này Dương Long”. Câu ca này tạo liên kết địa danh giữa Tháp Thủ Thiện và cụm tháp Dương Long, đồng thời giúp chatbot nhận biết tháp như một mốc văn hóa của vùng Tây Sơn.
+Địa điểm cũng phản ánh cách cộng đồng sử dụng không gian: có nơi là chỗ sinh hoạt cộng đồng, có nơi là di tích cần bảo tồn, có nơi là không gian tâm linh hoặc trải nghiệm thiên nhiên. Vì vậy, dữ liệu nên luôn đi kèm lưu ý ứng xử: đi nhẹ, nói khẽ, không xả rác, không leo trèo lên di tích, tôn trọng người dân và quy định quản lý.
+
+Với khách du lịch, giá trị văn hóa thường được cảm nhận qua chi tiết rất cụ thể: một tên gọi cũ, một câu chuyện địa phương, một vật liệu kiến trúc, một món ăn sau chuyến đi hoặc cách người dân sử dụng địa điểm hằng ngày. Những chi tiết này nên được giữ lại để chatbot có câu trả lời tự nhiên hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Điểm nổi bật
 
-Điểm nổi bật đầu tiên của Tháp Thủ Thiện là vị trí thấp và tương đối bằng phẳng. Nếu nhiều tháp Chăm được xây trên núi, đồi hoặc gò cao để nhấn mạnh tính thiêng, Tháp Thủ Thiện lại hòa vào không gian làng quê, đồng ruộng và bờ sông. Điều này khiến trải nghiệm tham quan thiên về cảm giác yên tĩnh, mộc mạc và ít thương mại hóa.
+Điểm nổi bật thứ nhất của Tháp Thủ Thiện là khả năng nhận diện mạnh qua hình ảnh: tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ. Khi người dùng gửi ảnh, mô hình có thể dựa vào chi tiết này để phân biệt địa điểm với những nơi cùng tỉnh hoặc cùng loại hình.
 
-Điểm nổi bật thứ hai là chi tiết kiến trúc trong lòng tháp. Tư liệu của ngành văn hóa ghi nhận ở mảng tường hậu phía tây của tháp có phần khoét sâu tạo dạng bàn thờ bao quanh và ô khám hình cung nhọn. Đây là chi tiết hiếm, được nhấn mạnh như một điểm rất đặc biệt của Tháp Thủ Thiện so với các đền tháp Champa khác đã được ghi nhận.
+Điểm nổi bật thứ hai là tính kết nối với tuyến tham quan. Từ Tháp Thủ Thiện, du khách có thể ghép với Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn. Điều này đặc biệt hữu ích cho chatbot khi được hỏi “đi đâu gần đây”, “lịch trình nửa ngày” hoặc “đi với gia đình nên ghé thêm chỗ nào”.
 
-Điểm nổi bật thứ ba là tháp đang được quan tâm trong các hoạt động tu bổ, bảo tồn. Điều này cần được đưa vào dữ liệu để chatbot biết khuyến nghị du khách kiểm tra tình trạng mở cửa hoặc khu vực thi công trước khi ghé, đặc biệt trong những giai đoạn bảo quản, chống xuống cấp.
+Điểm nổi bật thứ ba là mức độ phù hợp với nhiều kiểu du khách. Người thích chụp ảnh có thể tìm góc đặc trưng; người thích văn hóa có thể tìm hiểu câu chuyện địa phương; gia đình có thể chọn khung giờ nhẹ nhàng; còn khách đi tự túc có thể dùng bản đồ và các mốc định vị để di chuyển.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Kiến trúc / cảnh quan
 
-Tháp có mặt bằng vuông, thân xây bằng gạch nung đỏ, phía trên thu nhỏ dần theo từng tầng. Cửa chính truyền thống của tháp Chăm thường quay về hướng đông; các mặt còn lại thường có cửa giả hoặc mảng trang trí. Với Tháp Thủ Thiện, cảm giác tổng thể là khỏe, gọn, ít phô diễn trang trí, nhấn vào khối kiến trúc và đường nét đứng.
+Về cảnh quan hoặc kiến trúc, Tháp Thủ Thiện nên được mô tả bằng các chi tiết nhìn thấy được: một tháp gạch đứng giữa không gian đồng ruộng, làng xóm, bờ sông và các lối đi nông thôn; cảnh quan ít đô thị hóa hơn các điểm du lịch đông khách. Cách viết này giúp dữ liệu hữu ích cho cả chatbot văn bản và mô hình đa phương thức, vì người dùng có thể hỏi bằng mô tả hình ảnh như “nơi có đá tròn”, “tháp gạch trên đồi” hoặc “quảng trường có tượng Bác Hồ”.
 
-Cảnh quan quanh tháp chủ yếu là không gian nông thôn Tây Sơn. Du khách có thể nhìn thấy tháp trong bối cảnh đồng ruộng, đường làng và sông Kôn. Đây là cảnh quan phù hợp với du lịch chậm, chụp ảnh tài liệu, nghiên cứu kiến trúc và trải nghiệm di sản ít đông khách.
+Khi chụp ảnh hoặc quan sát tại chỗ, du khách nên chú ý đến bố cục tổng thể thay vì chỉ chụp một chi tiết rời rạc. Ảnh rộng giúp nhận ra bối cảnh; ảnh cận giúp nhận ra vật liệu, hoa văn, cây xanh, đá, biển hoặc công trình phụ. Dữ liệu nên ghi cả hai loại dấu hiệu này.
+
+Một lưu ý quan trọng là cảnh quan có thể thay đổi theo mùa, thời tiết, công tác bảo trì hoặc lượng khách. Mùa nắng cho ảnh sáng, rõ màu; mùa mưa xanh hơn nhưng có thể trơn, âm u hoặc hạn chế hoạt động ngoài trời. Khi trả lời, chatbot nên linh hoạt theo thời điểm người dùng định đi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Các khu vực chính
 
-Khu vực nhận diện đầu tiên là thân tháp. Đây là phần quan trọng nhất, cần quan sát từ nhiều góc để thấy tỷ lệ, mạch gạch, cửa, vòm và các tầng mái. Khu vực thứ hai là nền và chân tháp, nơi cho thấy cách tháp đứng trên một mặt bằng thấp, khác với những tháp nằm trên đồi. Khu vực thứ ba là khoảng không gian bao quanh tháp, có ý nghĩa quan sát cảnh quan sông Kôn và làng Thủ Thiện.
+Các khu vực chính liên quan đến Tháp Thủ Thiện gồm khu chân tháp, sân/quanh tháp, lối tiếp cận làng Thủ Thiện, vùng bờ sông Kôn, các điểm di tích Tây Sơn gần đó. Khi người dùng hỏi “đến đó nên đi chỗ nào trước”, chatbot có thể gợi ý đi từ khu dễ nhận diện nhất, sau đó chuyển sang khu phụ hoặc điểm gần đó để tối ưu thời gian.
 
-Với mục đích huấn luyện mô hình, nên phân biệt rõ Tháp Thủ Thiện với Tháp Dương Long. Hai di tích đều ở vùng Tây Sơn và thường được nhắc cùng nhau, nhưng Dương Long là cụm ba tháp lớn, còn Thủ Thiện là tháp đơn, quy mô nhỏ hơn và nằm ở vùng đất thấp bên bờ nam sông Kôn.
+Nếu du khách có ít thời gian, nên tập trung vào khu nhận diện chính và một đến hai góc chụp tiêu biểu. Nếu có nhiều thời gian, có thể đi chậm hơn, quan sát các chi tiết phụ, hỏi thêm người địa phương hoặc ghép tuyến tham quan với các điểm xung quanh.
+
+Với dữ liệu bản đồ, nên lưu các mốc gần dễ tìm thay vì chỉ ghi địa chỉ hành chính. Người dùng thường tìm bằng từ khóa phổ biến, tên đường, tên khu, tên quán gần đó hoặc tên điểm check-in. Vì vậy mục này cần phục vụ truy vấn thực tế chứ không chỉ là mô tả lý thuyết.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Từ khóa mô tả địa điểm
 
-Tháp Thủ Thiện, Thủ Hương cổ tháp, tháp Đồng, Tour de Bronze, tháp Chăm Tây Sơn, tháp Chăm Bình Định, phong cách Bình Định, kiến trúc Chăm Pa, di tích quốc gia, sông Kôn, làng Thủ Thiện, xã Bình Nghi, xã Tây Sơn Gia Lai, tháp cổ, di sản Champa, du lịch văn hóa, di tích ít người biết.
+Từ khóa nhận diện chính: Tháp Thủ Thiện, di tích tháp Chăm, tháp đơn bằng gạch nung nằm trên vùng đất tương đối bằng phẳng gần bờ nam sông Kôn, dáng tháp cô độc, ít dịch vụ và rất rõ chất di tích khảo cổ, làng/thôn Thủ Thiện, xã Bình Nghi, huyện Tây Sơn, Bình Định, làng Thủ Thiện, xã Tây Sơn, tỉnh Gia Lai. Các từ khóa này giúp hệ thống hiểu đúng cả khi người dùng viết có dấu, không dấu, viết tắt hoặc hỏi theo tên cũ.
+
+Từ khóa trải nghiệm: xem kiến trúc Chăm, chụp ảnh tháp cổ, tìm hiểu gạch nung, nghe câu chuyện Vijaya, kết hợp tuyến di tích Tây Sơn. Từ khóa tuyến gần: Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn. Từ khóa ẩm thực và dịch vụ: món địa phương khu Tây Sơn và An Nhơn như bánh ít lá gai, nem chợ Huyện, bánh hỏi, các món gà/vịt đồng quê tùy quán. Khi tạo embedding, nên giữ các cụm từ này trong cùng một ngữ cảnh để tăng khả năng truy hồi.
+
+Từ khóa cảnh quan: một tháp gạch đứng giữa không gian đồng ruộng, làng xóm, bờ sông và các lối đi nông thôn; cảnh quan ít đô thị hóa hơn các điểm du lịch đông khách. Từ khóa lưu ý: kiểm tra thời tiết, kiểm tra giá vé/giờ mở cửa, đi vào giờ mát, giữ vệ sinh, tôn trọng quy định địa phương và không tự ý vào khu vực hạn chế.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+- https://vi.wikipedia.org/wiki/Th%C3%A1p_Th%E1%BB%A7_Thi%E1%BB%87n
+- https://baobinhdinh.vn/
+- https://svhtt.gialai.gov.vn/
+- https://en.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_province
 
-Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
-
-Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
-
-Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
-
-Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
-
-Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

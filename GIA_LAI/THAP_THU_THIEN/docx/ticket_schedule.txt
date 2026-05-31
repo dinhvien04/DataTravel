@@ -1,57 +1,78 @@
 1. Giá vé
 
-Thông tin tham khảo từ trang du lịch địa phương ghi Tháp Thủ Thiện là điểm tham quan miễn phí. Tuy nhiên, vì tình trạng quản lý, tu bổ và chính sách khai thác di tích có thể thay đổi theo thời điểm, dữ liệu chatbot nên trả lời theo hướng an toàn: “Hiện nhiều nguồn ghi miễn phí tham quan, nhưng du khách nên kiểm tra lại trước ngày đi nếu đi theo đoàn hoặc trong giai đoạn trùng tu.”
+thường được tham quan như di tích mở, nhưng cần kiểm tra quy định quản lý, gửi xe hoặc thuyết minh theo thời điểm. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Không nên khẳng định chắc chắn rằng mọi thời điểm đều miễn phí, đặc biệt khi có dự án bảo tồn, rào chắn, hoạt động thi công hoặc điều chỉnh quản lý di tích. Nếu người dùng hỏi “có mất vé không?”, câu trả lời phù hợp là: “Nguồn du lịch địa phương ghi miễn phí; bạn vẫn nên kiểm tra cập nhật tại địa phương trước khi đi.”
+Khi người dùng hỏi giá vé, chatbot nên trả lời theo hướng thận trọng: nêu thông tin tham khảo, giải thích loại chi phí có thể phát sinh và khuyến nghị kiểm tra lại trước khi đi. Điều này đặc biệt quan trọng với điểm có dịch vụ theo mùa, sự kiện hoặc thay đổi đơn vị quản lý.
+
+Không nên trộn giá vé của địa điểm khác vào Tháp Thủ Thiện. Nếu người dùng hỏi chung theo tuyến Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn, cần tách rõ từng điểm vì có nơi miễn phí, có nơi thu vé, có nơi chỉ phát sinh gửi xe, và có nơi dùng combo dịch vụ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Giá các dịch vụ đi kèm
 
-Tháp Thủ Thiện không phải khu du lịch dịch vụ lớn nên thường không có hệ thống dịch vụ đi kèm cố định như xe điện, hướng dẫn viên tại chỗ, khu trò chơi hoặc quầy bán vé rõ ràng. Chi phí phát sinh chủ yếu có thể là xăng xe, thuê xe, taxi, gửi xe nếu có điểm trông giữ tự phát, nước uống hoặc chi phí tour nếu đi theo công ty lữ hành.
+Các dịch vụ đi kèm có thể gồm gửi xe, nước uống, ăn uống, thuê xe điện, thuê hướng dẫn, thuyết minh, chụp ảnh, hoặc các hoạt động bổ sung tùy loại hình điểm đến. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nếu đi theo tour tháp Chăm hoặc tour Tây Sơn, chi phí sẽ phụ thuộc vào đơn vị tổ chức. Chatbot không nên tự đưa giá tour cụ thể nếu không có nguồn mới, vì giá tour thay đổi theo số lượng khách, xe, bữa ăn, hướng dẫn viên và các điểm kết hợp.
+Với Tháp Thủ Thiện, chi phí thường phụ thuộc vào nhu cầu của du khách hơn là chỉ riêng vé vào cổng. Người đi tự túc nên chuẩn bị tiền mặt nhỏ, nhưng vẫn kiểm tra thanh toán QR hoặc chuyển khoản nếu sử dụng dịch vụ tại quán/điểm dừng.
+
+Nếu đi đoàn đông, nên liên hệ trước để hỏi khả năng tiếp nhận, chỗ đỗ xe, hướng dẫn viên hoặc lịch hoạt động. Điều này giúp tránh tình trạng đến nơi nhưng dịch vụ tạm dừng hoặc không đủ chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Giờ mở cửa
 
-Một số nguồn du lịch ghi giờ tham quan tham khảo khoảng 07:00 đến 18:00. Vì đây là di tích ngoài trời hoặc bán ngoài trời, trải nghiệm thực tế phụ thuộc vào tình trạng khu vực, bảo vệ, rào chắn và tu bổ. Nên khuyên du khách đi trong giờ ban ngày, đặc biệt là sáng hoặc chiều mát.
+Giờ mở cửa hoặc thời gian tiếp cận của Tháp Thủ Thiện có thể khác nhau giữa không gian ngoài trời, khu dịch vụ và khu quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nếu người dùng hỏi “mấy giờ mở cửa”, câu trả lời nên là: “Nguồn tham khảo ghi 07:00 - 18:00, nhưng nên đi ban ngày và kiểm tra tình trạng tu bổ trước khi ghé.” Cách trả lời này giúp chatbot tránh sai khi lịch thực tế thay đổi.
+Nếu địa điểm là không gian mở, du khách vẫn nên đi vào khung giờ có ánh sáng, đông người vừa phải và an toàn. Nếu địa điểm có cổng, quầy vé, bảo vệ hoặc dịch vụ bên trong, cần kiểm tra giờ vận hành chính thức trước khi xuất phát.
 
-Nguồn ngành văn hóa cho biết Tháp Thủ Thiện đã được đầu tư tu bổ, gia cố trong nhiều giai đoạn và tiếp tục có dự án chống xuống cấp, tu bổ, phát huy giá trị di tích. Vì vậy, thông tin giờ tham quan, lối vào hoặc khu vực được tiếp cận có thể thay đổi trong giai đoạn thi công.
+Khung giờ đẹp thường không trùng hoàn toàn với giờ mở dịch vụ. Có nơi đẹp nhất vào sáng sớm hoặc chiều muộn, nhưng quầy dịch vụ có thể mở muộn hơn hoặc đóng sớm hơn. Chatbot nên tách bạch hai ý này khi trả lời.
 
-Trong dữ liệu RAG, nên có câu trả lời riêng cho truy vấn “Tháp Thủ Thiện có đang trùng tu không?”. Câu trả lời nên nói rằng di tích có dự án tu bổ, do đó cần kiểm tra cập nhật gần ngày đi nếu du khách muốn vào sát chân tháp, chụp ảnh chi tiết hoặc đi theo đoàn.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Thời điểm nên tham quan
 
-Thời điểm tham quan đẹp nhất trong ngày là buổi sáng sớm hoặc chiều muộn. Buổi sáng có ánh sáng mềm, không quá nóng và thuận lợi cho chụp ảnh mặt tháp. Buổi chiều có ánh nắng xiên, phù hợp quan sát khối kiến trúc và cảnh quan làng quê. Giữa trưa vùng Tây Sơn thường nắng mạnh, ít bóng mát và không thuận lợi cho người đi bộ quanh di tích.
+Thời điểm nên tham quan Tháp Thủ Thiện là lúc thời tiết dễ chịu, ánh sáng tốt và lượng khách vừa phải. Với điểm ngoài trời, sáng sớm và chiều mát thường phù hợp hơn buổi trưa vì giảm nắng, dễ chụp ảnh và ít mệt.
 
-Nếu người dùng đi với trẻ em hoặc người lớn tuổi, nên chọn buổi sáng để tránh nóng. Nếu đi để chụp ảnh, nên tránh trời mưa hoặc lúc nắng gắt vì tháp có tông gạch đỏ nâu, ảnh dễ bị gắt sáng khi chụp giữa trưa.
+Nếu mục tiêu là chụp ảnh, nên ưu tiên ánh sáng mềm. Nếu mục tiêu là tìm hiểu văn hóa hoặc đi cùng gia đình, nên chọn khung giờ không quá đông để có thời gian quan sát và nghỉ chân.
+
+Dịp cuối tuần, lễ Tết hoặc mùa du lịch có thể đông hơn bình thường. Với những ngày có sự kiện, địa điểm có thể thay đổi lối vào, hạn chế khu vực hoặc yêu cầu tuân thủ hướng dẫn của ban quản lý.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Mùa đẹp nhất
 
-Mùa khô ở khu vực Bình Định - Gia Lai ven biển cũ thường thuận lợi hơn cho di chuyển và chụp ảnh. Khoảng từ đầu năm đến cuối mùa hè thường là thời điểm dễ đi, tuy nhiên nắng có thể mạnh vào các tháng cao điểm. Mùa mưa có thể làm đường làng và khu vực quanh tháp ẩm, trơn hoặc khó chụp ảnh hơn.
+Mùa đẹp nhất phụ thuộc loại hình của Tháp Thủ Thiện. Điểm biển thường thuận lợi hơn vào mùa khô, điểm cao nguyên đẹp khi trời trong hoặc mùa cây xanh, còn di tích/chùa/quảng trường có thể tham quan quanh năm nếu chọn giờ phù hợp.
 
-Vì Tháp Thủ Thiện là điểm tham quan kiến trúc, không phụ thuộc vào biển, du khách có thể đi nhiều thời điểm trong năm. Tuy vậy, nên ưu tiên ngày khô ráo, ít mưa và tránh thời điểm sau bão nếu chưa rõ tình trạng đường vào hoặc tu bổ.
+Mùa mưa không nhất thiết phải tránh hoàn toàn, nhưng cần dự phòng áo mưa, giày chống trơn và kế hoạch thay thế. Với đường dốc, bãi đá, ven biển hoặc đồi núi, mưa làm tăng rủi ro trượt ngã và giảm chất lượng ảnh.
+
+Khi chatbot trả lời “mùa nào đẹp”, nên nói kèm điều kiện: đẹp để chụp ảnh, đẹp để tắm biển, đẹp để đi bộ, đẹp để tìm hiểu văn hóa hay đẹp để tránh đông. Mỗi mục tiêu có lựa chọn khác nhau.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Thông tin thời tiết
 
-Khu vực Tây Sơn thường nóng hơn khu vực ven biển Quy Nhơn vào nhiều thời điểm trong ngày. Khi tham quan di tích ngoài trời, du khách nên chuẩn bị mũ, áo chống nắng, nước uống và giày dễ đi. Vào mùa mưa, nên mang áo mưa nhẹ, túi chống nước cho thiết bị chụp ảnh và kiểm tra dự báo thời tiết trước khi xuất phát.
+Thời tiết là yếu tố quan trọng khi tham quan Tháp Thủ Thiện. Nắng mạnh có thể gây mất nước, mỏi mắt và cháy nắng; mưa có thể làm trơn nền, giảm tầm nhìn hoặc ảnh hưởng hoạt động ngoài trời.
 
-Nếu chatbot trả lời cho du khách nước ngoài hoặc người lần đầu đến Bình Định, cần nhấn mạnh rằng địa điểm này không có nhiều bóng mát và dịch vụ ngay cạnh như các điểm du lịch đô thị. Trải nghiệm sẽ thoải mái hơn khi đi vào khung giờ mát.
+Du khách nên kiểm tra dự báo thời tiết trong ngày, đặc biệt nếu đi cùng trẻ nhỏ, người lớn tuổi hoặc dự định kết hợp nhiều điểm như Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn. Nên chuẩn bị mũ, nước uống, kem chống nắng, áo mưa mỏng và giày phù hợp.
+
+Với các địa điểm có cảnh quan mở, gió lớn cũng cần được chú ý. Không nên đứng sát mép đá, mép nước, lan can hoặc khu vực nền trơn khi trời mưa/gió chỉ để chụp ảnh.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Lưu ý cập nhật giá vé và lịch hoạt động
 
-Giá vé, giá dịch vụ đi kèm, giờ mở cửa và lịch hoạt động tại địa điểm có thể thay đổi theo mùa, ngày lễ, sự kiện hoặc theo quyết định của đơn vị quản lý. Du khách nên kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Giá vé, giờ mở cửa, dịch vụ đi kèm, số điện thoại, quy định chụp ảnh và lịch hoạt động có thể thay đổi theo mùa, ngày lễ, sự kiện, bảo trì hoặc quyết định của đơn vị quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Trước khi đi, nên kiểm tra lại trên website chính thức, cổng thông tin du lịch địa phương, fanpage/điện thoại của đơn vị quản lý, khách sạn hoặc đơn vị tour uy tín. Không nên chỉ dựa vào một bài review cũ.
+
+Khi đưa vào chatbot, mọi thông tin có khả năng biến động nên được viết bằng ngôn ngữ mở: “thường”, “có thể”, “tham khảo”, “nên kiểm tra lại”. Cách này giúp hệ thống tránh trả lời sai khi giá hoặc lịch đã thay đổi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 8. Nguồn tham khảo
 
-Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+- https://vi.wikipedia.org/wiki/Th%C3%A1p_Th%E1%BB%A7_Thi%E1%BB%87n
+- https://baobinhdinh.vn/
+- https://svhtt.gialai.gov.vn/
+- https://en.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_province
 
-Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
-
-Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
-
-Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
-
-Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
-
-Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

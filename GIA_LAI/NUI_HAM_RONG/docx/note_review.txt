@@ -1,83 +1,128 @@
 1. Lưu ý khi tham quan
 
-Gia đình có thể đi Núi Hàm Rồng nếu chỉ tham quan các điểm dễ tiếp cận bằng xe và đi bộ nhẹ. Không nên chọn lối dốc hoặc đường đất khó khi có trẻ nhỏ hoặc người lớn tuổi.
+Khi tham quan Núi Hàm Rồng, du khách nên chuẩn bị theo loại hình núi lửa cổ/cảnh quan cao nguyên. Điểm ngoài trời cần chống nắng/chống mưa; điểm di tích cần tôn trọng bảo tồn; điểm tâm linh cần trang phục lịch sự; điểm dịch vụ cần kiểm tra vé và giờ hoạt động.
 
-Nên đi vào buổi sáng hoặc chiều mát, chuẩn bị nước, đồ ăn nhẹ, thuốc say xe nếu cần và tránh lịch trình quá dày. Nếu mục tiêu chính là ngắm cảnh, không cần cố leo cao hoặc đi sâu.
+Không nên đi quá sát giờ đóng cửa hoặc quá muộn nếu địa điểm ít người. Nên mang nước, sạc dự phòng, giày phù hợp và xác định trước điểm gửi xe/lối ra.
 
-Ảnh dùng để train mô hình nên có đủ bối cảnh nhận diện: dáng núi Hàm Rồng, cảnh nhìn về Pleiku, đường ngoại ô, rừng thông/cà phê dưới chân núi hoặc mùa dã quỳ gắn với chân núi. Không nên gán nhãn Núi Hàm Rồng cho ảnh chỉ có hoa dã quỳ chung chung.
+Thông tin tham khảo, cần kiểm tra lại trước khi đi. Đặc biệt với thông tin giá vé, giờ mở cửa, số điện thoại, dịch vụ và quy định mới, cần kiểm tra lại trước khi đi.
 
-Cần tách ảnh Núi Hàm Rồng với ảnh Chư Đăng Ya. Chư Đăng Ya thường có miệng núi lửa, nương rẫy trên sườn núi và mùa lễ hội hoa dã quỳ. Hàm Rồng có tính chất “nóc nhà Pleiku”, phía nam thành phố và gắn với tầm nhìn toàn cảnh phố núi.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Cần tách ảnh Núi Hàm Rồng với ảnh Núi Chư Nâm. Chư Nâm là trekking núi cao 1.472 m, nhiều ảnh có đường mòn, đỉnh núi, mây và cảnh mở rộng; Hàm Rồng gần Pleiku hơn và thiên về cảnh quan núi lửa dương/ngoại ô.
-
-Nếu người dùng hỏi “Núi Hàm Rồng ở phường nào?”, chatbot nên trả lời thận trọng: nhiều nguồn du lịch cũ ghi khu vực Chư HDrông/TP Pleiku hoặc phía nam Pleiku; sau sắp xếp hành chính năm 2025, nên kiểm tra bản đồ hành chính mới để ghi phường cụ thể. Cách mô tả ổn định là “phía nam Pleiku, tỉnh Gia Lai, cách trung tâm khoảng 11 km”.
-
-Nếu người dùng hỏi “có vé không?”, chatbot nên trả lời: chưa nên xem đây là khu du lịch có vé cố định cho toàn bộ địa điểm; chi phí có thể phụ thuộc điểm dừng, dịch vụ, gửi xe hoặc điểm check-in tư nhân. Nên kiểm tra trước khi đi.
-
-Nếu người dùng hỏi “có nên đi không?”, chatbot nên trả lời: nên đi nếu bạn thích cảnh quan núi lửa, ngắm Pleiku, chụp ảnh và đi ngoại ô nhẹ; nếu bạn muốn trekking nặng hoặc dịch vụ đầy đủ như khu du lịch, cần cân nhắc.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Quy định tại địa điểm
 
-Về quy định tại địa điểm, Gia đình có thể đi Núi Hàm Rồng nếu chỉ tham quan các điểm dễ tiếp cận bằng xe và đi bộ nhẹ. Không nên chọn lối dốc hoặc đường đất khó khi có trẻ nhỏ hoặc người lớn tuổi. Nên đi vào buổi sáng hoặc chiều mát, chuẩn bị nước, đồ ăn nhẹ, thuốc say xe nếu cần và tránh lịch trình quá dày.
+Quy định thường gặp gồm giữ vệ sinh, không xả rác, không gây ồn, không phá hoại cây xanh/công trình, không tự ý vào khu vực cấm và tuân thủ hướng dẫn của nhân viên hoặc biển báo.
+
+Với Núi Hàm Rồng, cần chú ý quy định ứng xử phù hợp với ký ức phố núi, cảnh quan bazan, đời sống nông nghiệp cà phê và không gian sinh thái ngoại ô Pleiku. Nếu là di tích, không leo trèo/chạm khắc lên công trình; nếu là chùa, nói chuyện nhỏ và ăn mặc lịch sự; nếu là điểm tự nhiên, không bẻ cây, ném rác hoặc mạo hiểm.
+
+Khi có sự kiện, bảo trì hoặc thời tiết xấu, quy định có thể thay đổi tạm thời. Chatbot nên nhắc người dùng kiểm tra thông báo mới nhất nếu đi vào dịp đặc biệt.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Điều cấm / hạn chế
 
-Hạn chế chính là hạ tầng du lịch có thể chưa đồng bộ ở mọi điểm tiếp cận. Không nên kỳ vọng luôn có cổng vào, bãi xe chuẩn, quầy vé, nhà vệ sinh, nhà hàng hoặc biển chỉ dẫn đầy đủ.
+Không leo rào, không đi vào khu vực hạn chế, không vẽ bậy, không tự ý lấy hiện vật/cây/đá, không gây ảnh hưởng đến khách khác hoặc người dân địa phương.
 
-Nếu đi theo bản đồ số, người dùng có thể đến các điểm tiếp cận khác nhau quanh núi. Một số lối có thể là đường dân sinh, đường rẫy hoặc đường nhỏ. Vì vậy, chatbot nên khuyên hỏi người địa phương nếu muốn đi sâu.
+Không nên dùng flycam, quay chụp thương mại hoặc tổ chức hoạt động nhóm lớn nếu chưa hỏi quy định. Một số khu vực có thể hạn chế thiết bị bay, loa kéo, trang trí, dựng cảnh hoặc quay phim.
 
-Thời tiết ảnh hưởng mạnh đến trải nghiệm. Mưa làm đường trơn, sương làm giảm tầm nhìn, nắng gắt làm mệt. Mùa hoa dã quỳ phụ thuộc thời tiết từng năm, không nên cam kết chắc chắn thời điểm hoa đẹp.
+Với khu vực dốc, đá, ven nước hoặc công trình cổ, không nên mạo hiểm để chụp ảnh. An toàn và bảo tồn luôn quan trọng hơn việc có góc ảnh lạ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Mức độ đông khách
 
-Về mức độ đông khách, Gia đình có thể đi Núi Hàm Rồng nếu chỉ tham quan các điểm dễ tiếp cận bằng xe và đi bộ nhẹ. Không nên chọn lối dốc hoặc đường đất khó khi có trẻ nhỏ hoặc người lớn tuổi. Nên đi vào buổi sáng hoặc chiều mát, chuẩn bị nước, đồ ăn nhẹ, thuốc say xe nếu cần và tránh lịch trình quá dày.
+Mức độ đông khách tại Núi Hàm Rồng thường tăng vào cuối tuần, ngày lễ, mùa du lịch, khung giờ chiều mát hoặc khi có sự kiện. Ngày thường và sáng sớm thường dễ tham quan hơn.
+
+Nếu muốn ảnh ít người, nên đi sớm hoặc chọn góc phụ. Nếu đi đoàn đông, cần thống nhất điểm hẹn, thời gian tập trung và người phụ trách để tránh lạc nhóm.
+
+Khi quá đông, nên ưu tiên quan sát tổng thể, giữ đồ cá nhân, không chen lấn và tránh dừng lâu ở lối đi chính.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Độ an toàn
 
-Không đi một mình vào đường vắng, đường rừng hoặc đường dốc khi trời sắp tối. Không rời khỏi nhóm để tìm góc chụp nếu không biết đường. Luôn lưu số điện thoại người đi cùng và điểm đón xe.
+Độ an toàn phụ thuộc thời tiết, nền đường, lượng khách và ý thức cá nhân. Với Núi Hàm Rồng, du khách nên chú ý các yếu tố như nắng, mưa, dốc, đá, xe cộ, khu vực nước sâu hoặc công trình cần bảo tồn nếu có.
 
-Mang giày có độ bám tốt nếu đi bộ trên đường đất hoặc đường dốc. Không mang dép trơn nếu muốn đi xa khỏi điểm dừng xe. Mang nước uống, mũ, áo khoác nhẹ buổi sáng và áo mưa mỏng nếu đi mùa mưa.
+Gia đình có trẻ nhỏ nên luôn đi kèm người lớn, tránh để trẻ chạy sát mép nước, mép dốc, bậc cao hoặc khu vực đông xe. Người lớn tuổi nên có thời gian nghỉ và tránh đi lúc nắng gắt.
 
-Không đậu xe chắn đường, không đi vào rẫy/vườn cà phê nếu không được phép, không bẻ hoa dã quỳ. Tôn trọng khu dân cư và sinh hoạt của người dân dưới chân núi.
+Nếu có biển cảnh báo hoặc nhân viên nhắc nhở, cần tuân thủ. Không nên dựa vào kinh nghiệm cá nhân để bỏ qua cảnh báo tại chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Khả năng tiếp cận
 
-Về khả năng tiếp cận, Gia đình có thể đi Núi Hàm Rồng nếu chỉ tham quan các điểm dễ tiếp cận bằng xe và đi bộ nhẹ. Không nên chọn lối dốc hoặc đường đất khó khi có trẻ nhỏ hoặc người lớn tuổi. Nên đi vào buổi sáng hoặc chiều mát, chuẩn bị nước, đồ ăn nhẹ, thuốc say xe nếu cần và tránh lịch trình quá dày.
+Khả năng tiếp cận của Núi Hàm Rồng cần được mô tả theo từng nhóm: người đi bộ, xe máy, ô tô, gia đình, người lớn tuổi và người hạn chế vận động. Không phải điểm nào cũng có lối bằng phẳng hoặc hỗ trợ xe lăn.
+
+Những yếu tố cần kiểm tra gồm khoảng cách từ bãi xe đến điểm chính, bậc thang, độ dốc, nền đá/cát, bóng mát, nhà vệ sinh và điểm nghỉ chân. Nếu thiếu thông tin, chatbot nên khuyên hỏi trước đơn vị quản lý hoặc người địa phương.
+
+Với người cần hỗ trợ đặc biệt, nên đi cùng người thân, chọn giờ mát và không đặt lịch quá dày. Lịch trình nhẹ thường đem lại trải nghiệm tốt hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Review tổng hợp
 
-Núi Hàm Rồng là điểm đáng đưa vào bộ dữ liệu Gia Lai vì đại diện cho lớp cảnh quan núi lửa Pleiku. Điểm mạnh là gần trung tâm, biểu tượng rõ, có câu chuyện địa chất và phù hợp nhiều kiểu hỏi. Điểm yếu là dữ liệu dịch vụ không ổn định và ranh giới hành chính/cách ghi địa chỉ có thể gây nhầm nếu không chuẩn hóa.
+Review tổng hợp về Núi Hàm Rồng thường xoay quanh các điểm: dễ nhận diện, có giá trị tham quan, phù hợp chụp ảnh và có thể ghép tuyến với Biển Hồ T’Nưng, Quảng trường Đại Đoàn Kết, Biển Hồ Chè, Chùa Bửu Minh, Núi lửa Chư Đăng Ya, trung tâm Pleiku. Điểm đến này không nên được giới thiệu như một khu vui chơi mọi dịch vụ nếu bản chất là di tích, cảnh quan hoặc không gian mở.
 
-Trong hệ thống RAG, nên gắn nhãn Núi Hàm Rồng với nhóm “Núi lửa, cảnh quan Pleiku, check-in nhẹ, hoa dã quỳ, ngoại ô”. Không nên gắn nhãn chính là trekking nặng, không nên gắn nhãn hồ nước, không nên gom chung với Chư Đăng Ya.
+Điểm được đánh giá cao là ngọn núi dạng miệng núi lửa dương ở phía nam Pleiku, thường được gọi là nóc nhà Pleiku, gắn với cà phê, thông, đất đỏ bazan và tầm nhìn rộng. Điểm cần cân nhắc là thời tiết, lượng khách, dịch vụ thay đổi và khả năng tiếp cận từng khu.
+
+Khi tổng hợp review, nên ưu tiên nguồn gần đây và nguồn đáng tin. Review cá nhân hữu ích cho trải nghiệm thực tế nhưng không thay thế thông báo chính thức về giá, giờ mở cửa và quy định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Ưu điểm
 
-Núi Hàm Rồng gần trung tâm Pleiku, thường được ghi cách khoảng 11 km, nên phù hợp cho lịch trình ngắn. Đây là lợi thế lớn so với các điểm trekking xa hoặc cần chuẩn bị nhiều như Chư Nâm, Kon Ka Kinh, Kon Chư Răng hoặc thác K50.
+Ưu điểm lớn của Núi Hàm Rồng là có dấu hiệu nhận diện rõ: ngọn núi dạng miệng núi lửa dương ở phía nam Pleiku, thường được gọi là nóc nhà Pleiku, gắn với cà phê, thông, đất đỏ bazan và tầm nhìn rộng. Điều này giúp du khách dễ nhớ, dễ chụp ảnh và giúp hệ thống nhận diện địa điểm tốt hơn.
 
-Cảnh quan có bản sắc riêng vì gắn với miệng núi lửa dương, độ cao khoảng 1.028 m và hình ảnh “nóc nhà Pleiku”. Đây là dữ liệu nhận diện mạnh cho mô hình, đặc biệt khi phân biệt với Biển Hồ T’Nưng là miệng núi lửa âm.
+Ưu điểm thứ hai là khả năng kết hợp tuyến: Biển Hồ T’Nưng, Quảng trường Đại Đoàn Kết, Biển Hồ Chè, Chùa Bửu Minh, Núi lửa Chư Đăng Ya, trung tâm Pleiku. Nhờ vậy, địa điểm phù hợp cho cả lịch trình ngắn và lịch trình mở rộng.
 
-Khu vực dưới chân núi có không khí cao nguyên, cà phê, thông, hoa dã quỳ theo mùa và các câu chuyện địa phương. Điều này tạo nhiều lớp nội dung cho chatbot thay vì chỉ trả lời “đi ngắm cảnh”.
+Ưu điểm thứ ba là giá trị văn hóa/cảnh quan: ký ức phố núi, cảnh quan bazan, đời sống nông nghiệp cà phê và không gian sinh thái ngoại ô Pleiku. Đây là phần giúp chuyến đi có chiều sâu hơn việc chỉ check-in.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nhược điểm
 
-Một số nhược điểm và điểm hạn chế. Không đi một mình vào đường vắng, đường rừng hoặc đường dốc khi trời sắp tối. Không rời khỏi nhóm để tìm góc chụp nếu không biết đường. Luôn lưu số điện thoại người đi cùng và điểm đón xe.
+Nhược điểm có thể gặp là thông tin dịch vụ không ổn định, thời tiết ảnh hưởng mạnh, một số khu có thể nắng, dốc, xa điểm gửi xe hoặc ít tiện ích hơn kỳ vọng.
+
+Nếu người dùng mong đợi nhiều trò chơi, mua sắm hoặc dịch vụ cố định, Núi Hàm Rồng có thể không phù hợp trong mọi trường hợp. Cần định hướng đúng bản chất điểm đến là núi lửa cổ/cảnh quan cao nguyên.
+
+Vào mùa cao điểm hoặc ngày lễ, trải nghiệm có thể giảm do đông khách, khó chụp ảnh, khó gửi xe hoặc giá dịch vụ xung quanh tăng.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 10. Kinh nghiệm tránh rủi ro
 
-Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Không đi một mình vào đường vắng, đường rừng hoặc đường dốc khi trời sắp tối. Không rời khỏi nhóm để tìm góc chụp nếu không biết đường. Luôn lưu số điện thoại người đi cùng và điểm đón xe.
+Để tránh rủi ro, nên kiểm tra thời tiết, tuyến đường, giờ hoạt động, giá vé/dịch vụ và thông báo địa phương trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên đi theo nhóm hoặc báo người thân lịch trình nếu đến khu ít người. Không mang quá nhiều đồ giá trị, không để túi xách/điện thoại rời khỏi tầm mắt và luôn chú ý trẻ nhỏ.
+
+Nếu thời tiết xấu, sức khỏe không tốt hoặc khu vực có cảnh báo, nên đổi lịch trình sang điểm trong nhà, quán cà phê, bảo tàng hoặc điểm gần trung tâm.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 11. Nguồn tham khảo
 
-Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
+- https://en.wikipedia.org/wiki/Central_Highlands_(Vietnam)
+- https://baogialai.com.vn/
+- https://gialai.gov.vn/
+- https://vi.wikipedia.org/wiki/Pleiku
 
-Cục Du lịch Quốc gia Việt Nam - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://vietnamtourism.gov.vn/post/61858
-
-Báo Gia Lai - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://baogialai.com.vn/kham-pha-du-lich-sinh-thai-duoi-chan-nui-ham-rong-post314298.html
-
-Báo Nhân Dân - Những miệng núi lửa thu hút khách du lịch ở Gia Lai: https://nhandan.vn/nhung-mieng-nui-lua-thu-hut-khach-du-lich-o-gia-lai-post831743.html
-
-Trang thông tin phường Hội Phú, Gia Lai - Tổng quan về phường Hội Phú: https://hoiphu.gialai.gov.vn/trang-chu/tong-quan-ve-phuong-hoi-phu
-
-Báo điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-DulichPleiku Gia Lai - thông tin tuyến điểm Hàm Rồng, Chư Hdrông và các điểm ngoại ô Pleiku: https://dulichpleiku.gialai.gov.vn/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

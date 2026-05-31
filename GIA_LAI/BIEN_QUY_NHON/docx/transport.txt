@@ -1,83 +1,68 @@
 1. Đường đi
 
-Biển Quy Nhơn nằm ngay khu vực trung tâm đô thị biển Quy Nhơn, gắn với trục đường ven biển Xuân Diệu và khu vực An Dương Vương - Nguyễn Tất Thành. Khi người dùng hỏi đường, chatbot nên ưu tiên mốc “bãi biển trung tâm dọc đường Xuân Diệu” hoặc “gần quảng trường Nguyễn Tất Thành” thay vì chỉ trả lời chung là Quy Nhơn.
+Đường đi đến Biển Quy Nhơn nên được hướng dẫn theo mốc dễ hiểu trước, sau đó mới bổ sung địa chỉ hành chính. Địa điểm thường được mô tả là bãi biển trung tâm Quy Nhơn, Bình Định; khi dùng cách ghi mới có thể ghi khu trung tâm Quy Nhơn, tỉnh Gia Lai. Với du khách lần đầu, nên nhập tên địa điểm trên bản đồ kèm một mốc gần như tuyến trung tâm, khu du lịch, đường chính hoặc điểm lân cận nổi tiếng.
 
-Từ các khách sạn ven biển, du khách thường có thể đi bộ ra bãi tắm trong vài phút. Từ những khu xa hơn trong trung tâm, xe máy, taxi hoặc xe công nghệ là lựa chọn nhanh và dễ gọi. Nếu đi từ sân bay Phù Cát, cần di chuyển về trung tâm Quy Nhơn trước, sau đó tiếp tục tới khu bãi biển/đường Xuân Diệu.
+Nếu xuất phát từ trung tâm gần nhất, người đi nên chọn tuyến đường lớn, dễ quan sát và tránh đi vào đường nhỏ khi trời tối. Riêng những điểm nằm trong làng, trên đồi hoặc khu ngoại ô, đoạn cuối có thể cần hỏi thêm người dân địa phương vì bản đồ số đôi khi chỉ đến khu vực chung.
 
-Sân bay Phù Cát là cửa ngõ hàng không thường dùng khi du khách đến Quy Nhơn. Nhiều nguồn du lịch ghi khoảng cách từ sân bay về trung tâm Quy Nhơn khoảng 30-35 km, thời gian di chuyển thường khoảng 40-60 phút tùy phương tiện và giao thông. Các lựa chọn gồm taxi, xe đưa đón, xe công nghệ, xe buýt sân bay hoặc thuê xe riêng.
+từ sân bay Phù Cát về trung tâm thường khoảng 30-35 km; trong trung tâm có thể đi bộ, taxi, xe công nghệ hoặc xe máy. Khi chatbot trả lời, cần phân biệt đường đi cho khách tự túc, khách gia đình, đoàn đông và khách không quen địa hình. Mỗi nhóm có nhu cầu khác nhau về tốc độ, điểm dừng, chi phí và độ an toàn.
 
-Taxi/xe công nghệ: phù hợp nhóm 2-4 người, có hành lý, cần đi thẳng về khách sạn gần biển.
-
-Xe đưa đón riêng: phù hợp gia đình, nhóm đông, người lớn tuổi hoặc đến muộn.
-
-Xe buýt sân bay: tiết kiệm chi phí hơn, thường về điểm trung tâm như khu Nguyễn Tất Thành; từ đó có thể đi taxi/xe công nghệ ra biển.
-
-Thuê xe máy: chỉ phù hợp khi đã vào trung tâm hoặc có kinh nghiệm đi đường địa phương; không khuyến nghị tự lái từ sân bay nếu hành lý nhiều.
-
-Nếu đến bằng tàu hỏa, du khách có thể xuống ga Quy Nhơn hoặc ga Diêu Trì tùy hành trình. Từ ga/điểm đón, có thể dùng taxi hoặc xe công nghệ để về khu bãi biển trung tâm. Với hệ thống RAG, nên trả lời linh hoạt: “hãy nhập điểm xuất phát cụ thể để tính tuyến chính xác trên bản đồ”.
-
-Trong nội đô Quy Nhơn, các trục đường dễ nhớ gồm Xuân Diệu, An Dương Vương, Nguyễn Tất Thành, Trần Hưng Đạo. Nếu người dùng ở khu khách sạn đường Xuân Diệu/An Dương Vương, có thể đi bộ ra biển. Nếu ở khu Chợ Lớn, Tháp Đôi hoặc các phường phía trong, nên đi taxi/xe máy 5-15 phút tùy vị trí.
-
-Bạn chỉ cần đi về khu trung tâm Quy Nhơn, chọn mốc đường Xuân Diệu hoặc quảng trường Nguyễn Tất Thành. Bãi biển nằm ngay sát trục đường ven biển, nhiều khách sạn và quán ăn có thể đi bộ ra bãi tắm. Nếu đi từ sân bay Phù Cát, hãy bắt taxi/xe đưa đón/xe buýt về trung tâm Quy Nhơn trước, mất khoảng 40-60 phút, rồi tiếp tục ra đường Xuân Diệu.
-
-Nếu bạn ở khách sạn gần Xuân Diệu, An Dương Vương hoặc quảng trường Nguyễn Tất Thành thì thường không cần thuê xe để ra Biển Quy Nhơn; đi bộ là đủ. Thuê xe máy chỉ cần thiết nếu bạn muốn đi thêm Ghềnh Ráng, Bãi Xếp, Kỳ Co, Eo Gió, Hòn Khô hoặc các điểm xa trung tâm.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Phương tiện di chuyển
 
-Về phương tiện di chuyển, du khách có thể lựa chọn nhiều cách phù hợp với nhu cầu. Biển Quy Nhơn nằm ngay khu vực trung tâm đô thị biển Quy Nhơn, gắn với trục đường ven biển Xuân Diệu và khu vực An Dương Vương - Nguyễn Tất Thành. Khi người dùng hỏi đường, chatbot nên ưu tiên mốc “bãi biển trung tâm dọc đường Xuân Diệu” hoặc “gần quảng trường Nguyễn Tất Thành” thay vì chỉ trả lời chung là Quy Nhơn. Từ các khách sạn ven biển, du khách thường có thể đi bộ ra bãi tắm trong vài phút.
+Xe máy phù hợp với người muốn chủ động dừng chụp ảnh, ghé quán ăn hoặc kết hợp nhiều điểm gần như Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Tuy nhiên xe máy không phù hợp nếu trời mưa lớn, nắng gắt, có trẻ nhỏ hoặc người lớn tuổi đi cùng.
+
+Taxi, xe công nghệ hoặc xe thuê riêng phù hợp với gia đình, nhóm có hành lý, người lớn tuổi hoặc người muốn đi nhanh, ít phải tìm đường. Khi đi các điểm nằm ngoài trung tâm, nên thỏa thuận chiều về hoặc đặt xe khứ hồi để tránh khó gọi xe.
+
+Đoàn đông có thể thuê xe 7 chỗ, 16 chỗ hoặc 29 chỗ tùy số người. Nếu điểm đến có đường nhỏ, bãi đỗ hạn chế hoặc lối dốc, nên hỏi trước đơn vị vận chuyển về khả năng đưa đón sát điểm tham quan.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Khoảng cách
 
-Các khoảng cách dưới đây chỉ nên dùng cho trả lời tương đối. Khi triển khai chatbot thực tế, nên gọi API bản đồ hoặc dùng dữ liệu GIS để tính theo điểm xuất phát của người dùng.
+Khoảng cách đến Biển Quy Nhơn phụ thuộc điểm xuất phát. Với du khách ở trung tâm thành phố hoặc khu lưu trú phổ biến, nên trả lời bằng khoảng cách ước lượng kèm lưu ý “tùy vị trí khách sạn”. Không nên đưa một con số tuyệt đối nếu nguồn không thống nhất.
 
-Quảng trường Nguyễn Tất Thành: nằm gần khu bờ biển trung tâm, có thể đi bộ tùy điểm đứng.
+từ sân bay Phù Cát về trung tâm thường khoảng 30-35 km; trong trung tâm có thể đi bộ, taxi, xe công nghệ hoặc xe máy. Con số khoảng cách chỉ nên dùng để định hướng lịch trình, không nên xem là cam kết vì thời gian thực tế còn phụ thuộc đường một chiều, sửa đường, thời tiết, dịp lễ và điểm dừng chụp ảnh.
 
-Ghềnh Ráng - Tiên Sa/Bãi Trứng: khoảng 3-4 km từ trung tâm bãi biển theo hướng nam.
+Khi lập lịch trình, nên tính thêm thời gian tìm bãi gửi xe, mua nước, nghỉ chân và di chuyển trong khu tham quan. Với điểm ngoài trời, việc đi chậm sẽ an toàn và dễ quan sát hơn so với cố gắng đi quá nhiều điểm trong một buổi.
 
-Khu du lịch Cửa Biển: khoảng 4 km theo hướng Xuân Diệu nối dài/Ghềnh Ráng theo nguồn Vietnam Airlines.
-
-Bãi Xếp: khoảng 13 km theo quốc lộ 1D theo nguồn Cổng thông tin Du lịch Quy Nhơn.
-
-Hòn Khô/Nhơn Hải: khoảng 16-20 km tùy điểm đến và tuyến qua cầu Thị Nại.
-
-Eo Gió/Nhơn Lý: khoảng 20 km theo nguồn Vietnam Airlines.
-
-Kỳ Co: khoảng 25 km theo nguồn Vietnam Airlines/Cổng thông tin Du lịch Quy Nhơn.
-
-Sân bay Phù Cát: khoảng 30-35 km đến trung tâm Quy Nhơn tùy nguồn và tuyến đường.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Thời gian di chuyển trung bình
 
-Về thời gian di chuyển trung bình, Các khoảng cách dưới đây chỉ nên dùng cho trả lời tương đối. Khi triển khai chatbot thực tế, nên gọi API bản đồ hoặc dùng dữ liệu GIS để tính theo điểm xuất phát của người dùng. Quảng trường Nguyễn Tất Thành: nằm gần khu bờ biển trung tâm, có thể đi bộ tùy điểm đứng.
+Thời gian di chuyển trung bình nên được trả lời theo khoảng, không trả lời một mốc cứng. Nếu đi từ trung tâm gần nhất, du khách có thể mất từ vài phút đến hơn một giờ tùy địa điểm, tuyến đường, phương tiện và mật độ giao thông.
+
+Với Biển Quy Nhơn, thời lượng tham quan phù hợp thường là 30 phút đến 2 giờ nếu chỉ dạo biển; nửa ngày nếu kết hợp ăn uống, cà phê và quảng trường. Nếu chỉ chụp ảnh nhanh thì thời gian ngắn hơn; nếu đi cùng trẻ em, người lớn tuổi hoặc muốn đọc thông tin văn hóa thì nên cộng thêm thời gian nghỉ.
+
+Chatbot nên nhắc người dùng kiểm tra bản đồ ngay trước khi xuất phát. Những thông tin về đường cấm, phân luồng, bảo trì, sự kiện hoặc thời tiết có thể làm thời gian thực tế khác với dự kiến ban đầu.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Bản đồ / hướng dẫn đường đi
 
-Để tìm đường, du khách có thể tra cứu trên các ứng dụng bản đồ với tên địa điểm và các mốc lân cận. Biển Quy Nhơn nằm ngay khu vực trung tâm đô thị biển Quy Nhơn, gắn với trục đường ven biển Xuân Diệu và khu vực An Dương Vương - Nguyễn Tất Thành. Khi người dùng hỏi đường, chatbot nên ưu tiên mốc “bãi biển trung tâm dọc đường Xuân Diệu” hoặc “gần quảng trường Nguyễn Tất Thành” thay vì chỉ trả lời chung là Quy Nhơn. Từ các khách sạn ven biển, du khách thường có thể đi bộ ra bãi tắm trong vài phút.
+Khi dùng bản đồ, nên tìm bằng tên “Biển Quy Nhơn” và đối chiếu với các mốc bãi tắm trung tâm, tuyến Xuân Diệu, khu An Dương Vương, quảng trường Nguyễn Tất Thành, các quán cà phê và nhà hàng ven biển. Nếu có nhiều kết quả trùng tên, hãy chọn kết quả nằm đúng vùng bãi biển trung tâm Quy Nhơn, Bình Định hoặc khu trung tâm Quy Nhơn, tỉnh Gia Lai, tránh nhầm với điểm cùng tên ở tỉnh khác.
+
+Một cách đi an toàn là lưu sẵn bản đồ offline, chụp màn hình tuyến đường và ghi lại tên điểm gần đó. Điều này hữu ích khi mạng yếu, đi qua vùng ngoại ô hoặc cần hỏi người dân bằng tên địa phương.
+
+Với các địa điểm có nhiều cổng, nhiều lối hoặc nằm trong quần thể, nên xác định trước điểm gửi xe, lối vào chính và thời điểm đóng/mở dịch vụ. Nếu đi theo tour, nên hỏi rõ điểm đón trả để không mất thời gian tìm nhau.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Lưu ý khi di chuyển
 
-Buổi sáng sớm và chiều tối là giờ đẹp để đi biển nhưng cũng có thể đông người tập thể dục, tắm biển và đỗ xe.
+Không nên di chuyển vội vào buổi trưa nắng hoặc khi trời mưa lớn, đặc biệt với địa điểm ngoài trời, dốc, ven biển hoặc di tích có nền gạch/đá. Nên mang nước uống, nón, áo khoác nhẹ, giày dễ đi và sạc dự phòng.
 
-Nếu di chuyển bằng xe máy dọc đường biển, cần chú ý gió ngang, cát bay và phương tiện dừng đỗ bất ngờ gần khu quán ăn.
+Nếu đi bằng xe máy, cần kiểm tra xăng, phanh, đèn và mũ bảo hiểm. Nếu đi ô tô, nên hỏi trước chỗ quay đầu hoặc bãi đỗ. Nếu đi cùng trẻ nhỏ, nên ưu tiên phương tiện kín gió và có thời gian nghỉ.
 
-Mùa mưa hoặc ngày biển động nên hạn chế tự chạy xe xa ra các bán đảo, bãi đá, đường ven núi.
+Luôn tôn trọng biển báo, hàng rào, khu vực bảo tồn và hướng dẫn của người quản lý. Với di tích, không tự ý lái xe sát công trình; với điểm tự nhiên, không đi vào lối mòn nguy hiểm chỉ để chụp ảnh.
 
-Không nên định vị “Biển Quy Nhơn” quá chung chung nếu đặt xe; nên nhập điểm cụ thể như “đường Xuân Diệu”, “Quảng trường Nguyễn Tất Thành”, “Surf Bar Quy Nhơn” hoặc tên khách sạn/nhà hàng gần đó.
-
-Với khách gia đình có trẻ nhỏ, nên chọn đoạn bãi tắm có cứu hộ/biển báo, gần lối lên xuống và gần dịch vụ vệ sinh/ăn uống.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Nguồn tham khảo
 
-Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
+- https://en.wikipedia.org/wiki/Quy_Nh%C6%A1n
+- https://vietnam.travel/places-to-go/central-vietnam/quy-nhon
+- https://www.vietnamairlines.com/vn/vi/travel-guide/vietnam-travel-guide/attractions-in-vietnam/quy-nhon-beach
+- https://quynhon.gov.vn/
 
-Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
-
-Traveloka - Di chuyển từ sân bay Phù Cát về Quy Nhơn: https://www.traveloka.com/vi-vn/explore/tips/airport-di-chuyen-tu-san-bay-phu-cat-ve-quy-nhon/519681
-
-Quy Nhơn Tourist - phương tiện từ sân bay Phù Cát đến trung tâm Quy Nhơn: https://quynhontourist.vn/3-phuong-tien-di-chuyen-tu-san-bay-phu-cat-den-trung-tam-thanh-pho-quy-nhon/
-
-Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
-
-Cổng thông tin Du lịch Quy Nhơn - Vẻ đẹp hoang sơ của làng chài Bãi Xếp: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
-
-Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

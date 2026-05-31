@@ -1,91 +1,104 @@
 1. Hoạt động du lịch chính
 
-Biển Quy Nhơn phù hợp nhất với các hoạt động nhẹ, dễ tiếp cận: tắm biển gần bờ, đi bộ dọc bãi cát, chạy bộ/chạy chậm trên đường ven biển, chụp ảnh bình minh, uống cà phê view biển, ăn hải sản, dạo quảng trường và quan sát đời sống địa phương. Đây là nơi nên ghé hằng ngày trong lịch trình Quy Nhơn nếu du khách ở gần trung tâm.
+Hoạt động chính tại Biển Quy Nhơn gồm tắm biển gần bờ, ngắm bình minh, đi bộ/chạy bộ ven biển, chụp ảnh hoàng hôn, ăn hải sản, uống cà phê view biển. Đây là các trải nghiệm dễ giới thiệu cho khách lần đầu vì gắn trực tiếp với đặc điểm nhận diện của địa điểm.
 
-Tắm biển: nên chọn đoạn có nhiều người, có biển báo an toàn và không ra xa khi sóng lớn.
+Nếu người dùng hỏi “có gì chơi”, chatbot nên trả lời theo kiểu lựa chọn: trải nghiệm nhẹ cho gia đình, trải nghiệm chụp ảnh, trải nghiệm tìm hiểu văn hóa và trải nghiệm kết hợp tuyến gần. Không nên chỉ đưa một danh sách ngắn thiếu bối cảnh.
 
-Ngắm bình minh: bãi biển hướng Đông nên sáng sớm là thời điểm đẹp, nhiều ánh sáng mềm.
+Điểm cần nhấn mạnh là không phải hoạt động nào cũng phù hợp mọi mùa. Một số hoạt động phụ thuộc thời tiết, ánh sáng, lượng khách hoặc quy định quản lý. Vì vậy nên kèm lời khuyên kiểm tra trước khi đi.
 
-Đi dạo/chạy bộ: tuyến đường ven biển thoáng, phù hợp vận động nhẹ.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Chụp ảnh đô thị biển: góc bờ cong, hàng dừa/công viên, nền núi xa và mặt biển rộng.
-
-Ăn uống: trải nghiệm hải sản, bún chả cá, bánh xèo tôm nhảy, nem chợ Huyện và các món xứ Nẫu ở khu trung tâm.
-
-Góc check-in đặc trưng là bãi cát dài cong theo vịnh. Ảnh đẹp nhất khi có chiều sâu: phía trước là bãi cát, giữa ảnh là người/hoạt động tắm biển, phía sau là mặt nước và dãy núi xa. Nếu có flycam hoặc ảnh từ cao, đường cong vầng trăng khuyết là tín hiệu thị giác mạnh để nhận diện Biển Quy Nhơn.
-
-Đường Xuân Diệu là mốc định vị quen thuộc của bãi biển trung tâm, có nhiều nhà hàng, quán cà phê, khách sạn và điểm dạo bộ. Với ảnh đường phố, có thể nhận diện qua không gian ven biển mở, hàng quán sát biển, dòng người đi bộ và ánh đèn buổi tối.
-
-Quảng trường Nguyễn Tất Thành là điểm hẹn gần biển, phù hợp đi dạo buổi tối và dự sự kiện. Nguồn Vietnam Airlines mô tả đây là không gian công cộng xanh mát, thường diễn ra hoạt động văn hóa/sự kiện âm nhạc và là nơi lý tưởng hóng gió mỗi tối.
-
-Ghềnh Ráng - Tiên Sa, Bãi Trứng/Bãi Hoàng Hậu, khu mộ Hàn Mặc Tử và Trại phong Quy Hòa là các điểm nên đưa vào lịch trình nửa ngày nếu du khách muốn rời bãi biển trung tâm nhưng không muốn đi quá xa.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Điểm check-in nổi bật
 
-Một số điểm check-in nổi bật mà du khách thường lựa chọn. Biển Quy Nhơn phù hợp nhất với các hoạt động nhẹ, dễ tiếp cận: tắm biển gần bờ, đi bộ dọc bãi cát, chạy bộ/chạy chậm trên đường ven biển, chụp ảnh bình minh, uống cà phê view biển, ăn hải sản, dạo quảng trường và quan sát đời sống địa phương. Đây là nơi nên ghé hằng ngày trong lịch trình Quy Nhơn nếu du khách ở gần trung tâm. Tắm biển: nên chọn đoạn có nhiều người, có biển báo an toàn và không ra xa khi sóng lớn.
+Điểm check-in nổi bật nhất là các góc thể hiện rõ đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Ảnh nên lấy đủ bối cảnh để người xem nhận ra địa điểm chứ không chỉ chụp cận một chi tiết khó phân biệt.
+
+Góc ảnh rộng giúp thấy bãi cát rộng, mặt biển hướng Đông, đường dạo, hàng dừa/cây xanh ven biển, nền xa là bán đảo Phương Mai và các dãy núi thấp. Góc ảnh cận giúp nhấn mạnh vật liệu, đường nét, màu sắc, cây xanh, đá, nước hoặc công trình biểu tượng. Với dữ liệu nhận diện ảnh, nên ưu tiên ảnh sáng rõ, ít người che khuất và không chỉnh màu quá mạnh.
+
+Khi đông khách, nên chọn góc chụp lệch, chờ khoảng trống hoặc đi sớm. Không nên leo rào, trèo lên di tích, bước vào khu cấm hoặc làm ảnh hưởng người khác chỉ để có ảnh đẹp.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Trải nghiệm theo từng khu vực
 
-Trải nghiệm tại địa điểm có thể chia theo từng khu vực khác nhau. Biển Quy Nhơn phù hợp nhất với các hoạt động nhẹ, dễ tiếp cận: tắm biển gần bờ, đi bộ dọc bãi cát, chạy bộ/chạy chậm trên đường ven biển, chụp ảnh bình minh, uống cà phê view biển, ăn hải sản, dạo quảng trường và quan sát đời sống địa phương. Đây là nơi nên ghé hằng ngày trong lịch trình Quy Nhơn nếu du khách ở gần trung tâm. Tắm biển: nên chọn đoạn có nhiều người, có biển báo an toàn và không ra xa khi sóng lớn.
+Khu vực chính của Biển Quy Nhơn gồm bãi tắm trung tâm, tuyến Xuân Diệu, khu An Dương Vương, quảng trường Nguyễn Tất Thành, các quán cà phê và nhà hàng ven biển. Mỗi khu có vai trò khác nhau: có nơi để nhận diện, có nơi để nghỉ chân, có nơi để tìm hiểu văn hóa, có nơi để chụp toàn cảnh hoặc quan sát đời sống địa phương.
+
+Du khách nên đi theo trình tự từ dễ tiếp cận đến sâu hơn. Đi nhanh quá dễ bỏ qua các chi tiết quan trọng, còn ở quá lâu tại một điểm phụ có thể làm lỡ khung giờ đẹp của điểm chính.
+
+Nếu đi cùng trẻ em hoặc người lớn tuổi, nên ưu tiên khu bằng phẳng, gần lối ra, gần dịch vụ và có bóng mát. Những khu dốc, đá, bậc thang hoặc xa điểm gửi xe nên cân nhắc sức khỏe trước khi vào.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Những thứ nên thử
 
-Khi đến đây, du khách nên thử một số trải nghiệm tiêu biểu. Biển Quy Nhơn phù hợp nhất với các hoạt động nhẹ, dễ tiếp cận: tắm biển gần bờ, đi bộ dọc bãi cát, chạy bộ/chạy chậm trên đường ven biển, chụp ảnh bình minh, uống cà phê view biển, ăn hải sản, dạo quảng trường và quan sát đời sống địa phương. Đây là nơi nên ghé hằng ngày trong lịch trình Quy Nhơn nếu du khách ở gần trung tâm. Tắm biển: nên chọn đoạn có nhiều người, có biển báo an toàn và không ra xa khi sóng lớn.
+Nên thử quan sát địa điểm ở hai khoảng cách: nhìn tổng thể để hiểu bố cục và nhìn gần để nhận ra chi tiết. Cách này đặc biệt hữu ích với bãi biển đô thị, vì giá trị của địa điểm thường nằm ở cả không gian chung và những dấu hiệu nhỏ.
+
+Nên thử kết hợp trải nghiệm tại chỗ với ẩm thực hoặc điểm gần đó. Sau khi tham quan Biển Quy Nhơn, du khách có thể tìm các món như hải sản, bún chả cá Quy Nhơn, bánh xèo tôm nhảy, chả ram tôm đất, bánh hỏi cháo lòng, tré hoặc ghé tuyến Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp nếu còn thời gian.
+
+Nên thử hỏi người dân địa phương, nhân viên điểm đến hoặc hướng dẫn viên về thời điểm đẹp, góc ảnh tốt và câu chuyện ít được ghi trong bài review. Tuy nhiên thông tin truyền miệng nên được ghi nhận ở mức tham khảo.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Những điều không nên bỏ lỡ
 
-Có những điều bạn không nên bỏ lỡ khi tham quan. Biển Quy Nhơn phù hợp nhất với các hoạt động nhẹ, dễ tiếp cận: tắm biển gần bờ, đi bộ dọc bãi cát, chạy bộ/chạy chậm trên đường ven biển, chụp ảnh bình minh, uống cà phê view biển, ăn hải sản, dạo quảng trường và quan sát đời sống địa phương. Đây là nơi nên ghé hằng ngày trong lịch trình Quy Nhơn nếu du khách ở gần trung tâm. Tắm biển: nên chọn đoạn có nhiều người, có biển báo an toàn và không ra xa khi sóng lớn.
+Không nên bỏ lỡ chi tiết nhận diện chính: đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Đây là phần giúp chuyến đi có điểm nhấn và giúp ảnh chụp sau này không bị lẫn với địa điểm khác.
+
+Không nên bỏ lỡ bối cảnh vùng xung quanh. Biển Quy Nhơn có liên hệ với Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp, vì vậy một lịch trình tốt thường không chỉ dừng ở một điểm mà sắp xếp các điểm theo tuyến hợp lý.
+
+Không nên bỏ lỡ các lưu ý ứng xử. Dù là điểm thiên nhiên, di tích, chùa, quảng trường hay khu dịch vụ, du khách đều nên giữ vệ sinh, không gây ồn quá mức, không xâm phạm khu cấm và tôn trọng cộng đồng địa phương.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Thời lượng tham quan đề xuất
 
-Về thời lượng tham quan đề xuất, 05:30-07:00: ra Biển Quy Nhơn ngắm bình minh, đi bộ hoặc tắm biển gần bờ. 07:00-08:00: ăn sáng với bún chả cá/bún sứa hoặc cà phê ven biển. 08:00-10:30: ghé Ghềnh Ráng - Tiên Sa hoặc Tháp Đôi nếu muốn thêm trải nghiệm văn hóa/cảnh quan.
+Thời lượng tham quan đề xuất cho Biển Quy Nhơn là 30 phút đến 2 giờ nếu chỉ dạo biển; nửa ngày nếu kết hợp ăn uống, cà phê và quảng trường. Khoảng này phù hợp với khách đi tự túc muốn quan sát, chụp ảnh và nghỉ ngắn.
+
+Nếu chỉ ghé nhanh, có thể rút ngắn thời gian nhưng nên ưu tiên khu nhận diện chính. Nếu muốn quay video, chụp bộ ảnh, tìm hiểu lịch sử hoặc đi cùng gia đình, nên cộng thêm thời gian nghỉ và di chuyển nội khu.
+
+Không nên xếp quá nhiều điểm xa nhau trong một buổi. Lịch trình tốt là lịch trình có thời gian dự phòng cho thời tiết, giao thông, ăn uống và thay đổi kế hoạch.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Lịch trình tham quan gợi ý
 
-05:30-07:00: ra Biển Quy Nhơn ngắm bình minh, đi bộ hoặc tắm biển gần bờ.
+Lịch trình ngắn: đến Biển Quy Nhơn, xác định khu nhận diện chính, đi một vòng quan sát, chụp ảnh, nghỉ vài phút rồi di chuyển đến điểm ăn uống hoặc cà phê gần đó. Lịch trình này phù hợp với khách có ít thời gian.
 
-07:00-08:00: ăn sáng với bún chả cá/bún sứa hoặc cà phê ven biển.
+Lịch trình nửa ngày: kết hợp Biển Quy Nhơn với Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Nên sắp xếp điểm ngoài trời vào sáng sớm hoặc chiều mát, còn điểm trong nhà/quán ăn vào lúc nắng hoặc mưa.
 
-08:00-10:30: ghé Ghềnh Ráng - Tiên Sa hoặc Tháp Đôi nếu muốn thêm trải nghiệm văn hóa/cảnh quan.
+Lịch trình một ngày: chọn một tuyến rõ ràng, không nhảy quá nhiều hướng. Ví dụ đi theo cụm trung tâm, cụm biển đảo, cụm cao nguyên hoặc cụm di tích. Cách này giúp giảm thời gian di chuyển và tăng chất lượng trải nghiệm.
 
-Chiều 16:30-18:30: quay lại biển đi dạo, chụp ảnh hoàng hôn và ăn hải sản đường Xuân Diệu.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Sáng: Biển Quy Nhơn - quảng trường Nguyễn Tất Thành - cà phê ven biển.
-
-Trưa: ăn hải sản hoặc món địa phương, nghỉ tại khách sạn.
-
-Chiều: Ghềnh Ráng - Bãi Trứng - mộ Hàn Mặc Tử hoặc Bãi Xếp nếu muốn không gian làng chài.
-
-Tối: dạo Xuân Diệu, ăn tối, ngồi quán biển hoặc tham gia sự kiện nếu đúng dịp lễ hội.
-
-Ngày 1 nên dành cho Biển Quy Nhơn trung tâm, city tour và ẩm thực. Ngày 2 có thể đi Kỳ Co - Eo Gió hoặc Hòn Khô/Nhơn Hải để trải nghiệm cano, lặn ngắm san hô, làng chài. Ngày 3 có thể ghé Bãi Xếp, Quy Hòa, Tháp Đôi, Đầm Thị Nại hoặc chợ/đặc sản trước khi ra sân bay.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Kinh nghiệm tham quan
 
-Mang kem chống nắng, nón, kính râm, nước uống; mùa hè nắng miền Trung khá gắt.
+Kinh nghiệm quan trọng nhất là kiểm tra thời tiết, giờ hoạt động và tình trạng dịch vụ trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Đi biển buổi sáng sớm để cảm nhận nhịp sống địa phương và tránh nắng nóng.
+Nên chuẩn bị nước uống, giấy tờ cá nhân, điện thoại đủ pin, giày dễ đi, nón/áo khoác chống nắng hoặc áo mưa mỏng. Với điểm di tích và chùa, nên chọn trang phục lịch sự; với điểm biển hoặc đồi núi, nên ưu tiên an toàn hơn ảnh đẹp.
 
-Không để tư trang một mình trên bãi cát khi xuống tắm biển.
+Khi hỏi chatbot, người dùng có thể nêu rõ đi với ai, đi tháng nào, xuất phát từ đâu và có bao nhiêu thời gian. Dữ liệu này giúp hệ thống đưa lịch trình sát hơn thay vì trả lời chung chung.
 
-Nên hỏi giá trước khi dùng dịch vụ ghế, gửi xe, ăn uống, thuê đồ chơi biển.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Nếu muốn ảnh đẹp, chọn trang phục sáng màu, tránh màu quá trùng với cát/nước, chụp trước 8h hoặc sau 16h.
-
-Nếu có trẻ nhỏ, chọn đoạn nước nông, có nhiều người tắm, tránh khu vực sóng mạnh hoặc dòng chảy lạ.
-
-Nếu định đi Kỳ Co/Hòn Khô/Cù Lao Xanh trong cùng chuyến, cần kiểm tra thời tiết biển trước vì cano/tàu phụ thuộc sóng gió.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-Vietnam Travel - Binh Dinh: Where the Surf Meets the Soul: https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
+- https://en.wikipedia.org/wiki/Quy_Nh%C6%A1n
+- https://vietnam.travel/places-to-go/central-vietnam/quy-nhon
+- https://www.vietnamairlines.com/vn/vi/travel-guide/vietnam-travel-guide/attractions-in-vietnam/quy-nhon-beach
+- https://quynhon.gov.vn/
 
-Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
-
-Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
-
-Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
-
-Cổng thông tin Du lịch Quy Nhơn - Vẻ đẹp hoang sơ của làng chài Bãi Xếp: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
-
-Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

@@ -1,99 +1,128 @@
 1. Lưu ý khi tham quan
 
-Theo dõi thời tiết và biển động, nhất là khi dự định tắm biển, cho trẻ nhỏ xuống nước hoặc đi tour đảo.
+Khi tham quan Biển Quy Nhơn, du khách nên chuẩn bị theo loại hình bãi biển đô thị. Điểm ngoài trời cần chống nắng/chống mưa; điểm di tích cần tôn trọng bảo tồn; điểm tâm linh cần trang phục lịch sự; điểm dịch vụ cần kiểm tra vé và giờ hoạt động.
 
-Tránh tắm biển lúc trời tối, sóng mạnh, mưa dông hoặc khu vực có biển cảnh báo nguy hiểm.
+Không nên đi quá sát giờ đóng cửa hoặc quá muộn nếu địa điểm ít người. Nên mang nước, sạc dự phòng, giày phù hợp và xác định trước điểm gửi xe/lối ra.
 
-Không bơi quá xa bờ, không bơi một mình và không chủ quan vì bãi biển trung tâm vẫn có thể có dòng chảy, sóng, hố cát.
+Thông tin tham khảo, cần kiểm tra lại trước khi đi. Đặc biệt với thông tin giá vé, giờ mở cửa, số điện thoại, dịch vụ và quy định mới, cần kiểm tra lại trước khi đi.
 
-Giữ đồ cá nhân cẩn thận; không để điện thoại, ví tiền, máy ảnh một mình trên bãi.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Hỏi giá trước khi gửi xe, thuê ghế, mua hải sản, gọi món theo kg hoặc dùng dịch vụ tự phát.
-
-Giữ vệ sinh bãi biển; không xả rác, không mang thủy tinh sắc nhọn xuống bãi cát.
-
-Dùng kem chống nắng, nón, kính râm và uống đủ nước vào mùa nắng.
-
-Có thể đi nếu bạn chủ yếu nghỉ dưỡng, ăn uống và city tour, nhưng trải nghiệm tắm biển/đi đảo phụ thuộc thời tiết. Trước ngày đi nên kiểm tra dự báo mưa, gió, biển động và lịch cano/tàu nếu có kế hoạch ra đảo.
-
-Bãi biển trung tâm Quy Nhơn được mô tả như không gian bãi tắm đô thị, không thấy thông tin vé vào cổng riêng trong các nguồn tham khảo. Tuy nhiên, bạn vẫn có thể phát sinh chi phí gửi xe, ăn uống, thuê dịch vụ hoặc vé/tour tại các điểm lân cận như Kỳ Co, Eo Gió, Hòn Khô.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Quy định tại địa điểm
 
-Về quy định tại địa điểm, Theo dõi thời tiết và biển động, nhất là khi dự định tắm biển, cho trẻ nhỏ xuống nước hoặc đi tour đảo. Tránh tắm biển lúc trời tối, sóng mạnh, mưa dông hoặc khu vực có biển cảnh báo nguy hiểm. Không bơi quá xa bờ, không bơi một mình và không chủ quan vì bãi biển trung tâm vẫn có thể có dòng chảy, sóng, hố cát.
+Quy định thường gặp gồm giữ vệ sinh, không xả rác, không gây ồn, không phá hoại cây xanh/công trình, không tự ý vào khu vực cấm và tuân thủ hướng dẫn của nhân viên hoặc biển báo.
+
+Với Biển Quy Nhơn, cần chú ý quy định ứng xử phù hợp với đời sống biển, ẩm thực hải sản, văn hóa xứ Nẫu, nhịp sống đô thị ven biển và ký ức cảng thị miền Trung. Nếu là di tích, không leo trèo/chạm khắc lên công trình; nếu là chùa, nói chuyện nhỏ và ăn mặc lịch sự; nếu là điểm tự nhiên, không bẻ cây, ném rác hoặc mạo hiểm.
+
+Khi có sự kiện, bảo trì hoặc thời tiết xấu, quy định có thể thay đổi tạm thời. Chatbot nên nhắc người dùng kiểm tra thông báo mới nhất nếu đi vào dịp đặc biệt.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Điều cấm / hạn chế
 
-Một số điều cấm và hạn chế cần lưu ý. Theo dõi thời tiết và biển động, nhất là khi dự định tắm biển, cho trẻ nhỏ xuống nước hoặc đi tour đảo. Tránh tắm biển lúc trời tối, sóng mạnh, mưa dông hoặc khu vực có biển cảnh báo nguy hiểm. Không bơi quá xa bờ, không bơi một mình và không chủ quan vì bãi biển trung tâm vẫn có thể có dòng chảy, sóng, hố cát.
+Không leo rào, không đi vào khu vực hạn chế, không vẽ bậy, không tự ý lấy hiện vật/cây/đá, không gây ảnh hưởng đến khách khác hoặc người dân địa phương.
+
+Không nên dùng flycam, quay chụp thương mại hoặc tổ chức hoạt động nhóm lớn nếu chưa hỏi quy định. Một số khu vực có thể hạn chế thiết bị bay, loa kéo, trang trí, dựng cảnh hoặc quay phim.
+
+Với khu vực dốc, đá, ven nước hoặc công trình cổ, không nên mạo hiểm để chụp ảnh. An toàn và bảo tồn luôn quan trọng hơn việc có góc ảnh lạ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Mức độ đông khách
 
-Biển Quy Nhơn thường đông hơn vào sáng sớm và chiều tối vì người dân địa phương cũng tắm biển, tập thể dục, đi dạo. Cuối tuần, kỳ nghỉ hè, lễ/tết và thời gian có sự kiện quanh quảng trường hoặc marathon, khu biển trung tâm có thể đông rõ rệt. Buổi trưa nắng thường vắng hơn nhưng không phải khung giờ tốt để tắm biển.
+Mức độ đông khách tại Biển Quy Nhơn thường tăng vào cuối tuần, ngày lễ, mùa du lịch, khung giờ chiều mát hoặc khi có sự kiện. Ngày thường và sáng sớm thường dễ tham quan hơn.
 
-Khách muốn không gian yên tĩnh nên chọn sáng sớm ngày thường, tránh khu vực sát quảng trường vào lúc có sự kiện, hoặc đi Bãi Xếp/Quy Hòa nếu thích vắng hơn. Khách muốn không khí nhộn nhịp nên đi chiều tối, khu Xuân Diệu và quảng trường.
+Nếu muốn ảnh ít người, nên đi sớm hoặc chọn góc phụ. Nếu đi đoàn đông, cần thống nhất điểm hẹn, thời gian tập trung và người phụ trách để tránh lạc nhóm.
+
+Khi quá đông, nên ưu tiên quan sát tổng thể, giữ đồ cá nhân, không chen lấn và tránh dừng lâu ở lối đi chính.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Độ an toàn
 
-Ưu điểm an toàn của Biển Quy Nhơn là nằm ngay trung tâm, gần đường lớn, gần khách sạn, quán ăn, dịch vụ gọi xe và cơ sở hỗ trợ. Đây là lợi thế so với các bãi xa hoặc đảo. Tuy nhiên, an toàn khi tắm biển vẫn phụ thuộc thời tiết, sóng, thủy triều, dòng chảy, kỹ năng bơi và việc tuân thủ biển báo.
+Độ an toàn phụ thuộc thời tiết, nền đường, lượng khách và ý thức cá nhân. Với Biển Quy Nhơn, du khách nên chú ý các yếu tố như nắng, mưa, dốc, đá, xe cộ, khu vực nước sâu hoặc công trình cần bảo tồn nếu có.
 
-Khả năng tiếp cận tương đối tốt cho nhiều nhóm khách: người không có xe riêng vẫn đi được bằng taxi/xe công nghệ; khách ở ven biển có thể đi bộ; người lớn tuổi có thể ngồi quán/công viên gần biển. Một số đoạn bãi có thể có bậc xuống, cát mềm hoặc lối lên xuống không thuận tiện cho xe lăn, vì vậy cần kiểm tra khách sạn/điểm đến cụ thể nếu khách có nhu cầu tiếp cận đặc biệt.
+Gia đình có trẻ nhỏ nên luôn đi kèm người lớn, tránh để trẻ chạy sát mép nước, mép dốc, bậc cao hoặc khu vực đông xe. Người lớn tuổi nên có thời gian nghỉ và tránh đi lúc nắng gắt.
 
-Biển Quy Nhơn khá thuận tiện vì nằm ngay trung tâm, gần đường lớn và dịch vụ hỗ trợ. Tuy nhiên, khi tắm biển bạn vẫn nên chọn khu có nhiều người, tuân thủ biển báo, không bơi xa bờ và tránh xuống nước khi trời mưa dông, sóng lớn hoặc thiếu ánh sáng.
+Nếu có biển cảnh báo hoặc nhân viên nhắc nhở, cần tuân thủ. Không nên dựa vào kinh nghiệm cá nhân để bỏ qua cảnh báo tại chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Khả năng tiếp cận
 
-Ưu điểm an toàn của Biển Quy Nhơn là nằm ngay trung tâm, gần đường lớn, gần khách sạn, quán ăn, dịch vụ gọi xe và cơ sở hỗ trợ. Đây là lợi thế so với các bãi xa hoặc đảo. Tuy nhiên, an toàn khi tắm biển vẫn phụ thuộc thời tiết, sóng, thủy triều, dòng chảy, kỹ năng bơi và việc tuân thủ biển báo.
+Khả năng tiếp cận của Biển Quy Nhơn cần được mô tả theo từng nhóm: người đi bộ, xe máy, ô tô, gia đình, người lớn tuổi và người hạn chế vận động. Không phải điểm nào cũng có lối bằng phẳng hoặc hỗ trợ xe lăn.
 
-Khả năng tiếp cận tương đối tốt cho nhiều nhóm khách: người không có xe riêng vẫn đi được bằng taxi/xe công nghệ; khách ở ven biển có thể đi bộ; người lớn tuổi có thể ngồi quán/công viên gần biển. Một số đoạn bãi có thể có bậc xuống, cát mềm hoặc lối lên xuống không thuận tiện cho xe lăn, vì vậy cần kiểm tra khách sạn/điểm đến cụ thể nếu khách có nhu cầu tiếp cận đặc biệt.
+Những yếu tố cần kiểm tra gồm khoảng cách từ bãi xe đến điểm chính, bậc thang, độ dốc, nền đá/cát, bóng mát, nhà vệ sinh và điểm nghỉ chân. Nếu thiếu thông tin, chatbot nên khuyên hỏi trước đơn vị quản lý hoặc người địa phương.
+
+Với người cần hỗ trợ đặc biệt, nên đi cùng người thân, chọn giờ mát và không đặt lịch quá dày. Lịch trình nhẹ thường đem lại trải nghiệm tốt hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Review tổng hợp
 
-Tổng hợp đánh giá chung từ du khách. Rất tiện vì nằm trong trung tâm, dễ đi bộ từ nhiều khách sạn. Cảnh quan đẹp, bãi cát dài, đường cong vịnh dễ nhận diện. Nhiều hoạt động miễn phí hoặc chi phí thấp.
+Review tổng hợp về Biển Quy Nhơn thường xoay quanh các điểm: dễ nhận diện, có giá trị tham quan, phù hợp chụp ảnh và có thể ghép tuyến với Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Điểm đến này không nên được giới thiệu như một khu vui chơi mọi dịch vụ nếu bản chất là di tích, cảnh quan hoặc không gian mở.
+
+Điểm được đánh giá cao là đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Điểm cần cân nhắc là thời tiết, lượng khách, dịch vụ thay đổi và khả năng tiếp cận từng khu.
+
+Khi tổng hợp review, nên ưu tiên nguồn gần đây và nguồn đáng tin. Review cá nhân hữu ích cho trải nghiệm thực tế nhưng không thay thế thông báo chính thức về giá, giờ mở cửa và quy định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Ưu điểm
 
-Rất tiện vì nằm trong trung tâm, dễ đi bộ từ nhiều khách sạn.
+Ưu điểm lớn của Biển Quy Nhơn là có dấu hiệu nhận diện rõ: đường bờ cong hình vầng trăng khuyết, bãi cát vàng dài, trục Xuân Diệu - An Dương Vương, công viên ven biển và quảng trường Nguyễn Tất Thành. Điều này giúp du khách dễ nhớ, dễ chụp ảnh và giúp hệ thống nhận diện địa điểm tốt hơn.
 
-Cảnh quan đẹp, bãi cát dài, đường cong vịnh dễ nhận diện.
+Ưu điểm thứ hai là khả năng kết hợp tuyến: Ghềnh Ráng - Tiên Sa, Bãi Trứng, Tháp Đôi, Đầm Thị Nại, Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp. Nhờ vậy, địa điểm phù hợp cho cả lịch trình ngắn và lịch trình mở rộng.
 
-Nhiều hoạt động miễn phí hoặc chi phí thấp.
+Ưu điểm thứ ba là giá trị văn hóa/cảnh quan: đời sống biển, ẩm thực hải sản, văn hóa xứ Nẫu, nhịp sống đô thị ven biển và ký ức cảng thị miền Trung. Đây là phần giúp chuyến đi có chiều sâu hơn việc chỉ check-in.
 
-Dịch vụ ăn uống, cà phê, lưu trú và vận chuyển xung quanh phong phú.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Phù hợp nhiều nhóm khách: gia đình, cặp đôi, khách công tác, người lớn tuổi.
-
-Dễ kết hợp city tour và các điểm biển đảo quanh Quy Nhơn.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nhược điểm
 
-Không hoang sơ như Kỳ Co, Hòn Khô, Bãi Xếp hoặc Cù Lao Xanh.
+Nhược điểm có thể gặp là thông tin dịch vụ không ổn định, thời tiết ảnh hưởng mạnh, một số khu có thể nắng, dốc, xa điểm gửi xe hoặc ít tiện ích hơn kỳ vọng.
 
-Có thể đông vào cao điểm, cuối tuần hoặc khung giờ chiều tối.
+Nếu người dùng mong đợi nhiều trò chơi, mua sắm hoặc dịch vụ cố định, Biển Quy Nhơn có thể không phù hợp trong mọi trường hợp. Cần định hướng đúng bản chất điểm đến là bãi biển đô thị.
 
-Nắng gắt mùa hè; trải nghiệm giữa trưa không tốt nếu không có chỗ nghỉ.
+Vào mùa cao điểm hoặc ngày lễ, trải nghiệm có thể giảm do đông khách, khó chụp ảnh, khó gửi xe hoặc giá dịch vụ xung quanh tăng.
 
-Một số dịch vụ/giá cả thay đổi theo mùa, cần hỏi trước.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Thông tin cứu hộ, WC/tắm tráng, ghế/chòi không đồng nhất ở mọi đoạn bãi.
-
-Nếu kỳ vọng lặn san hô/cano/ngắm bãi đá hoang sơ, cần đi các điểm ngoại vi chứ không chỉ ở bãi biển trung tâm.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 10. Kinh nghiệm tránh rủi ro
 
-Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Ưu điểm an toàn của Biển Quy Nhơn là nằm ngay trung tâm, gần đường lớn, gần khách sạn, quán ăn, dịch vụ gọi xe và cơ sở hỗ trợ. Đây là lợi thế so với các bãi xa hoặc đảo. Tuy nhiên, an toàn khi tắm biển vẫn phụ thuộc thời tiết, sóng, thủy triều, dòng chảy, kỹ năng bơi và việc tuân thủ biển báo.
+Để tránh rủi ro, nên kiểm tra thời tiết, tuyến đường, giờ hoạt động, giá vé/dịch vụ và thông báo địa phương trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên đi theo nhóm hoặc báo người thân lịch trình nếu đến khu ít người. Không mang quá nhiều đồ giá trị, không để túi xách/điện thoại rời khỏi tầm mắt và luôn chú ý trẻ nhỏ.
+
+Nếu thời tiết xấu, sức khỏe không tốt hoặc khu vực có cảnh báo, nên đổi lịch trình sang điểm trong nhà, quán cà phê, bảo tàng hoặc điểm gần trung tâm.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 11. Nguồn tham khảo
 
-Vietnam Travel - Binh Dinh: Where the Surf Meets the Soul: https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
+- https://en.wikipedia.org/wiki/Quy_Nh%C6%A1n
+- https://vietnam.travel/places-to-go/central-vietnam/quy-nhon
+- https://www.vietnamairlines.com/vn/vi/travel-guide/vietnam-travel-guide/attractions-in-vietnam/quy-nhon-beach
+- https://quynhon.gov.vn/
 
-Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
-
-Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
-
-Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
-
-VinWonders - Quy Nhon weather: typical features and useful travel tips: https://vinwonders.com/en/wonderpedia/news/quy-nhon-weather/
-
-WeatherSpark - Average Weather in Qui Nhon, Vietnam: https://weatherspark.com/y/120742/Average-Weather-in-Qui-Nhon-Vietnam
-
-Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

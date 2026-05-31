@@ -1,99 +1,104 @@
 1. Hoạt động du lịch chính
 
-Hoạt động phổ biến nhất là đi bộ tham quan các khu vực chính. Du khách thường đi từ cổng vào, lên Dốc Mộng Cầm, ghé Đồi Thi Nhân và mộ Hàn Mặc Tử, sau đó xuống hoặc vòng qua khu Bãi tắm Hoàng Hậu/Bãi Đá Trứng để ngắm cảnh và chụp ảnh.
+Hoạt động chính tại Ghềnh Ráng - Tiên Sa gồm ngắm cảnh, chụp ảnh, đi bộ nhẹ, tìm hiểu Hàn Mặc Tử, chụp bãi đá, ngắm biển từ trên cao. Đây là các trải nghiệm dễ giới thiệu cho khách lần đầu vì gắn trực tiếp với đặc điểm nhận diện của địa điểm.
 
-Hoạt động thứ hai là chụp ảnh phong cảnh. Các bối cảnh dễ chụp gồm lối dốc dưới tán cây, bia thơ, khu mộ Hàn Mặc Tử, bãi đá trứng, các điểm nhìn hướng ra biển Quy Nhơn và những góc có núi, biển, cây xanh trong cùng khung hình.
+Nếu người dùng hỏi “có gì chơi”, chatbot nên trả lời theo kiểu lựa chọn: trải nghiệm nhẹ cho gia đình, trải nghiệm chụp ảnh, trải nghiệm tìm hiểu văn hóa và trải nghiệm kết hợp tuyến gần. Không nên chỉ đưa một danh sách ngắn thiếu bối cảnh.
 
-Hoạt động thứ ba là tìm hiểu văn hóa Hàn Mặc Tử. Du khách có thể đọc thơ khắc trên đá, nghe thuyết minh về cuộc đời nhà thơ, viếng mộ và cảm nhận không gian thi ca ở Đồi Thi Nhân.
+Điểm cần nhấn mạnh là không phải hoạt động nào cũng phù hợp mọi mùa. Một số hoạt động phụ thuộc thời tiết, ánh sáng, lượng khách hoặc quy định quản lý. Vì vậy nên kèm lời khuyên kiểm tra trước khi đi.
 
-Hoạt động thứ tư là tham quan Nhà thờ Đá Ghềnh Ráng hoặc khu tôn giáo gần đó. Đây là trải nghiệm phù hợp với khách yêu kiến trúc, thích không gian yên tĩnh hoặc muốn kết hợp du lịch văn hóa - tâm linh.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Hoạt động thứ năm là nghỉ chân và thưởng thức đồ uống, đặc sản ở khu vực lân cận. Vì điểm này nằm gần trung tâm nên khách có thể kết hợp ăn uống sau chuyến tham quan mà không cần di chuyển xa.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Điểm check-in nổi bật
 
-Bãi tắm Hoàng Hậu/Bãi Đá Trứng là điểm check-in nổi bật nhất. Hình ảnh các viên đá tròn, nhẵn, nằm sát biển tạo hiệu ứng thị giác rất dễ nhận diện. Khi chụp ảnh tại đây, nên chọn vị trí an toàn, tránh đứng trên đá ướt hoặc quá gần sóng.
+Điểm check-in nổi bật nhất là các góc thể hiện rõ Bãi Trứng/Bãi tắm Hoàng Hậu với đá cuội tròn, mộ Hàn Mặc Tử trên Đồi Thi Nhân, ghềnh đá, sườn núi xanh và tầm nhìn xuống biển Quy Nhơn. Ảnh nên lấy đủ bối cảnh để người xem nhận ra địa điểm chứ không chỉ chụp cận một chi tiết khó phân biệt.
 
-Mộ Hàn Mặc Tử và Đồi Thi Nhân phù hợp với ảnh mang sắc thái văn hóa, hoài niệm và trang trọng. Không gian có cây xanh, bậc thang, các phiến đá khắc thơ và tầm nhìn hướng biển.
+Góc ảnh rộng giúp thấy ghềnh đá, bãi đá trứng, vách đá thấp, đường dốc, cây xanh và những điểm nhìn ra vịnh Quy Nhơn. Góc ảnh cận giúp nhấn mạnh vật liệu, đường nét, màu sắc, cây xanh, đá, nước hoặc công trình biểu tượng. Với dữ liệu nhận diện ảnh, nên ưu tiên ảnh sáng rõ, ít người che khuất và không chỉnh màu quá mạnh.
 
-Dốc Mộng Cầm là lối đi giàu tính biểu tượng trong cụm Ghềnh Ráng. Điểm này thường được nhắc trong lịch trình vì là đường dẫn đến khu mộ và gắn với câu chuyện văn chương.
+Khi đông khách, nên chọn góc chụp lệch, chờ khoảng trống hoặc đi sớm. Không nên leo rào, trèo lên di tích, bước vào khu cấm hoặc làm ảnh hưởng người khác chỉ để có ảnh đẹp.
 
-Các điểm nhìn từ trên cao cho phép chụp toàn cảnh biển Quy Nhơn, đường bờ biển và các lớp núi - biển. Đây là góc phù hợp vào sáng sớm hoặc chiều mát.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Nhà thờ Đá Ghềnh Ráng là điểm check-in cần ứng xử lịch sự. Du khách nên giữ trật tự, không tạo dáng phản cảm và không chụp ảnh ở khu vực đang có sinh hoạt tôn giáo nếu chưa được phép.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Trải nghiệm theo từng khu vực
 
-Gia đình có trẻ nhỏ: phù hợp nếu đi chậm, giám sát trẻ ở bậc thang và bãi đá. Không để trẻ chạy trên đá trứng hoặc leo lên mỏm đá sát sóng.
+Khu vực chính của Ghềnh Ráng - Tiên Sa gồm Bãi Trứng, Đồi Thi Nhân, mộ Hàn Mặc Tử, các lối dạo, điểm ngắm biển, khu dịch vụ cổng vào. Mỗi khu có vai trò khác nhau: có nơi để nhận diện, có nơi để nghỉ chân, có nơi để tìm hiểu văn hóa, có nơi để chụp toàn cảnh hoặc quan sát đời sống địa phương.
 
-Cặp đôi: phù hợp để chụp ảnh, dạo bộ, ngắm hoàng hôn và kết hợp ăn uống ở trung tâm Quy Nhơn.
+Du khách nên đi theo trình tự từ dễ tiếp cận đến sâu hơn. Đi nhanh quá dễ bỏ qua các chi tiết quan trọng, còn ở quá lâu tại một điểm phụ có thể làm lỡ khung giờ đẹp của điểm chính.
 
-Người yêu văn hóa: rất phù hợp vì có mộ Hàn Mặc Tử, Đồi Thi Nhân, thơ khắc đá và câu chuyện về Dốc Mộng Cầm.
+Nếu đi cùng trẻ em hoặc người lớn tuổi, nên ưu tiên khu bằng phẳng, gần lối ra, gần dịch vụ và có bóng mát. Những khu dốc, đá, bậc thang hoặc xa điểm gửi xe nên cân nhắc sức khỏe trước khi vào.
 
-Người lớn tuổi: có thể tham quan nhưng cần chọn lộ trình ngắn, tránh nắng, tránh đoạn đá trơn và cân nhắc xe điện nếu có.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Khách thích tắm biển: nên chọn bãi biển Quy Nhơn hoặc các bãi tắm phù hợp hơn. Ghềnh Ráng - Tiên Sa phù hợp ngắm cảnh hơn là tắm biển tại Bãi Đá Trứng.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Những thứ nên thử
 
-Khi đến đây, du khách nên thử một số trải nghiệm tiêu biểu. Hoạt động phổ biến nhất là đi bộ tham quan các khu vực chính. Du khách thường đi từ cổng vào, lên Dốc Mộng Cầm, ghé Đồi Thi Nhân và mộ Hàn Mặc Tử, sau đó xuống hoặc vòng qua khu Bãi tắm Hoàng Hậu/Bãi Đá Trứng để ngắm cảnh và chụp ảnh. Hoạt động thứ hai là chụp ảnh phong cảnh.
+Nên thử quan sát địa điểm ở hai khoảng cách: nhìn tổng thể để hiểu bố cục và nhìn gần để nhận ra chi tiết. Cách này đặc biệt hữu ích với khu danh thắng ven biển, vì giá trị của địa điểm thường nằm ở cả không gian chung và những dấu hiệu nhỏ.
+
+Nên thử kết hợp trải nghiệm tại chỗ với ẩm thực hoặc điểm gần đó. Sau khi tham quan Ghềnh Ráng - Tiên Sa, du khách có thể tìm các món như hải sản Quy Nhơn, bún chả cá, bánh xèo tôm nhảy, quán cà phê ven biển, nhà hàng khu trung tâm hoặc ghé tuyến Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển nếu còn thời gian.
+
+Nên thử hỏi người dân địa phương, nhân viên điểm đến hoặc hướng dẫn viên về thời điểm đẹp, góc ảnh tốt và câu chuyện ít được ghi trong bài review. Tuy nhiên thông tin truyền miệng nên được ghi nhận ở mức tham khảo.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Những điều không nên bỏ lỡ
 
-Có những điều bạn không nên bỏ lỡ khi tham quan. Bãi tắm Hoàng Hậu/Bãi Đá Trứng là điểm check-in nổi bật nhất. Hình ảnh các viên đá tròn, nhẵn, nằm sát biển tạo hiệu ứng thị giác rất dễ nhận diện. Khi chụp ảnh tại đây, nên chọn vị trí an toàn, tránh đứng trên đá ướt hoặc quá gần sóng.
+Không nên bỏ lỡ chi tiết nhận diện chính: Bãi Trứng/Bãi tắm Hoàng Hậu với đá cuội tròn, mộ Hàn Mặc Tử trên Đồi Thi Nhân, ghềnh đá, sườn núi xanh và tầm nhìn xuống biển Quy Nhơn. Đây là phần giúp chuyến đi có điểm nhấn và giúp ảnh chụp sau này không bị lẫn với địa điểm khác.
+
+Không nên bỏ lỡ bối cảnh vùng xung quanh. Ghềnh Ráng - Tiên Sa có liên hệ với Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển, vì vậy một lịch trình tốt thường không chỉ dừng ở một điểm mà sắp xếp các điểm theo tuyến hợp lý.
+
+Không nên bỏ lỡ các lưu ý ứng xử. Dù là điểm thiên nhiên, di tích, chùa, quảng trường hay khu dịch vụ, du khách đều nên giữ vệ sinh, không gây ồn quá mức, không xâm phạm khu cấm và tôn trọng cộng đồng địa phương.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Thời lượng tham quan đề xuất
 
-Tham quan nhanh: 45 đến 60 phút. Phù hợp với khách chỉ muốn ghé check-in, xem khu mộ Hàn Mặc Tử hoặc chụp vài ảnh ở Bãi Đá Trứng.
+Thời lượng tham quan đề xuất cho Ghềnh Ráng - Tiên Sa là 1-2 giờ cho khu chính; nửa ngày nếu ghép Bãi Xép hoặc Quy Hòa. Khoảng này phù hợp với khách đi tự túc muốn quan sát, chụp ảnh và nghỉ ngắn.
 
-Tham quan tiêu chuẩn: 90 đến 120 phút. Đây là thời lượng phù hợp nhất để đi chậm, ghé các điểm chính, nghỉ chân, chụp ảnh và không quá vội.
+Nếu chỉ ghé nhanh, có thể rút ngắn thời gian nhưng nên ưu tiên khu nhận diện chính. Nếu muốn quay video, chụp bộ ảnh, tìm hiểu lịch sử hoặc đi cùng gia đình, nên cộng thêm thời gian nghỉ và di chuyển nội khu.
 
-Tham quan sâu: 2 đến 3 giờ. Phù hợp với khách yêu thơ Hàn Mặc Tử, muốn tìm hiểu kỹ từng điểm con, kết hợp Nhà thờ Đá, bãi Tiên Sa và nghỉ chân ngắm biển.
+Không nên xếp quá nhiều điểm xa nhau trong một buổi. Lịch trình tốt là lịch trình có thời gian dự phòng cho thời tiết, giao thông, ăn uống và thay đổi kế hoạch.
 
-Nếu đi cùng người lớn tuổi hoặc trẻ em, nên cộng thêm thời gian nghỉ vì địa hình có dốc và bậc thang. Không nên xếp lịch quá dày ngay sau khi đi nắng hoặc ăn trưa no.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Lịch trình tham quan gợi ý
 
-Bắt đầu từ cổng khu du lịch, gửi xe và đi bộ nhẹ vào bên trong. Du khách có thể chụp ảnh ở khu lối vào, đọc bảng thông tin và định hướng đường đi.
+Lịch trình ngắn: đến Ghềnh Ráng - Tiên Sa, xác định khu nhận diện chính, đi một vòng quan sát, chụp ảnh, nghỉ vài phút rồi di chuyển đến điểm ăn uống hoặc cà phê gần đó. Lịch trình này phù hợp với khách có ít thời gian.
 
-Tiếp theo đi Dốc Mộng Cầm để lên khu mộ Hàn Mặc Tử và Đồi Thi Nhân. Dành thời gian đọc thơ, chụp ảnh vừa phải và giữ không khí trang nghiêm tại khu tưởng niệm.
+Lịch trình nửa ngày: kết hợp Ghềnh Ráng - Tiên Sa với Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển. Nên sắp xếp điểm ngoài trời vào sáng sớm hoặc chiều mát, còn điểm trong nhà/quán ăn vào lúc nắng hoặc mưa.
 
-Sau đó di chuyển xuống Bãi tắm Hoàng Hậu/Bãi Đá Trứng. Chỉ nên đi trên phần đá khô, không xuống quá sát mép nước. Nếu sóng mạnh hoặc đá ướt, nên đứng ở điểm cao quan sát thay vì đi sâu vào bãi.
+Lịch trình một ngày: chọn một tuyến rõ ràng, không nhảy quá nhiều hướng. Ví dụ đi theo cụm trung tâm, cụm biển đảo, cụm cao nguyên hoặc cụm di tích. Cách này giúp giảm thời gian di chuyển và tăng chất lượng trải nghiệm.
 
-Kết thúc bằng việc nghỉ chân uống nước hoặc quay lại trung tâm Quy Nhơn ăn trưa/ăn tối. Lịch trình này phù hợp với khách đi lần đầu.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Buổi sáng có thể bắt đầu khoảng 7:30 hoặc 8:00 để tránh nắng. Đi Ghềnh Ráng - Tiên Sa trước, tập trung vào Bãi Đá Trứng, Đồi Thi Nhân và mộ Hàn Mặc Tử.
-
-Sau đó ghé Nhà thờ Đá Ghềnh Ráng nếu khách quan tâm kiến trúc và không gian tâm linh. Nên giữ trang phục lịch sự, không gây ồn và không làm ảnh hưởng người cầu nguyện.
-
-Cuối buổi có thể đi Quy Hòa, Trung tâm Khám phá khoa học Quy Nhơn hoặc về khu biển trung tâm ăn đặc sản như bún chả cá, bánh xèo tôm nhảy, hải sản, bánh hỏi cháo lòng hoặc bánh ít lá gai.
-
-Lịch trình nửa ngày phù hợp với gia đình, nhóm bạn, khách chụp ảnh hoặc du khách muốn khám phá các điểm phía Nam trung tâm Quy Nhơn.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Kinh nghiệm tham quan
 
-Nên mang giày hoặc dép có độ bám tốt. Dép trơn, giày cao gót hoặc dép quá mỏng không phù hợp khi đi trên đá và bậc thang.
+Kinh nghiệm quan trọng nhất là kiểm tra thời tiết, giờ hoạt động và tình trạng dịch vụ trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nên chuẩn bị nước uống, nón, kem chống nắng và khăn giấy. Khu vực ngoài trời có thể nắng gắt, nhất là mùa hè.
+Nên chuẩn bị nước uống, giấy tờ cá nhân, điện thoại đủ pin, giày dễ đi, nón/áo khoác chống nắng hoặc áo mưa mỏng. Với điểm di tích và chùa, nên chọn trang phục lịch sự; với điểm biển hoặc đồi núi, nên ưu tiên an toàn hơn ảnh đẹp.
 
-Không nên cố tắm ở Bãi Đá Trứng. Một số nguồn du lịch nhấn mạnh khu này có đá, sóng mạnh, không có bãi cát phù hợp để tắm như bãi biển thông thường.
+Khi hỏi chatbot, người dùng có thể nêu rõ đi với ai, đi tháng nào, xuất phát từ đâu và có bao nhiêu thời gian. Dữ liệu này giúp hệ thống đưa lịch trình sát hơn thay vì trả lời chung chung.
 
-Nếu mục tiêu chính là chụp ảnh, nên đi vào sáng sớm hoặc chiều muộn. Tránh giữa trưa vì nắng gắt làm ảnh dễ cháy sáng và người đi bộ nhanh mệt.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Nếu đi vào mùa mưa, nên kiểm tra thời tiết trước. Khi trời mưa, bãi đá và lối dốc dễ trơn, không nên xuống sát biển.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-Ngày tổng hợp dữ liệu: 26/05/2026. Các thông tin về giá vé, giờ mở cửa, phí gửi xe và dịch vụ phụ trợ có thể thay đổi theo thời điểm vận hành thực tế. Khi dùng cho chatbot, nên ưu tiên trả lời kèm câu nhắc kiểm tra lại kênh chính thức hoặc đơn vị quản lý trước ngày đi.
+- https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng
+- https://vietnamtourism.gov.vn/
+- https://dulichquynhon.com.vn/
+- https://baogialai.com.vn/
 
-Vietnam Airlines - Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
-
-Vietnam Airlines - Bãi tắm Hoàng Hậu: https://www.vietnamairlines.com/no/vi/plan-book/travel/travel-guide/bai-tam-hoang-hau
-
-Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
-
-Du lịch Quy Nhơn - Bình Định / My Binh Dinh - Ghềnh Ráng: https://mybinhdinh.vn/vi/ghenhrang
-
-Vinpearl - Ghềnh Ráng Tiên Sa: https://vinpearl.com/vi/ghenh-rang-tien-sa-tac-pham-thien-tao-ky-vi-tho-mong
-
-Thư viện Pháp luật - sắp xếp đơn vị hành chính Quy Nhơn sau sáp nhập: https://thuvienphapluat.vn/phap-luat/tp-quy-nhon-cu-binh-dinh-sau-sap-nhap-don-vi-hanh-chinh-co-may-phuong-xa-ten-goi-cac-phuong-xa-cua--233694-224092.html
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.
