@@ -1,0 +1,55 @@
+1. Giá vé
+Làng chài Nhơn Lý là khu dân cư ven biển và không phải một khu du lịch khép kín có cổng vào chung, vì vậy việc đi dạo trong làng, tham quan các con hẻm, chụp ảnh bích họa, ngắm bãi biển và quan sát đời sống địa phương về cơ bản không có một mức vé tham quan làng cố định được công bố như vé vào công viên. Tuy nhiên, du khách có thể phát sinh chi phí gửi xe, ăn uống, thuê phương tiện, thuê homestay, dùng dịch vụ tour, đi cano, lặn san hô hoặc tham quan các điểm lân cận. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nếu hành trình chỉ dừng ở việc đi bộ trong làng, chụp ảnh và ăn uống tự chọn, chi phí có thể khá linh hoạt. Nếu kết hợp Eo Gió, Kỳ Co, Bãi Dứa, Hòn Sẹo hoặc các tour biển đảo, giá vé và phí dịch vụ sẽ phụ thuộc đơn vị vận hành, mùa cao điểm, ngày lễ, số lượng khách và gói dịch vụ. Một số nguồn du lịch từng ghi Eo Gió có vé tham quan riêng, còn Kỳ Co thường nằm trong các gói vé hoặc tour có cano, xe điện, bữa ăn, tắm biển, lặn san hô. Vì bảng giá thay đổi theo thời gian, chatbot nên trả lời thận trọng, không khẳng định giá hiện tại nếu chưa kiểm tra nguồn mới nhất.
+
+Đối với dữ liệu RAG, nên lưu thông tin theo hướng: “Làng chài Nhơn Lý không có vé vào làng cố định; chi phí chính thường nằm ở dịch vụ đi kèm như gửi xe, ăn uống, cano Kỳ Co, lặn san hô Bãi Dứa, vé Eo Gió hoặc tour trong ngày. Giá có thể thay đổi, cần kiểm tra trước khi đi.” Cách trả lời này giúp tránh lỗi khi giá dịch vụ cập nhật hoặc khi chính quyền, doanh nghiệp thay đổi chính sách vé.
+
+2. Giá các dịch vụ đi kèm
+Dịch vụ phổ biến nhất liên quan đến Nhơn Lý là tour Kỳ Co - Eo Gió - lặn san hô - ăn hải sản. Tour có thể bao gồm xe đưa đón từ Quy Nhơn, cano ra Kỳ Co, áo phao, vé hoặc phí tham quan, bữa trưa hải sản, hướng dẫn viên và các điểm check-in. Mức giá phụ thuộc vào đơn vị bán tour, mùa du lịch, đoàn riêng hay tour ghép, chất lượng bữa ăn và số điểm trong lịch trình. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Dịch vụ cano và lặn san hô thường tập trung ở các bến hoặc điểm xuất phát gần Nhơn Lý. Du khách cần hỏi kỹ cano đi đâu, có ghé Kỳ Co hay chỉ đi Bãi Dứa, có lặn san hô không, có kính lặn và áo phao không, thời lượng bao lâu, trẻ em tính giá thế nào, nếu biển động thì hoàn tiền hay đổi ngày ra sao. Không nên chỉ hỏi “bao nhiêu tiền” mà cần hỏi đầy đủ dịch vụ bao gồm những gì.
+
+Dịch vụ ăn uống ở làng có nhiều mức giá. Hải sản tươi thường tính theo ký hoặc theo món, giá thay đổi theo mùa, loại hải sản, kích cỡ và thời điểm trong ngày. Một bữa ăn hải sản có thể rất hợp lý nếu gọi món vừa phải, nhưng cũng có thể cao nếu chọn tôm hùm, cua, ghẹ, mực lớn hoặc hải sản đặc biệt. Du khách nên hỏi giá trước khi cân, hỏi phí chế biến nếu tự chọn hải sản và kiểm tra hóa đơn trước khi thanh toán. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Dịch vụ lưu trú gồm homestay, nhà nghỉ, khách sạn nhỏ trong hoặc gần Nhơn Lý. Giá phòng thay đổi theo ngày thường, cuối tuần, lễ Tết, mùa cao điểm và vị trí gần biển. Một số homestay có thể hỗ trợ đặt tour, gọi xe, chuẩn bị bữa ăn hoặc giới thiệu dịch vụ cano. Khách nên đặt trước nếu đi mùa hè, cuối tuần hoặc đoàn đông.
+
+3. Giờ mở cửa
+Vì Nhơn Lý là làng dân cư, không có giờ mở cửa theo kiểu khu du lịch có cổng. Du khách có thể đến vào nhiều khung giờ trong ngày, nhưng thời điểm tham quan phù hợp nhất là sáng sớm, buổi chiều hoặc đầu tối. Sáng sớm thích hợp để xem chợ cá, thuyền về, chụp ảnh bình minh và cảm nhận nhịp sống làng chài. Buổi chiều thích hợp để dạo hẻm, chụp ảnh bích họa, ngắm biển, ăn hải sản và kết hợp Eo Gió.
+
+Các dịch vụ trong làng như quán ăn, quán nước, homestay, điểm gửi xe, cano hoặc tour biển lại có giờ hoạt động riêng. Quán ăn hải sản thường mở theo thời điểm có khách và nguồn hải sản. Chợ cá hoặc hoạt động thuyền về thường diễn ra sớm, có thể từ rạng sáng đến buổi sáng tùy ngày và mùa biển. Dịch vụ cano thường hoạt động khi thời tiết tốt và biển êm, phổ biến vào ban ngày, không nên đi khi trời tối hoặc biển động.
+
+Các điểm lân cận như Eo Gió, Kỳ Co, khu du lịch hoặc bến cano có thể có giờ mở cửa, giờ bán vé, giờ xe điện hoặc giờ cano riêng. Những thông tin này thay đổi theo mùa, thời tiết và đơn vị vận hành. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+4. Thời điểm nên tham quan
+Thời điểm đẹp trong ngày để tham quan Làng chài Nhơn Lý là sáng sớm và chiều muộn. Sáng sớm có lợi thế mát, ánh sáng đẹp, làng còn giữ không khí sinh hoạt thật, có thể thấy cảnh ngư dân, thuyền thúng, chợ hải sản và bữa sáng địa phương. Đây là khung giờ phù hợp cho người muốn có dữ liệu hình ảnh đời sống hoặc muốn chatbot mô tả không khí làng chài chân thực.
+
+Buổi chiều, ánh nắng dịu hơn, đường làng dễ đi hơn so với giữa trưa. Du khách có thể dạo hẻm, chụp ảnh bích họa, uống nước, ăn hải sản và ghé Eo Gió ngắm cảnh. Nếu kết hợp Kỳ Co hoặc lặn san hô, nên đi buổi sáng hoặc trước đầu giờ chiều để có thời gian di chuyển, tắm biển, thay đồ và quay về an toàn.
+
+Không nên ưu tiên tham quan làng vào giữa trưa mùa nắng nếu không có kế hoạch nghỉ ngơi, vì khu vực ven biển có thể rất nóng, ít bóng râm ở một số đoạn, dễ mất nước và ảnh chụp bị gắt sáng. Nếu bắt buộc đi buổi trưa, nên chuẩn bị mũ, kính, nước uống và chọn hoạt động trong nhà như ăn uống hoặc nghỉ tại quán/homestay.
+
+5. Mùa đẹp nhất
+Mùa đẹp nhất để đi Nhơn Lý thường là mùa khô của khu vực Quy Nhơn, phổ biến từ khoảng tháng 3 đến tháng 9. Giai đoạn này trời thường nắng, biển xanh, thuận lợi cho tắm biển, đi cano, lặn san hô, chụp ảnh và tham quan ngoài trời. Một số nguồn du lịch gợi ý tháng 2 đến tháng 5 hoặc tháng 3 đến tháng 9 là thời điểm thuận lợi, nhưng cần hiểu đây là khuyến nghị chung, không đảm bảo ngày nào cũng đẹp.
+
+Từ tháng 5 đến tháng 8 là mùa hè, biển thường đẹp nhưng nắng mạnh và khách đông hơn. Đây là thời điểm phù hợp nếu ưu tiên ảnh biển xanh, hoạt động nước và lịch trình Kỳ Co - Eo Gió. Tuy nhiên, khách cần đặt phòng, tour và xe sớm nếu đi cuối tuần hoặc dịp lễ. Giá dịch vụ có thể tăng vào mùa cao điểm. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Từ tháng 10 đến khoảng tháng 2 năm sau là giai đoạn cần cân nhắc hơn vì miền Trung có thể mưa, gió mạnh, biển động hoặc chịu ảnh hưởng bão/áp thấp. Vẫn có ngày đẹp, nhưng các hoạt động cano và lặn san hô có thể bị hủy. Nếu mục tiêu chỉ là dạo làng, ăn uống và chụp ảnh đời sống, có thể đi khi thời tiết ổn. Nếu mục tiêu là biển đảo, nên kiểm tra dự báo thời tiết và hỏi trước đơn vị tour.
+
+6. Thông tin thời tiết
+Quy Nhơn và Nhơn Lý nằm trong vùng duyên hải Nam Trung Bộ, có đặc điểm nắng gió rõ rệt, mùa khô và mùa mưa tương đối phân biệt. Mùa khô thường được các nguồn du lịch mô tả từ tháng 3 đến tháng 9, phù hợp với hoạt động biển. Nhiệt độ mùa nắng có thể cao, ánh nắng mạnh, đặc biệt vào giữa ngày. Du khách nên chống nắng kỹ, uống đủ nước và tránh hoạt động ngoài trời quá lâu lúc trưa.
+
+Mùa mưa thường rơi vào khoảng tháng 10 đến tháng 2 năm sau. Mưa ở khu vực ven biển có thể đi kèm gió lớn, sóng mạnh, ảnh hưởng trực tiếp đến cano, tàu thuyền và hoạt động lặn. Trước khi đi Nhơn Lý vào mùa này, cần xem dự báo thời tiết Quy Nhơn, dự báo biển, hỏi người địa phương hoặc đơn vị tour. Không nên xuống nước, đi cano hoặc leo ghềnh đá khi có cảnh báo thời tiết xấu.
+
+Vì Nhơn Lý là làng ven biển, thời tiết tại chỗ có thể thay đổi nhanh hơn cảm nhận ở trung tâm thành phố. Có ngày trung tâm Quy Nhơn nắng nhưng ngoài bán đảo gió mạnh, hoặc ngược lại. Khi xây dựng chatbot, nên khuyến nghị người dùng kiểm tra thời tiết ngay trước ngày đi, đặc biệt nếu đi trẻ em, người lớn tuổi hoặc có hoạt động biển. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+7. Lưu ý cập nhật giá vé và lịch hoạt động
+Giá dịch vụ ở Nhơn Lý và các điểm lân cận không cố định lâu dài. Vé Eo Gió, vé hoặc gói Kỳ Co, giá cano, giá lặn san hô, giá tour, giá homestay, giá gửi xe và giá hải sản đều có thể thay đổi theo mùa, ngày lễ, chính sách địa phương, đơn vị khai thác và thời tiết. Vì vậy, chatbot không nên trả lời cứng một mức giá nếu không có nguồn cập nhật rất mới. Câu trả lời an toàn là “Làng chài Nhơn Lý không có vé vào làng cố định; các dịch vụ đi kèm có giá riêng và cần kiểm tra trước khi đi.”
+
+Du khách nên liên hệ trực tiếp homestay, quán ăn, đơn vị tour hoặc cổng thông tin du lịch địa phương để xác nhận trước khi đặt lịch. Nếu đi tour, cần hỏi rõ giá bao gồm những gì, có phát sinh phí không, có bữa ăn không, có vé tham quan không, có áo phao không, trẻ em tính giá thế nào, lịch trình có ghé làng chài thật không hay chỉ ghé bến cano. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+8. Nguồn tham khảo
+Nguồn tham khảo về Eo Gió, Kỳ Co và lịch trình du lịch biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/eogiolandscape ; https://dulichquynhon.binhdinh.gov.vn/vi/baikyco ; https://dulichquynhon.binhdinh.gov.vn/vi/tourdetail/?tourid=3203 .
+
+Nguồn tham khảo về kinh nghiệm đi Nhơn Lý, mùa đẹp, hoạt động và chi phí dịch vụ du lịch: https://www.vietnamairlines.com/cz/vi/plan-book/travel/travel-guide/lang-chai-nhon-ly ; https://vinpearl.com/vi/lang-chai-nhon-ly-quy-nhon ; https://www.traveloka.com/vi-vn/explore/destination/lang-chai-nhon-ly-acc/231232 .
+
+Nguồn tham khảo về thời tiết Quy Nhơn theo mùa: https://vinwonders.com/vi/wonderpedia/news/thoi-tiet-quy-nhon/ .
