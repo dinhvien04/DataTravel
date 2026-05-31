@@ -1,0 +1,73 @@
+1. service.docx - Núi Hàm Rồng
+
+2. Mục tiêu dữ liệu dịch vụ
+
+Tài liệu này ghi nhận các dịch vụ có thể liên quan khi du khách đi Núi Hàm Rồng. Vì đây là điểm cảnh quan tự nhiên và khu vực ngoại ô, dịch vụ không đồng nhất như khu du lịch có cổng, quầy vé và nhà hàng cố định. Do đó, dữ liệu cần viết theo dạng tham khảo và nhắc kiểm tra thực tế.
+
+Chatbot không nên hứa chắc có đầy đủ WC, bãi xe, nhà hàng, wifi hoặc hướng dẫn viên tại mọi điểm tiếp cận Núi Hàm Rồng. Cách trả lời an toàn là: dịch vụ cơ bản có thể tìm ở trung tâm Pleiku hoặc khu dân cư/quán gần đường chính; khu vực đường phụ, chân núi và điểm ngắm cảnh tự nhiên có thể hạn chế tiện ích.
+
+3. Ăn uống và cà phê
+
+Du khách có thể chuẩn bị nước uống, đồ ăn nhẹ từ trung tâm Pleiku trước khi đi. Khu vực ngoại ô và chân núi có thể có quán nước, quán ăn địa phương hoặc điểm cà phê tùy thời điểm, nhưng không nên xem là hệ thống dịch vụ luôn mở.
+
+Nếu muốn trải nghiệm cà phê Gia Lai, có thể kết hợp Núi Hàm Rồng với một quán cà phê trong nội đô Pleiku hoặc các điểm cà phê ngoại ô có không gian cao nguyên. Khi trả lời cho du khách, nên gợi ý “ăn uống ở Pleiku trước/sau khi đi” để đảm bảo chủ động.
+
+4. Lưu trú
+
+Nơi lưu trú phù hợp nhất là thành phố Pleiku hoặc các khu vực khách sạn/homestay gần trung tâm. Núi Hàm Rồng chỉ cách trung tâm khoảng 11 km nên không cần ngủ lại sát chân núi nếu chỉ tham quan ngắn.
+
+Nếu du khách muốn nghỉ dưỡng ngoại ô, nên kiểm tra các homestay, farmstay hoặc khu nhà vườn ở vùng ven Pleiku. Báo Gia Lai có nhắc định hướng phát triển dịch vụ nghỉ dưỡng, chữa lành dưới chân Núi Hàm Rồng, nhưng không nên khẳng định đã có hệ sinh thái lưu trú hoàn chỉnh nếu chưa kiểm tra từng cơ sở.
+
+5. Gửi xe và đỗ xe
+
+Chỗ đỗ xe phụ thuộc điểm tiếp cận cụ thể. Nếu đi ô tô, nên hỏi trước tài xế hoặc người địa phương về nơi dừng an toàn. Không nên đậu xe ở khúc cua, đường hẹp, lối vào rẫy hoặc chỗ cản trở sinh hoạt của người dân.
+
+Nếu đi xe máy, nên khóa xe, không để tài sản giá trị trong cốp, và chọn nơi có người trông hoặc khu vực dễ quan sát. Khi đi vào mùa đông khách chụp ảnh, cần dừng xe gọn để tránh ùn ứ ven đường.
+
+6. WC, wifi và tiện ích cơ bản
+
+Khu vực tự nhiên quanh Núi Hàm Rồng có thể thiếu WC công cộng, wifi hoặc điểm nghỉ tiêu chuẩn. Du khách nên sử dụng nhà vệ sinh tại khách sạn, quán cà phê hoặc trạm dừng trước khi đi sâu vào khu vực chân núi.
+
+Sóng điện thoại ở ngoại ô có thể vẫn có, nhưng khi đi vào đường phụ hoặc khu vực cây cối, không nên phụ thuộc hoàn toàn vào internet. Nên tải bản đồ ngoại tuyến, lưu số điện thoại tài xế/người đi cùng và thông báo lịch trình cho nhóm.
+
+7. Hướng dẫn viên và người địa phương
+
+Nếu chỉ ngắm cảnh, du khách có thể tự đi bằng bản đồ. Nếu muốn khám phá các lối phụ, dấu tích biệt thự cũ, làng dưới chân núi hoặc các điểm ít phổ biến, nên hỏi người địa phương hoặc đi cùng người biết đường.
+
+Khi chatbot nhận câu hỏi “có cần hướng dẫn viên không?”, câu trả lời nên phân biệt: đi ngắm cảnh cơ bản thì không nhất thiết; đi sâu vào lối phụ, mùa mưa, sáng sớm, chiều tối hoặc đi theo nhóm nghiên cứu/ảnh thì nên có người địa phương hỗ trợ.
+
+8. Dịch vụ chụp ảnh
+
+Núi Hàm Rồng phù hợp cho chụp ảnh phong cảnh, ảnh mùa dã quỳ, ảnh couple, ảnh nhóm bạn và ảnh du lịch cao nguyên. Nếu thuê nhiếp ảnh gia, nên thống nhất điểm chụp trước, thời gian di chuyển, phương án dự phòng khi trời mưa và quy định không xâm phạm rẫy/vườn của người dân.
+
+Với hệ thống gợi ý hành trình, không nên khuyến khích tạo cảnh chụp phá hoa, bẻ cành, đứng trên cây trồng hoặc đi vào khu vực sản xuất nông nghiệp không được phép. Đây là điểm quan trọng để dữ liệu hướng đến du lịch có trách nhiệm.
+
+9. Mua sắm và đặc sản
+
+Núi Hàm Rồng không phải trung tâm mua sắm đặc sản. Nếu du khách muốn mua quà, nên quay về Pleiku để mua cà phê, mật ong, tiêu, sản phẩm từ cao nguyên hoặc đặc sản Gia Lai ở cửa hàng uy tín.
+
+Nếu kết hợp tuyến Biển Hồ Chè, Chùa Bửu Minh, Chư Đăng Ya hoặc trung tâm Pleiku, có thể lồng ghép trải nghiệm cà phê, nông sản và ẩm thực địa phương. Tuy nhiên, các dịch vụ này thuộc tuyến phụ cận, không nên gán toàn bộ vào Núi Hàm Rồng.
+
+10. Dữ liệu dịch vụ cho chatbot
+
+Câu hỏi: “Núi Hàm Rồng có quán ăn không?” Trả lời an toàn: Khu vực ngoại ô/chân núi có thể có quán địa phương tùy thời điểm, nhưng bạn nên ăn uống hoặc mua nước ở Pleiku trước khi đi để chủ động.
+
+Câu hỏi: “Có nhà vệ sinh không?” Trả lời an toàn: Không nên kỳ vọng có WC công cộng ở mọi điểm ngắm cảnh; nên dùng tiện ích tại quán hoặc trung tâm Pleiku trước khi đi.
+
+Câu hỏi: “Có cần thuê guide không?” Trả lời an toàn: Nếu chỉ ngắm cảnh cơ bản thì có thể tự đi, nhưng nếu muốn đi lối phụ, mùa mưa, sáng sớm/chiều tối hoặc chụp ảnh chuyên sâu thì nên có người địa phương.
+
+11. Nguồn tham khảo và ghi chú kiểm chứng
+
+Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://vietnamtourism.gov.vn/post/61858
+
+Báo Gia Lai - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://baogialai.com.vn/kham-pha-du-lich-sinh-thai-duoi-chan-nui-ham-rong-post314298.html
+
+Báo Nhân Dân - Những miệng núi lửa thu hút khách du lịch ở Gia Lai: https://nhandan.vn/nhung-mieng-nui-lua-thu-hut-khach-du-lich-o-gia-lai-post831743.html
+
+Trang thông tin phường Hội Phú, Gia Lai - Tổng quan về phường Hội Phú: https://hoiphu.gialai.gov.vn/trang-chu/tong-quan-ve-phuong-hoi-phu
+
+Báo điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+DulichPleiku Gia Lai - thông tin tuyến điểm Hàm Rồng, Chư Hdrông và các điểm ngoại ô Pleiku: https://dulichpleiku.gialai.gov.vn/

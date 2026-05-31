@@ -1,0 +1,143 @@
+1. faq.docx - FAQ Nhà thờ Đá Ghềnh Ráng
+
+2. Mục tiêu
+
+Dữ liệu hỏi đáp tối ưu cho chatbot RAG về Nhà thờ Đá Ghềnh Ráng. Mỗi câu trả lời ưu tiên ngắn gọn, tự nhiên, có cảnh báo khi thông tin dễ thay đổi.
+
+Thông tin trong tài liệu được biên soạn để phục vụ RAG/chatbot du lịch. Với các dữ liệu dễ thay đổi như giờ mở cửa, giờ lễ, phí gửi xe, quy định tham quan và tình trạng mở khuôn viên, hệ thống nên ưu tiên trả lời kèm khuyến nghị kiểm tra lại trước ngày đi.
+
+3. Câu hỏi thường gặp
+
+Q: Nhà thờ Đá Ghềnh Ráng ở đâu?
+
+A: Nhà thờ Đá Ghềnh Ráng nằm trong khu vực Ghềnh Ráng - Tiên Sa, gần mộ thi sĩ Hàn Mặc Tử, phía Đông Nam khu trung tâm Quy Nhơn. Hiện nhiều nguồn cũ vẫn ghi Quy Nhơn, Bình Định; sau sắp xếp hành chính, khu vực này có thể được nhắc là phường Quy Nhơn Nam, tỉnh Gia Lai.
+
+Q: Nhà thờ Đá Ghềnh Ráng còn có tên gọi nào khác?
+
+A: Địa điểm này thường được gọi là Nhà thờ Đá Ghềnh Ráng. Một số nguồn gọi là Trung tâm Thánh Thể và Thánh Mẫu Ghềnh Ráng, thuộc Giáo phận Qui Nhơn.
+
+Q: Nhà thờ Đá Ghềnh Ráng có mất vé không?
+
+A: Thường không mất vé tham quan nhà thờ. Tuy nhiên, nếu đi trong khu Ghềnh Ráng - Tiên Sa, du khách vẫn có thể phát sinh phí gửi xe hoặc phí/dịch vụ ở các điểm lân cận.
+
+Q: Giờ mở cửa Nhà thờ Đá Ghềnh Ráng là mấy giờ?
+
+A: Nhiều nguồn du lịch ghi khung giờ tham quan khoảng 07:00 - 18:00. Nếu muốn vào bên trong nhà thờ hoặc tham dự lễ, nên kiểm tra lại với giáo xứ hoặc nguồn địa phương trước khi đi.
+
+Q: Nhà thờ Đá Ghềnh Ráng có gần mộ Hàn Mặc Tử không?
+
+A: Có. Nhiều nguồn mô tả nhà thờ nằm đối diện hoặc gần khu mộ thi sĩ Hàn Mặc Tử trong quần thể Ghềnh Ráng - Tiên Sa, nên hai điểm này rất dễ kết hợp trong cùng lịch trình.
+
+Q: Từ trung tâm Quy Nhơn đến nhà thờ mất bao lâu?
+
+A: Nếu xuất phát từ khu trung tâm Quy Nhơn, thường mất khoảng 10 - 15 phút đi taxi, xe công nghệ hoặc xe máy trong điều kiện giao thông bình thường. Khoảng cách đến Ghềnh Ráng thường được mô tả khoảng 3 km.
+
+Q: Nên đi Nhà thờ Đá Ghềnh Ráng vào thời điểm nào trong ngày?
+
+A: Nên đi buổi sáng hoặc chiều mát. Buổi sáng phù hợp nếu muốn kết hợp nhiều điểm trong Ghềnh Ráng, còn buổi chiều phù hợp để chụp ảnh nhẹ và tránh nắng gắt.
+
+Q: Mùa nào đẹp nhất để tham quan?
+
+A: Mùa khô, thường khoảng tháng 3 đến tháng 9, thuận lợi hơn cho việc đi bộ, chụp ảnh và kết hợp tham quan các điểm ngoài trời ở Ghềnh Ráng.
+
+Q: Nhà thờ có gì đẹp?
+
+A: Nhà thờ đẹp ở không gian yên bình, kiến trúc đá, tông màu trầm, lối vào quanh co, các tiểu cảnh tôn giáo, phù điêu, hang đá Đức Mẹ và vị trí gần biển dưới chân núi Xuân Vân.
+
+Q: Có nên đưa trẻ em đến không?
+
+A: Có thể đưa trẻ em đến nếu người lớn trông kỹ và nhắc trẻ giữ trật tự. Khu vực có dốc, bậc đá và không gian tôn giáo, nên không phù hợp để trẻ chạy nhảy tự do.
+
+Q: Người lớn tuổi có đi được không?
+
+A: Có thể đi nếu sức khỏe ổn, nhưng cần đi chậm vì có dốc và lối đá. Nên đi buổi mát, chọn tuyến ngắn và có người đi cùng.
+
+Q: Có thể chụp ảnh trong nhà thờ không?
+
+A: Nên hỏi trước nếu muốn chụp bên trong. Nếu đang có lễ hoặc có người cầu nguyện, nên hạn chế chụp ảnh, tắt âm thanh điện thoại và giữ yên lặng.
+
+Q: Có được dùng flycam không?
+
+A: Không nên tự ý dùng flycam trong khu vực nhà thờ hoặc khu du lịch đông người. Nếu quay chụp chuyên nghiệp, nên xin phép trước và tuân thủ quy định địa phương.
+
+Q: Đi nhà thờ xong nên đi đâu tiếp?
+
+A: Có thể đi mộ Hàn Mặc Tử, đồi Thi Nhân, dốc Mộng Cầm, bãi đá trứng, bãi tắm Hoàng Hậu hoặc bãi Tiên Sa vì đều nằm trong cụm Ghềnh Ráng - Tiên Sa.
+
+Q: Nhà thờ có phù hợp để đi riêng một chuyến không?
+
+A: Nếu bạn yêu thích kiến trúc tôn giáo hoặc muốn cầu nguyện thì có thể đi riêng. Với khách du lịch thông thường, nên kết hợp nhà thờ với các điểm khác ở Ghềnh Ráng để lịch trình phong phú hơn.
+
+Q: Thời lượng tham quan bao lâu là đủ?
+
+A: Nếu chỉ ghé xem và chụp ảnh, 20 - 30 phút là đủ. Nếu muốn đi chậm, tìm hiểu lịch sử và kết hợp nghỉ chân, nên dành khoảng 45 - 60 phút.
+
+Q: Nhà thờ có phải nhà thờ chính tòa Quy Nhơn không?
+
+A: Không. Nhà thờ Đá Ghềnh Ráng là điểm tôn giáo trong khu Ghềnh Ráng, gắn với Trung tâm Thánh Thể và Thánh Mẫu/Giáo xứ Ghềnh Ráng tùy cách gọi. Nhà thờ chính tòa là địa điểm khác.
+
+Q: Có nên đi ngày mưa không?
+
+A: Có thể đi nếu mưa nhẹ, nhưng cần cẩn thận vì lối đá và bậc thang có thể trơn. Nếu mưa lớn, nên hoãn hoặc giảm số điểm tham quan ngoài trời.
+
+Q: Có ăn uống trong nhà thờ được không?
+
+A: Không nên. Nhà thờ là không gian tôn giáo. Nếu cần ăn uống, nên dùng dịch vụ ở khu Ghềnh Ráng hoặc quay về trung tâm Quy Nhơn.
+
+Q: Có cần ăn mặc lịch sự không?
+
+A: Có. Nên mặc lịch sự, kín đáo vừa phải, đặc biệt nếu vào bên trong nhà thờ hoặc tham dự lễ.
+
+Q: Thông tin địa chỉ trên mạng khác nhau thì dùng cái nào?
+
+A: Nên tìm theo tên địa điểm trên bản đồ và đối chiếu với mốc Ghềnh Ráng - Tiên Sa, mộ Hàn Mặc Tử. Vì các nguồn có thể ghi địa chỉ theo hệ hành chính cũ hoặc mới, mô tả bằng mốc tham quan sẽ an toàn hơn.
+
+Q: Nhà thờ Đá Ghềnh Ráng xây từ khi nào?
+
+A: Theo tư liệu báo chí, công trình được khởi công ngày 11/02/1963, khánh thành ngày 15/08/1964, sau đó được tái thiết năm 2005 và khánh thành lại ngày 02/02/2007.
+
+Q: Ai xây dựng Nhà thờ Đá Ghềnh Ráng?
+
+A: Tư liệu về nhà thờ ghi công trình do linh mục Phạm Châu Diên đứng ra xây dựng trong giai đoạn thập niên 1960.
+
+Q: Nhà thờ có điểm gì khác so với các điểm Ghềnh Ráng khác?
+
+A: Các điểm như bãi đá trứng hay bãi Tiên Sa thiên về cảnh biển, còn Nhà thờ Đá Ghềnh Ráng thiên về kiến trúc, tôn giáo, sự yên tĩnh và chiều sâu văn hóa.
+
+Q: Có phù hợp cho khách nước ngoài không?
+
+A: Có. Khách nước ngoài có thể tham quan kiến trúc, cảnh quan và tìm hiểu văn hóa Công giáo địa phương. Nên đi cùng hướng dẫn viên hoặc dùng bản đồ có tên tiếng Việt để tránh nhầm đường.
+
+Q: Có nên đi vào buổi tối không?
+
+A: Không nên đi tham quan tự phát vào buổi tối nếu không chắc nhà thờ còn mở hoặc không có hoạt động tôn giáo. Khu vực có dốc và lối đá nên đi ban ngày an toàn hơn.
+
+4. Thông tin cập nhật mới cần kiểm tra
+
+Giờ mở cửa thực tế của khuôn viên nhà thờ.
+
+Giờ lễ theo tuần, mùa phụng vụ và ngày lễ trọng.
+
+Phí gửi xe, xe điện hoặc các dịch vụ trong khu Ghềnh Ráng.
+
+Tình trạng cho phép vào bên trong nhà thờ tại thời điểm tham quan.
+
+Tên phường, tỉnh sau các thay đổi hành chính và cách hiển thị trên bản đồ.
+
+5. Nguồn tham khảo
+
+Giáo phận Qui Nhơn - Lược sử Giáo xứ Ghềnh Ráng: https://gpquinhon.org/lich-su-giao-phan-giao-xu/luoc-su-giao-xu-ghenh-rang-1045.html
+
+Giáo phận Qui Nhơn - Các trung tâm hành hương trong Giáo phận: https://gpquinhon.org/page/Cac-trung-tam-hanh-huong-trong-Giao-phan.html
+
+Giáo phận Qui Nhơn - Giờ lễ các nhà thờ trong Giáo phận Qui Nhơn: https://gpquinhon.org/page/Gio-thanh-le-trong-tuan.html
+
+Dân Việt - Nhà thờ đá Ghềnh Ráng: https://danviet.vn/nha-tho-da-ghenh-rang-7777167506-d294732.html
+
+Vietnam Airlines - Trọn bộ kinh nghiệm & trải nghiệm khám phá Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/th/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
+
+Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa tự túc chi tiết: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
+
+MyBinhDinh - Nhà thờ Đá Ghềnh Ráng: https://mybinhdinh.vn/vi/nhathoda
+
+Gia Lai - Sáp nhập Bình Định và Gia Lai: Hình thành cực tăng trưởng mới: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

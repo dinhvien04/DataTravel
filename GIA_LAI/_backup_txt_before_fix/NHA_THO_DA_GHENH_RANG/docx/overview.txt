@@ -1,0 +1,73 @@
+1. overview.docx - Nhà thờ Đá Ghềnh Ráng
+
+2. Mục tiêu
+
+Thông tin nền tảng để nhận diện, giới thiệu và phân biệt Nhà thờ Đá Ghềnh Ráng với các điểm khác trong quần thể Ghềnh Ráng - Tiên Sa. Dữ liệu này phù hợp dùng cho phần mô tả địa điểm, truy vấn định danh, truy vấn lịch sử, truy vấn kiến trúc và truy vấn gợi ý tham quan.
+
+Thông tin trong tài liệu được biên soạn để phục vụ RAG/chatbot du lịch. Với các dữ liệu dễ thay đổi như giờ mở cửa, giờ lễ, phí gửi xe, quy định tham quan và tình trạng mở khuôn viên, hệ thống nên ưu tiên trả lời kèm khuyến nghị kiểm tra lại trước ngày đi.
+
+3. Tên gọi và định danh địa điểm
+
+Tên du lịch thường gặp là Nhà thờ Đá Ghềnh Ráng. Trong một số nguồn, công trình cũng được nhắc đến với tên Trung tâm Thánh Thể và Thánh Mẫu Ghềnh Ráng. Đây là điểm tham quan tôn giáo nằm trong khu vực Ghềnh Ráng, gắn với Giáo phận Qui Nhơn và thường được du khách tìm cùng cụm từ Ghềnh Ráng Tiên Sa, mộ Hàn Mặc Tử hoặc bãi đá trứng.
+
+Khi người dùng hỏi “nhà thờ đá Quy Nhơn”, “nhà thờ đá Ghềnh Ráng”, “nhà thờ trong khu Ghềnh Ráng”, “Trung tâm Thánh Thể Thánh Mẫu Ghềnh Ráng” hoặc “nhà thờ gần mộ Hàn Mặc Tử”, hệ thống nên hiểu phần lớn các truy vấn này đang hướng tới cùng một cụm điểm tham quan. Tuy vậy, dữ liệu cần ghi chú rằng thông tin địa chỉ chi tiết giữa các nguồn có sự khác nhau, nên khi trả lời điều hướng nên mô tả theo vị trí dễ nhận biết: nằm trong khu Ghềnh Ráng - Tiên Sa, đối diện hoặc gần khu mộ thi sĩ Hàn Mặc Tử, dưới chân núi Xuân Vân, khu vực Quy Nhơn.
+
+4. Giới thiệu tổng quan
+
+Nhà thờ Đá Ghềnh Ráng là một điểm tham quan nhỏ nhưng có giá trị nhận diện cao trong cụm thắng cảnh Ghềnh Ráng - Tiên Sa. Khác với các bãi biển và bãi đá nổi tiếng trong khu vực, nhà thờ mang sắc thái yên tĩnh, trầm mặc và thiên về trải nghiệm tâm linh, kiến trúc, cảnh quan. Công trình nằm trên địa hình dốc, gần biển, có lối vào quanh co và được bao bọc bởi cây xanh, đá, tượng tôn giáo và các tiểu cảnh mang tính biểu tượng.
+
+Với khách du lịch, địa điểm này thường không phải điểm tham quan độc lập cho cả ngày mà là một điểm dừng trong tuyến Ghềnh Ráng: đi từ cổng khu du lịch, tham quan mộ Hàn Mặc Tử, dạo đồi Thi Nhân, chụp ảnh ở bãi đá trứng hoặc bãi Tiên Sa, sau đó ghé nhà thờ để nghỉ chân, chụp ảnh nhẹ, tìm hiểu câu chuyện tôn giáo và cảm nhận không gian yên bình. Với người hành hương Công giáo, nơi đây có thể được nhìn nhận như một không gian cầu nguyện và sinh hoạt đức tin, không chỉ là điểm check-in.
+
+5. Bối cảnh khu vực Ghềnh Ráng
+
+Ghềnh Ráng - Tiên Sa là cụm thắng cảnh ven biển nổi tiếng của Quy Nhơn, nằm cách khu trung tâm khoảng 3 km về phía Đông Nam theo nhiều cẩm nang du lịch. Khu vực này có địa hình đặc trưng gồm núi, ghềnh đá, bãi cát, bãi đá tròn và mặt biển xanh. Các địa danh như bãi tắm Hoàng Hậu, bãi đá trứng, mộ thi sĩ Hàn Mặc Tử, đồi Thi Nhân, dốc Mộng Cầm và bãi Tiên Sa tạo thành bối cảnh xung quanh nhà thờ.
+
+Tên gọi Ghềnh Ráng có liên hệ với kinh nghiệm đi biển của ngư dân. Theo phần chú thích trong lược sử của Giáo phận Qui Nhơn, “Gành Ráng” phát xuất từ thao tác đi biển khi thuyền qua vùng gành phải “ráng”, tức xử lý buồm theo hướng gió để đi qua đoạn khó. Về sau cách viết “Ghềnh Ráng” được dùng phổ biến hơn trong xã hội và du lịch hiện đại.
+
+6. Lịch sử hình thành
+
+Bối cảnh Công giáo tại Ghềnh Ráng được ghi nhận từ khoảng giữa thế kỷ XX. Theo lược sử Giáo xứ Ghềnh Ráng của Giáo phận Qui Nhơn, vùng Ghềnh Ráng trước đây là một làng thuyền chài thuộc thôn Xuân Vân, số hộ còn ít, đời sống cư dân gắn với biển, rừng và lao động nghèo. Năm 1958, linh mục Giuse-Maria Phạm Châu Diên thường đến thăm viếng, truyền giáo và tổ chức các hoạt động giáo dục, bác ái tại khu vực này.
+
+Theo tư liệu báo chí về Nhà thờ đá Ghềnh Ráng, công trình được khởi công ngày 11/02/1963 và khánh thành ngày 15/08/1964, do linh mục Phạm Châu Diên xây dựng. Sau thời gian dài chịu tác động của mưa nắng, gió biển và có giai đoạn xuống cấp, nhà thờ được tái thiết vào năm 2005 và khánh thành lại ngày 02/02/2007. Các mốc này nên được dùng trong mô hình như thông tin lịch sử tham khảo, không nên biến thành thông tin suy diễn thêm nếu người dùng hỏi quá chi tiết ngoài nguồn.
+
+7. Giá trị văn hóa và tôn giáo
+
+Giá trị nổi bật của Nhà thờ Đá Ghềnh Ráng nằm ở sự giao thoa giữa không gian tôn giáo Công giáo, ký ức làng biển Ghềnh Ráng và du lịch văn hóa Quy Nhơn. Công trình không chỉ là nơi có yếu tố kiến trúc đá mà còn là một không gian kể chuyện về quá trình hình thành cộng đồng Công giáo địa phương, hoạt động mục vụ, tinh thần bác ái và sự thích nghi của kiến trúc tôn giáo với địa hình ven biển.
+
+Với khách không theo tôn giáo, nhà thờ có thể được tiếp cận như một điểm tham quan văn hóa - kiến trúc trong một quần thể thắng cảnh. Với khách hành hương, nơi đây cần được tôn trọng như không gian thờ phượng, cầu nguyện và sinh hoạt đức tin. Vì vậy khi chatbot trả lời, cần dùng giọng văn trang trọng, tránh mô tả quá đà theo kiểu vui chơi, và nên nhắc người dùng giữ yên lặng, ăn mặc lịch sự, không tạo dáng phản cảm trong khu vực thánh.
+
+8. Kiến trúc và cảnh quan
+
+Nhà thờ gây ấn tượng bởi vật liệu đá, màu sắc trầm, tông xám trắng và cách bố trí hài hòa với địa hình dốc. Công trình nằm ở vị trí thấp hơn khu mộ Hàn Mặc Tử, có lối đi không quá rộng và tạo cảm giác ẩn mình trong cây xanh. Một số nguồn mô tả nhà thờ hướng ra biển, mặt bằng bị giới hạn bởi triền dốc, nhưng chính hạn chế địa hình lại làm cho trải nghiệm tham quan có cảm giác riêng tư, chậm rãi và khác biệt so với các điểm du lịch đông người.
+
+Các chi tiết đáng chú ý gồm cổng gỗ, lối đi lát đá, những cụm đá ong, phù điêu tôn giáo, tượng Thánh, hang đá Đức Mẹ, khu vực tháp và sân cầu nguyện. Bài viết của Dân Việt mô tả mặt tiền tháp theo ý tưởng “con tàu Nôê”, có biểu tượng chim bồ câu ngậm cành lá, cùng không gian tiểu cảnh như hồ nước, bàn thờ dâng lễ, phù điêu Tiệc Ly, bài giảng trên núi và các cảnh Kinh Thánh. Những chi tiết này có thể dùng để trả lời câu hỏi về điểm nổi bật kiến trúc.
+
+9. Các khu vực chính có thể nhận diện
+
+Khu vực cổng và lối vào là nơi tạo ấn tượng đầu tiên. Vì nhà thờ nằm khuất và thấp hơn trục tham quan chính, du khách thường cần đi theo lối nhỏ, quan sát biển chỉ dẫn hoặc hỏi người địa phương. Lối vào nên được mô tả là không gian chuyển tiếp từ khu du lịch đông khách sang một không gian tĩnh hơn.
+
+Khu vực sân và tiểu cảnh là phần phù hợp cho quan sát kiến trúc, chụp ảnh và nghỉ chân. Khu vực bên trong nhà thờ là không gian thờ phượng, cần giữ thái độ tôn nghiêm. Khu hang đá Đức Mẹ và các phù điêu là phần có giá trị nhận diện tôn giáo, thích hợp cho khách muốn tìm hiểu biểu tượng Công giáo trong bối cảnh địa phương.
+
+10. Điểm nổi bật để đưa vào embedding
+
+Điểm nổi bật thứ nhất là vị trí nằm trong quần thể Ghềnh Ráng - Tiên Sa, gần mộ Hàn Mặc Tử và các điểm du lịch ven biển nổi tiếng của Quy Nhơn. Điểm nổi bật thứ hai là sự kết hợp giữa kiến trúc đá, địa hình dốc, cây xanh và hướng nhìn ra biển. Điểm nổi bật thứ ba là lịch sử xây dựng từ thập niên 1960, gắn với linh mục Phạm Châu Diên và cộng đồng Công giáo địa phương. Điểm nổi bật thứ tư là không khí yên bình, thích hợp cho tham quan chậm, cầu nguyện, chụp ảnh nhẹ và tìm hiểu văn hóa tôn giáo.
+
+Từ khóa gợi ý: Nhà thờ Đá Ghềnh Ráng, nhà thờ đá Quy Nhơn, Trung tâm Thánh Thể và Thánh Mẫu Ghềnh Ráng, Giáo phận Qui Nhơn, Ghềnh Ráng Tiên Sa, mộ Hàn Mặc Tử, đồi Thi Nhân, bãi đá trứng, bãi tắm Hoàng Hậu, phường Quy Nhơn Nam, Gia Lai, phường Ghềnh Ráng cũ, nhà thờ gần biển, kiến trúc đá, hành hương Công giáo Quy Nhơn.
+
+11. Nguồn tham khảo
+
+Giáo phận Qui Nhơn - Lược sử Giáo xứ Ghềnh Ráng: https://gpquinhon.org/lich-su-giao-phan-giao-xu/luoc-su-giao-xu-ghenh-rang-1045.html
+
+Giáo phận Qui Nhơn - Các trung tâm hành hương trong Giáo phận: https://gpquinhon.org/page/Cac-trung-tam-hanh-huong-trong-Giao-phan.html
+
+Giáo phận Qui Nhơn - Giờ lễ các nhà thờ trong Giáo phận Qui Nhơn: https://gpquinhon.org/page/Gio-thanh-le-trong-tuan.html
+
+Dân Việt - Nhà thờ đá Ghềnh Ráng: https://danviet.vn/nha-tho-da-ghenh-rang-7777167506-d294732.html
+
+Vietnam Airlines - Trọn bộ kinh nghiệm & trải nghiệm khám phá Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/th/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
+
+Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa tự túc chi tiết: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
+
+MyBinhDinh - Nhà thờ Đá Ghềnh Ráng: https://mybinhdinh.vn/vi/nhathoda
+
+Gia Lai - Sáp nhập Bình Định và Gia Lai: Hình thành cực tăng trưởng mới: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

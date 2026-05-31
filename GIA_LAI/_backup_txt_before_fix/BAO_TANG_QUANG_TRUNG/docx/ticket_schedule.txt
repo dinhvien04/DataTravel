@@ -1,0 +1,81 @@
+1. ticket_schedule.docx - Bảo tàng Quang Trung
+
+2. Mục tiêu
+
+Thông tin vận hành, giá vé, giờ mở cửa, mùa tham quan và lưu ý cập nhật cho Bảo tàng Quang Trung. Dữ liệu này cần được dùng cẩn trọng vì giá vé, suất biểu diễn và giờ phục vụ có thể thay đổi theo năm, dịp lễ hội hoặc chính sách của bảo tàng.
+
+3. Giá vé tham quan
+
+Theo thông tin tìm được trên website Bảo tàng Quang Trung, giá vé tham quan được ghi tham khảo là người lớn, gồm khách trong nước và quốc tế: 50.000 đồng/lượt. Học sinh, sinh viên có thẻ được ghi mức 25.500 đồng/lượt. Một số bài du lịch cũ có thể vẫn ghi mức thấp hơn như 30.000 đồng/lượt, vì vậy chatbot nên ưu tiên nguồn chính thức và nhắc người dùng kiểm tra lại trước ngày đi.
+
+Khi trả lời người dùng, nên dùng câu: “Giá vé tham khảo hiện được website bảo tàng ghi là 50.000 đồng/người lớn và 25.500 đồng cho học sinh, sinh viên có thẻ; giá có thể thay đổi nên bạn nên kiểm tra website hoặc gọi bảo tàng trước khi đi.” Cách trả lời này giảm rủi ro sai lệch nếu giá thay đổi.
+
+Nếu người dùng hỏi trẻ em nhỏ có được miễn phí không, không nên khẳng định nếu chưa có thông báo mới nhất. Có thể trả lời: “Một số điểm tham quan thường có chính sách miễn/giảm cho trẻ em nhỏ hoặc đối tượng ưu tiên, nhưng bạn nên kiểm tra lại tại quầy vé hoặc website chính thức.”
+
+4. Giá dịch vụ biểu diễn nhạc võ và trống trận Tây Sơn
+
+Website Bảo tàng Quang Trung có mục thông tin dịch vụ ghi giá biểu diễn tham khảo: 400.000 đồng/suất cho đoàn khách dưới 20 người; 20.000 đồng/người/suất cho đoàn từ 20 người trở lên hoặc khách lẻ. Nội dung này nên được hiểu là phí dịch vụ biểu diễn, không phải lúc nào cũng đồng nghĩa với vé vào cổng.
+
+Với khách muốn xem trống trận Tây Sơn hoặc võ Tây Sơn, nên liên hệ trước để hỏi có suất biểu diễn hay không, nhất là nếu đi ít người hoặc đi vào khung giờ vắng. Một số đoàn tour có thể đã bao gồm hoặc sắp xếp tiết mục này trong lịch trình.
+
+Khi dùng cho chatbot, cần phân biệt “vé tham quan bảo tàng” và “phí xem biểu diễn”. Nhiều người dùng hỏi “vé bao nhiêu” nhưng thực ra muốn biết cả chi phí vào cổng và chi phí xem nhạc võ. Câu trả lời nên tách rõ hai phần để tránh hiểu nhầm.
+
+5. Giờ mở cửa
+
+Nguồn chính thức giới thiệu bảo tàng thực hiện nhiệm vụ mở cửa phục vụ khách tham quan 30 ngày/tháng, kể cả ngày lễ, Tết, có bán vé thu phí, lệ phí tham quan và dịch vụ biểu diễn võ thuật, trống trận. Các nguồn du lịch thường ghi khung giờ tham khảo buổi sáng khoảng 07:00 - 11:00 hoặc 07:00 - 11:30, buổi chiều khoảng 13:30 - 17:00.
+
+Do giờ phục vụ có thể thay đổi theo mùa, lễ hội, lịch đoàn hoặc chính sách vận hành, chatbot nên nói: “Bảo tàng thường mở cửa hằng ngày, buổi sáng và buổi chiều; bạn nên kiểm tra lại khung giờ trên website chính thức hoặc gọi trước nếu muốn xem biểu diễn.”
+
+Nếu đi từ Quy Nhơn, nên tránh xuất phát quá muộn vì quãng đường đến Tây Sơn khoảng hơn một giờ. Lịch hợp lý là đi buổi sáng, tham quan trước trưa, ăn trưa ở khu Tây Sơn hoặc kết hợp Hầm Hô/Tháp Dương Long buổi chiều.
+
+6. Thời điểm nên tham quan
+
+Thời điểm dễ tham quan nhất là buổi sáng, đặc biệt với khách đi từ Quy Nhơn. Buổi sáng thời tiết thường dễ chịu hơn, có nhiều thời gian di chuyển và tham quan. Nếu đi mùa nắng, buổi chiều có thể nóng, nên chuẩn bị nón, nước uống và tránh di chuyển ngoài trời quá lâu.
+
+Nếu muốn cảm nhận không khí lễ hội, dịp mùng 4 - mùng 5 Tết âm lịch là thời điểm diễn ra Lễ hội Đống Đa - Tây Sơn và các hoạt động tưởng niệm chiến thắng Ngọc Hồi - Đống Đa. Đây là dịp rất đông khách, phù hợp với người thích không khí lễ hội nhưng không phù hợp với người muốn tham quan yên tĩnh.
+
+Nếu muốn nghe thuyết minh kỹ và chụp ảnh thoải mái, nên tránh giờ cao điểm của đoàn trường, đoàn tour hoặc lễ hội. Các ngày thường ngoài mùa lễ thường dễ tham quan hơn.
+
+7. Mùa đẹp nhất
+
+Vì Bảo tàng Quang Trung là điểm tham quan văn hóa - lịch sử và có cả khu trong nhà lẫn ngoài trời, thời điểm đi không bị phụ thuộc như các điểm biển. Tuy nhiên, mùa khô ở khu vực Quy Nhơn - Bình Định cũ thường được nhiều nguồn du lịch mô tả là thuận lợi cho hoạt động ngoài trời, đặc biệt khoảng tháng 3 đến tháng 9.
+
+Đối với riêng Tây Sơn, các tháng đầu năm âm lịch có lợi thế về lễ hội, nhất là Lễ hội Đống Đa - Tây Sơn. Giai đoạn này có thể đông người nhưng mang lại trải nghiệm văn hóa đặc sắc với nghi lễ, võ thuật, trống trận và hoạt động cộng đồng.
+
+Mùa mưa vẫn có thể tham quan bảo tàng vì có nhà trưng bày và khu thờ tự, nhưng việc di chuyển từ Quy Nhơn đến Tây Sơn có thể bất tiện hơn nếu mưa lớn. Du khách nên theo dõi thời tiết, mang áo mưa/ô và tránh lịch trình quá dày.
+
+8. Thông tin thời tiết
+
+Khu vực Quy Nhơn - Tây Sơn có khí hậu miền Trung, mùa nắng có thể khá nóng. Du khách cần chuẩn bị nước, nón, kem chống nắng và giày dép dễ đi. Khu bảo tàng có nhiều sân và lối đi ngoài trời nên khách nhạy cảm với nắng cần chú ý thời gian di chuyển giữa các khu.
+
+Mùa mưa có thể khiến đường đi trơn, một số hoạt động ngoài trời kém thuận lợi. Nếu đi theo đoàn đông hoặc có người lớn tuổi, nên chọn ngày thời tiết ổn định và đi bằng ô tô.
+
+Với dữ liệu RAG, nên tách weather intent thành hai kiểu: người hỏi “mùa nào đẹp” thì trả lời mùa khô hoặc dịp lễ hội; người hỏi “hôm nay đi được không” thì cần lấy thời tiết hiện tại từ nguồn thời tiết thời gian thực, không dùng dữ liệu tĩnh.
+
+9. Ghi chú cập nhật mới
+
+Dữ liệu giá vé cần được kiểm tra lại thường xuyên vì đã có sự khác biệt giữa bài du lịch cũ và thông tin chính thức mới. Trong câu trả lời chatbot, nên dùng cụm “tham khảo” và “theo website chính thức/nguồn cập nhật gần đây”.
+
+Địa chỉ hành chính cần xử lý theo hai lớp: địa chỉ cũ để hỗ trợ người dùng quen tìm Bình Định/Phú Phong/Tây Sơn, và địa chỉ mới theo website chính thức là xã Tây Sơn, tỉnh Gia Lai. Không nên xem hai cách ghi là hai địa điểm khác nhau.
+
+Lịch biểu diễn trống trận và võ Tây Sơn không nên khẳng định luôn có sẵn vào mọi khung giờ. Nên khuyến nghị người dùng liên hệ trước nếu đây là trải nghiệm chính của chuyến đi.
+
+10. Nguồn tham khảo
+
+Trang thông tin điện tử Bảo tàng Quang Trung: https://baotangquangtrung.com.vn/
+
+Bảo tàng Quang Trung - Thông tin dịch vụ: https://baotangquangtrung.com.vn/vi/page/Thong-tin-dich-vu.html
+
+Bảo tàng Quang Trung - Lời giới thiệu: https://baotangquangtrung.com.vn/vi/about/Gioi-thieu-chung.html
+
+Bảo tàng Quang Trung - Sự hình thành và phát triển: https://baotangquangtrung.com.vn/vi/about/Su-hinh-thanh-va-phat-trien.html
+
+Cổng thông tin xã Tây Sơn - Bảo tàng Quang Trung, hành trình về miền sử thi Tây Sơn: https://tayson.gialai.gov.vn/tin-tuc/tin-van-hoa-xa-hoi/bao-tang-quang-trung-hanh-trinh-ve-mien-su-thi-tay-son2.html
+
+Cổng thông tin xã Tây Sơn - Giếng nước cổ và cây me di sản: https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/gieng-nuoc-co-va-cay-me-di-san-dau-tich-linh-thieng-cua-ba-anh-em-nha-tay-son.html
+
+Cục Du lịch Quốc gia Việt Nam - Về miền đất võ thăm Bảo tàng Quang Trung: https://vietnamtourism.gov.vn/printer/17757?type=1
+
+Vietnam Airlines - Cẩm nang du lịch Bảo tàng Quang Trung: https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/quang-trung-museum
+
+Ghi chú về nguồn: Các thông tin giá vé, lịch biểu diễn, giờ đón khách và địa chỉ hành chính có thể thay đổi theo thời điểm. Khi dùng dữ liệu cho chatbot/RAG, nên ưu tiên trả lời theo hướng “tham khảo” và khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại chính thức trước ngày đi.

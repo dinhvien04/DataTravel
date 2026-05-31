@@ -1,0 +1,75 @@
+1. Lưu ý khi tham quan
+
+Đàn tế Trời Đất Tây Sơn là không gian văn hóa - tâm linh, vì vậy du khách nên ăn mặc lịch sự, đi nhẹ nói khẽ, không đùa giỡn quá mức tại khu thờ, không leo trèo lên hương án, tượng đá, lan can hoặc cổng nghi môn. Nếu dâng hương, nên làm theo hướng dẫn tại chỗ và không chen lấn khi có đoàn khác đang hành lễ.
+
+Do phải leo nhiều bậc, nên mang giày thể thao hoặc dép có độ bám tốt. Không nên mang giày cao gót, dép trơn hoặc trang phục quá dài dễ vướng bậc. Nên mang nước uống nhưng không xả rác; rác cá nhân cần mang xuống đúng nơi quy định.
+
+Khi chụp ảnh, cần tránh tạo dáng phản cảm, ngồi lên linh vật hoặc đứng chắn khu vực hương án quá lâu. Nếu quay phim, chụp ảnh cưới, chụp thương mại hoặc dùng flycam, nên xin phép trước vì các quy định có thể thay đổi và khu vực tâm linh thường có giới hạn riêng.
+
+2. Quy định, điều cấm và hạn chế
+
+Các quy định cụ thể tại điểm tham quan có thể bao gồm không xả rác, không hút thuốc ở khu cấm, không viết vẽ lên đá, không tự ý di chuyển đồ thờ, không đốt vàng mã tùy tiện, không leo trèo ngoài lối đi, không gây ồn ào và không tổ chức hoạt động tập thể khi chưa được cho phép. Du khách nên ưu tiên biển báo và hướng dẫn tại chỗ.
+
+Vì có yếu tố núi và bậc cao, không nên chạy nhảy, đùa nghịch hoặc chen nhau trên bậc cấp. Trẻ em cần có người lớn đi kèm. Khi trời mưa, nên hạn chế đi nhanh hoặc đứng lâu ở các bậc đá trơn. Nếu có sấm sét, không nên đứng ở khu cao, trống trải.
+
+Nếu đi đoàn đông, cần có người điều phối để tránh làm ồn hoặc ảnh hưởng đến đoàn dâng hương khác. Hoạt động ngoại khóa nên được tổ chức ở khu vực phù hợp, không biến khu nghi lễ thành nơi trò chơi tập thể quá náo nhiệt.
+
+3. Mức độ đông khách
+
+Ngày thường, khu vực thường tương đối yên tĩnh, phù hợp để tham quan chậm và chụp ảnh. Cuối tuần, dịp lễ, mùa hè và các ngày có hoạt động Tây Sơn, lượng khách có thể tăng. Những thời điểm có đoàn học sinh, đoàn cơ quan hoặc khách hành hương, khu bậc cấp và khu đàn tế có thể đông hơn bình thường.
+
+Nếu muốn chụp ảnh không đông người, nên đi sáng sớm trong ngày thường. Nếu muốn cảm nhận không khí lễ hội, có thể đi dịp sự kiện nhưng cần chuẩn bị tinh thần đông khách, khó chụp ảnh trống người và có thể phải chờ tại khu dâng hương.
+
+Với dataset ảnh, ngày đông khách có lợi là có nhiều bối cảnh sinh hoạt du lịch, nhưng bất lợi là người che mất kiến trúc. Nên ưu tiên ảnh toàn cảnh không bị che quá nhiều để mô hình học đúng đặc điểm của địa điểm.
+
+4. Độ an toàn và khả năng tiếp cận
+
+Địa điểm nhìn chung an toàn nếu du khách đi đúng lối, không leo trèo và chú ý bậc cấp. Rủi ro chính là nắng nóng, mất sức khi leo, trượt chân khi mưa và trẻ em chạy nhảy. Người có bệnh nền nên mang thuốc cá nhân, không cố leo hết nếu thấy mệt.
+
+Khả năng tiếp cận cho người hạn chế vận động không cao do trục bậc dài. Người dùng xe lăn hoặc khó đi bộ cần liên hệ trước để hỏi có thể tham quan đến đâu, có lối tiếp cận phụ hay không và có người hỗ trợ hay không. Chatbot không nên hứa chắc rằng xe lăn có thể lên toàn bộ khu đàn tế.
+
+Người say xe cần lưu ý quãng đường từ Quy Nhơn về Tây Sơn không quá hiểm trở nhưng vẫn khá dài. Nên ăn nhẹ, chuẩn bị thuốc say xe nếu cần và tránh ngồi hàng ghế dễ rung nếu đi ô tô.
+
+5. Lưu ý cho từng nhóm du khách
+
+Trẻ em: cần nhắc trẻ không chạy, không leo lan can, không ném đá hoặc nghịch đồ thờ. Nên cho trẻ đội nón, uống nước và nghỉ giữa chặng. Người lớn có thể biến chuyến đi thành bài học lịch sử ngắn để trẻ hứng thú hơn.
+
+Người lớn tuổi: nên đi buổi sáng, mang giày mềm, có gậy hoặc người đi kèm nếu cần. Không nhất thiết phải lên đến viên đàn nếu sức khỏe không cho phép; có thể dừng ở Đền Ấn hoặc các khoảng sân trung gian. Tránh đi vào ngày nắng gắt hoặc mưa trơn.
+
+Người sợ độ cao hoặc sợ đông người: địa điểm không phải nơi quá cao theo kiểu vách đứng, nhưng có cảm giác lên bậc dài và không gian rộng. Nếu đi ngày đông khách, nên chọn thời điểm ít người hơn để tránh căng thẳng. Người sợ nắng hoặc dễ mệt nên chuẩn bị đầy đủ nước và đi chậm.
+
+6. Review tổng hợp: ưu điểm và nhược điểm
+
+Ưu điểm lớn nhất là không gian rộng, trang nghiêm, có câu chuyện lịch sử rõ, cảnh quan núi đẹp và dễ kết hợp với Bảo tàng Quang Trung. Địa điểm phù hợp cho du lịch văn hóa, giáo dục truyền thống, chụp ảnh kiến trúc và hành hương nhẹ. Nền đàn ba tầng và trục bậc đá tạo cảm giác uy nghi, khác với nhiều điểm du lịch chỉ có cảnh quan tự nhiên.
+
+Nhược điểm là nắng, phải leo nhiều bậc, dịch vụ tại chỗ có thể không phong phú và nếu không có thuyết minh thì trải nghiệm dễ bị ngắn. Một số du khách thích vui chơi, tắm biển hoặc hoạt động giải trí có thể thấy điểm này “ít thứ để chơi”. Vì vậy, nên đặt kỳ vọng đúng: đây là điểm lịch sử - tâm linh, không phải khu vui chơi.
+
+Một điểm cần lưu ý là thông tin trên mạng chưa đồng nhất về diện tích, địa danh hành chính, giờ mở cửa và miễn phí/thu phí. Tài liệu RAG nên luôn ghi “thông tin tham khảo, cần kiểm tra lại” với các nội dung vận hành, đồng thời lưu cả tên cũ và tên mới để chatbot không trả lời mâu thuẫn.
+
+7. Kinh nghiệm tránh rủi ro và hiểu lầm thường gặp
+
+Hiểu lầm thường gặp là nghĩ toàn bộ Đàn tế Trời Đất hiện nay là di tích cổ từ thời Tây Sơn. Cách giải thích đúng hơn là địa điểm gắn với truyền thuyết và không gian lịch sử Tây Sơn, còn công trình đàn tế hiện nay được xây dựng trong thời hiện đại để tưởng niệm và tái hiện ý nghĩa đó.
+
+Hiểu lầm thứ hai là nhầm địa điểm thuộc Bình Định hay Gia Lai. Cách trả lời nên là: trước đây thuộc Bình Định, sau sáp nhập hành chính năm 2025 thuộc tỉnh Gia Lai mới; trong du lịch vẫn phổ biến cách gọi Bình Định vì gắn với vùng Tây Sơn - Quy Nhơn.
+
+Kinh nghiệm tránh rủi ro: đi sớm, kiểm tra thời tiết, mang nước, chọn giày tốt, hỏi đường khi bản đồ mơ hồ, không leo bậc khi mưa lớn, không tách đoàn, không đứng sát mép cao để chụp ảnh và kiểm tra lại thông tin dịch vụ trước khi đi.
+
+8. Các câu hỏi chatbot có thể trả lời từ file này
+
+Chatbot có thể trả lời: đi Đàn tế Trời Đất cần lưu ý gì, có nguy hiểm không, có phù hợp trẻ em không, người lớn tuổi có nên đi không, có thể đi mùa mưa không, nên mặc gì, có được chụp ảnh không, có được dùng flycam không, điểm này có phải di tích cổ không.
+
+Chatbot cũng có thể cảnh báo khi người dùng muốn đi vào thời tiết xấu hoặc có yêu cầu đặc biệt về tiếp cận. Câu trả lời nên thực tế, không tô hồng quá mức và không khẳng định tiện ích nếu chưa có nguồn cập nhật.
+
+9. Nguồn tham khảo
+
+Du lịch Quy Nhơn - Bình Định/MyBinhDinh, “Đài Kính Thiên (Đàn Tế Trời Đất)”, trang giới thiệu du lịch địa phương, truy cập trong quá trình biên soạn.
+
+Thanh Niên, “Thăm đàn tế trời đất - nơi trời trao xã tắc cho nhà Tây Sơn”, đăng ngày 17/10/2025, cung cấp thông tin về vị trí xã Bình Phú, các lớp kiến trúc, Đền Ấn, Tháp Thông Linh và lượng khách tham quan.
+
+Nông nghiệp và Môi trường, “Đàn tế trời, tấm lòng của hậu nhân Bình Định”, đăng năm 2025, cung cấp thông tin về trục thần đạo dài khoảng 320 m, 183 bậc đá và ý nghĩa chiều cao 39 m.
+
+Cổng Thông tin Chính phủ/Xây dựng Chính sách, toàn văn Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai mới.
+
+Thư viện Pháp luật, bài tra cứu xã Bình Phú từ ngày 01/7/2025, trích nội dung xã Bình Phú được thành lập từ xã Vĩnh An, xã Bình Tường và xã Tây Phú.
+
+Các nguồn du lịch trải nghiệm như Traveloka, MIA.vn, Xanh SM, Halo Quy Nhơn, Trip.com và một số đơn vị lữ hành được dùng để đối chiếu thông tin thực tế về di chuyển, thời gian tham quan, giờ mở cửa và kinh nghiệm du lịch. Những thông tin này được xem là tham khảo và cần kiểm tra lại trước khi đi.

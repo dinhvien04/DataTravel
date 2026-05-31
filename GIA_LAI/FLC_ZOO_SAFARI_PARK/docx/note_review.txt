@@ -1,0 +1,75 @@
+Document này tổng hợp lưu ý khi tham quan, quy định, điều cấm/hạn chế, mức độ đông khách, độ an toàn, khả năng tiếp cận và review tổng hợp về FLC Zoo Safari Park Quy Nhơn. Đây là nhóm dữ liệu quan trọng để chatbot không chỉ giới thiệu điểm đến mà còn tư vấn an toàn, thực tế và có trách nhiệm.
+
+1. Lưu ý khi tham quan
+
+Nên đi vào buổi sáng để tránh nắng và có nhiều thời gian quan sát động vật. Khu Nhơn Lý - Cát Tiến nhiều nắng, gió và không phải toàn bộ khu vực đều có mái che. Du khách nên mang mũ, kính mát, kem chống nắng, nước uống, khăn giấy và giày thoải mái.
+
+Nên kiểm tra giờ mở cửa, giá vé và dịch vụ phụ trước khi đi, đặc biệt vào dịp lễ, cuối tuần hoặc mùa mưa. Dù nguồn FLC ghi giờ 08:00 - 17:30 và vé 100.000 đồng/người lớn, 80.000 đồng/trẻ em, thông tin vận hành có thể thay đổi theo chính sách hoặc bảo trì.
+
+Nếu đi với trẻ em, cần có người lớn đi kèm liên tục. Không nên để trẻ tự chạy vào khu vực gần rào chắn, hồ nước, xe điện hoặc khu thú dữ. Nên giải thích trước cho trẻ về việc không la hét, không ném đồ, không chọc phá và không tự ý cho thú ăn.
+
+2. Quy định tại địa điểm
+
+Quy định quan trọng nhất là tuân thủ hướng dẫn của nhân viên, bảng chỉ dẫn và rào chắn an toàn. Các khu động vật có mức độ rủi ro khác nhau, vì vậy người tham quan cần giữ khoảng cách, không trèo rào, không đưa tay qua chuồng hoặc hàng rào bảo vệ.
+
+Việc cho thú ăn chỉ nên thực hiện khi công viên cho phép và với thức ăn được cung cấp tại chỗ. Thức ăn của con người có thể gây hại cho động vật, làm thú thay đổi hành vi hoặc ảnh hưởng sức khỏe. Đây là điểm nên được chatbot nhấn mạnh khi người dùng hỏi "có được cho thú ăn không".
+
+Chụp ảnh cần giữ khoảng cách và không dùng đèn flash trực tiếp vào mắt động vật nếu khu vực có quy định. Không tạo tiếng động lớn để ép động vật nhìn vào máy ảnh. Với trẻ nhỏ, người lớn cần hướng dẫn cách quan sát yên tĩnh và tôn trọng động vật.
+
+3. Điều cấm và hạn chế
+
+Không tự ý cho động vật ăn bằng đồ ăn mang từ ngoài vào. Không ném vật lạ vào khu nuôi thú. Không gõ kính, gõ rào, la hét hoặc chọc que vào chuồng. Không trèo rào hoặc đứng lên lan can để chụp ảnh. Không thò tay vào khu thú dữ hoặc khu cá sấu.
+
+Không nên mang theo vật nuôi cá nhân vào khu Safari nếu chưa kiểm tra quy định, vì vật nuôi có thể gây căng thẳng cho động vật trong công viên và tạo rủi ro an toàn. Không xả rác, không hút thuốc bừa bãi và không phá hoại cây xanh/cơ sở vật chất.
+
+Hạn chế đi vào giờ trưa nắng gắt, đặc biệt với trẻ em và người lớn tuổi. Hạn chế tham gia quá nhiều dịch vụ liên tiếp nếu trẻ mệt hoặc thời tiết nóng.
+
+4. Mức độ đông khách
+
+FLC Zoo Safari Park có thể đông hơn vào mùa hè, cuối tuần, dịp lễ và khi khu FLC Quy Nhơn có nhiều khách lưu trú. Vào ngày thường hoặc mùa thấp điểm, không gian có thể vắng hơn, thuận lợi cho gia đình muốn đi chậm và chụp ảnh.
+
+Nếu người dùng hỏi có đông không, chatbot nên trả lời theo ngữ cảnh: ngày thường thường dễ tham quan hơn, cuối tuần và lễ có thể đông; nên đi sớm để mua vé nhanh, tránh nắng và có thời gian tham quan thoải mái.
+
+5. Độ an toàn
+
+FLC Zoo Safari Park là điểm tham quan phù hợp gia đình nếu tuân thủ quy định an toàn. Rủi ro chính không phải từ hoạt động mạo hiểm mà từ hành vi không đúng gần động vật, nắng nóng, trẻ em chạy xa người lớn, trượt ngã hoặc mệt khi đi bộ nhiều.
+
+Với khu thú dữ và cá sấu, an toàn phụ thuộc vào việc giữ đúng khoảng cách, không vượt rào và chỉ tham gia dịch vụ tương tác khi có nhân viên hướng dẫn. Với khu thú cưng, dù động vật hiền hơn, trẻ em vẫn cần tiếp xúc nhẹ nhàng, không kéo tai, kéo lông hoặc đứng quá sát khi thú đang ăn.
+
+6. Khả năng tiếp cận
+
+Công viên có diện tích rộng nên người khó đi bộ lâu có thể gặp bất tiện nếu không dùng xe điện hoặc phương tiện hỗ trợ. Gia đình có xe đẩy trẻ em nên hỏi nhân viên về lối đi thuận tiện, vì một số đoạn có thể nắng hoặc không hoàn toàn bằng phẳng.
+
+Người lớn tuổi nên đi lịch ngắn, chọn các khu chính, nghỉ giữa chặng và tránh trưa nắng. Nếu người dùng hỏi "người già đi được không", câu trả lời nên là có thể đi nếu sức khỏe ổn, đi buổi sáng, dùng xe điện nếu có và không cố đi hết toàn bộ công viên.
+
+7. Review tổng hợp
+
+Ưu điểm lớn nhất của FLC Zoo Safari Park là phù hợp gia đình và trẻ em. Địa điểm mang lại trải nghiệm khác với các điểm biển ở Quy Nhơn, giúp trẻ được nhìn thấy nhiều loài động vật, có không gian ngoài trời và có thể kết hợp với kỳ nghỉ tại FLC Quy Nhơn.
+
+Ưu điểm thứ hai là vị trí thuận tiện trong cụm Nhơn Lý - FLC - Eo Gió - Kỳ Co. Du khách không cần đi quá xa nếu đã ở khu FLC hoặc đang tham quan bán đảo Phương Mai. Điểm này giúp Safari dễ đưa vào lịch trình nửa ngày hoặc một ngày.
+
+Nhược điểm thường gặp là thời tiết nắng, công viên rộng nên dễ mệt nếu đi trưa, và một số dịch vụ/giá có thể thay đổi. Một số đánh giá du khách trên nền tảng review cũng cho thấy trải nghiệm có thể phụ thuộc vào tình trạng bảo trì, lượng khách và kỳ vọng của người đi. Vì vậy, chatbot nên tư vấn thực tế, không quảng bá quá mức.
+
+8. Ưu điểm
+
+Phù hợp gia đình có trẻ em, có nhiều động vật để quan sát, có các khu tương tác nhẹ nếu được phép, nằm gần FLC Quy Nhơn, có thể kết hợp với Kỳ Co và Eo Gió, không yêu cầu thể lực cao như cano/lặn biển, phù hợp lịch trình nghỉ dưỡng.
+
+9. Nhược điểm
+
+Nắng nóng nếu đi sai thời điểm, có thể cần đi bộ nhiều, dịch vụ phụ phát sinh phí, một số thông tin giá và giờ trên mạng không đồng nhất, trải nghiệm phụ thuộc vào bảo trì và điều kiện vận hành thực tế, không phải lựa chọn tốt nhất nếu người dùng chỉ muốn cảnh biển hoặc check-in thiên nhiên hoang sơ.
+
+10. Ghi chú nguồn và độ tin cậy
+
+Nguồn FLC nên được ưu tiên cho giờ mở cửa, giá vé cơ bản, địa chỉ, hotline và mô tả phân khu. Nguồn Bamboo Airways và các blog du lịch hữu ích cho kinh nghiệm tham quan, khoảng cách và dịch vụ tham khảo. Nguồn review như Tripadvisor hữu ích để nhận diện kỳ vọng thực tế nhưng không nên dùng làm nguồn duy nhất cho giá hoặc giờ mở cửa.
+
+11. Nguồn tham khảo
+
+FLC Hotels & Resorts - Zoo Safari Park: https://flchotelsresorts.com/dich-vu/zoo-safari-park-1
+
+FLC Hotels & Resorts - Safari Quy Nhơn: https://flchotelsresorts.com/safari-quy-nhon
+
+Bamboo Airways - Kinh nghiệm đi công viên hoang dã FLC Safari Quy Nhơn: https://www.bambooairways.com/vi/travel-guide/domestic-travels/quy-nhon/kinh-nghiem-di-safari-quy-nhon
+
+Tripadvisor - FLC Zoo Safari Park Quy Nhon: https://www.tripadvisor.com.vn/Attraction_Review-g608528-d12419938-Reviews-FLC_Zoo_Safari_Park_Quy_Nhon-Quy_Nhon_Binh_Dinh_Province.html
+
+Du lịch Quy Nhơn Blog - FLC Zoo Safari Park Quy Nhơn: https://dulichquynhon.blog/dia-diem-du-lich/flc-zoo-safari-park/

@@ -1,0 +1,79 @@
+1. Giới thiệu chung
+
+Tháp Cánh Tiên (Tháp Đồng) là một di tích kiến trúc Chăm Pa tiêu biểu ở khu vực An Nhơn, vùng Bình Định cũ. Đối với du khách đi Quy Nhơn, đây là một điểm dừng văn hóa nổi bật vì không nằm trong khu phố biển đông đúc mà hiện ra như một tháp cổ đơn lẻ trên vùng đất từng gắn với kinh đô Vijaya của vương quốc Chăm Pa. Tháp không tạo ấn tượng bằng quy mô quần thể nhiều tháp như Bánh Ít hay Dương Long, mà gây nhớ bằng dáng tháp thanh thoát, các tầng thu nhỏ dần và những chi tiết góc mái khiến người xem liên tưởng đến cánh tiên đang bay lên.
+
+Trong tài liệu này, địa danh được ghi theo cách du khách thường tìm kiếm là Tháp Cánh Tiên Bình Định, đồng thời có ghi chú hành chính cập nhật là khu vực Bình Định cũ nay thuộc tỉnh Gia Lai mới sau sắp xếp năm 2025. Nhiều nguồn du lịch cũ ghi vị trí ở xã Nhơn Hậu, thị xã An Nhơn, tỉnh Bình Định; khi sử dụng cho chatbot nên cho phép nhận dạng cả các cách gọi cũ và mới, vì người dùng có thể hỏi theo thói quen bản đồ, theo tên tỉnh cũ hoặc theo đơn vị hành chính hiện hành.
+
+Tên gọi phổ biến nhất là Tháp Cánh Tiên. Nguồn du lịch địa phương còn ghi tên Tháp Đồng. Một số tài liệu và bài viết du lịch cũng nhắc các tên như Tháp Con Gái hoặc cách gọi trong địa chí cũ. Khi xây dựng dữ liệu RAG, nên lưu nhiều tên gọi này để chatbot nhận ra cùng một địa điểm dù người dùng nhập khác nhau. Tuy nhiên, tên chính dùng cho bộ dữ liệu nên là Tháp Cánh Tiên vì đây là tên quen thuộc nhất trên bản đồ du lịch và trong các bài giới thiệu hiện nay.
+
+Về trải nghiệm, Tháp Cánh Tiên phù hợp với khách yêu kiến trúc Chăm, khách thích tìm hiểu lịch sử Bình Định - Gia Lai, học sinh sinh viên đi thực tế, nhóm chụp ảnh văn hóa và những du khách muốn kết hợp tuyến Thành Hoàng Đế, chùa Thập Tháp, làng nghề An Nhơn. Điểm đến này không nên được mô tả như một khu vui chơi hay khu dịch vụ đông đúc; nó là một di tích cần đi chậm, quan sát kỹ và tôn trọng không gian bảo tồn.
+
+2. Vị trí và bối cảnh địa danh
+
+Theo các nguồn du lịch địa phương, Tháp Cánh Tiên nằm trong khu vực xã Nhơn Hậu, thị xã An Nhơn của tỉnh Bình Định cũ, cách trung tâm Quy Nhơn khoảng 25-28 km về phía tây bắc. Sau sắp xếp hành chính, người dùng có thể gặp cách ghi mới liên quan phường An Nhơn, tỉnh Gia Lai. Vì dữ liệu trên bản đồ, bài báo và website du lịch có thể cập nhật không đồng đều, chatbot nên trả lời theo cách dung hòa: tháp ở khu vực Nhơn Hậu - An Nhơn, Bình Định cũ, nay thuộc tỉnh Gia Lai mới; khi đi thực tế có thể tìm bằng từ khóa Tháp Cánh Tiên hoặc Tháp Cánh Tiên An Nhơn.
+
+Bối cảnh quan trọng nhất của tháp là Thành Đồ Bàn, còn gọi là Vijaya, một trung tâm chính trị quan trọng của Chăm Pa trong nhiều thế kỷ. Vị trí này giúp Tháp Cánh Tiên khác một điểm check-in đơn thuần. Nó là một chứng tích nằm trong lớp cảnh quan lịch sử gồm thành cổ, dấu vết kinh đô, các tháp Chăm lân cận và các di tích thời Tây Sơn - Nguyễn. Khi mô tả địa điểm, nên đặt tháp trong mối liên hệ với Thành Hoàng Đế và vùng An Nhơn để người nghe hiểu vì sao một tháp đơn lẻ lại có giá trị lớn.
+
+Từ Quy Nhơn, tuyến đi đến tháp thường thuận tiện theo hướng quốc lộ 1A rồi vào khu vực Đập Đá - Nhơn Hậu. Khoảng cách vừa đủ cho một chuyến nửa ngày. Đây là ưu điểm lớn của tháp: du khách không cần trekking, không cần đi tàu, không cần chuẩn bị phức tạp như điểm tự nhiên xa; chỉ cần phương tiện đường bộ và một lịch trình hợp lý để tránh nắng.
+
+3. Lịch sử hình thành và giá trị di tích
+
+Nhiều nguồn giới thiệu ghi Tháp Cánh Tiên được xây dựng vào khoảng thế kỷ XII, trong giai đoạn nghệ thuật Champa ở vùng Bình Định phát triển mạnh. Một số truyền thuyết gắn tháp với thời vua Chế Mân và câu chuyện Huyền Trân Công Chúa, nhưng khi đưa vào dữ liệu RAG nên phân biệt rõ giữa thông tin lịch sử - kiến trúc và lớp truyền thuyết dân gian. Câu trả lời tốt của chatbot nên nói rằng tháp thường được xếp vào giai đoạn thế kỷ XII, còn chuyện vua Chế Mân xây tặng là truyền thuyết hoặc cách kể phổ biến trong du lịch, không nên khẳng định như sự kiện tuyệt đối nếu không có nguồn khảo cổ trực tiếp.
+
+Giá trị lịch sử của Tháp Cánh Tiên nằm ở việc nó chứng minh sự hiện diện dày đặc của văn hóa Chăm Pa trên đất Bình Định cũ. Vùng này không chỉ có một tháp lẻ mà có cả hệ thống tháp như Bánh Ít, Dương Long, Bình Lâm, Phú Lốc, Thủ Thiện, Tháp Đôi. Trong hệ thống đó, Cánh Tiên là một tháp đơn độc, tương đối nguyên vẹn và có dáng riêng, giúp người nghiên cứu nhận diện phong cách Bình Định trong nghệ thuật Chăm muộn.
+
+Tháp được nhắc là di tích kiến trúc nghệ thuật cấp quốc gia, được xếp hạng năm 1982 trong nhiều nguồn du lịch. Công tác trùng tu, bảo tồn và chỉnh trang hạ tầng cũng từng được triển khai. Với dữ liệu chatbot, điểm này quan trọng vì người dùng thường hỏi tháp có phải di tích quốc gia không, có được bảo vệ không, có nên chạm vào gạch tháp hay leo lên không. Câu trả lời cần nhấn mạnh đây là di tích bảo tồn, không phải đạo cụ chụp ảnh.
+
+4. Kiến trúc và cảnh quan
+
+Kiến trúc Tháp Cánh Tiên mang đặc trưng tháp Chăm nhưng có nét riêng. Tháp xây chủ yếu bằng gạch, có chiều cao khoảng 20 m, cấu trúc nhiều tầng thu nhỏ dần lên trên. Các mặt tường có cột ốp, khung dọc, cửa vòm nhọn và các mảng trang trí tạo nhịp đứng mạnh. Nếu quan sát từ xa, tháp có cảm giác cao vút, cân đối và bền chắc; nếu quan sát gần, người xem thấy các lớp gạch, đá và đường nét trang trí đã trải qua thời gian dài phong hóa.
+
+Một trong những chi tiết làm nên tên gọi Cánh Tiên là phần góc mái và các chi tiết đá nhô ra ở từng tầng, khiến thân tháp không chỉ là một khối thẳng mà có cảm giác đang mở cánh. Những chi tiết này làm cho tháp khác với nhiều tháp Chăm khác vốn trang trí giản lược hơn ở phần góc hoặc mái. Khi dùng cho nhận diện ảnh, chi tiết 'cánh' ở tầng trên, dáng tháp đơn lẻ và chất liệu gạch đỏ nâu là những đặc điểm rất hữu ích.
+
+Không gian xung quanh tháp thường thoáng, có đường vào, sân và cây xanh. Cảnh quan không quá phức tạp nhưng có chiều sâu vì phía sau là bối cảnh thành cổ và đồng bằng An Nhơn. Du khách có thể chụp cận cảnh các mặt tháp, chụp toàn cảnh từ lối vào hoặc chụp tháp nổi bật trên nền trời. Tuy nhiên, ánh nắng miền Trung khá gắt, vì vậy trải nghiệm đẹp nhất thường là buổi sáng sớm hoặc cuối chiều.
+
+5. Các khu vực chính nên mô tả
+
+Khu vực đầu tiên là lối vào và khoảng sân phía trước tháp. Đây là nơi du khách định vị, nhìn được tổng thể tháp và đọc bảng giới thiệu nếu có. Với chatbot hướng dẫn tại chỗ, phần này có thể dùng để khuyên khách dừng lại nhìn tổng thể trước, sau đó mới đi vòng quanh. Điều này giúp du khách thấy rõ dáng tháp và sự cân đối của các tầng.
+
+Khu vực thứ hai là thân tháp và các mặt tường. Mặt Đông thường là hướng cửa chính, các mặt còn lại có cửa giả hoặc mảng trang trí. Khi mô tả, nên nhấn mạnh nguyên tắc tham quan là đứng ngoài quan sát, không bám, không trèo, không cạy gạch và không viết vẽ lên di tích. Vì tháp đã tồn tại qua nhiều thế kỷ, các chi tiết bề mặt rất dễ bị tổn thương nếu du khách ứng xử thiếu cẩn trọng.
+
+Khu vực thứ ba là vòng quan sát xung quanh, nơi nhìn được tháp từ nhiều góc. Đây là vùng tốt cho chụp ảnh, thuyết minh và so sánh với các tháp Chăm khác. Với du khách thích kiến trúc, đi vòng quanh tháp một lượt sẽ giúp thấy rõ các cửa vòm, cột ốp, góc mái và vật liệu đá/sa thạch được sử dụng xen với gạch.
+
+6. Đặc điểm nhận diện bằng văn bản và hình ảnh
+
+Dấu hiệu nhận diện quan trọng của Tháp Cánh Tiên là một tháp Chăm đơn lẻ bằng gạch đỏ nâu, đứng trên gò/đồi thấp trong không gian thoáng, thân tháp vuông vức, dáng vươn cao khoảng 20 m, có các tầng thu nhỏ dần lên phía trên. Trên các tầng và góc mái xuất hiện những chi tiết đá/sa thạch nhô ra, tạo cảm giác như cánh chim hoặc cánh tiên đang mở. Cửa chính thường nhìn về hướng Đông, còn các mặt khác có cửa giả. Nếu ảnh có nền tháp đơn độc giữa vùng cây xanh, cánh đồng hoặc khu Thành Đồ Bàn - Thành Hoàng Đế, với phần góc mái như cánh vươn lên, đó là gợi ý mạnh để nhận diện Tháp Cánh Tiên.
+
+Từ khóa mô tả địa điểm: Tháp Cánh Tiên, Tháp Đồng, tháp Chăm An Nhơn, tháp Chăm Bình Định, tháp Chăm Gia Lai mới, Thành Đồ Bàn, Vijaya, Thành Hoàng Đế, Nhơn Hậu, An Nhơn, kiến trúc Champa, phong cách Bình Định, gạch đỏ, tháp đơn lẻ, cửa vòm nhọn, cánh tiên, sa thạch, di tích kiến trúc nghệ thuật.
+
+Từ file này, chatbot có thể trả lời các câu hỏi như: Tháp Cánh Tiên là gì, ở đâu, vì sao có tên Cánh Tiên, tháp có phải tháp Chăm không, tháp được xây dựng vào khoảng thời gian nào, có liên quan gì đến Thành Đồ Bàn, kiến trúc có điểm gì đặc biệt, nên nhận diện tháp qua hình ảnh như thế nào, và nên gọi địa điểm này là Bình Định hay Gia Lai trong ngữ cảnh hiện nay.
+
+7. Phân biệt Tháp Cánh Tiên với các tháp Chăm khác
+
+Khi dùng trong hệ thống hỏi đáp hoặc mô hình nhận diện địa điểm, Tháp Cánh Tiên cần được tách rõ khỏi Tháp Đôi, Tháp Bánh Ít và Tháp Dương Long. Tháp Đôi nằm trong nội đô Quy Nhơn và có hai tháp; Bánh Ít là quần thể nhiều tháp trên đồi; Dương Long là cụm ba tháp lớn ở vùng Tây Sơn. Tháp Cánh Tiên chỉ có một tháp, nằm ở vùng An Nhơn và thường gắn với Thành Đồ Bàn - Thành Hoàng Đế. Đây là tiêu chí phân biệt quan trọng khi người dùng hỏi bằng ảnh hoặc mô tả ngắn.
+
+Về hình khối, Tháp Cánh Tiên có dáng tháp thẳng, cao, các tầng trên thu nhỏ và phần vai tháp tạo cảm giác mở cánh. Nếu ảnh cho thấy một tháp đơn lẻ đứng trơ trên nền cây xanh và đồng ruộng, khả năng đó là Cánh Tiên cao hơn so với ảnh có hai tháp hoặc nhiều tháp trên đồi. Nếu ảnh có phố xá dày đặc ngay sau lưng, đó có thể là Tháp Đôi hơn là Cánh Tiên.
+
+Về ngữ cảnh lịch sử, Tháp Cánh Tiên nên được gắn với cố đô Chăm Pa ở Vijaya, trong khi Dương Long thường được nhắc nhiều bởi chiều cao và sự giao thoa Chăm - Khmer, Bánh Ít bởi quần thể tháp đa dạng, còn Bình Lâm bởi niên đại sớm. Cách phân nhóm này giúp chatbot trả lời các câu hỏi so sánh một cách có logic thay vì chỉ nêu từng tháp rời rạc.
+
+Nếu người dùng nhập 'tháp Chăm ở An Nhơn gần Thành Hoàng Đế', 'tháp Đồng', 'tháp cánh như cánh tiên', 'tháp Chăm trong thành Đồ Bàn', hệ thống nên ưu tiên trả về Tháp Cánh Tiên. Nếu người dùng nhập 'tháp đôi trong thành phố Quy Nhơn', 'cụm tháp trên đồi Bánh Ít', hoặc 'ba tháp cao nhất', hệ thống nên chuyển sang địa điểm tương ứng khác.
+
+8. Nguồn tham khảo
+
+Cổng Du lịch Quy Nhơn - Bình Định, bài Tháp Cánh Tiên (Tháp Đồng): https://dulichquynhon.binhdinh.gov.vn/vi/thapcanhtien
+
+Cổng Du lịch thông minh Bình Định, bài Tháp Cánh Tiên (Tháp Đồng): https://mybinhdinh.vn/vi/thapcanhtien
+
+Bộ Ngoại giao CHLB Đức tại Việt Nam, bài Tháp Cánh Tiên: https://vietnam.diplo.de/vn-vi/%C4%91%E1%BB%A9c-vi%E1%BB%87tnam/aktuelles/170410-canh-tien-turm-1288724
+
+Cục Du lịch Quốc gia Việt Nam, tin tu bổ hạ tầng tại tháp Cánh Tiên và Dương Long: https://vietnamtourism.gov.vn/post/39544
+
+DulichVietnam.com.vn, cẩm nang du lịch tháp Cánh Tiên Bình Định/Gia Lai: https://dulichvietnam.com.vn/thap-canh-tien-binh-dinh.html
+
+Báo Chính phủ / Xây dựng chính sách, thông tin sắp xếp đơn vị hành chính cấp xã ở khu vực Bình Định cũ: https://xaydungchinhsach.chinhphu.vn/binh-dinh-du-kien-ten-goi-58-don-vi-hanh-chinh-cap-xa-sau-sap-xep-119250418161235038.htm
+
+Cổng thông tin Gia Lai, thông tin sáp nhập Bình Định - Gia Lai và trung tâm hành chính mới: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
+
+Cổng Du lịch thông minh Bình Định, bài Thành Hoàng Đế và các điểm gần Tháp Cánh Tiên: https://mybinhdinh.vn/vi/thanhhoangde
+
+Báo Biên phòng, bài Cánh Tiên - tháp Chăm cổ ở Bình Định: https://www.bienphong.com.vn/canh-tien-thap-cham-co-nhat-binh-dinh-post336986.html

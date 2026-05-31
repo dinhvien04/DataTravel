@@ -1,0 +1,77 @@
+Tài liệu này mô tả các hoạt động du lịch, điểm check-in, thời lượng tham quan, lịch trình gợi ý và kinh nghiệm thực tế ở Cù Lao Xanh. Nội dung viết thành đoạn văn để phù hợp với cách bạn muốn đưa vào Google Docs và sử dụng cho training mô hình.
+
+1. Hoạt động du lịch chính
+
+Hoạt động phổ biến nhất ở Cù Lao Xanh là tham quan các điểm biểu tượng. Du khách thường bắt đầu từ cầu cảng Nhơn Châu, sau đó đi hải đăng Cù Lao Xanh, cột cờ Tổ quốc, bãi đá Thảo Nguyên, các bãi tắm và khu vực ngắm san hô. Hành trình này tạo đủ dữ liệu cho nhóm câu hỏi “Cù Lao Xanh có gì chơi” hoặc “đi Cù Lao Xanh trong ngày nên đi đâu”.
+
+Tắm biển và lặn ngắm san hô là hoạt động đặc trưng của chuyến đi đảo. Nước biển trong, các bãi cạn và khu vực san hô được nhiều bài trải nghiệm nhắc đến như lý do nên ra đảo vào mùa khô. Khi mô tả hoạt động này, cần kèm lưu ý không bẻ san hô, không dẫm lên san hô, không lấy sinh vật biển về đất liền và luôn tuân thủ hướng dẫn an toàn.
+
+Chụp ảnh check-in là hoạt động rất phổ biến. Các góc ảnh thường được nhắc đến gồm cầu cảng với biển xanh, đường lên hải đăng, hải đăng nhìn xuống toàn đảo, cột cờ với nền trời và biển, bãi đá Thảo Nguyên, Bãi Nam lúc hoàng hôn, Bãi Bắc hoặc bãi có san hô lúc trời nắng trong. Với dữ liệu multimodal, các nhãn ảnh nên bao gồm biển xanh, bãi đá, cột cờ, hải đăng, cầu cảng, làng chài, cano, san hô, thuyền cá.
+
+Ăn hải sản và trải nghiệm đời sống dân đảo cũng là phần quan trọng. Du khách có thể dùng bữa với cá, mực, tôm, cua, ốc, bánh xèo mực hoặc chả cá tùy dịch vụ và mùa. Trải nghiệm không chỉ là món ăn mà còn là cảm giác ăn ở đảo, gần biển, trong không khí đơn giản và thân thiện.
+
+2. Điểm check-in nổi bật
+
+Hải đăng Cù Lao Xanh là điểm check-in có giá trị nhất về cả cảnh quan và câu chuyện. Từ khu vực hải đăng, du khách có thể nhìn ra biển, làng chài và các đường nét của đảo. Công trình này phù hợp cho câu hỏi về lịch sử, kiến trúc, ảnh đẹp và biểu tượng của Cù Lao Xanh.
+
+Cột cờ Tổ quốc là điểm check-in gắn với chủ quyền biển đảo. Ảnh chụp tại đây thường có nền trời rộng, biển xanh và lá cờ đỏ sao vàng. Nếu chatbot trả lời cho nhóm học sinh, sinh viên hoặc đoàn thể, nên nhấn mạnh giá trị giáo dục và tinh thần hướng về biển đảo.
+
+Bãi đá Thảo Nguyên là điểm chụp ảnh cảnh quan mạnh. Các tảng đá tự nhiên nhiều hình dạng tạo cảm giác hoang sơ, có thể chụp đẹp khi nắng nghiêng hoặc khi sóng đánh vào bờ đá. Nên lưu ý du khách đi giày dép bám tốt, không leo trèo nguy hiểm khi đá ướt và không đứng quá sát mép sóng.
+
+Cầu cảng Nhơn Châu là nơi tạo ấn tượng đầu tiên khi đến đảo. Đây là điểm có thuyền, cano, mặt nước và nhịp sinh hoạt địa phương. Đối với người thích ảnh du lịch đời thường, cầu cảng và khu dân cư xung quanh cung cấp góc nhìn chân thực hơn so với các điểm check-in đã sắp đặt.
+
+Bãi Nam, Bãi Bắc, Bãi Trước, Bãi Nhỏ, Bãi Gala và Giếng Tiên là nhóm điểm thiên nhiên có thể xuất hiện trong nhiều lịch trình. Tùy điều kiện thời tiết, hướng gió và lịch tàu, một số điểm phù hợp để tắm, một số điểm phù hợp để chụp ảnh, một số điểm phù hợp để ngắm san hô hoặc nghỉ ngơi.
+
+3. Thời lượng tham quan đề xuất
+
+Thời lượng tối thiểu hợp lý là một ngày trọn vẹn nếu đi bằng cano và thời tiết thuận lợi. Một ngày đủ để tham quan các điểm chính, ăn trưa, tắm biển hoặc lặn ngắm san hô. Tuy nhiên lịch một ngày khá gọn, cần xuất phát sớm và không nên kéo dài quá lâu ở từng điểm.
+
+Thời lượng đẹp hơn là 2 ngày 1 đêm. Lịch này cho phép du khách ngắm hoàng hôn, ăn tối trên đảo, cắm trại hoặc nghỉ homestay, sáng hôm sau ngắm bình minh và đi dạo làng chài. Với người muốn thu thập dữ liệu trải nghiệm sâu, 2 ngày 1 đêm sẽ tạo nhiều nội dung hơn về dịch vụ, nhịp sống, an toàn, ẩm thực và lưu trú.
+
+Không nên khuyến nghị đi quá vội theo kiểu sáng đến Quy Nhơn rồi lập tức ra đảo nếu lịch máy bay hoặc tàu xe sát giờ. Cần có thời gian đệm vì trễ chuyến, chờ tàu hoặc thời tiết xấu có thể làm thay đổi toàn bộ kế hoạch.
+
+4. Lịch trình tham quan gợi ý một ngày
+
+Buổi sáng, du khách di chuyển từ trung tâm Quy Nhơn đến bến Hàm Tử, lên cano ra Cù Lao Xanh nếu biển thuận lợi. Sau khi cập cầu cảng Nhơn Châu, nên chụp ảnh nhanh ở cầu cảng rồi đi tham quan hải đăng và cột cờ Tổ quốc. Đây là hai điểm nên đi sớm hơn để tránh nắng gắt, nhất là với người đi bộ nhiều hoặc đi gia đình có trẻ nhỏ.
+
+Buổi trưa, du khách dùng bữa hải sản hoặc bữa ăn địa phương tại homestay, nhà dân, nhà hàng nhỏ hoặc trong gói tour. Sau bữa trưa nên nghỉ ngắn, tránh tắm biển ngay khi vừa ăn no. Nếu lịch trình có lặn san hô, nên kiểm tra áo phao, kính lặn và nghe hướng dẫn trước khi xuống nước.
+
+Buổi chiều, có thể đi bãi đá Thảo Nguyên, Bãi Nam hoặc một bãi tắm phù hợp để chụp ảnh, tắm biển, lặn ngắm san hô hoặc ngắm cảnh. Nếu đi cano về trong ngày, cần canh giờ quay lại cầu cảng sớm, không tự ý tách đoàn quá lâu và không đi quá xa điểm hẹn.
+
+5. Lịch trình tham quan gợi ý 2 ngày 1 đêm
+
+Ngày thứ nhất, du khách ra đảo vào buổi sáng, nhận phòng hoặc gửi đồ tại nơi lưu trú, tham quan hải đăng, cột cờ, cầu cảng, bãi đá Thảo Nguyên và một số bãi biển gần. Buổi chiều có thể chọn hoạt động tắm biển, lặn ngắm san hô hoặc chèo SUP nếu dịch vụ có sẵn. Tối đến, có thể ăn hải sản, BBQ, đi dạo quanh khu dân cư hoặc cắm trại tại khu vực được phép.
+
+Ngày thứ hai, nên dậy sớm để ngắm bình minh, chụp ảnh biển lúc sáng, đi dạo làng chài hoặc tham quan thêm bãi tắm chưa kịp đi. Sau đó ăn sáng, chuẩn bị hành lý, kiểm tra giờ tàu hoặc cano về bến Hàm Tử. Lịch này phù hợp với người muốn cảm nhận đảo chậm hơn và không chỉ đi check-in.
+
+Nếu đi 2 ngày 1 đêm vào mùa cao điểm, cần đặt phòng hoặc homestay trước. Dịch vụ lưu trú trên đảo không nhiều và không nên kỳ vọng tiêu chuẩn như khách sạn lớn ở trung tâm Quy Nhơn. Điểm mạnh là gần biển, gần đời sống dân cư và thuận tiện cho trải nghiệm bình minh, hoàng hôn.
+
+6. Kinh nghiệm tham quan
+
+Nên đi vào mùa khô, trời nắng, biển êm để có ảnh đẹp và hoạt động biển an toàn hơn. Trước ngày đi cần kiểm tra dự báo thời tiết, hỏi lịch tàu, hỏi tình trạng biển và xác nhận lại với đơn vị vận chuyển. Không nên chỉ dựa vào lịch trình quảng cáo vì thực tế ngoài đảo có thể thay đổi theo sóng gió.
+
+Nên mang kem chống nắng, mũ, kính râm, áo khoác mỏng, đồ bơi, khăn nhanh khô, túi chống nước, dép đi biển và giày thể thao nhẹ. Giày thể thao hữu ích khi đi bãi đá hoặc đường lên hải đăng; dép biển hữu ích khi đi bãi cát và tắm biển.
+
+Nên mang tiền mặt vì dịch vụ trên đảo có thể không thuận tiện như đất liền. Điện thoại cần sạc đầy, có sạc dự phòng và túi chống nước. Nếu ở lại qua đêm, nên chuẩn bị đồ cá nhân, thuốc cơ bản, thuốc say sóng nếu cần và kiểm tra trước chỗ ngủ.
+
+Không nên bẻ san hô, lấy sinh vật biển, xả rác, gây ồn ào vào ban đêm trong khu dân cư hoặc tự ý đi vào khu vực hạn chế. Cù Lao Xanh là xã đảo có yếu tố quốc phòng, biên phòng và đời sống cư dân, vì vậy du khách cần tôn trọng quy định địa phương.
+
+7. Ghi chú dữ liệu cho RAG
+
+Nhóm intent phổ biến gồm: hỏi Cù Lao Xanh có gì chơi, hỏi lịch trình một ngày, hỏi đi mấy ngày là đủ, hỏi điểm chụp ảnh đẹp, hỏi có lặn san hô không, hỏi có nên ngủ lại không, hỏi đi tự túc được không và hỏi Cù Lao Xanh có phù hợp gia đình không.
+
+Các thực thể cần trích xuất gồm: hải đăng Cù Lao Xanh, cột cờ Tổ quốc, bãi đá Thảo Nguyên, cầu cảng Nhơn Châu, Bãi Nam, Bãi Bắc, Bãi Trước, Bãi Nhỏ, Bãi Gala, Giếng Tiên, bến Hàm Tử, cano, tàu gỗ, mùa khô, mùa mưa bão.
+
+8. Nguồn tham khảo
+
+UBND xã Nhơn Châu, 'Cù Lao Xanh - hòn đảo xanh yên bình', https://nhonchau.gialai.gov.vn/tin-tuc/cu-lao-xanh-hon-dao-xanh-yen-binh.html
+
+UBND xã Nhơn Châu, 'Vẻ đẹp tựa cảnh phim: biển xanh, núi đá, giếng Tiên và những lối mòn tại xã Nhơn Châu', https://nhonchau.gialai.gov.vn/tin-tuc/ve-dep-tua-canh-phim-bien-xanh-nui-da-gieng-tien-va-nhung-loi-mon-tai-xa-nhon-chau.html
+
+Vietnam Airlines, 'Cù Lao Xanh ở đâu? Gợi ý lịch trình khám phá 1 ngày đầy thú vị', https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/cu-lao-xanh
+
+Bamboo Airways, 'Kinh nghiệm du lịch Cù Lao Xanh tự túc cho ai đi lần đầu', https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/kinh-nghiem-du-lich-cu-lao-xanh
+
+Traveloka, 'Lịch trình khám phá Cù Lao Xanh Quy Nhơn 1 ngày chi tiết', https://www.traveloka.com/vi-vn/explore/destination/kham-pha-cu-lao-xanh-quy-nhon/58729
+
+Vinpearl, 'Cù Lao Xanh - cẩm nang khám phá và trải nghiệm', https://vinpearl.com/vi/cu-lao-xanh-quy-nhon-binh-dinh

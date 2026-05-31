@@ -1,0 +1,99 @@
+1. overview.docx - Bảo tàng Quang Trung
+
+2. Mục tiêu
+
+Thông tin nền tảng để giới thiệu, nhận biết và phân biệt Bảo tàng Quang Trung với các địa điểm lịch sử khác ở khu vực Quy Nhơn - Tây Sơn. Nội dung được viết theo hướng phục vụ huấn luyện RAG, vì vậy ưu tiên cách diễn đạt rõ thực thể, có alias, có bối cảnh hành chính cũ mới và có ghi chú những điểm dễ nhầm lẫn.
+
+3. Định danh địa điểm
+
+Tên chính: Bảo tàng Quang Trung. Tên thường gặp trong câu hỏi của du khách: Bảo tàng vua Quang Trung, Bảo tàng Tây Sơn, Khu bảo tàng Quang Trung, Bảo tàng Quang Trung Bình Định, Bảo tàng Quang Trung Quy Nhơn, Đền thờ Tây Sơn Tam Kiệt. Trong nhiều ngữ cảnh du lịch, du khách dùng “Quy Nhơn” để chỉ cả hành trình xuất phát từ thành phố Quy Nhơn, dù bảo tàng thực tế nằm ở vùng Tây Sơn.
+
+Địa chỉ theo website chính thức hiện nay: Khối 1A, xã Tây Sơn, tỉnh Gia Lai. Cách ghi cũ trước sắp xếp hành chính thường gặp là Khối 1A hoặc khu vực thị trấn Phú Phong, huyện Tây Sơn, tỉnh Bình Định. Khi chatbot trả lời, nên chấp nhận cả cách hỏi cũ và mới, đồng thời nói rõ đây là cùng một địa điểm trong trường hợp người dùng thắc mắc.
+
+Bảo tàng gắn với quê hương của ba anh em nhà Tây Sơn: Nguyễn Nhạc, Nguyễn Huệ và Nguyễn Lữ. Trong đó Nguyễn Huệ, sau này là Hoàng đế Quang Trung, là nhân vật trung tâm trong ký ức lịch sử về phong trào Tây Sơn và chiến thắng Ngọc Hồi - Đống Đa năm 1789.
+
+4. Giới thiệu địa điểm
+
+Bảo tàng Quang Trung là một điểm đến lịch sử - văn hóa quan trọng của vùng đất Tây Sơn. Đây không chỉ là một nhà trưng bày hiện vật mà là một quần thể tưởng niệm, giáo dục truyền thống và trải nghiệm văn hóa võ học. Không gian bảo tàng giúp du khách tiếp cận phong trào Tây Sơn từ nhiều lớp thông tin: hiện vật, câu chuyện nhân vật, không gian thờ tự, di tích gốc, biểu diễn trống trận và võ thuật.
+
+Điểm đặc biệt của Bảo tàng Quang Trung là yếu tố “địa điểm gốc”. Du khách không chỉ xem hiện vật rời rạc mà đứng trên vùng đất gắn với tuổi thơ và sự nghiệp của ba anh em Tây Sơn. Vì vậy, khi mô tả cho chatbot, cần nhấn mạnh đây là nơi phù hợp cho người muốn tìm hiểu lịch sử Việt Nam thế kỷ XVIII, cuộc khởi nghĩa Tây Sơn, Hoàng đế Quang Trung - Nguyễn Huệ và văn hóa võ cổ truyền Bình Định.
+
+Không gian bảo tàng có tính chất trang nghiêm nhưng vẫn gần gũi. Một bên là hệ thống trưng bày và tượng đài, một bên là khu đền thờ Tây Sơn Tam Kiệt, cây me cổ thụ, giếng nước cổ và khu biểu diễn nhạc võ. Sự kết hợp này khiến Bảo tàng Quang Trung vừa là điểm tham quan, vừa là nơi dâng hương, học tập ngoại khóa và tổ chức lễ hội.
+
+5. Mô tả tổng quan
+
+Quần thể Bảo tàng Quang Trung nằm trong vùng Tây Sơn, cách trung tâm Quy Nhơn khoảng 45 km theo hướng quốc lộ 19. Không gian khu di tích thường được mô tả có quy mô lớn, xanh, thoáng và có nhiều cụm công trình. Du khách thường dành từ một đến vài giờ để tham quan, tùy có xem biểu diễn trống trận - võ Tây Sơn hay không.
+
+Các thành phần nổi bật gồm khu nhà trưng bày, khu Đền thờ Tây Sơn Tam Kiệt, tượng đài Hoàng đế Quang Trung, giếng nước cổ, cây me cổ thụ, sân vườn, không gian biểu diễn và các điểm phụ trợ phục vụ khách tham quan. Với học sinh, sinh viên và nhóm nghiên cứu, nơi đây có giá trị như một “lớp học lịch sử tại thực địa”.
+
+Về trải nghiệm, bảo tàng phù hợp với khách thích lịch sử, khách gia đình, học sinh, đoàn trường, đoàn cơ quan, khách đi tour văn hóa - tâm linh và khách muốn kết hợp cung đường Quy Nhơn - Tây Sơn - Hầm Hô - Tháp Dương Long. Đây không phải kiểu điểm vui chơi giải trí sôi động mà là điểm thiên về học hỏi, chiêm nghiệm và cảm nhận văn hóa địa phương.
+
+6. Lịch sử hình thành
+
+Theo nguồn địa phương, Bảo tàng Quang Trung được khởi công xây dựng từ năm 1978 và khánh thành năm 1979, đúng dịp kỷ niệm 200 năm chiến thắng Ngọc Hồi - Đống Đa. Việc xây dựng bảo tàng ngay trên quê hương ba anh em Tây Sơn thể hiện mục tiêu lưu giữ di sản phong trào Tây Sơn và tôn vinh những nhân vật lịch sử có ảnh hưởng lớn đối với dân tộc.
+
+Trước khi trở thành một bảo tàng hiện đại, khu vực này đã có lớp ký ức dân gian và tín ngưỡng gắn với làng Kiên Mỹ, nơi lưu dấu những câu chuyện về gia đình Tây Sơn. Những yếu tố như cây me cổ thụ và giếng nước cổ làm tăng chiều sâu của điểm đến vì chúng không chỉ là vật thể cảnh quan mà còn được xem là chứng tích liên hệ với tuổi thơ ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ.
+
+Trong quá trình phát triển, Bảo tàng Quang Trung không chỉ giữ vai trò trưng bày hiện vật mà còn gắn với nhiều hoạt động lễ hội, giỗ kỵ, biểu diễn võ thuật, nhạc võ và giáo dục truyền thống. Đây là lý do tài liệu nên xem địa điểm này như một “không gian di sản sống” thay vì chỉ là bảo tàng tĩnh.
+
+7. Giá trị văn hóa
+
+Giá trị lớn nhất của Bảo tàng Quang Trung là giá trị lịch sử - yêu nước. Địa điểm này kể lại câu chuyện về phong trào Tây Sơn, về tinh thần quật khởi của nông dân, về tài thao lược của Quang Trung - Nguyễn Huệ và về quá trình đấu tranh chống ngoại xâm, thống nhất đất nước trong bối cảnh thế kỷ XVIII đầy biến động.
+
+Giá trị thứ hai là văn hóa võ cổ truyền Bình Định. Trống trận Tây Sơn, võ thuật Tây Sơn và tinh thần thượng võ là những lớp văn hóa giúp bảo tàng trở nên khác biệt so với nhiều bảo tàng lịch sử khác. Khi du khách xem biểu diễn, họ không chỉ “nghe kể” lịch sử mà còn cảm nhận âm thanh, nhịp trống, thế võ, binh khí và khí thế trận mạc được tái hiện.
+
+Giá trị thứ ba là giáo dục truyền thống. Nhiều đoàn học sinh, sinh viên, đoàn thanh thiếu niên chọn bảo tàng làm nơi học tập lịch sử tại thực địa. Với chatbot du lịch, cần gợi ý điểm này cho nhóm khách đi theo trường học, phụ huynh đưa con tìm hiểu lịch sử, hoặc du khách muốn một điểm tham quan có chiều sâu thay vì chỉ chụp ảnh.
+
+8. Điểm nổi bật
+
+Khu Đền thờ Tây Sơn Tam Kiệt là điểm trung tâm về mặt tâm linh và tưởng niệm. Đây là nơi du khách thường dâng hương, bày tỏ lòng tri ân với ba anh em Tây Sơn và các nhân vật liên quan. Không gian đền thờ có tính trang nghiêm, vì vậy cần lưu ý khách giữ trật tự và ăn mặc lịch sự.
+
+Cây me cổ thụ và giếng nước cổ là cặp di tích được nhắc đến nhiều nhất bên cạnh khu trưng bày. Cây me được nguồn địa phương mô tả có tuổi đời hơn 250 năm và được công nhận là Cây Di sản Việt Nam năm 2011. Giếng nước cổ trong khuôn viên bảo tàng được mô tả là một trong những dấu tích gắn với ngôi nhà xưa của gia đình Tây Sơn.
+
+Nhà trưng bày giúp du khách tiếp cận hiện vật, tư liệu, hình ảnh và câu chuyện về phong trào Tây Sơn. Nguồn địa phương mô tả bảo tàng có nhiều hiện vật liên quan đến triều đại Tây Sơn, gồm vũ khí, trống trận, áo giáp, sắc phong và tư liệu lịch sử.
+
+Trống trận Tây Sơn và biểu diễn võ thuật là trải nghiệm có tính nhận diện cao. Bộ trống, nhịp trống, cờ hội, quyền cước và binh khí tạo ra dấu ấn âm thanh - thị giác mạnh, rất phù hợp để mô tả trong dữ liệu multimodal nếu sau này kết hợp hình ảnh hoặc video.
+
+9. Kiến trúc và cảnh quan
+
+Kiến trúc trong khu bảo tàng mang hơi hướng truyền thống, kết hợp không gian đình, đền, sân vườn và nhà trưng bày. Các mái ngói, sân rộng, cây xanh và không gian thờ tự tạo cảm giác trang nghiêm. Cảnh quan không quá cầu kỳ theo kiểu khu vui chơi, mà nghiêng về sự tĩnh lặng, có tính tưởng niệm và phù hợp cho việc nghe thuyết minh.
+
+Vị trí ở vùng Tây Sơn giúp cảnh quan bảo tàng có mối liên hệ với sông Côn, làng mạc và không gian võ học của đất Bình Định cũ. Khi xây dựng câu trả lời cho du khách, có thể mô tả hành trình đến bảo tàng như một chuyến rời trung tâm biển Quy Nhơn để đi vào vùng đất võ, nơi lịch sử và sinh hoạt làng quê giao nhau.
+
+Nếu dùng cho nhận diện ảnh, các đặc điểm có thể gợi ý gồm tượng đài Quang Trung, khu sân rộng, mái ngói truyền thống, khu đền thờ, cây me cổ thụ, giếng nước cổ, khu nhà biểu diễn trống trận và các pano/biển tên Bảo tàng Quang Trung.
+
+10. Các khu vực chính
+
+Khu nhà trưng bày: nơi giới thiệu hiện vật, tài liệu và câu chuyện lịch sử về phong trào Tây Sơn, ba anh em Tây Sơn và Hoàng đế Quang Trung - Nguyễn Huệ.
+
+Khu Đền thờ Tây Sơn Tam Kiệt: không gian tưởng niệm ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ và các bậc sinh thành, thường là nơi dâng hương trong hành trình tham quan.
+
+Khu cây me cổ thụ và giếng nước cổ: điểm nhấn di tích gốc, gắn với ký ức về gia đình Tây Sơn và thường được du khách chụp ảnh, nghe kể chuyện.
+
+Khu biểu diễn nhạc võ Tây Sơn: nơi du khách có thể xem trống trận, múa cờ, quyền cước, binh khí hoặc các tiết mục võ thuật truyền thống, tùy lịch hoạt động và đăng ký dịch vụ.
+
+Khu sân vườn, tượng đài, lối đi và không gian phụ trợ: hỗ trợ tham quan, nghỉ chân, chụp ảnh, tập trung đoàn và tổ chức sự kiện/lễ hội.
+
+11. Từ khóa mô tả địa điểm
+
+Bảo tàng Quang Trung, Bảo tàng Tây Sơn, Tây Sơn Tam Kiệt, Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, Quang Trung - Nguyễn Huệ, phong trào Tây Sơn, chiến thắng Ngọc Hồi - Đống Đa, trống trận Tây Sơn, võ Tây Sơn, Bình Định, Gia Lai, xã Tây Sơn, Phú Phong, đất võ, cây me cổ thụ, giếng nước cổ, đền thờ Tây Sơn, du lịch lịch sử, du lịch văn hóa, học tập lịch sử, bảo tàng danh nhân.
+
+12. Nguồn tham khảo
+
+Trang thông tin điện tử Bảo tàng Quang Trung: https://baotangquangtrung.com.vn/
+
+Bảo tàng Quang Trung - Thông tin dịch vụ: https://baotangquangtrung.com.vn/vi/page/Thong-tin-dich-vu.html
+
+Bảo tàng Quang Trung - Lời giới thiệu: https://baotangquangtrung.com.vn/vi/about/Gioi-thieu-chung.html
+
+Bảo tàng Quang Trung - Sự hình thành và phát triển: https://baotangquangtrung.com.vn/vi/about/Su-hinh-thanh-va-phat-trien.html
+
+Cổng thông tin xã Tây Sơn - Bảo tàng Quang Trung, hành trình về miền sử thi Tây Sơn: https://tayson.gialai.gov.vn/tin-tuc/tin-van-hoa-xa-hoi/bao-tang-quang-trung-hanh-trinh-ve-mien-su-thi-tay-son2.html
+
+Cổng thông tin xã Tây Sơn - Giếng nước cổ và cây me di sản: https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/gieng-nuoc-co-va-cay-me-di-san-dau-tich-linh-thieng-cua-ba-anh-em-nha-tay-son.html
+
+Cục Du lịch Quốc gia Việt Nam - Về miền đất võ thăm Bảo tàng Quang Trung: https://vietnamtourism.gov.vn/printer/17757?type=1
+
+Vietnam Airlines - Cẩm nang du lịch Bảo tàng Quang Trung: https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/quang-trung-museum
+
+Ghi chú về nguồn: Các thông tin giá vé, lịch biểu diễn, giờ đón khách và địa chỉ hành chính có thể thay đổi theo thời điểm. Khi dùng dữ liệu cho chatbot/RAG, nên ưu tiên trả lời theo hướng “tham khảo” và khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại chính thức trước ngày đi.

@@ -1,0 +1,93 @@
+1. overview.docx - Chùa Bửu Minh Gia Lai
+
+Bộ dữ liệu địa điểm du lịch Việt Nam phục vụ hệ thống nhận diện và trả lời câu hỏi theo địa điểm. Nội dung viết dạng văn bản thuần, không bảng, không màu, phù hợp để đưa vào Google Docs hoặc chia nhỏ phục vụ RAG.
+
+File này cung cấp thông tin tổng quan về Chùa Bửu Minh Gia Lai, phục vụ nhận diện địa điểm, phân biệt với các điểm lân cận và tạo dữ liệu nền cho chatbot du lịch. Nội dung nhấn mạnh vị trí của chùa trong tuyến Biển Hồ Chè, giá trị tâm linh, lịch sử hình thành gắn với vùng chè Biển Hồ và cảnh quan đặc trưng của khu vực phía Bắc Pleiku.
+
+Phân biệt để tránh nhầm lẫn: Chùa Bửu Minh là một điểm tâm linh nằm trong cụm cảnh quan Biển Hồ Chè - Hàng thông trăm tuổi - chùa cổ Bửu Minh ở khu vực xã Nghĩa Hưng cũ, nay thuộc xã Biển Hồ, tỉnh Gia Lai. Đây không phải là Biển Hồ T’Nưng, không phải Núi lửa Chư Đăng Ya và cũng không phải Chùa Minh Thành ở trung tâm Pleiku. Khi người dùng hỏi “chùa ở Biển Hồ Chè”, “chùa Bửu Minh”, “chùa cổ cạnh hàng thông” hoặc “chùa trong đồi chè Gia Lai”, hệ thống nên ưu tiên nhận diện về Chùa Bửu Minh. Khi người dùng hỏi “Biển Hồ” hoặc “hồ T’Nưng”, không nên trả lời nhầm sang chùa, vì đó là hồ nước tự nhiên khác với cụm đồi chè.
+
+2. Tên gọi và từ khóa nhận diện
+
+Tên gọi phổ biến nhất là Chùa Bửu Minh. Một số cách gọi khác có thể gặp trong truy vấn của người dùng gồm chùa cổ Bửu Minh, Bửu Minh tự, chùa Bửu Minh Gia Lai, chùa Bửu Minh Pleiku, chùa ở Biển Hồ Chè, chùa cổ bên hàng thông, chùa trong đồi chè, chùa Nghĩa Hưng, chùa cổ Chư Păh và chùa gần Biển Hồ Chè.
+
+Trong các lớp dữ liệu lịch sử, cần ghi nhận thêm các tên tiền thân và bối cảnh cũ như Sơn Hải Miếu và chùa Phật Học. Một số nguồn du lịch cho biết tiền thân của chùa gắn với nơi thờ tự của cộng đồng lao động trong vùng đồn điền chè Biển Hồ từ đầu thế kỷ XX, sau đó phát triển thành chùa Phật Học và mang tên Bửu Minh từ giai đoạn sau.
+
+Từ khóa mô tả nên đưa vào embedding gồm: Chùa Bửu Minh, Gia Lai, xã Biển Hồ, Nghĩa Hưng, Chư Păh, Biển Hồ Chè, Hàng thông trăm tuổi, chùa cổ, tâm linh, Phật giáo, đồi chè, Pleiku, Tây Nguyên, kiến trúc chùa, tam quan, chánh điện, kinh luân, Sơn Hải Miếu, chùa Phật Học.
+
+3. Vị trí và địa chỉ
+
+Theo cách ghi cũ, Chùa Bửu Minh thường được mô tả ở thôn 1 hoặc khu vực xã Nghĩa Hưng, huyện Chư Păh, tỉnh Gia Lai. Nhiều bài du lịch cũng mô tả chùa cách trung tâm thành phố Pleiku khoảng 12 đến 15 km về phía Bắc, tùy điểm xuất phát và tuyến đường.
+
+Theo cách ghi mới sau sắp xếp đơn vị hành chính cấp xã năm 2025, xã Nghĩa Hưng cùng các xã Chư Đang Ya, Hà Bầu và Biển Hồ được sắp xếp thành xã mới có tên gọi là xã Biển Hồ, tỉnh Gia Lai. Vì vậy, trong dữ liệu RAG nên lưu đồng thời hai cách gọi: “xã Nghĩa Hưng, huyện Chư Păh, tỉnh Gia Lai” cho ngữ cảnh cũ và “xã Biển Hồ, tỉnh Gia Lai” cho ngữ cảnh mới.
+
+Về không gian du lịch, Chùa Bửu Minh nằm rất gần Biển Hồ Chè và Hàng thông trăm tuổi. Người đi du lịch thường không tách chùa ra khỏi tuyến này mà ghép thành một cụm tham quan trong nửa ngày: Hàng thông trăm tuổi, đồi chè Biển Hồ, chùa Bửu Minh, sau đó có thể tiếp tục đến Biển Hồ T’Nưng hoặc Núi lửa Chư Đăng Ya.
+
+4. Mô tả tổng quan
+
+Chùa Bửu Minh là một điểm du lịch tâm linh và văn hóa nằm giữa cảnh quan đồi chè xanh ở vùng Biển Hồ Chè của Gia Lai. Điểm hấp dẫn của chùa không chỉ nằm ở hoạt động chiêm bái mà còn ở không gian rất đặc trưng: một ngôi chùa cổ kính, tĩnh lặng, được bao quanh bởi đồi chè, hàng thông và vùng nông nghiệp cao nguyên.
+
+Đối với du khách phổ thông, Chùa Bửu Minh thường được nhớ đến bằng hình ảnh mái chùa cao, cổng tam quan, những đường nét kiến trúc mềm mại và khuôn viên xanh mát. Đối với người yêu văn hóa, chùa là một dấu vết quan trọng trong lịch sử hình thành cộng đồng cư dân ở vùng chè Biển Hồ, nơi giao thoa giữa đời sống Phật giáo, ký ức đồn điền chè và cảnh quan nông nghiệp lâu đời.
+
+Đối với hệ thống nhận diện địa điểm bằng ảnh, Chùa Bửu Minh có thể nhận diện qua các đặc trưng như kiến trúc chùa nằm giữa hoặc sát đồi chè, cổng tam quan, tháp/chánh điện cao với mái cong, không gian xanh nhiều cây, lối vào gần hàng thông trăm tuổi và các góc chụp có nền là ruộng chè hoặc bầu trời cao nguyên.
+
+5. Lịch sử hình thành
+
+Các nguồn du lịch và Phật giáo thường ghi Chùa Bửu Minh là một trong những ngôi chùa xuất hiện sớm ở Gia Lai. Bối cảnh hình thành của chùa gắn với vùng chè Biển Hồ, nơi từng có các đồn điền chè và cộng đồng lao động tụ cư từ nhiều nơi lên Tây Nguyên sinh sống, làm việc.
+
+Một số tư liệu du lịch cho biết tiền thân của chùa là Sơn Hải Miếu, sau đó đến năm 1936 được Hòa thượng Thích Từ Vân khai sơn, đặt tên là chùa Phật Học. Về sau chùa mang tên Bửu Minh. Khi đưa vào dữ liệu, nên viết theo dạng “nhiều tư liệu ghi” nếu chưa có văn bản chính thức từ nhà chùa, tránh biến chi tiết truyền khẩu hoặc tư liệu du lịch thành khẳng định tuyệt đối.
+
+Chùa trải qua nhiều giai đoạn tu sửa, trùng tu và mở rộng. Giai đoạn hiện đại, chùa được biết đến nhiều hơn nhờ vị trí nằm giữa không gian Biển Hồ Chè, sự phát triển của du lịch Pleiku - Chư Păh và xu hướng du khách tìm về các điểm chụp ảnh xanh, yên tĩnh, ít ồn ào hơn so với trung tâm đô thị.
+
+6. Giá trị văn hóa và tâm linh
+
+Chùa Bửu Minh có giá trị tâm linh với người dân địa phương, Phật tử và khách vãn cảnh. Đây là nơi đến để lễ Phật, cầu bình an, tham quan kiến trúc tôn giáo và tìm cảm giác tĩnh lặng giữa vùng chè xanh. Không khí ở chùa phù hợp với du lịch nhẹ nhàng, thiền tịnh, chụp ảnh văn hóa và trải nghiệm chậm.
+
+Giá trị của chùa còn nằm ở mối liên hệ với lịch sử vùng chè. Nếu Biển Hồ Chè đại diện cho cảnh quan nông nghiệp và ký ức canh tác, Hàng thông trăm tuổi đại diện cho dấu mốc cảnh quan lâu đời, thì Chùa Bửu Minh bổ sung lớp văn hóa tâm linh cho cả cụm thắng cảnh này.
+
+Trong RAG, khi người dùng hỏi “chùa Bửu Minh có gì đặc biệt”, nên trả lời theo ba lớp: chùa cổ và lịch sử lâu đời; kiến trúc độc đáo giữa đồi chè; vị trí nằm trong tuyến tham quan Biển Hồ Chè - Hàng thông trăm tuổi - Chư Đăng Ya.
+
+7. Kiến trúc và cảnh quan
+
+Kiến trúc Chùa Bửu Minh được nhiều nguồn mô tả là có sự pha trộn giữa phong cách chùa Việt truyền thống, đường nét miền Bắc - miền Trung và một số cảm hứng kiến trúc Đông Á. Điểm đáng chú ý là mái cao, đường cong mềm, tháp/chánh điện nổi bật trên nền trời cao nguyên và sự hòa hợp với mảng xanh xung quanh.
+
+Cổng tam quan và khu chánh điện là các khu vực chính thường được du khách ghi nhớ. Một số bài viết du lịch nhắc đến chánh điện lớn, mái chùa cao, không gian thờ Phật và các hạng mục như khuôn viên, tháp, hành lang, kinh luân. Tuy nhiên, các thông số chi tiết về diện tích, chiều cao hoặc số lượng hạng mục nên được dùng thận trọng nếu chưa được xác minh trực tiếp bởi nhà chùa.
+
+Cảnh quan xung quanh là yếu tố rất quan trọng. Chùa không nằm cô lập như một công trình tôn giáo đô thị mà nằm trong không gian đồi chè, hàng thông, vùng nông nghiệp và đường làng cao nguyên. Điều này tạo nên cảm giác “chùa giữa biển chè”, rất phù hợp với dữ liệu nhận diện ảnh và mô tả du lịch trải nghiệm.
+
+8. Các khu vực chính trong địa điểm
+
+Các khu vực chính có thể mô tả trong dữ liệu gồm cổng vào, cổng tam quan, sân chùa, khu chánh điện, khu thờ Phật, khuôn viên cây xanh, các lối đi nội bộ, khu vực chụp ảnh bên ngoài, khu vực tiếp giáp đồi chè và tuyến đường dẫn từ hàng thông hoặc Biển Hồ Chè vào chùa.
+
+Nếu người dùng hỏi về ảnh chùa, các dấu hiệu nhận diện cần ưu tiên gồm mái cong, màu sắc công trình tôn giáo, cổng tam quan, tượng Phật hoặc không gian sân chùa, nền đồi chè, hàng thông, đường làng và cảnh quan vùng xã Biển Hồ.
+
+Nếu người dùng hỏi theo tuyến, nên trả lời rằng Chùa Bửu Minh thường đi cùng Biển Hồ Chè và Hàng thông trăm tuổi, sau đó có thể mở rộng qua Hồ T’Nưng, Núi lửa Chư Đăng Ya, Chùa Minh Thành hoặc Quảng trường Đại Đoàn Kết tùy thời gian.
+
+9. Mẫu câu nhận diện ngắn cho chatbot
+
+Chùa Bửu Minh là chùa cổ nằm trong cụm Biển Hồ Chè - Hàng thông trăm tuổi ở xã Biển Hồ, tỉnh Gia Lai, cách trung tâm Pleiku khoảng 12 đến 15 km về phía Bắc.
+
+Đây là điểm du lịch tâm linh nổi bật của Gia Lai, gắn với vùng chè Biển Hồ và được nhiều du khách ghé khi tham quan Biển Hồ Chè.
+
+Không nên nhầm Chùa Bửu Minh với Chùa Minh Thành. Chùa Minh Thành nằm gần trung tâm Pleiku hơn, còn Chùa Bửu Minh nằm trong vùng cảnh quan đồi chè phía Bắc Pleiku.
+
+Không nên nhầm Chùa Bửu Minh với Biển Hồ T’Nưng. Biển Hồ T’Nưng là hồ nước tự nhiên, còn Chùa Bửu Minh là chùa nằm gần Biển Hồ Chè.
+
+10. Nguồn tham khảo và ghi chú độ tin cậy
+
+Cổng thông tin xã Biển Hồ, Gia Lai - giới thiệu điểm văn hóa, du lịch trên địa bàn xã Biển Hồ: https://bienho.gialai.gov.vn/thong-bao-van-ban-moi/gioi-thieu-diem-van-hoa-du-lich-tren-dia-ban-xa-bien-ho.html
+
+Cục Du lịch Quốc gia Việt Nam - Biển Hồ chè, thiên đường xanh ngát của Tây Nguyên: https://vietnamtourism.gov.vn/post/32542
+
+Báo Gia Lai - Biển Hồ chè, dấu ấn trăm năm: https://baogialai.com.vn/bien-ho-che-dau-an-tram-nam-post568256.html
+
+Báo Gia Lai - Dấu ấn Nho giáo trong chùa Bửu Minh: https://baogialai.com.vn/dau-an-nho-giao-trong-chua-buu-minh-post311773.html
+
+Báo Gia Lai - Thắng cảnh hàng thông cổ thụ, chùa cổ Bửu Minh: https://baogialai.com.vn/thang-canh-hang-thong-co-thu-chua-co-buu-minh-lam-gi-de-hap-dan-du-khach-post198722.html
+
+Phatgiao.org.vn - Về thăm chùa Bửu Minh với nét đẹp cổ kính tồn tại cùng tháng năm: https://phatgiao.org.vn/ve-tham-chua-buu-minh-voi-net-dep-co-kinh-ton-tai-cung-thang-nam-d72483.html
+
+Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+GreenSM - Chùa Bửu Minh, thông tin du lịch và lịch sử hình thành: https://www.greensm.com/vn-vi/news/chua-buu-minh-gia-lai
+
+Ghi chú: Thông tin về giờ mở cửa, hoạt động lễ nghi, quy định chụp ảnh, tình trạng dịch vụ và đường đi có thể thay đổi theo thời điểm. Khi dùng cho chatbot RAG, nên ưu tiên trả lời có điều kiện và khuyến nghị người dùng kiểm tra lại với nguồn địa phương hoặc nhà chùa nếu cần thông tin rất cập nhật.

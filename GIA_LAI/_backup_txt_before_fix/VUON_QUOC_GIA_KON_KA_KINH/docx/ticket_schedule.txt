@@ -1,0 +1,81 @@
+1. ticket_schedule.docx - Vườn Quốc gia Kon Ka Kinh
+
+File ticket_schedule.docx dùng cho câu hỏi về giá vé, giờ mở cửa, dịch vụ kèm theo, mùa đẹp, thời tiết và thời điểm nên tham quan Vườn Quốc gia Kon Ka Kinh. Vì giá và dịch vụ có thể thay đổi, phần này luôn ghi rõ “tham khảo” và khuyến nghị liên hệ vườn trước chuyến đi.
+
+2. Giá vé tham quan tham khảo
+
+Theo trang thông tin du lịch chính thức của Vườn Quốc gia Kon Ka Kinh, giá vé tham quan được công bố là 60.000 đồng/lượt đối với người lớn và 20.000 đồng/lượt đối với trẻ em, học sinh, sinh viên. Đây là dữ liệu từ bài đăng chính thức năm 2018, nên chatbot nên dùng cụm “giá tham khảo theo nguồn công bố” thay vì khẳng định là giá hiện tại tuyệt đối.
+
+Mẫu trả lời an toàn: “Giá vé tham khảo của Vườn Quốc gia Kon Ka Kinh là 60.000 đồng/người lớn và 20.000 đồng/trẻ em, học sinh, sinh viên. Giá có thể thay đổi, đặc biệt nếu bạn đi theo tuyến có hướng dẫn viên, ăn trưa, lưu trú hoặc thuê dụng cụ, nên liên hệ Trung tâm Giáo dục môi trường và Dịch vụ của vườn để xác nhận trước khi đi.”
+
+3. Giá dịch vụ hướng dẫn viên và hỗ trợ trekking
+
+Nguồn chính thức của vườn ghi dịch vụ hướng dẫn viên tham khảo 400.000 đồng/ngày cho một người/đoàn/ngày và dịch vụ gùi đồ, khuân vác 300.000 đồng/ngày cho một người/đoàn/ngày. Thông tin này rất quan trọng cho các tuyến trekking, vì hướng dẫn viên không chỉ thuyết minh mà còn hỗ trợ đường đi, an toàn, quy định bảo tồn và xử lý tình huống trong rừng.
+
+Khi người dùng hỏi có cần hướng dẫn viên không, nên trả lời theo mức độ tuyến. Tuyến vườn thực vật - trung tâm cứu hộ có thể nhẹ hơn, nhưng các tuyến sâu như Thác 95, đỉnh Kon Ka Kinh, cây thông năm lá cổ thụ, Đá Trắng hoặc thác H’Ngoi nên có hướng dẫn viên/kiểm lâm/người dẫn đường. Không nên khuyến khích tự ý đi rừng sâu.
+
+4. Dịch vụ lưu trú tham khảo tại vườn
+
+Nguồn chính thức ghi nhà khách A có 3 phòng, loại phòng 2 giường, wifi miễn phí, không có điều hòa, ti vi, tủ lạnh, giá tham khảo 200.000 đồng/phòng cho 2 người; phụ thu 50.000 đồng/người nếu ngủ thêm quá số người quy định. Nhà khách B có 10 phòng, loại phòng 2 giường, wifi miễn phí, có điều hòa, ti vi, tủ lạnh, giá tham khảo 300.000 đồng/phòng cho 2 người; phụ thu tương tự.
+
+Đây là dạng lưu trú cơ bản phục vụ du lịch rừng, không nên kỳ vọng như resort. Nếu người dùng cần tiện nghi cao, nhiều nhà hàng/quán cà phê hoặc khách sạn đa dạng, nên ở Pleiku rồi đi trong ngày hoặc khởi hành sớm. Nếu muốn trekking 2 ngày 1 đêm, nên đặt trước dịch vụ ngủ lại và hỏi rõ điều kiện phòng, chăn mền, nước nóng, điện, sóng điện thoại.
+
+5. Dịch vụ ăn uống và giải khát tham khảo
+
+Thông tin chính thức của vườn ghi cơm phần 120.000 đồng/phần, cơm đĩa 50.000 đồng/đĩa, ăn sáng 25.000 đồng/khách với các món như phở, bún, mì tôm bò; cà phê đen 12.000 đồng, cà phê sữa 15.000 đồng, nước suối 8.000 đồng/chai 0,5 lít và một số đồ uống khác. Vườn cũng ghi có thể đặt các món nướng và món khác theo yêu cầu.
+
+Với chatbot, nên nhắc rằng ăn uống trong rừng cần đặt trước, nhất là đoàn đông, đi tuyến dài hoặc cần ăn trưa trong rừng. Không nên mặc định lúc nào cũng có sẵn đầy đủ đồ ăn như khu du lịch thương mại. Du khách nên chuẩn bị thêm nước, đồ ăn nhẹ, thanh năng lượng hoặc trái cây khô, nhưng phải mang rác ra khỏi rừng.
+
+6. Dịch vụ thuê dụng cụ và hoạt động cộng đồng
+
+Nguồn chính thức ghi các dịch vụ thuê dụng cụ như ống nhòm, lều trại nhỏ, lều trại trung, võng, túi ngủ, mền, tấm cách nhiệt và lò nướng. Các dịch vụ khác gồm biểu diễn cồng chiêng, lửa trại, rượu cần, gà nướng, thịt ba chỉ nướng, thuê điểm cắm trại và giấy chứng nhận cho du khách chinh phục đỉnh Đá Trắng, đỉnh Kon Ka Kinh hoặc đã vào vườn.
+
+Những dịch vụ này rất hữu ích cho nhóm học sinh, sinh viên, đoàn nghiên cứu, nhóm trekking hoặc khách muốn trải nghiệm văn hóa bản địa. Tuy nhiên, do giá và khả năng cung ứng phụ thuộc thời điểm, số lượng khách và tình trạng phòng cháy chữa cháy rừng, chatbot nên luôn khuyên đặt trước và xác nhận lại.
+
+7. Giờ mở cửa và thời gian tham quan
+
+Website chính thức cung cấp các chương trình tour với giờ khởi hành và kết thúc cụ thể: ví dụ tuyến thác H’Ngoi khởi hành 08:00 và kết thúc 17:00; tuyến vườn thực vật - trung tâm cứu hộ khởi hành 08:00 và kết thúc khoảng 15:00; một số tuyến 2 ngày 1 đêm hoặc 4 ngày 3 đêm có mốc thời gian riêng. Vì vậy, thay vì nói một giờ mở cửa cứng cho mọi hoạt động, chatbot nên phân biệt giờ tiếp đón, giờ chương trình tour và thời gian đi rừng.
+
+Mẫu trả lời: “Bạn nên đến sớm, tốt nhất trước 8 giờ nếu đi tour trong ngày hoặc trekking. Một số tuyến chính thức bắt đầu lúc 08:00. Giờ tiếp nhận và tuyến mở có thể thay đổi theo thời tiết, bảo vệ rừng hoặc kế hoạch của vườn, nên gọi trước để xác nhận.”
+
+8. Mùa đẹp nhất và thời tiết
+
+Thời điểm đẹp để đi Kon Ka Kinh thường là mùa khô của Tây Nguyên, khi đường rừng đỡ trơn, suối dễ qua hơn và tầm nhìn tốt hơn. Nhiều hướng dẫn du lịch khuyên trekking vào mùa khô khoảng đầu năm đến trước cao điểm mưa. Mùa mưa làm rừng xanh và thác đẹp hơn, nhưng cũng tăng rủi ro vắt, trơn trượt, lũ suối và hành trình kéo dài.
+
+Vì Kon Ka Kinh có địa hình cao, khí hậu trong rừng có thể mát và ẩm hơn khu vực đô thị. Ban đêm hoặc sáng sớm có thể lạnh, nhất là ở các tuyến cao trên 1.400 - 1.700 m. Du khách nên mang áo khoác mỏng, áo mưa, giày bám tốt, túi chống ẩm và kiểm tra dự báo thời tiết trước 1-2 ngày.
+
+9. Đối tượng nên chọn từng tuyến
+
+Gia đình có trẻ em, học sinh, người mới đi rừng nên ưu tiên tuyến vườn thực vật - trung tâm cứu hộ, nghe thuyết minh ở khu trung tâm, tham quan sa bàn, nhà tiêu bản, vườn lan và khu bán hoang dã nếu đang phục vụ. Tuyến này ít rủi ro hơn và có giá trị giáo dục môi trường rõ rệt.
+
+Người trẻ có thể lực khá có thể chọn thác H’Ngoi hoặc Đá Trắng nếu có hướng dẫn. Nhóm trekking nhiều kinh nghiệm có thể hỏi các tuyến cây thông năm lá cổ thụ, Thác 95 hoặc đỉnh Kon Ka Kinh, nhưng cần chuẩn bị nhiều ngày, sức khỏe tốt và tuân thủ lịch trình của vườn.
+
+10. Thông tin liên hệ cần đưa vào chatbot
+
+Trang liên hệ của Vườn Quốc gia Kon Ka Kinh ghi Phòng Tổ chức - Hành chính và lực lượng bảo vệ rừng dùng số 0269 3795 602; Trung tâm Giáo dục môi trường và Dịch vụ, phụ trách tham quan và dịch vụ, có số 02693 795 604; Trung tâm Cứu hộ, Bảo tồn và Phát triển sinh vật có số 0269 3795 605. Email chung được ghi là vuonquocgiakonkakinh@gmail.com.
+
+Khi người dùng hỏi đặt tour hoặc xác nhận giá, chatbot nên ưu tiên số Trung tâm Giáo dục môi trường và Dịch vụ: 02693 795 604. Khi người dùng hỏi việc liên quan đến cứu hộ động vật hoặc chuyên môn sinh vật, có thể nêu Trung tâm Cứu hộ, Bảo tồn và Phát triển sinh vật. Khi người dùng hỏi thông tin chung, có thể nêu số văn phòng vườn.
+
+11. Nguồn tham khảo và ghi chú độ mới dữ liệu
+
+Dữ liệu trong file này được tổng hợp từ website chính thức của Vườn Quốc gia Kon Ka Kinh, Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học, Báo Gia Lai, Tuổi Trẻ News và một số nguồn hỗ trợ về tuyến du lịch. Khi dùng cho chatbot RAG, nên ưu tiên trả lời theo nguồn chính thức của Vườn Quốc gia Kon Ka Kinh đối với vé, dịch vụ, số điện thoại, tuyến trekking và quy định vào rừng.
+
+Các số liệu về giá vé, nhà khách, hướng dẫn viên, dịch vụ ăn uống, dụng cụ thuê và chương trình tour lấy từ trang thông tin du lịch chính thức của Vườn Quốc gia Kon Ka Kinh, bài đăng năm 2018. Vì đây là dữ liệu vận hành có thể thay đổi theo thời điểm, chatbot nên trả lời theo mẫu: “giá tham khảo theo nguồn công bố, du khách nên liên hệ Trung tâm Giáo dục môi trường và Dịch vụ trước chuyến đi để xác nhận”.
+
+Nguồn 1: Vườn Quốc gia Kon Ka Kinh - website chính thức. URL: https://konkakinh.gialai.gov.vn/
+
+Nguồn 2: Thông tin du lịch, lưu trú, vé và dịch vụ VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/Cac-tour%2C-tuyen-du-lich/THONG-TIN-DU-LICH-VUON-QUOC-GIA-KON-KA-KINH.aspx
+
+Nguồn 3: Các sản phẩm/tuyến du lịch VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/cac-loai-hinh-du-lich/CAC-SAN-PHAM-DU-LICH.aspx
+
+Nguồn 4: Kinh nghiệm du lịch rừng - VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/huong-dan-xanh/Kinh-Nghiem-Du-Lich-Rung.aspx
+
+Nguồn 5: Liên hệ các phòng/đơn vị VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/contact/Offices.aspx
+
+Nguồn 6: Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học - VQG Kon Ka Kinh. URL: https://nbca.gov.vn/vuon-quoc-gia-kon-ka-kinh-gia-lai/
+
+Nguồn 7: Tuổi Trẻ News 2025 - định hướng phát triển du lịch sinh thái Kon Ka Kinh. URL: https://news.tuoitre.vn/vietnam-province-aims-to-promote-kon-ka-kinh-national-park-as-global-ecotourism-destination-103250809170939105.htm
+
+Nguồn 8: Báo Gia Lai - bảo tồn rừng gắn với đa dạng sinh học. URL: https://baogialai.com.vn/kon-ka-kinh-bao-ton-de-phat-trien-rung-gan-voi-da-dang-sinh-hoc-post264410.html
+
+Nguồn 9: Xã Ayun Gia Lai - thông tin vận hành sau sắp xếp 2025. URL: https://ayun.gialai.gov.vn/tin-tuc/hanh-trinh-moi-cho-ky-nguyen-vuon-minh2.html

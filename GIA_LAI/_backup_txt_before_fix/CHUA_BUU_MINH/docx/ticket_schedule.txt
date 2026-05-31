@@ -1,0 +1,75 @@
+1. ticket_schedule.docx - Chùa Bửu Minh Gia Lai
+
+Bộ dữ liệu địa điểm du lịch Việt Nam phục vụ hệ thống nhận diện và trả lời câu hỏi theo địa điểm. Nội dung viết dạng văn bản thuần, không bảng, không màu, phù hợp để đưa vào Google Docs hoặc chia nhỏ phục vụ RAG.
+
+File này tổng hợp thông tin về vé, giờ tham quan, thời điểm nên đi và điều kiện thời tiết cho Chùa Bửu Minh. Vì chùa là cơ sở tôn giáo chứ không phải khu du lịch bán vé cố định, dữ liệu cần viết thận trọng và cập nhật theo thực tế địa phương.
+
+Phân biệt để tránh nhầm lẫn: Chùa Bửu Minh là một điểm tâm linh nằm trong cụm cảnh quan Biển Hồ Chè - Hàng thông trăm tuổi - chùa cổ Bửu Minh ở khu vực xã Nghĩa Hưng cũ, nay thuộc xã Biển Hồ, tỉnh Gia Lai. Đây không phải là Biển Hồ T’Nưng, không phải Núi lửa Chư Đăng Ya và cũng không phải Chùa Minh Thành ở trung tâm Pleiku. Khi người dùng hỏi “chùa ở Biển Hồ Chè”, “chùa Bửu Minh”, “chùa cổ cạnh hàng thông” hoặc “chùa trong đồi chè Gia Lai”, hệ thống nên ưu tiên nhận diện về Chùa Bửu Minh. Khi người dùng hỏi “Biển Hồ” hoặc “hồ T’Nưng”, không nên trả lời nhầm sang chùa, vì đó là hồ nước tự nhiên khác với cụm đồi chè.
+
+2. Giá vé và chi phí tham khảo
+
+Chùa Bửu Minh thường được mô tả là điểm vãn cảnh, chiêm bái, không phải điểm tham quan bán vé như một khu du lịch có cổng soát vé. Một số nguồn du lịch ghi chùa không thu vé vào cửa đối với người dân, Phật tử và du khách. Tuy nhiên, khi trả lời chatbot, nên dùng cách diễn đạt an toàn: “hiện thường không thấy thông tin vé tham quan cố định; nếu đi lễ hoặc vãn cảnh, bạn nên tôn trọng quy định tại chùa và có thể phát tâm công đức tùy tâm”.
+
+Các chi phí có thể phát sinh không phải là vé chùa mà là chi phí gửi xe, thuê xe, taxi, ăn uống, cà phê, mua đặc sản chè/cà phê, hoặc chi phí khi đi tour ghép cụm Biển Hồ Chè - Chùa Bửu Minh - Chư Đăng Ya.
+
+Nếu người dùng hỏi “chùa Bửu Minh có mất vé không”, câu trả lời nên nói: hiện không phổ biến thông tin bán vé vào chùa; đây là điểm tâm linh nên du khách chủ yếu phát sinh chi phí di chuyển và chi phí cá nhân. Nếu đi vào dịp lễ lớn hoặc đi theo đoàn, nên kiểm tra lại với địa phương hoặc đơn vị tổ chức.
+
+3. Giờ mở cửa và thời gian tham quan
+
+Chùa là nơi sinh hoạt tôn giáo nên thường có thể vãn cảnh trong ngày, nhưng không nên mặc định mở như một khu du lịch 24/24. Thời điểm phù hợp nhất là buổi sáng và buổi chiều trước khi trời tối. Du khách nên tránh vào quá sớm hoặc quá muộn nếu không có việc lễ nghi cụ thể.
+
+Nếu cần giờ chính xác trong ngày, chatbot nên trả lời theo hướng: “nên đi vào khung giờ ban ngày, tốt nhất khoảng 7:00 đến 17:00, và kiểm tra lại nếu đi đoàn lớn hoặc vào ngày lễ”. Đây là cách trả lời an toàn vì giờ sinh hoạt tôn giáo có thể thay đổi theo lễ Phật giáo, công việc nhà chùa hoặc điều kiện địa phương.
+
+Thời lượng tham quan gợi ý tại riêng Chùa Bửu Minh khoảng 30 đến 60 phút nếu chỉ vãn cảnh, chụp ảnh và lễ Phật nhẹ. Nếu kết hợp chụp ảnh đồi chè, hàng thông, nghỉ cà phê và di chuyển chậm, cụm Biển Hồ Chè - Hàng thông - Chùa Bửu Minh có thể cần 2 đến 3 giờ.
+
+4. Thời điểm nên tham quan trong ngày
+
+Buổi sáng sớm là thời điểm đẹp nhất nếu người dùng muốn không khí mát, ánh sáng dịu, ít đông và có thể gặp sương nhẹ trên vùng đồi chè. Đây cũng là thời điểm phù hợp với ảnh phong cảnh, ảnh chùa và ảnh đường hàng thông.
+
+Buổi chiều từ khoảng 15:00 đến 17:00 phù hợp để chụp ảnh vì ánh sáng nghiêng, màu chè và mái chùa thường lên ảnh đẹp hơn. Tuy nhiên, cần căn giờ về lại trung tâm Pleiku trước khi tối, nhất là nếu đi tiếp Núi lửa Chư Đăng Ya hoặc các đoạn đường làng.
+
+Giữa trưa có thể nắng và ít bóng râm ở các khu vực đồi chè xung quanh. Nếu đi với người già, trẻ em hoặc người không chịu nắng tốt, nên tránh lịch trình đi bộ dài vào giữa trưa.
+
+5. Mùa đẹp nhất
+
+Chùa Bửu Minh có thể đi quanh năm vì đây là điểm tâm linh và cảnh quan nông nghiệp. Tuy nhiên, mùa khô Tây Nguyên, thường từ khoảng tháng 11 đến tháng 4, thuận lợi hơn cho di chuyển, chụp ảnh và ghép tuyến với các điểm như Biển Hồ Chè, Hàng thông trăm tuổi và Chư Đăng Ya.
+
+Mùa mưa, khoảng tháng 5 đến tháng 10, cảnh quan đồi chè thường xanh và mát hơn, nhưng đường có thể trơn, đất đỏ dễ bám giày dép, lịch trình ngoài trời dễ bị ảnh hưởng bởi mưa. Với người dùng muốn ảnh xanh mướt, mùa mưa vẫn đẹp nhưng cần chuẩn bị phương án che mưa.
+
+Nếu muốn kết hợp với mùa hoa dã quỳ ở Núi lửa Chư Đăng Ya, người dùng thường chọn cuối năm, đặc biệt khoảng tháng 11 đến tháng 12 tùy từng năm. Khi đó có thể ghép tuyến Chùa Bửu Minh - Biển Hồ Chè - Chư Đăng Ya trong cùng ngày.
+
+6. Thông tin thời tiết
+
+Khu vực Pleiku và vùng phụ cận có khí hậu cao nguyên, thường mát hơn nhiều vùng đồng bằng, sáng sớm và chiều tối có thể se lạnh. Du khách nên chuẩn bị áo khoác mỏng nếu đi sớm hoặc về muộn.
+
+Mùa khô có nắng đẹp nhưng gió và bụi đất đỏ có thể làm khó chịu nếu đi xe máy. Mùa mưa có cảnh xanh nhưng cần giày dép bám tốt, túi chống nước cho điện thoại và máy ảnh, áo mưa nhẹ hoặc ô.
+
+Với dữ liệu chatbot, không nên trả lời thời tiết cụ thể theo ngày nếu không có nguồn thời tiết cập nhật. Nên trả lời theo mùa và khuyến nghị người dùng kiểm tra dự báo thời tiết Gia Lai/Pleiku trước chuyến đi.
+
+7. Thông tin cập nhật và độ tin cậy dữ liệu
+
+Thông tin về địa chỉ mới cần cập nhật theo Nghị quyết 1664/NQ-UBTVQH15 năm 2025: xã Nghĩa Hưng cũ được sắp xếp vào xã Biển Hồ. Vì vậy, nếu nguồn cũ ghi Nghĩa Hưng, Chư Păh thì vẫn có giá trị nhận diện vị trí, nhưng câu trả lời hiện đại nên kèm cách ghi mới là xã Biển Hồ, tỉnh Gia Lai.
+
+Thông tin về vé và giờ mở cửa không nên đóng cứng. Chùa là cơ sở tôn giáo, không phải công viên hoặc khu du lịch vận hành bằng lịch vé rõ ràng. Nên lưu trong hệ thống các câu trả lời mềm như “thường không thu vé”, “nên đi ban ngày”, “nên kiểm tra nếu đi đoàn lớn hoặc vào dịp lễ”.
+
+Thông tin về lịch lễ, hoạt động Phật giáo, đại lễ Phật đản, Vu Lan, rằm tháng Giêng hoặc các sự kiện nội bộ của chùa có thể thay đổi theo năm âm lịch. Nếu chatbot trả lời về lịch lễ cụ thể, cần có nguồn cập nhật hoặc khuyến nghị liên hệ trước.
+
+8. Nguồn tham khảo và ghi chú độ tin cậy
+
+Cổng thông tin xã Biển Hồ, Gia Lai - giới thiệu điểm văn hóa, du lịch trên địa bàn xã Biển Hồ: https://bienho.gialai.gov.vn/thong-bao-van-ban-moi/gioi-thieu-diem-van-hoa-du-lich-tren-dia-ban-xa-bien-ho.html
+
+Cục Du lịch Quốc gia Việt Nam - Biển Hồ chè, thiên đường xanh ngát của Tây Nguyên: https://vietnamtourism.gov.vn/post/32542
+
+Báo Gia Lai - Biển Hồ chè, dấu ấn trăm năm: https://baogialai.com.vn/bien-ho-che-dau-an-tram-nam-post568256.html
+
+Báo Gia Lai - Dấu ấn Nho giáo trong chùa Bửu Minh: https://baogialai.com.vn/dau-an-nho-giao-trong-chua-buu-minh-post311773.html
+
+Báo Gia Lai - Thắng cảnh hàng thông cổ thụ, chùa cổ Bửu Minh: https://baogialai.com.vn/thang-canh-hang-thong-co-thu-chua-co-buu-minh-lam-gi-de-hap-dan-du-khach-post198722.html
+
+Phatgiao.org.vn - Về thăm chùa Bửu Minh với nét đẹp cổ kính tồn tại cùng tháng năm: https://phatgiao.org.vn/ve-tham-chua-buu-minh-voi-net-dep-co-kinh-ton-tai-cung-thang-nam-d72483.html
+
+Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+GreenSM - Chùa Bửu Minh, thông tin du lịch và lịch sử hình thành: https://www.greensm.com/vn-vi/news/chua-buu-minh-gia-lai
+
+Ghi chú: Thông tin về giờ mở cửa, hoạt động lễ nghi, quy định chụp ảnh, tình trạng dịch vụ và đường đi có thể thay đổi theo thời điểm. Khi dùng cho chatbot RAG, nên ưu tiên trả lời có điều kiện và khuyến nghị người dùng kiểm tra lại với nguồn địa phương hoặc nhà chùa nếu cần thông tin rất cập nhật.

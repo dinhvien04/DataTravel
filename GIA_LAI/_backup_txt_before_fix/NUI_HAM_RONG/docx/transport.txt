@@ -1,0 +1,71 @@
+1. transport.docx - Núi Hàm Rồng
+
+2. Mục tiêu dữ liệu giao thông
+
+Tài liệu này mô tả cách tiếp cận Núi Hàm Rồng theo hướng phục vụ chatbot du lịch. Vì đây là địa danh tự nhiên ở ngoại ô Pleiku, thông tin giao thông cần linh hoạt theo điểm xuất phát, phương tiện, mùa mưa, điều kiện đường và nhu cầu của du khách.
+
+Không nên mô tả Núi Hàm Rồng như một điểm có cổng vào duy nhất nếu nguồn không xác nhận. Nên mô tả theo tuyến đường và khu vực: từ trung tâm Pleiku đi về phía nam khoảng 11 km đến khu vực chân núi Hàm Rồng/cửa ngõ phía nam Pleiku.
+
+3. Từ trung tâm Pleiku
+
+Từ khu vực trung tâm Pleiku, du khách có thể đi xe máy, ô tô cá nhân, taxi hoặc xe công nghệ nếu có dịch vụ hoạt động tại thời điểm đi. Khoảng cách thường được các nguồn du lịch ghi khoảng 11 km về phía nam. Thời gian di chuyển thực tế có thể dao động từ 20 đến 35 phút tùy điểm xuất phát, mật độ giao thông và đoạn dừng chụp ảnh.
+
+Tuyến đi nên được xác định bằng bản đồ số ở thời điểm khởi hành. Với chatbot, có thể gợi ý người dùng tìm “Núi Hàm Rồng Gia Lai”, “Chư HDrông Pleiku” hoặc “chân núi Hàm Rồng Pleiku” trên bản đồ; sau đó đối chiếu với lộ trình thực tế để tránh đi nhầm sang Chư Đăng Ya hoặc Chư Nâm.
+
+4. Từ sân bay Pleiku
+
+Nếu du khách đến Gia Lai bằng sân bay Pleiku, có thể di chuyển về trung tâm thành phố trước rồi đi Núi Hàm Rồng, hoặc thuê xe đi thẳng nếu lịch trình có nhiều điểm ngoại ô. Phương án hợp lý cho khách lần đầu là về khách sạn tại Pleiku, gửi hành lý, sau đó đi Hàm Rồng vào sáng sớm hoặc chiều muộn để có ánh sáng đẹp hơn.
+
+Với khách chỉ quá cảnh hoặc có ít thời gian, Núi Hàm Rồng có thể xếp vào tuyến ngắn trong nửa ngày cùng một vài điểm ở nội đô Pleiku. Tuy nhiên, nếu muốn chụp ảnh mùa dã quỳ hoặc khám phá sâu dưới chân núi, nên dành thêm thời gian vì các điểm phụ nằm rải rác.
+
+5. Từ bến xe, ga và các điểm nội đô
+
+Từ bến xe hoặc các điểm trung tâm như Quảng trường Đại Đoàn Kết, Bảo tàng tỉnh Gia Lai, khu vực khách sạn nội đô, du khách có thể gọi taxi hoặc thuê xe máy. Xe máy phù hợp với người quen đường và muốn linh hoạt dừng chụp ảnh, nhưng cần chú ý an toàn vì một số đoạn có xe tải, xe khách hoặc đường dốc.
+
+Ô tô cá nhân hoặc xe thuê phù hợp với gia đình, người lớn tuổi, nhóm có trẻ nhỏ hoặc nhóm muốn kết hợp nhiều điểm. Khi đi ô tô, nên hỏi trước chỗ dừng/đỗ gần khu vực muốn tham quan, vì Núi Hàm Rồng không nhất thiết có bãi đỗ du lịch chuẩn hóa như các khu tham quan có cổng bán vé.
+
+6. Tuyến kết hợp phổ biến
+
+Tuyến một buổi có thể gồm trung tâm Pleiku - Núi Hàm Rồng - khu vực chân núi - cà phê ngoại ô. Tuyến này phù hợp với du khách muốn ngắm cảnh, chụp ảnh và trải nghiệm không khí cao nguyên mà không đi quá xa.
+
+Tuyến một ngày có thể kết hợp Núi Hàm Rồng với Biển Hồ T’Nưng, Biển Hồ Chè, Hàng thông trăm tuổi, Chùa Bửu Minh hoặc Chư Đăng Ya. Tuy nhiên, cần lưu ý các điểm này nằm ở các hướng khác nhau so với trung tâm Pleiku, nên cần tối ưu lộ trình để tránh đi vòng.
+
+Tuyến dành cho người thích núi có thể kết hợp Hàm Rồng với Chư Nâm hoặc Chư Đăng Ya, nhưng không nên gom tất cả thành một trải nghiệm giống nhau. Hàm Rồng phù hợp ngắm cảnh ngoại ô và núi lửa cổ, Chư Nâm nặng về trekking, còn Chư Đăng Ya nổi bật với miệng núi lửa và mùa hoa dã quỳ.
+
+7. Phương tiện phù hợp
+
+Xe máy phù hợp cho khách trẻ, thích linh hoạt và có kinh nghiệm đi đường đồi. Cần đội mũ bảo hiểm, kiểm tra phanh, không đi nhanh khi đường ướt và không chạy vào đường đất nếu không rõ lối ra.
+
+Ô tô cá nhân hoặc xe thuê phù hợp cho nhóm gia đình, đoàn nhỏ, khách có nhiều thiết bị chụp ảnh hoặc muốn kết hợp nhiều điểm. Khi đặt xe, nên mô tả rõ lịch trình là “đi khu vực chân núi Hàm Rồng, Pleiku” để tài xế hiểu không phải đi Chư Đăng Ya hay Chư Nâm.
+
+Taxi phù hợp với khách không quen đường, nhưng cần thỏa thuận điểm chờ hoặc thời gian quay lại nếu khu vực tham quan ít xe. Nếu đi vào sáng sớm hoặc chiều muộn, nên đặt xe chiều về trước.
+
+8. Lưu ý đường đi và bản đồ
+
+Khi dùng bản đồ số, cần kiểm tra nhiều tên gọi vì địa danh có thể hiện dưới tên Hàm Rồng, Chư HDrông hoặc Hòn Rồng. Một số kết quả có thể dẫn đến khu vực núi, khu dân cư dưới chân núi hoặc đường vòng khác nhau. Chatbot nên hỏi lại người dùng muốn “ngắm cảnh/chụp ảnh dưới chân núi” hay “đi lên điểm cao” trước khi hướng dẫn chi tiết.
+
+Trong mùa mưa, đường đất và đường dốc có thể trơn. Nếu thấy đường nhỏ, dốc hoặc ít người qua lại, không nên tự ý đi sâu, nhất là khi đi một mình. Nên hỏi người dân địa phương, chủ homestay, tài xế hoặc đơn vị hướng dẫn trước khi đi các lối phụ.
+
+9. Dữ liệu dành cho chatbot giao thông
+
+Câu hỏi: “Núi Hàm Rồng cách Pleiku bao xa?” Trả lời an toàn: Núi Hàm Rồng thường được ghi cách trung tâm Pleiku khoảng 11 km về phía nam; thời gian đi khoảng 20-35 phút tùy phương tiện và điểm xuất phát.
+
+Câu hỏi: “Đi Núi Hàm Rồng bằng gì?” Trả lời an toàn: Có thể đi xe máy, ô tô cá nhân, taxi hoặc xe thuê. Xe máy linh hoạt nhưng cần chú ý đường dốc và thời tiết; ô tô phù hợp gia đình hoặc nhóm muốn đi nhiều điểm.
+
+Câu hỏi: “Núi Hàm Rồng có phải Chư Đăng Ya không?” Trả lời an toàn: Không. Đây là hai địa điểm khác nhau. Núi Hàm Rồng gần Pleiku hơn và nằm về phía nam; Chư Đăng Ya là núi lửa nổi tiếng ở hướng Chư Păh/xã Biển Hồ mới, cách Pleiku xa hơn.
+
+10. Nguồn tham khảo và ghi chú kiểm chứng
+
+Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://vietnamtourism.gov.vn/post/61858
+
+Báo Gia Lai - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://baogialai.com.vn/kham-pha-du-lich-sinh-thai-duoi-chan-nui-ham-rong-post314298.html
+
+Báo Nhân Dân - Những miệng núi lửa thu hút khách du lịch ở Gia Lai: https://nhandan.vn/nhung-mieng-nui-lua-thu-hut-khach-du-lich-o-gia-lai-post831743.html
+
+Trang thông tin phường Hội Phú, Gia Lai - Tổng quan về phường Hội Phú: https://hoiphu.gialai.gov.vn/trang-chu/tong-quan-ve-phuong-hoi-phu
+
+Báo điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+DulichPleiku Gia Lai - thông tin tuyến điểm Hàm Rồng, Chư Hdrông và các điểm ngoại ô Pleiku: https://dulichpleiku.gialai.gov.vn/

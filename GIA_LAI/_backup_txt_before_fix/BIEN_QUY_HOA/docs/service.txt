@@ -1,0 +1,29 @@
+1. Dịch vụ tại địa điểm
+
+Biển Quy Hòa không phát triển theo kiểu khu du lịch thương mại quá sôi động như một số điểm du lịch nổi tiếng khác ở Quy Nhơn. Dịch vụ tại đây chủ yếu phục vụ nhu cầu tham quan tự nhiên, nghỉ ngơi, đi dạo, chụp ảnh và kết hợp khám phá các địa điểm lân cận. Vì vậy, khi xây dựng dữ liệu cho hệ thống RAG, nên mô tả Biển Quy Hòa là một điểm đến thiên về trải nghiệm cảnh quan và không gian yên bình hơn là nơi có nhiều dịch vụ vui chơi, giải trí.
+
+Tại khu vực Biển Quy Hòa, du khách có thể tham quan tự do, đi dạo ven biển, chụp ảnh và nghỉ ngơi trong không gian biển thoáng đãng. Một số dịch vụ như gửi xe, quán nước hoặc quán ăn địa phương có thể có tùy từng khu vực và thời điểm, nhưng không nên mặc định là luôn có đầy đủ. Nếu du khách xuất phát từ trung tâm Quy Nhơn, có thể sử dụng taxi, xe công nghệ, xe máy hoặc xe du lịch thuê riêng để đến Quy Hòa. Ngoài ra, nếu muốn ở lại qua đêm, du khách có thể lựa chọn lưu trú tại khu vực Bãi Xếp lân cận hoặc quay về trung tâm Quy Nhơn, nơi có nhiều khách sạn và dịch vụ hơn.
+
+2. Ăn uống
+
+Khu vực Quy Hòa có thể không có quá nhiều lựa chọn ăn uống như trung tâm thành phố Quy Nhơn. Vì vậy, du khách nên chuẩn bị trước nước uống, đồ ăn nhẹ hoặc lên kế hoạch ăn uống ở các khu vực lân cận. Nếu chỉ tham quan trong thời gian ngắn, du khách có thể ăn nhẹ tại các quán địa phương nếu có, sau đó tiếp tục hành trình đến Bãi Xếp, Ghềnh Ráng hoặc quay về trung tâm Quy Nhơn để dùng bữa.
+
+Nếu muốn trải nghiệm ẩm thực biển, du khách có thể kết hợp tham quan Biển Quy Hòa với Bãi Xếp hoặc các khu vực ven biển gần đó. Bãi Xếp là một làng chài thuộc vùng biển Quy Hòa, có đời sống ngư dân gắn bó với biển, vì vậy đây là nơi phù hợp để tìm hiểu văn hóa làng chài và thưởng thức các món ăn mang hương vị địa phương. Ngoài hải sản, khu vực Bãi Xếp còn được nhắc đến với đặc sản rong biển, thường được phơi khô và có thể dùng để chế biến nước uống mát hoặc nấu chè.
+
+3. Đặc sản địa phương
+
+Khi tham quan Biển Quy Hòa và các khu vực lân cận ở Quy Nhơn, du khách có thể thưởng thức nhiều đặc sản địa phương đặc trưng của Bình Định. Các món ăn phổ biến có thể gợi ý gồm hải sản tươi, bánh xèo tôm nhảy, bún chả cá Quy Nhơn, bánh hỏi cháo lòng, nem chợ Huyện, tré Bình Định, ốc, mực, cá nướng và các món ăn chế biến từ hải sản ven biển.
+
+Trong các đặc sản liên quan trực tiếp đến vùng biển Quy Hòa và Bãi Xếp, rong biển Bãi Xếp là một điểm đáng chú ý. Rong biển thường được người dân địa phương khai thác, phơi khô và sử dụng để nấu nước mát hoặc chế biến thành các món ăn dân dã. Đây là thông tin có thể đưa vào hệ thống RAG để chatbot giới thiệu thêm về đặc sản gắn với khu vực biển Quy Hòa, thay vì chỉ nói chung chung về ẩm thực Quy Nhơn.
+
+4. Lưu trú / khách sạn
+
+Du khách tham quan Biển Quy Hòa có thể chọn lưu trú theo hai hướng chính: ở trung tâm thành phố Quy Nhơn hoặc ở khu vực ven biển lân cận như Bãi Xếp, Ghềnh Ráng – Quy Hòa. Nếu muốn thuận tiện ăn uống, mua sắm, di chuyển đến nhiều địa điểm và có nhiều lựa chọn khách sạn, trung tâm Quy Nhơn là phương án phù hợp hơn. Khu vực trung tâm có nhiều loại hình lưu trú từ khách sạn bình dân, homestay đến khách sạn ven biển, thuận tiện cho cả gia đình, nhóm bạn và khách du lịch tự túc.
+
+Nếu du khách thích không gian yên tĩnh, gần biển và muốn nghỉ dưỡng nhẹ nhàng, khu vực Bãi Xếp hoặc vùng biển Quy Hòa là lựa chọn đáng cân nhắc. Bãi Xếp có nhiều loại hình lưu trú như homestay, nhà nghỉ, khu nghỉ dưỡng nhỏ hoặc resort, phù hợp với những người muốn tránh sự đông đúc của trung tâm thành phố. Ngoài ra, khu vực Ghềnh Ráng – Quy Hòa cũng phù hợp với du khách muốn ở gần cung đường ven biển phía Nam Quy Nhơn, thuận tiện kết hợp tham quan Biển Quy Hòa, Bãi Xếp, Ghềnh Ráng và các điểm du lịch gần đó.
+
+5. Tiện ích hỗ trợ
+
+Các tiện ích hỗ trợ tại Biển Quy Hòa có thể không đầy đủ và ổn định như ở các khu du lịch lớn, vì vậy du khách nên chuẩn bị trước một số nhu yếu phẩm cần thiết. Về nhà vệ sinh, du khách cần kiểm tra tại các quán dịch vụ, điểm dừng chân hoặc khu vực gần nơi tham quan, không nên mặc định bãi biển luôn có WC công cộng. Dịch vụ gửi xe có thể có tại một số khu vực gần bãi biển hoặc điểm dịch vụ, nhưng mức phí và vị trí gửi xe có thể thay đổi tùy nơi.
+
+Về kết nối internet, du khách không nên mặc định khu vực này có wifi miễn phí mà nên sử dụng 4G hoặc 5G cá nhân để tra cứu bản đồ, liên lạc và tìm đường. Nếu cần mua nước uống hoặc đồ ăn nhẹ, nên chuẩn bị trước từ trung tâm Quy Nhơn, đặc biệt khi đi vào khung giờ vắng hoặc ngày thường. Khu vực Quy Hòa có Bệnh viện Phong – Da liễu Trung ương Quy Hòa, tuy nhiên đây là cơ sở y tế chuyên môn, không phải tiện ích du lịch thông thường, vì vậy du khách cần tôn trọng không gian bệnh viện và không tự ý vào các khu vực không dành cho tham quan.

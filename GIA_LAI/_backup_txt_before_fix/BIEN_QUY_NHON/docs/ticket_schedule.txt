@@ -1,0 +1,75 @@
+1. ticket_schedule.docx - Vé, giờ mở cửa và mùa tham quan Biển Quy Nhơn
+
+Bộ dữ liệu RAG du lịch Việt Nam - Địa điểm: Biển Quy Nhơn - Cập nhật: 26/05/2026
+
+Ghi chú dữ liệu: Nội dung được tổng hợp từ nguồn web công khai, ưu tiên nguồn du lịch chính thức và cổng thông tin địa phương. Các chi phí, giờ mở cửa, tour và dịch vụ có thể thay đổi theo mùa; nên kiểm tra lại trước khi đưa vào hệ thống trả lời thời gian thực.
+
+2. 1. Giá vé và tính chất tham quan
+
+Biển Quy Nhơn là bãi biển đô thị nằm ở trung tâm. Trong các nguồn du lịch tham khảo, địa điểm được mô tả như bãi tắm/không gian ven biển công cộng chứ không phải một khu du lịch khép kín có cổng vào riêng. Vì vậy, khi chatbot trả lời về “giá vé Biển Quy Nhơn”, cách an toàn là: hiện không thấy thông tin vé vào cửa riêng cho bãi biển trung tâm; chi phí thường phát sinh ở gửi xe, ăn uống, thuê ghế/chòi nếu có, hoặc các dịch vụ/tour lân cận.
+
+Không nên nhầm giá vé của Kỳ Co, Eo Gió, Khu du lịch Cửa Biển hoặc các tour cano với Biển Quy Nhơn trung tâm. Nếu người dùng hỏi “giá vé biển Quy Nhơn” nhưng ngữ cảnh nhắc Kỳ Co/Eo Gió/Hòn Khô, chatbot cần hỏi lại hoặc trả lời tách bạch từng điểm.
+
+3. 2. Giờ mở cửa và thời gian sử dụng
+
+Vì là bãi biển đô thị, Biển Quy Nhơn có thể tiếp cận vào nhiều khung giờ trong ngày. Tuy nhiên, hoạt động tắm biển nên ưu tiên sáng sớm hoặc chiều mát, khi nắng dịu và có đông người hơn. Các dịch vụ ven biển như quán cà phê, nhà hàng, khu vui chơi, bar bãi biển có giờ mở cửa riêng.
+
+Ví dụ, nguồn Cổng thông tin Du lịch Quy Nhơn ghi Surf Bar trên đường Xuân Diệu mở cửa từ 06:00 đến 22:59 và mức giá trung bình 25.000-150.000 đồng/người. Thông tin này chỉ đại diện cho một cơ sở dịch vụ, không phải giờ mở cửa của toàn bãi biển.
+
+4. 3. Chi phí dịch vụ đi kèm
+
+5. Dữ liệu chi tiết
+
+Hạng mục: Vào bãi biển trung tâm. Mức chi phí/ghi chú: Không thấy vé vào cổng riêng trong nguồn du lịch tham khảo; nên xem là không gian công cộng, cần kiểm tra biển báo địa phương. Độ ổn định dữ liệu: Có thể ổn định nhưng vẫn cần xác minh tại chỗ.
+
+Hạng mục: Gửi xe. Mức chi phí/ghi chú: Tùy điểm gửi xe, nhà hàng, khách sạn hoặc bãi tự phát; cần hỏi giá trước. Độ ổn định dữ liệu: Thay đổi theo mùa/điểm gửi.
+
+Hạng mục: Ăn uống ven biển. Mức chi phí/ghi chú: Quán bình dân đến nhà hàng hải sản; Surf Bar có khoảng giá tham khảo 25.000-150.000 đồng/người. Độ ổn định dữ liệu: Thay đổi theo menu và mùa.
+
+Hạng mục: Tour Kỳ Co - Eo Gió. Mức chi phí/ghi chú: Nguồn cũ của Cổng Du lịch Quy Nhơn từng ghi tour 1 ngày khoảng 700.000 đồng/người; cần kiểm tra giá mới. Độ ổn định dữ liệu: Dễ thay đổi.
+
+Hạng mục: Tour Hòn Khô/Nhơn Hải. Mức chi phí/ghi chú: Nguồn cũ ghi cano/tour địa phương khoảng 300.000 đồng/người; cần kiểm tra giá mới. Độ ổn định dữ liệu: Dễ thay đổi.
+
+Hạng mục: Khách sạn gần biển. Mức chi phí/ghi chú: Từ homestay/khách sạn 2-3 sao đến resort/khách sạn 4-5 sao; giá biến động mạnh dịp hè/lễ. Độ ổn định dữ liệu: Dễ thay đổi.
+
+6. 4. Thời điểm nên tham quan
+
+Khung giờ đẹp nhất trong ngày là sáng sớm khoảng 5:00-7:30 để ngắm bình minh, tắm biển nhẹ, chụp ảnh và cảm nhận nhịp sống địa phương. Chiều muộn khoảng 16:00-18:30 phù hợp đi dạo, tắm biển, ngắm hoàng hôn và ăn tối hải sản. Buổi tối phù hợp dạo đường biển, ngồi quán cà phê, ghé quảng trường hoặc khu ẩm thực, nhưng không nên tắm biển xa bờ khi thiếu ánh sáng/cứu hộ.
+
+Giữa trưa, đặc biệt từ 10:30-15:00 vào mùa nắng, không nên tắm biển lâu vì nắng mạnh, nguy cơ say nắng, bỏng da và mất nước. Nếu cần tham quan giờ này, nên chọn quán cà phê ven biển, nhà hàng hoặc điểm trong nhà.
+
+7. 5. Mùa đẹp nhất và thông tin thời tiết
+
+Quy Nhơn có mùa khô và mùa mưa khá rõ. Nhiều nguồn du lịch ghi mùa khô là thời điểm đẹp cho du lịch biển, thường rơi vào khoảng tháng 3 đến tháng 9 hoặc rộng hơn từ đầu năm đến tháng 8 tùy cách phân mùa. Đây là giai đoạn biển thường trong hơn, ít mưa hơn, thuận lợi cho tắm biển, chụp ảnh, đi đảo, lặn san hô và các hoạt động ngoài trời.
+
+Mùa mưa thường tập trung vào giai đoạn cuối năm, đặc biệt từ khoảng tháng 9-11 hoặc tháng 10-12 tùy nguồn khí hậu. Nếu đi mùa mưa, du khách vẫn có thể có ngày nắng đẹp nhưng cần theo dõi dự báo thời tiết, biển động, gió mạnh và lịch tàu/cano trước khi đi Kỳ Co, Hòn Khô, Cù Lao Xanh.
+
+Tháng 3-5: đẹp cho tắm biển, trời sáng, chưa quá đông như cao điểm hè.
+
+Tháng 6-8: cao điểm du lịch hè, nhiều hoạt động biển, nhưng nắng gắt và giá dịch vụ có thể tăng.
+
+Tháng 9-12: cần kiểm tra mưa bão/biển động; thích hợp hơn cho nghỉ dưỡng nhẹ, ăn uống, city tour nếu thời tiết ổn.
+
+Tháng 1-2: thời tiết dễ chịu, ít khách hơn cao điểm hè; phù hợp nghỉ dưỡng và đi dạo biển.
+
+8. 6. Ghi chú freshness cho RAG
+
+Các trường cần gắn nhãn “cần cập nhật thường xuyên”: giá vé dịch vụ, tour cano, khách sạn, giờ mở cửa quán, lịch sự kiện, tình trạng biển động, thời tiết hiện tại, quy định cứu hộ và khu vực được phép tắm. Các trường tương đối ổn định: vị trí bãi biển, đặc điểm bãi cát, cảnh quan đường cong vịnh, mối liên hệ với đường Xuân Diệu/quảng trường, mùa đẹp tương đối.
+
+9. Nguồn tham khảo
+
+Vietnam Travel - Binh Dinh: Where the Surf Meets the Soul: https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
+
+Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
+
+Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
+
+Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Cổng thông tin Du lịch Quy Nhơn - Surf Bar: https://dulichquynhon.binhdinh.gov.vn/vi/suftbar
+
+VinWonders - Quy Nhon weather: typical features and useful travel tips: https://vinwonders.com/en/wonderpedia/news/quy-nhon-weather/
+
+WeatherSpark - Average Weather in Qui Nhon, Vietnam: https://weatherspark.com/y/120742/Average-Weather-in-Qui-Nhon-Vietnam
+
+Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.

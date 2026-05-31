@@ -1,0 +1,46 @@
+1. FAQ đề xuất
+
+Q: Biển Quy Hòa nằm ở đâu?
+A: Biển Quy Hòa nằm ở khu vực Quy Hòa, phía Nam thành phố Quy Nhơn, gần tuyến đường ven biển Quy Nhơn – Sông Cầu/Quốc lộ 1D. Các nguồn du lịch ghi nhận bãi biển cách trung tâm Quy Nhơn khoảng 10 km.
+
+Q: Biển Quy Hòa có gì đặc biệt?
+A: Biển Quy Hòa đặc biệt vì có không gian yên bình, cảnh quan biển xanh, núi và cây xanh bao quanh. Ngoài vẻ đẹp tự nhiên, nơi đây còn gắn với làng phong Quy Hòa, Bệnh viện Phong – Da liễu Trung ương Quy Hòa và dấu ấn thi sĩ Hàn Mặc Tử.
+
+Q: Biển Quy Hòa có liên quan gì đến Hàn Mặc Tử?
+A: Hàn Mặc Tử từng điều trị và qua đời tại Bệnh viện phong Quy Hòa vào năm 1940. Vì vậy, khu vực Quy Hòa trở thành một địa điểm gắn với ký ức văn học và cuộc đời thi sĩ.
+
+Q: Làng phong Quy Hòa hình thành từ khi nào?
+A: Theo Bệnh viện Quy Hòa và Báo Nhân Dân, năm 1929, linh mục người Pháp Paul Maheure cùng hơn 30 bệnh nhân phong đến vùng Quy Hòa/Vũng Dừa, đặt nền móng cho Trại phong Quy Hòa, sau này phát triển thành Bệnh viện Phong – Da liễu Trung ương Quy Hòa.
+
+Q: Biển Quy Hòa cách trung tâm Quy Nhơn bao xa?
+A: Một số nguồn du lịch ghi Biển Quy Hòa cách trung tâm Quy Nhơn khoảng 10 km. Khu vực Bãi Xếp thuộc vùng biển Quy Hòa cách trung tâm Quy Nhơn khoảng 13 km.
+
+Q: Đi Biển Quy Hòa bằng phương tiện gì?
+A: Du khách có thể đi xe máy, ô tô, taxi hoặc xe du lịch. Xe máy phù hợp với người thích trải nghiệm cung đường ven biển; ô tô/taxi phù hợp với gia đình, nhóm bạn hoặc người không quen đường.
+
+Q: Biển Quy Hòa có thu vé không?
+A: Hiện chưa tìm thấy nguồn chính thống xác nhận Biển Quy Hòa thu vé tham quan cố định. Nếu đi thực tế, du khách nên kiểm tra lại tại cổng du lịch địa phương hoặc hỏi trực tiếp tại điểm đến.
+
+Q: Biển Quy Hòa có giờ mở cửa không?
+A: Chưa có nguồn chính thống xác nhận giờ mở cửa riêng cho Biển Quy Hòa như một khu du lịch có cổng soát vé. Du khách nên tham quan vào ban ngày, tốt nhất là buổi sáng hoặc chiều mát.
+
+Q: Nên đi Biển Quy Hòa mùa nào?
+A: Nên đi vào mùa khô của Quy Nhơn, khoảng tháng 3 đến tháng 9, vì thời tiết thường khô ráo, biển đẹp, thuận lợi cho hoạt động ngoài trời. Mùa mưa khoảng tháng 10 đến tháng 2 năm sau cần xem dự báo thời tiết trước khi đi.
+
+Q: Có nên tắm biển ở Quy Hòa không?
+A: Có thể tắm biển khi thời tiết đẹp, biển êm và khu vực an toàn. Tuy nhiên, cần quan sát sóng, dòng chảy, biển báo và không nên tắm khi trời mưa, biển động hoặc vắng người.
+
+Q: Biển Quy Hòa phù hợp với ai?
+A: Biển Quy Hòa phù hợp với người thích không gian yên bình, gia đình, cặp đôi, nhóm bạn trẻ thích chụp ảnh, người yêu văn học và du khách muốn tìm hiểu câu chuyện làng phong Quy Hòa – Hàn Mặc Tử.
+
+Q: Có thể kết hợp Biển Quy Hòa với địa điểm nào gần đó?
+A: Có thể kết hợp với Bãi Xếp, Ghềnh Ráng – Tiên Sa, mộ Hàn Mặc Tử, bãi biển trung tâm Quy Nhơn và các điểm ăn uống/lưu trú ở trung tâm thành phố.
+
+Q: Biển Quy Hòa có đông khách không?
+A: Biển Quy Hòa thường được nhắc đến như một nơi yên bình hơn so với các điểm du lịch nổi tiếng, nên phù hợp với người muốn tránh đông đúc. Tuy vậy, mức độ đông khách có thể thay đổi vào cuối tuần, dịp lễ hoặc mùa du lịch.
+
+Q: Khi tham quan Quy Hòa cần lưu ý gì?
+A: Cần tôn trọng không gian làng phong, bệnh viện và người dân địa phương; không tự ý chụp ảnh người dân/bệnh nhân; không xả rác; không tắm biển khi thời tiết xấu; nên đi ban ngày và chuẩn bị nước uống, nón, kem chống nắng.
+
+Q: Biển Quy Hòa có phù hợp để làm dữ liệu Multimodal RAG không?
+A: Có. Địa điểm này có dữ liệu đa dạng gồm ảnh biển, cảnh quan, bản đồ, thông tin lịch sử làng phong, thông tin văn hóa về Hàn Mặc Tử, dữ liệu di chuyển, trải nghiệm, review và FAQ. Đây là địa điểm phù hợp để xây dựng hệ thống nhận diện địa điểm du lịch bằng văn bản + hình ảnh.

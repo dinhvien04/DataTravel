@@ -1,0 +1,91 @@
+1. Giới thiệu địa điểm
+
+Hòn Khô là một đảo nhỏ nằm ngoài làng chài Nhơn Hải, khu vực bán đảo Phương Mai, gần thành phố Quy Nhơn. Đây là một trong những điểm biển đảo nổi bật nhất của Quy Nhơn nhờ cảnh quan hoang sơ, nước biển xanh trong, bờ đá tự nhiên và rạn san hô gần bờ. Địa điểm này phù hợp với du khách muốn đi biển trong ngày, tắm biển, lặn ngắm san hô, chụp ảnh, ăn hải sản và trải nghiệm làng chài.
+
+Tên gọi Hòn Khô xuất phát từ đặc điểm cảnh quan có nhiều dãy đá, núi đá khô cằn, ít cây xanh lớn và nổi bật giữa biển. Tuy vậy, ấn tượng của du khách về Hòn Khô không phải là sự khô cằn đơn điệu mà là sự tương phản giữa đá núi xám, cát sáng màu, biển xanh ngọc, rạn san hô và những dải rong mơ vàng dưới nước vào mùa hè.
+
+So với Kỳ Co và Eo Gió, Hòn Khô có quy mô nhỏ hơn và gần làng chài hơn. Điểm mạnh của Hòn Khô là cảm giác gần đời sống địa phương, đường ra đảo ngắn, có thể kết hợp trải nghiệm biển đảo với ăn uống tại làng chài Nhơn Hải. Đây là điểm thích hợp cho lịch trình nửa ngày hoặc một ngày khi du khách lưu trú tại Quy Nhơn.
+
+2. Mô tả tổng quan
+
+Từ trung tâm Quy Nhơn đến khu vực Nhơn Hải thường mất khoảng 25 đến 45 phút tùy phương tiện và điểm xuất phát. Từ làng chài Nhơn Hải, du khách tiếp tục đi thuyền, thúng hoặc cano ra đảo Hòn Khô. Một số nguồn du lịch ghi khoảng cách từ trung tâm Quy Nhơn đến Hòn Khô khoảng 16 km, nguồn khác ghi khoảng 18 đến 20 km. Sự khác nhau này thường do cách tính từ điểm trung tâm, từ bến tàu hoặc từ đường bộ tới làng chài.
+
+Cảnh quan Hòn Khô gồm ba lớp nổi bật. Lớp thứ nhất là bãi biển và mặt nước trong, phù hợp tắm biển khi biển êm. Lớp thứ hai là đá núi và bờ đá, tạo nên các góc ảnh mạnh về thị giác. Lớp thứ ba là hệ sinh thái biển gần bờ, gồm rạn san hô, thảm rong mơ theo mùa và sinh vật biển nhỏ. Chính sự kết hợp này làm Hòn Khô có giá trị cao cho du lịch trải nghiệm ngắn ngày.
+
+Hòn Khô thường được quảng bá như một điểm đến hoang sơ, nhưng hiện nay đã có một số dịch vụ du lịch như cano, thuyền, lặn ngắm san hô, ăn hải sản, tour nửa ngày và các góc check-in. Vì vậy, khi mô tả cho chatbot, cần tránh nói địa điểm hoàn toàn không có dịch vụ. Cách mô tả chính xác hơn là: Hòn Khô vẫn giữ nét hoang sơ so với nhiều khu du lịch lớn, nhưng đã có dịch vụ du lịch cơ bản phục vụ khách tham quan trong ngày.
+
+3. Lịch sử và bối cảnh hình thành
+
+Hòn Khô gắn với làng chài Nhơn Hải, một cộng đồng ven biển lâu đời sống bằng nghề đánh bắt hải sản, dịch vụ thuyền thúng, cano, ăn uống và du lịch cộng đồng. Trước khi nổi bật trên bản đồ du lịch, khu vực này chủ yếu được biết đến như một đảo nhỏ che chắn sóng gió cho làng biển Nhơn Hải.
+
+Về mặt địa hình, Hòn Khô là một khối đảo đá gần bờ, nằm trong không gian biển của bán đảo Phương Mai. Các khối đá lớn chồng xếp, vách đá, nền đá và eo biển hẹp tạo nên hình ảnh đặc trưng. Nơi đây không có nhiều công trình kiến trúc quy mô lớn; giá trị nhận diện chủ yếu đến từ tự nhiên, cảnh quan biển và đời sống ngư dân.
+
+Một chi tiết thường được nhắc khi nói về Nhơn Hải và Hòn Khô là dấu tích tường thành hoặc con đường đá dưới biển. Theo một số bài viết du lịch và báo chí, dải đá này nối từ khu vực thôn Hải Nam ra gần Hòn Khô, chỉ lộ rõ khi thủy triều rút vào một số thời điểm. Nguồn gốc của dải đá vẫn còn nhiều giả thuyết, vì vậy khi dùng trong dữ liệu chatbot nên mô tả là “dấu tích/hiện tượng được nhắc tới” chứ không khẳng định chắc chắn là công trình Chăm Pa nếu chưa có kết luận khảo cổ chính thức.
+
+4. Giá trị văn hóa
+
+Giá trị văn hóa của Hòn Khô không nằm ở công trình nhân tạo lớn mà nằm ở mối quan hệ giữa đảo, làng chài và tín ngưỡng biển. Du khách đến Hòn Khô thường bắt đầu từ làng chài Nhơn Hải, nơi có nhịp sống đánh bắt, thuyền thúng, ghe cá, bến neo đậu và những quán hải sản phục vụ món ăn địa phương.
+
+Lễ hội Cầu Ngư Nhơn Hải là dữ liệu quan trọng cần gắn với Hòn Khô trong hệ thống hỏi đáp, vì đây là sự kiện văn hóa của cộng đồng ven biển nơi Hòn Khô tọa lạc. Lễ hội thường gồm phần lễ và phần hội, thể hiện lòng biết ơn thần Nam Hải, cầu mong mưa thuận gió hòa, tôm cá đầy khoang và sự an toàn cho ngư dân khi ra khơi.
+
+Khi chatbot trả lời về văn hóa Hòn Khô, nên nhấn mạnh Hòn Khô là điểm tham quan tự nhiên nằm trong không gian văn hóa của Nhơn Hải. Du khách không chỉ đến để tắm biển hay lặn san hô mà còn có thể hiểu thêm về nghề biển, món ăn làng chài, tập quán đi thúng, lễ cầu ngư và cách cộng đồng địa phương đang chuyển từ khai thác hải sản thuần túy sang kết hợp du lịch.
+
+5. Điểm nổi bật
+
+Điểm nổi bật thứ nhất là rạn san hô gần bờ. Một số nguồn du lịch mô tả san hô tại Hòn Khô nằm ở vùng nước không quá sâu, phù hợp với hoạt động lặn ống thở khi biển êm và có hướng dẫn an toàn. Đây là lý do Hòn Khô thường được xếp vào nhóm điểm du lịch dành cho khách thích biển xanh, tắm biển và khám phá hệ sinh thái dưới nước.
+
+Điểm nổi bật thứ hai là mùa rong mơ. Từ khoảng tháng 5 đến tháng 7, khu vực Hòn Khô và Nhơn Hải có những thảm rong mơ dưới nước, tạo hiệu ứng như cánh đồng vàng dưới biển. Đây là chất liệu hình ảnh rất phù hợp cho du lịch chụp ảnh, flycam, nội dung truyền thông và các câu trả lời về “mùa nào Hòn Khô đẹp nhất”.
+
+Điểm nổi bật thứ ba là cầu gỗ hoặc đường ven đá nhìn ra biển. Đây là góc check-in quen thuộc của nhiều du khách, đặc biệt vào thời điểm nắng đẹp, nước xanh và trời quang. Tuy nhiên, tình trạng công trình, an toàn và khả năng tiếp cận có thể thay đổi theo từng mùa hoặc đợt quản lý địa phương, nên dữ liệu nên để dạng tham khảo và khuyến nghị kiểm tra trước khi đi.
+
+Điểm nổi bật thứ tư là làng chài Nhơn Hải. Đây vừa là cửa ngõ ra Hòn Khô, vừa là nơi du khách ăn hải sản, thuê tàu, hỏi thông tin thủy triều, gửi xe và cảm nhận đời sống ven biển. Nếu không tách rõ Hòn Khô và Nhơn Hải, chatbot dễ trả lời thiếu bối cảnh. Nên hiểu Hòn Khô là đảo, còn Nhơn Hải là khu dân cư và bến xuất phát chính.
+
+6. Kiến trúc và cảnh quan
+
+Hòn Khô không phải điểm có kiến trúc cổ nổi bật như tháp Chăm hay đình chùa lớn. Cấu trúc cảnh quan chính là đảo đá, mặt nước, bãi cát, rạn san hô, rong mơ, đường ven biển và các điểm neo thuyền. Vì vậy, khi mô tả kiến trúc/cảnh quan nên dùng các cụm từ như: đảo đá gần bờ, khối đá xếp chồng, bãi tắm nước trong, cầu gỗ ven biển, rạn san hô nông, làng chài Nhơn Hải, biển xanh ngọc và không gian hoang sơ.
+
+Cảnh quan đẹp nhất thường xuất hiện khi trời nắng, biển êm, nước trong và thủy triều phù hợp. Vào ngày biển động, nước đục hoặc gió lớn, trải nghiệm lặn san hô, tắm biển và di chuyển cano có thể bị hạn chế. Đây là điểm cần đưa vào câu trả lời thực tế để tránh gợi ý thiếu an toàn cho người dùng.
+
+7. Các khu vực chính
+
+Khu vực làng chài Nhơn Hải là điểm bắt đầu quan trọng nhất. Tại đây du khách có thể gửi xe, hỏi thuê thuyền hoặc cano, ăn uống, mua nước, tìm người địa phương hỗ trợ và nắm thông tin biển trong ngày.
+
+Khu vực bến hoặc điểm xuống thuyền là nơi chuyển tiếp từ đường bộ sang đường biển. Tùy mùa, thời tiết và đơn vị vận hành, điểm đón khách có thể khác nhau. Chatbot nên hướng dẫn người dùng xác nhận lại bến đón với chủ tàu hoặc tour trước khi đi.
+
+Khu vực đảo Hòn Khô là nơi tắm biển, chụp ảnh, đi dạo ven đá và ngắm cảnh. Một số hoạt động chỉ phù hợp khi sóng nhỏ, không có gió mạnh và có áo phao.
+
+Khu vực rạn san hô là vùng trải nghiệm nhạy cảm về môi trường. Du khách nên lặn theo hướng dẫn, không giẫm lên san hô, không bẻ san hô và không lấy sinh vật biển về làm kỷ niệm.
+
+Khu vực cánh đồng rong mơ và đường đá lộ khi nước rút là nội dung đặc biệt theo mùa và theo thủy triều. Không phải lúc nào du khách cũng thấy được, vì vậy cần tránh trả lời như một điểm luôn xuất hiện mỗi ngày.
+
+8. Từ khóa mô tả địa điểm
+
+Hòn Khô, Hòn Khô Quy Nhơn, đảo Hòn Khô, Cù lao Hòn Khô, Hòn Khô Nhơn Hải, làng chài Nhơn Hải, phường Quy Nhơn Đông, Quy Nhơn, Gia Lai mới, Bình Định cũ, bán đảo Phương Mai, cầu Thị Nại, đảo gần bờ, biển xanh, nước trong, rạn san hô, lặn ngắm san hô, rong mơ, mùa rong mơ, cầu gỗ Hòn Khô, con đường dưới biển, tường thành cổ dưới biển, hải sản Nhơn Hải, bánh xèo mực, nhum biển, du lịch biển đảo Quy Nhơn, tour Hòn Khô nửa ngày, cano Hòn Khô, thuyền thúng Hòn Khô.
+
+9. Gợi ý chia chunk cho RAG
+
+Chunk 1 nên gồm phần nhận diện, vị trí, tên gọi, mô tả tổng quan, cảnh quan và điểm nổi bật. Chunk này phục vụ các câu hỏi như Hòn Khô ở đâu, Hòn Khô có gì đẹp, Hòn Khô có khác Kỳ Co không, nên đi Hòn Khô không.
+
+Chunk 2 nên gồm phần văn hóa, làng chài Nhơn Hải, lễ hội Cầu Ngư, tường thành dưới biển, khu vực chính và từ khóa. Chunk này phục vụ các câu hỏi mở rộng về đời sống địa phương, văn hóa biển, mùa rong mơ, check-in và thông tin ngữ cảnh.
+
+10. Nguồn tham khảo chính
+
+Du lịch Quy Nhơn - Bình Định, "Hòn Khô - Du lịch Quy Nhơn - Bình Định": https://dulichquynhon.binhdinh.gov.vn/vi/dryisland
+
+Cục Du lịch Quốc gia Việt Nam, "Đến Bình Định khám phá Hòn Khô": https://vietnamtourism.gov.vn/post/18832
+
+Cục Du lịch Quốc gia Việt Nam, "Đảo Hòn Khô: Điểm đến cho du khách thích san hô và tắm biển": https://vietnamtourism.gov.vn/post/16487
+
+Du lịch Quy Nhơn - Bình Định, "Cánh đồng rong mơ nhuộm vàng đáy biển Quy Nhơn": https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3193
+
+Vietnam Airlines, "Hòn Khô ở đâu? Có những trải nghiệm gì? Lịch trình ra sao?": https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/hon-kho
+
+Bamboo Airways, "Kinh nghiệm du lịch Hòn Khô chi tiết cho người mê khám phá": https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/du-lich-hon-kho
+
+Vinpearl, "Hòn Khô Quy Nhơn: Cẩm nang khám phá chi tiết, hữu ích": https://vinpearl.com/vi/review-du-lich-hon-kho-quy-nhon
+
+Thông tấn xã Việt Nam - Chính sách & Cuộc sống, "Lễ hội Cầu Ngư Nhơn Hải": https://chinhsachcuocsong.vnanet.vn/le-hoi-cau-ngu-nhon-hai-nhieu-nghi-thuc-dac-trung-cua-ngu-dan-mien-bien/57133.html
+
+Báo Thanh Niên, "Bảo tàng Bình Định nói gì về tường thành cổ bí ẩn dưới biển?": https://thanhnien.vn/bao-tang-binh-dinh-noi-gi-ve-tuong-thanh-co-bi-an-duoi-bien-185230804103955488.htm
+
+Ngày tạo bộ dữ liệu: 26/05/2026.

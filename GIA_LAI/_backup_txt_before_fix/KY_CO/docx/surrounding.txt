@@ -1,0 +1,73 @@
+Tài liệu này dùng để mở rộng dữ liệu Kỳ Co theo cụm điểm lân cận, sự kiện, hoạt động theo mùa và đối tượng phù hợp. Đối với RAG du lịch, Kỳ Co nên được hiểu là một điểm trong cụm du lịch Nhơn Lý - bán đảo Phương Mai, không phải một điểm đứng riêng lẻ.
+
+1. Các địa điểm gần đó
+
+Eo Gió là điểm gần Kỳ Co và thường được ghép trong cùng lịch trình. Eo Gió nổi bật với cung đường đi bộ ven vách đá, gió mạnh, biển xanh và góc chụp toàn cảnh. Nếu Kỳ Co phù hợp tắm biển, thì Eo Gió phù hợp ngắm cảnh và check-in.
+
+Làng chài Nhơn Lý là điểm trải nghiệm đời sống địa phương. Du khách có thể đi qua các con hẻm dốc, nhìn nhà cửa ven biển, bến thuyền và sinh hoạt của ngư dân. Đây là nơi phù hợp với nội dung văn hóa, ẩm thực và ảnh đời thường.
+
+Tịnh xá Ngọc Hòa là điểm tâm linh gần Eo Gió, nổi bật với tượng Phật đôi và không gian thanh tịnh. Điểm này thường được thêm vào tour Kỳ Co - Eo Gió để cân bằng giữa biển, cảnh quan và tâm linh.
+
+Đồi cát Phương Mai là điểm vui chơi/chụp ảnh trên bán đảo Phương Mai, phù hợp cho hoạt động trượt cát hoặc chụp ảnh đồi cát. Nếu kết hợp với Kỳ Co, nên đi vào sáng sớm hoặc chiều muộn vì ban ngày rất nắng.
+
+Bãi Dứa là điểm thường gắn với hoạt động lặn ngắm san hô trong tour Kỳ Co. Tùy lịch trình, cano có thể đưa khách từ Kỳ Co sang Bãi Dứa hoặc điểm san hô phù hợp.
+
+Hòn Sẹo là điểm biển đảo gần khu vực Nhơn Lý, thường xuất hiện trong mô tả tuyến cano hoặc tour biển. Tuy nhiên, không phải tour nào cũng dừng ở đây.
+
+2. Sự kiện và lễ hội
+
+Kỳ Co gắn với đời sống biển Nhơn Lý nên có thể liên hệ với các lễ hội cầu ngư, nghi thức văn hóa biển và hoạt động cộng đồng của ngư dân trong vùng. Lễ hội cầu ngư là nét văn hóa quan trọng của nhiều làng biển miền Trung, thể hiện mong ước mưa thuận gió hòa, tàu thuyền an toàn, mùa cá bội thu.
+
+Khi chatbot trả lời về lễ hội gần Kỳ Co, nên nói theo hướng “khu vực Nhơn Lý và các làng biển Quy Nhơn có các hoạt động văn hóa biển như lễ cầu ngư; lịch cụ thể thay đổi theo địa phương và từng năm”. Không nên gắn một ngày cố định nếu không có nguồn lịch lễ hội chính thức của năm đó.
+
+3. Hoạt động theo mùa
+
+Mùa khô từ khoảng tháng 3 đến tháng 9 là mùa phù hợp cho tắm biển, cano, chụp ảnh, lặn san hô và trò chơi biển. Đây cũng là mùa cao điểm, đặc biệt từ tháng 5 đến tháng 8. Khách đi giai đoạn này nên đặt dịch vụ trước và chuẩn bị chống nắng kỹ.
+
+Mùa mưa và giai đoạn biển động từ khoảng tháng 10 đến tháng 12 có thể hạn chế hoạt động cano và lặn san hô. Du khách vẫn có thể tham quan Quy Nhơn nếu thời tiết thuận lợi, nhưng không nên đặt kỳ vọng chắc chắn đi Kỳ Co bằng cano. Cần kiểm tra thông báo của đơn vị vận hành.
+
+Mùa lễ, hè và cuối tuần là thời điểm đông khách. Hoạt động check-in, ăn trưa và chờ cano có thể mất nhiều thời gian hơn. Ngày thường sẽ phù hợp hơn với khách muốn trải nghiệm yên tĩnh.
+
+4. Đối tượng phù hợp
+
+Kỳ Co phù hợp với người yêu biển, thích nước trong, thích ảnh đẹp, thích đi cano và muốn trải nghiệm du lịch biển đảo trong ngày. Cặp đôi có thể chọn Kỳ Co để chụp ảnh và kết hợp Eo Gió. Nhóm bạn trẻ có thể kết hợp tắm biển, lặn san hô và trò chơi biển. Gia đình có thể đi nếu chọn ngày biển êm và dùng dịch vụ an toàn.
+
+Kỳ Co cũng phù hợp với khách lần đầu đến Quy Nhơn vì đây là một trong những điểm được nhắc nhiều nhất. Nếu chỉ có một ngày cho biển đảo Quy Nhơn, tuyến Kỳ Co - Eo Gió là lựa chọn phổ biến.
+
+5. Đối tượng cần cân nhắc
+
+Người say sóng nặng, người sợ cano, người có bệnh tim mạch nặng, phụ nữ mang thai ở giai đoạn cần hạn chế vận động hoặc người khó di chuyển nên cân nhắc kỹ. Nếu vẫn muốn đi, nên hỏi trước nhà tour về mức độ sóng, phương án đường bộ, xe trung chuyển, thời gian di chuyển và khả năng hỗ trợ.
+
+Người không thích đông đúc nên tránh cuối tuần, lễ và mùa hè cao điểm. Người muốn yên tĩnh có thể chọn đi sớm hoặc ở Nhơn Lý một đêm để cảm nhận không khí làng chài, thay vì chỉ đi tour đông trong ngày.
+
+6. Gợi ý kết hợp lịch trình
+
+Lịch trình nhẹ cho gia đình: buổi sáng đi Kỳ Co, tắm biển và chụp ảnh; trưa ăn hải sản ở Nhơn Lý; chiều ghé Eo Gió hoặc Tịnh xá Ngọc Hòa rồi về Quy Nhơn.
+
+Lịch trình nhiều trải nghiệm: sáng đi Kỳ Co bằng cano, tắm biển, lặn san hô ở Bãi Dứa; trưa ăn hải sản; chiều đi Eo Gió, làng chài Nhơn Lý và đồi cát Phương Mai.
+
+Lịch trình chụp ảnh: đi sớm từ Quy Nhơn, chụp ở bến Nhơn Lý, bãi Kỳ Co, cầu gỗ, đá ven bờ; chiều chụp Eo Gió khi nắng dịu hơn. Nên chuẩn bị trang phục sáng màu, mũ và phụ kiện gọn.
+
+7. Từ khóa mở rộng cho chatbot
+
+Từ khóa lân cận gồm Eo Gió, Tịnh xá Ngọc Hòa, Nhơn Lý, làng chài Nhơn Lý, Bãi Dứa, Hòn Sẹo, đồi cát Phương Mai, cầu Thị Nại, bán đảo Phương Mai, FLC Nhơn Lý, Bãi Bấc, cano Nhơn Lý, tour Kỳ Co Eo Gió.
+
+Từ khóa hành trình gồm Kỳ Co một ngày, Kỳ Co Eo Gió 1 ngày, lịch trình Kỳ Co, tour Kỳ Co, đi Kỳ Co tự túc, Kỳ Co từ Quy Nhơn, Kỳ Co mùa đẹp, Kỳ Co lặn san hô, ăn gì ở Nhơn Lý.
+
+8. Nguồn tham khảo
+
+1. Vietnam National Authority of Tourism - Kỳ Co - vẻ đẹp hoang sơ làm say lòng người: https://vietnamtourism.gov.vn/post/26753
+
+2. Cổng thông tin điện tử tỉnh Gia Lai - Biển Kỳ Co: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/bien-ky-co.html
+
+3. Quy Nhơn Tourist - Vé cano tham quan Kỳ Co: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-cano-tham-quan-ky-co/
+
+4. Bamboo Airways - Kinh nghiệm du lịch Kỳ Co Eo Gió tự túc: https://www.bambooairways.com/th/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ky-co-eo-gio
+
+5. Du lịch Quy Nhơn Blog - Kỳ Co Quy Nhơn kinh nghiệm du lịch: https://dulichquynhon.blog/dia-diem-du-lich/ky-co/
+
+6. Du lịch Kỳ Co - Bảng giá tour và dịch vụ vui chơi Kỳ Co: https://dulichkyco.vn/bang-gia-tour-ky-co-moi-nhat/
+
+7. Quy Nhơn Tourist - Làng chài Nhơn Lý: https://quynhontourist.com/lang-chai-nhon-ly/
+
+8. Cổng thông tin điện tử Gia Lai - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

@@ -1,0 +1,55 @@
+1. Dịch vụ tại địa điểm
+
+Tháp Thủ Thiện là di tích văn hóa có tính chất tham quan ngoài trời, không phải khu du lịch dịch vụ lớn. Vì vậy, dịch vụ tại chỗ có thể hạn chế. Du khách không nên kỳ vọng có đầy đủ quầy vé, nhà hàng, khu mua sắm, xe điện hoặc hướng dẫn viên thường trực như ở các điểm du lịch nổi tiếng hơn.
+
+Trong dữ liệu chatbot, nên mô tả dịch vụ theo hướng “hạn chế” và khuyến nghị chuẩn bị trước. Nếu có nhu cầu thuyết minh, du khách nên đi cùng hướng dẫn viên trong tour văn hóa hoặc tự chuẩn bị thông tin trước chuyến đi.
+
+2. Ăn uống
+
+Ngay tại khu vực tháp có thể không có nhiều lựa chọn ăn uống cố định. Du khách nên ăn uống ở trung tâm Tây Sơn, khu vực Phú Phong cũ hoặc các điểm trên đường đi. Nếu đi tuyến Quy Nhơn - Tây Sơn trong ngày, nên chuẩn bị nước uống và đồ ăn nhẹ, đặc biệt khi đi xe máy.
+
+Các món phù hợp để gợi ý trong tuyến Tây Sơn có thể là đặc sản địa phương của vùng Bình Định xưa như bánh hỏi lòng heo, bún chả cá, nem chợ Huyện, tré, bánh ít lá gai hoặc các món bình dân ở khu vực thị trấn. Tuy nhiên, không nên nói rằng các món này có bán ngay tại chân tháp nếu không có nguồn xác nhận.
+
+3. Đặc sản địa phương
+
+Khi kết hợp tham quan Tháp Thủ Thiện với Tây Sơn, du khách có thể mua hoặc thưởng thức một số đặc sản của Bình Định xưa như bánh ít lá gai, nem chợ Huyện, tré, rượu Bàu Đá, bánh tráng nước dừa, bún song thằn hoặc các món ăn vùng miền Trung. Các đặc sản này phù hợp để gợi ý theo vùng chứ không nên gắn cứng với riêng Tháp Thủ Thiện.
+
+Với chatbot, nên trả lời: “Gần tháp không phải khu ẩm thực lớn; nên ăn ở trung tâm Tây Sơn hoặc kết hợp các đặc sản Bình Định trong lịch trình.” Điều này giúp câu trả lời thực tế hơn.
+
+4. Lưu trú và khách sạn
+
+Du khách thường không cần lưu trú ngay gần Tháp Thủ Thiện nếu chỉ tham quan trong ngày. Lựa chọn phổ biến là nghỉ ở Quy Nhơn rồi đi Tây Sơn trong ngày, hoặc nghỉ ở khu vực Tây Sơn nếu kết hợp nhiều điểm như Bảo tàng Quang Trung, Hầm Hô, tháp Dương Long và các làng võ.
+
+Nếu khách muốn tiện dịch vụ, khách sạn ở Quy Nhơn có nhiều lựa chọn hơn về ăn uống, vận chuyển và tour. Nếu khách muốn trải nghiệm chậm, gần tuyến lịch sử Tây Sơn hơn, có thể tìm nhà nghỉ hoặc homestay khu vực Tây Sơn, nhưng cần kiểm tra chất lượng và vị trí trước khi đặt.
+
+5. Tiện ích hỗ trợ
+
+Các tiện ích như nhà vệ sinh, bãi gửi xe, wifi, quầy nước hoặc bảng thuyết minh có thể không đầy đủ hoặc không ổn định theo từng thời điểm. Khi tạo dữ liệu RAG, nên mô tả tiện ích ở mức thận trọng: có thể có điểm dừng xe và một số tiện ích cơ bản quanh khu dân cư, nhưng không nên xem đây là khu du lịch có hạ tầng hoàn chỉnh.
+
+Du khách nên chuẩn bị pin điện thoại, dữ liệu di động, bản đồ, nước uống, nón, áo chống nắng và tiền mặt mệnh giá nhỏ. Nếu đi theo nhóm đông, nên liên hệ trước với đơn vị tổ chức tour hoặc địa phương để kiểm tra khả năng đỗ xe và vào tham quan.
+
+6. Hướng dẫn viên và thuyết minh
+
+Tại tháp có thể không có hướng dẫn viên cố định. Nếu du khách muốn hiểu sâu, nên thuê hướng dẫn viên tuyến Quy Nhơn - Tây Sơn hoặc đi với nhóm có người thuyết minh về văn hóa Chăm. Chủ đề thuyết minh nên bao gồm lịch sử Chăm Pa ở Vijaya, phong cách kiến trúc Bình Định, kỹ thuật xây gạch Chăm, chi tiết ô khám trong lòng tháp và tình trạng tu bổ di tích.
+
+Nếu chatbot phục vụ mục đích giáo dục, có thể gợi ý giáo viên hoặc hướng dẫn viên chuẩn bị ảnh so sánh Tháp Thủ Thiện với Tháp Dương Long, Tháp Cánh Tiên và Tháp Phú Lốc để học sinh dễ nhận diện.
+
+7. Dịch vụ an toàn và y tế
+
+Vì đây là điểm ít dịch vụ, du khách nên tự chuẩn bị thuốc cá nhân, băng cá nhân và nước uống. Nếu đi vào mùa nắng, cần đề phòng say nắng, mất nước. Nếu đi mùa mưa, cần cẩn thận trơn trượt quanh nền đất và đường làng.
+
+Khi có sự cố, nên di chuyển ra khu dân cư hoặc trung tâm xã gần nhất để tìm hỗ trợ. Không nên đi một mình vào lúc vắng hoặc tối muộn vì khu vực quanh tháp không phải điểm du lịch đông người.
+
+8. Nguồn tham khảo
+
+Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+
+Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
+
+Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
+
+Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
+
+Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
+
+Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/

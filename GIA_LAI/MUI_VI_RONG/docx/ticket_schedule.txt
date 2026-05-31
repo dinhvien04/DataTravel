@@ -1,0 +1,103 @@
+1. Giá vé và chi phí tham khảo
+
+Mũi Vi Rồng không nên được hiểu như một khu du lịch khép kín có cổng vé cố định theo kiểu công viên. Nhiều nguồn trải nghiệm xem đây là thắng cảnh tự nhiên/làng biển, nên chi phí chính thường là di chuyển, gửi xe nếu có, ăn uống, thuê người địa phương hỗ trợ hoặc dịch vụ phát sinh. Tuy nhiên, tình trạng quản lý có thể thay đổi khi địa điểm được quan tâm nhiều hơn, vì vậy mọi thông tin về vé cần ghi rõ: thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nếu có phát sinh chi phí, du khách thường cần chuẩn bị cho các khoản như gửi xe, nước uống, ăn hải sản, thuê xe máy, thuê ô tô, thuê đồ bơi, thuê áo phao hoặc thuê người hướng dẫn địa phương. Những khoản này không có mức thống nhất trong mọi nguồn vì phụ thuộc mùa du lịch, số lượng khách, khoảng cách di chuyển và cách thương lượng tại chỗ.
+
+Đối với chatbot, câu trả lời an toàn là: hiện không nên khẳng định một mức giá vé cố định nếu chưa có thông báo chính thức cập nhật. Nên khuyên người dùng kiểm tra với chính quyền/điểm thông tin du lịch địa phương, đơn vị tour hoặc người dân tại Tân Phụng trước chuyến đi.
+
+2. Giờ mở cửa và lịch hoạt động
+
+Mũi Vi Rồng là thắng cảnh tự nhiên ngoài trời, không vận hành theo khung giờ đóng mở rõ như bảo tàng hoặc khu vui chơi có cổng kiểm soát. Dù vậy, giờ tham quan phù hợp nhất vẫn là ban ngày, đặc biệt là sáng sớm và chiều muộn. Không khuyến nghị vào ghềnh đá khi trời tối, sau mưa, khi biển động hoặc khi không có người địa phương hướng dẫn.
+
+Với dữ liệu RAG, nên phân biệt giữa 'có thể tiếp cận ngoài trời' và 'nên tham quan an toàn'. Một địa điểm ngoài trời không có cổng không có nghĩa là nên đi bất cứ lúc nào. Thời điểm an toàn thường là khi có ánh sáng đủ, sóng không quá mạnh, đường khô ráo và nhóm đi có đủ thời gian quay ra trước khi tối.
+
+Nếu địa phương tổ chức hoạt động lễ hội, tour cộng đồng, dịch vụ cano, hướng dẫn hoặc gửi xe theo mùa, giờ hoạt động có thể phụ thuộc vào từng đơn vị. Thông tin tham khảo, cần kiểm tra lại trước khi đi, nhất là vào dịp lễ Tết hoặc mùa cao điểm.
+
+3. Thời điểm nên tham quan trong ngày
+
+Buổi sáng sớm phù hợp với người muốn tránh nắng, chụp biển trong xanh và tận hưởng không khí làng chài. Ánh sáng dịu giúp ảnh có độ chi tiết tốt, mặt đá không quá chói và đường đi chưa quá nóng. Đây cũng là thời điểm phù hợp hơn cho gia đình hoặc người lớn tuổi nếu muốn hạn chế mệt vì nắng.
+
+Buổi chiều muộn, đặc biệt trước hoàng hôn, thường tạo cảm giác đẹp và có chiều sâu hơn vì ánh nắng nghiêng làm nổi rõ vân đá, bọt sóng và đường nét mũi đá. Tuy nhiên, người đi cần tính giờ quay ra vì khu vực ghềnh đá không phù hợp di chuyển trong bóng tối. Nếu trời âm u hoặc có mưa, không nên cố chờ hoàng hôn.
+
+Giữa trưa không phải thời điểm lý tưởng vì nắng gắt, ít bóng râm, đá nóng và dễ mất nước. Nếu buộc phải đi khung giờ này, nên rút ngắn thời gian leo đá, mang đủ nước, đội mũ, dùng kem chống nắng và ưu tiên quan sát từ vị trí dễ tiếp cận.
+
+4. Mùa đẹp nhất và thời tiết
+
+Thời tiết ven biển Phù Mỹ chịu ảnh hưởng rõ của nắng, gió và mùa mưa miền Trung. Thời gian thuận lợi thường là những tháng khô ráo, biển tương đối êm, ánh sáng đẹp vào sáng sớm hoặc chiều muộn. Mùa mưa bão, những ngày có áp thấp, gió mạnh hoặc sóng lớn không phù hợp cho hoạt động trên ghềnh đá và không nên xuống nước. Trong ngày nắng gắt, khu vực ít bóng râm nên cần chuẩn bị mũ, nước uống, kem chống nắng và giày bám tốt.
+
+Mùa khô thường thuận lợi cho việc di chuyển, chụp ảnh, đi bộ trên đá và ngắm biển. Biển êm giúp màu nước xanh hơn, bãi cát dễ đi hơn và nguy cơ sóng bất ngờ thấp hơn. Dù vậy, ngay cả mùa khô vẫn có ngày gió mạnh, nên cần xem dự báo thời tiết, dự báo sóng và kinh nghiệm người dân địa phương.
+
+Mùa mưa bão miền Trung không phù hợp cho hoạt động leo ghềnh đá, vào hang hoặc tắm biển. Sóng lớn có thể tạo cảnh rất ấn tượng nhưng chỉ nên quan sát từ vị trí xa và an toàn. Không nên đánh đổi an toàn để chụp ảnh ở mép đá, nhất là khi gió mạnh hoặc sóng đánh cao.
+
+Một số nguồn trải nghiệm nhắc đến lướt ván hoặc sóng mùa đông ở khu vực này. Đây là hoạt động dành cho người có kinh nghiệm hoặc đi cùng nhóm chuyên môn, không phải gợi ý phổ thông cho mọi du khách. Chatbot cần cảnh báo rõ rằng hoạt động thể thao biển phải dựa vào điều kiện thời tiết, kỹ năng cá nhân và hỗ trợ an toàn.
+
+5. Cao điểm, thấp điểm và dịp lễ
+
+Mũi Vi Rồng có thể đông hơn vào cuối tuần, kỳ nghỉ hè, dịp lễ và khi có bài viết hoặc hình ảnh lan truyền trên mạng xã hội. Dù chưa đông như các điểm nổi tiếng sát Quy Nhơn, không gian ghềnh đá hẹp khiến chỉ cần một vài nhóm cùng đến cũng có thể tạo cảm giác chật ở các góc chụp đẹp.
+
+Thấp điểm thường là ngày thường hoặc thời gian thời tiết không quá thuận lợi. Khi vắng khách, trải nghiệm có thể yên tĩnh hơn nhưng cũng cần chú ý an toàn vì ít người hỗ trợ nếu có sự cố. Đi nhóm ít nhất hai đến ba người sẽ phù hợp hơn đi một mình.
+
+Vào mùa lễ hội làng biển hoặc lễ cầu ngư, không khí địa phương có thể sinh động hơn, nhưng đường đi và dịch vụ có thể thay đổi. Nếu muốn tìm hiểu lễ hội, nên hỏi lịch âm, lịch tổ chức cụ thể và quy tắc ứng xử tại cộng đồng. Không nên tự ý quay chụp nghi lễ nhạy cảm nếu chưa được đồng ý.
+
+6. Cách kiểm tra thông tin cập nhật
+
+Trước chuyến đi, du khách nên kiểm tra ba nhóm thông tin: thời tiết và sóng biển; tình trạng đường và bản đồ; dịch vụ địa phương như gửi xe, ăn uống, thuyền hoặc hướng dẫn. Nguồn kiểm tra có thể là cổng thông tin du lịch địa phương, bài cập nhật báo chí, đơn vị tour, nơi lưu trú ở Quy Nhơn hoặc người dân tại Tân Phụng.
+
+Không nên chỉ dựa vào một bài review cũ vì Mũi Vi Rồng là điểm đang thay đổi theo tốc độ du lịch cộng đồng. Một bài viết có thể đúng ở thời điểm đăng nhưng chưa chắc đúng về giá, đường, dịch vụ hoặc mức độ đông khách hiện tại. Với chatbot, mỗi câu trả lời về vận hành nên có câu chốt: thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nếu người dùng hỏi 'có mở cửa hôm nay không' hoặc 'giá vé hiện tại bao nhiêu', chatbot nên trả lời thận trọng và hướng dẫn họ kiểm tra trực tiếp thay vì khẳng định. Đây là nguyên tắc quan trọng khi xây dựng dữ liệu RAG cho các địa điểm ngoài trời chưa có hệ thống quản lý tập trung.
+
+7. Các câu hỏi chatbot có thể trả lời từ file này
+
+Mũi Vi Rồng có mất vé không?
+
+Mũi Vi Rồng mở cửa mấy giờ?
+
+Nên đi Mũi Vi Rồng vào mùa nào?
+
+Đi Mũi Vi Rồng buổi sáng hay chiều đẹp hơn?
+
+Có nên đi Mũi Vi Rồng mùa mưa không?
+
+Thông tin giá dịch vụ ở Mũi Vi Rồng có chắc chắn không?
+
+8. Nguồn tham khảo
+
+Các nguồn dưới đây được dùng để đối chiếu thông tin nền, vị trí, hành chính, trải nghiệm và lưu ý. Thông tin giá vé, dịch vụ, giờ hoạt động, tour, phương tiện và tình trạng đường có thể thay đổi theo mùa, thời tiết hoặc cách quản lý tại địa phương; du khách cần kiểm tra lại trước khi đi.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá Mũi Vi Rồng, vẻ đẹp hoang sơ kỳ diệu của thiên nhiên Bình Định: https://vietnamtourism.gov.vn/post/37351
+
+TTXVN/VietnamPlus - Khám phá vẻ đẹp hoang sơ và kỳ bí của Mũi Vi Rồng: https://www.vietnamplus.vn/binh-dinh-kham-pha-ve-dep-hoang-so-va-ky-bi-cua-mui-vi-rong-post1037481.vnp
+
+Chính sách & Cuộc sống/TTXVN - Mũi Vi Rồng hút du khách bởi nét hoang sơ, kỳ bí: https://chinhsachcuocsong.vnanet.vn/mui-vi-rong-hut-du-khach-boi-net-hoang-so-ky-bi/60614.html
+
+Báo Gia Lai - Gia Lai xếp hạng thêm 2 di tích lịch sử cấp tỉnh: https://baogialai.com.vn/gia-lai-xep-hang-them-2-di-tich-lich-su-cap-tinh-post582965.html
+
+Cổng thông tin Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+VinWonders - Du lịch kỳ quan Mũi Vi Rồng, hướng dẫn đường đi và trải nghiệm: https://vinwonders.com/vi/wonderpedia/news/mui-vi-rong-binh-dinh/
+
+Traveloka - Mũi Vi Rồng, kiệt tác thiên nhiên: https://www.traveloka.com/vi-vn/explore/destination/mui-vi-rong/334861
+
+Dulichquynhon.blog - Mũi Vi Rồng Bình Định: đường đi, cảnh đẹp, ăn gì chơi gì: https://dulichquynhon.blog/dia-diem-du-lich/mui-vi-rong/
+
+9. Nguồn tham khảo cuối file
+
+Các nguồn đã dùng để đối chiếu và cập nhật dữ liệu. Thông tin giá vé, giờ hoạt động, dịch vụ, đường đi, lễ hội và điều kiện thời tiết là thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá Mũi Vi Rồng, vẻ đẹp hoang sơ kỳ diệu của thiên nhiên Bình Định: https://vietnamtourism.gov.vn/post/37351
+
+TTXVN/VietnamPlus - Khám phá vẻ đẹp hoang sơ và kỳ bí của Mũi Vi Rồng: https://www.vietnamplus.vn/binh-dinh-kham-pha-ve-dep-hoang-so-va-ky-bi-cua-mui-vi-rong-post1037481.vnp
+
+Chính sách & Cuộc sống/TTXVN - Mũi Vi Rồng hút du khách bởi nét hoang sơ, kỳ bí: https://chinhsachcuocsong.vnanet.vn/mui-vi-rong-hut-du-khach-boi-net-hoang-so-ky-bi/60614.html
+
+Báo Gia Lai - Gia Lai xếp hạng thêm 2 di tích lịch sử cấp tỉnh: https://baogialai.com.vn/gia-lai-xep-hang-them-2-di-tich-lich-su-cap-tinh-post582965.html
+
+Cổng thông tin Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+VinWonders - Du lịch kỳ quan Mũi Vi Rồng, hướng dẫn đường đi và trải nghiệm: https://vinwonders.com/vi/wonderpedia/news/mui-vi-rong-binh-dinh/
+
+Traveloka - Mũi Vi Rồng, kiệt tác thiên nhiên: https://www.traveloka.com/vi-vn/explore/destination/mui-vi-rong/334861
+
+Dulichquynhon.blog - Mũi Vi Rồng Bình Định: đường đi, cảnh đẹp, ăn gì chơi gì: https://dulichquynhon.blog/dia-diem-du-lich/mui-vi-rong/

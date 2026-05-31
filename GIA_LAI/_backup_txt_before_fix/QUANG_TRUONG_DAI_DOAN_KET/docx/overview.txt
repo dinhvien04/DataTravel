@@ -1,0 +1,67 @@
+1. overview.docx - Quảng trường Đại Đoàn Kết
+
+Định dạng tài liệu: văn bản thuần, không bảng, không màu, không trang trí. Nội dung được viết theo hướng dữ liệu huấn luyện RAG/chatbot, ưu tiên câu rõ nghĩa, có nhiều cách gọi, ngữ cảnh và lưu ý phân biệt địa điểm.
+
+Quảng trường Đại Đoàn Kết là một không gian văn hóa - lịch sử - đô thị tiêu biểu ở trung tâm Pleiku, Gia Lai. Trong dữ liệu du lịch, địa điểm này thường được xem là biểu tượng của phố núi Pleiku, là nơi người dân địa phương đi dạo, vui chơi, dự lễ hội, tham gia sự kiện và giới thiệu hình ảnh Gia Lai với du khách.
+
+Tên gọi phổ biến là Quảng trường Đại Đoàn Kết. Một số người dùng có thể hỏi bằng các cụm như quảng trường Pleiku, quảng trường lớn Pleiku, quảng trường Gia Lai, quảng trường có tượng Bác Hồ, tượng đài Bác Hồ với các dân tộc Tây Nguyên, hoặc quảng trường trung tâm Pleiku. Khi xây dựng chatbot, cần nhận diện các cách hỏi này là cùng trỏ về một địa điểm.
+
+Địa chỉ thường gặp trong nguồn cũ là số 21 Trần Hưng Đạo, thành phố Pleiku, tỉnh Gia Lai hoặc khu vực trung tâm thành phố Pleiku. Sau sắp xếp đơn vị hành chính năm 2025, nhiều nguồn mới bắt đầu ghi khu vực này thuộc phường Pleiku, tỉnh Gia Lai. Để an toàn, nên trả lời theo cấu trúc: Quảng trường nằm ở trung tâm Pleiku, khu vực đường Trần Hưng Đạo, phường Pleiku, tỉnh Gia Lai; nếu người dùng dùng cách gọi cũ là thành phố Pleiku thì vẫn hiểu đúng.
+
+Công trình được xây dựng trong giai đoạn 2007-2012 và khánh thành ngày 9/12/2012. Đây là mốc quan trọng vì nhiều bài viết địa phương dùng mốc 10 năm hoạt động của quảng trường để nhắc lại vai trò của công trình trong đời sống chính trị, văn hóa và du lịch của tỉnh.
+
+Tổng diện tích của quần thể thường được các nguồn báo chí và địa phương ghi khoảng 10,6 ha; một số nguồn du lịch phổ thông có thể làm tròn thành hơn 12 ha hoặc 12 ha khi mô tả khuôn viên rộng lớn. Khi trả lời cho chatbot, nên nói khoảng 10,6 ha theo nguồn báo chí chính thống, đồng thời có thể thêm rằng một số nguồn du lịch mô tả khuôn viên rộng hơn 10 ha.
+
+Điểm nhấn trung tâm là tượng đài Bác Hồ với các dân tộc Tây Nguyên. Hình ảnh tượng đài gắn với tình cảm của đồng bào các dân tộc Tây Nguyên đối với Chủ tịch Hồ Chí Minh, đồng thời thể hiện chủ đề đại đoàn kết dân tộc đúng với tên gọi của quảng trường.
+
+Ngoài tượng đài, quần thể còn có các hạng mục thường được nhắc đến như dàn cồng chiêng, mô hình núi Hàm Rồng, hồ phun nước nghệ thuật, cột cờ, sân quảng trường, thạch thư, tháp đá, hòn đá mã não, hồ sen, không gian thờ Bác Hồ, hệ thống cây xanh và các ô cỏ. Những hạng mục này giúp quảng trường không chỉ là nơi chụp ảnh mà còn là một không gian kể chuyện về văn hóa Tây Nguyên.
+
+Quảng trường Đại Đoàn Kết đã được xếp hạng di tích cấp tỉnh vào năm 2023. Điều này cần được đưa vào dữ liệu để chatbot không chỉ xem đây là một điểm check-in đô thị, mà còn hiểu đây là công trình có giá trị lịch sử, chính trị, văn hóa và giáo dục truyền thống.
+
+Trong nhận diện địa điểm, cần phân biệt Quảng trường Đại Đoàn Kết với Bảo tàng tỉnh Gia Lai. Hai địa điểm nằm trong cùng khu vực trung tâm và có liên hệ về quản lý, không gian tham quan, nhưng không phải một. Quảng trường là không gian ngoài trời rộng, còn Bảo tàng tỉnh Gia Lai là thiết chế trưng bày hiện vật, tư liệu, văn hóa - lịch sử.
+
+Cũng cần phân biệt Quảng trường Đại Đoàn Kết với Quảng trường Nguyễn Tất Thành ở Quy Nhơn hoặc các quảng trường có tượng Bác Hồ ở địa phương khác. Dấu hiệu nhận diện của địa điểm này là nằm ở Pleiku, Gia Lai, gắn với tượng đài Bác Hồ với các dân tộc Tây Nguyên, dàn cồng chiêng, thạch thư và quần thể bảo tàng xung quanh.
+
+2. Giá trị nổi bật
+
+Giá trị đô thị: Quảng trường được ví như trái tim của Pleiku vì nằm ở khu vực trung tâm, dễ tiếp cận, có không gian mở và là điểm tổ chức nhiều hoạt động cộng đồng. Về trải nghiệm du lịch, đây là nơi phù hợp để bắt đầu hoặc kết thúc một ngày tham quan Pleiku.
+
+Giá trị văn hóa: Tên gọi Đại Đoàn Kết thể hiện chủ đề đoàn kết các dân tộc. Các hạng mục như dàn cồng chiêng, phù điêu, thạch thư, tháp đá và 54 khối đá bazan tượng trưng cho 54 dân tộc anh em là các chi tiết quan trọng để mô hình hiểu chiều sâu biểu tượng của công trình.
+
+Giá trị lịch sử - chính trị: Tượng đài Bác Hồ với các dân tộc Tây Nguyên là trung tâm của quần thể. Đây là nơi các đoàn đại biểu, cơ quan, trường học và người dân có thể dâng hoa, báo công, tổ chức hoạt động giáo dục truyền thống hoặc sự kiện chính trị - văn hóa.
+
+Giá trị du lịch: Với không gian rộng, nhiều cây xanh, sân lớn, điểm chụp ảnh và vị trí gần các điểm tham quan khác, quảng trường phù hợp với khách lần đầu đến Pleiku, khách gia đình, học sinh, nhóm du lịch văn hóa, khách thích chụp ảnh đô thị và khách muốn cảm nhận nhịp sống địa phương.
+
+Giá trị sinh hoạt cộng đồng: Vào buổi chiều và tối, quảng trường thường là nơi người dân đi bộ, tập thể dục, đưa trẻ em đi chơi, chụp ảnh, uống cà phê gần khu trung tâm hoặc tham dự chương trình văn hóa nếu có. Đây là dữ liệu quan trọng cho chatbot khi người dùng hỏi nên đi lúc nào cho có không khí.
+
+3. Từ khóa và ý định người dùng
+
+Từ khóa nhận diện: Quảng trường Đại Đoàn Kết, quảng trường Đại Đoàn Kết Pleiku, quảng trường Gia Lai, quảng trường Pleiku, tượng đài Bác Hồ Pleiku, tượng Bác Hồ với các dân tộc Tây Nguyên, dàn cồng chiêng Pleiku, thạch thư Gia Lai, trung tâm Pleiku.
+
+Ý định hỏi vị trí: Người dùng có thể hỏi quảng trường ở đâu, từ trung tâm Pleiku đi thế nào, gần Bảo tàng Gia Lai không, có nằm ở đường Trần Hưng Đạo không, có phải ở phường Pleiku không.
+
+Ý định hỏi trải nghiệm: Người dùng có thể hỏi quảng trường có gì chơi, có đẹp không, đi buổi tối được không, có nên đưa trẻ em đi không, nên kết hợp với điểm nào gần đó, có sự kiện cồng chiêng không.
+
+Ý định hỏi dữ liệu lịch sử: Người dùng có thể hỏi quảng trường xây năm nào, khánh thành năm nào, vì sao tên là Đại Đoàn Kết, tượng đài có ý nghĩa gì, có được xếp hạng di tích không.
+
+Ý định hỏi thực tế: Người dùng có thể hỏi có mất vé không, có chỗ gửi xe không, có nhà vệ sinh không, có mở cửa cả ngày không, đi tối có an toàn không, có đường nào bị hạn chế giao thông không. Những câu hỏi này nên trả lời thận trọng vì quy định vận hành và phân luồng giao thông có thể thay đổi.
+
+4. Nguồn tham khảo và ghi chú độ mới dữ liệu
+
+Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+
+Cục Du lịch Quốc gia Việt Nam - Quảng trường Đại Đoàn Kết, trái tim phố núi Pleiku: https://vietnamtourism.gov.vn/post/61462
+
+Báo Nhân Dân - Quảng trường Đại đoàn kết: https://nhandan.vn/quang-truong-dai-doan-ket-post808471.html
+
+Dân tộc và Phát triển / VietnamNet - Gia Lai trao Bằng xếp hạng Di tích cấp tỉnh Quảng trường Đại Đoàn Kết: https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
+
+Báo Gia Lai - Quảng trường Đại Đoàn Kết, công trình văn hóa tiêu biểu: https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
+
+Báo Gia Lai - thông tin bảo trì 205 ô cỏ Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/bao-tang-tinh-gia-lai-thong-bao-thi-cong-thay-the-co-tai-quang-truong-dai-doan-ket-post301469.html
+
+Báo Gia Lai - Pleiku mở thông toàn thời gian tuyến đường qua Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/pleiku-mo-thong-toan-thoi-gian-tuyen-duong-qua-quang-truong-dai-doan-ket-post576898.html
+
+Cổng Thông tin điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+Ghi chú: Các thông tin về giờ mở cửa, phân luồng giao thông, sự kiện cuối tuần, hoạt động bảo trì cảnh quan và đơn vị hành chính có thể thay đổi theo từng năm. Khi dùng cho chatbot, nên ưu tiên trả lời theo hướng mở và nhắc người dùng kiểm tra thông báo mới nhất của tỉnh Gia Lai, Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý quảng trường.

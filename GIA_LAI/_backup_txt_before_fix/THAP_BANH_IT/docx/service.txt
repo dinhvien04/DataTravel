@@ -1,0 +1,67 @@
+1. service.docx - Dịch vụ tại và quanh Tháp Bánh Ít Quy Nhơn
+
+Bộ dữ liệu này được biên soạn cho mục đích huấn luyện hệ thống RAG/chatbot du lịch về Tháp Bánh Ít. Nội dung ưu tiên cách viết rõ ràng, nhiều ngữ cảnh, có nhắc tên gọi cũ và tên gọi mới để mô hình có thể nhận diện tốt khi người dùng hỏi bằng nhiều cách khác nhau. Các thông tin giá vé, giờ mở cửa, địa chỉ hành chính và dịch vụ có thể thay đổi theo thời điểm, vì vậy nên kiểm tra lại nguồn chính thức trước khi dùng cho câu trả lời vận hành thực tế.
+
+Tài liệu này mô tả các dịch vụ có thể sử dụng khi tham quan Tháp Bánh Ít. Vì đây là di tích văn hóa chứ không phải khu du lịch giải trí lớn, dữ liệu cần giúp chatbot trả lời đúng kỳ vọng: dịch vụ cơ bản có thể có, nhưng không nên quảng bá như điểm có nhiều tiện ích cao cấp.
+
+2. Dịch vụ tại địa điểm
+
+Dịch vụ cơ bản tại Tháp Bánh Ít thường xoay quanh vé tham quan, khu gửi xe, lối đi, không gian tham quan, bảng thông tin hoặc thuyết minh nếu có. Du khách nên chuẩn bị tinh thần rằng đây là điểm di tích ngoài trời, không phải trung tâm thương mại hay khu vui chơi khép kín.
+
+Nếu đi đoàn, có thể cần liên hệ trước với đơn vị lữ hành, hướng dẫn viên hoặc cơ quan quản lý điểm đến để sắp xếp thuyết minh. Hướng dẫn viên có vai trò quan trọng vì giúp giải thích chức năng từng tháp, nguồn gốc tên gọi, niên đại, phong cách kiến trúc và ý nghĩa biểu tượng Chăm Pa.
+
+Một số thời điểm địa phương có thể tổ chức chương trình biểu diễn nghệ thuật dân gian Chăm hoặc hoạt động văn hóa tại các tháp Chăm ở Bình Định cũ. Tuy nhiên đây không phải hoạt động thường trực hằng ngày. Chatbot cần diễn đạt rõ: nếu muốn xem biểu diễn, du khách phải kiểm tra lịch sự kiện cụ thể.
+
+3. Ăn uống
+
+Ngay trong khu di tích, lựa chọn ăn uống có thể hạn chế. Du khách nên chuẩn bị nước uống cá nhân, đặc biệt nếu đi vào mùa khô hoặc giữa ngày. Nếu có quầy nước nhỏ, giá và mặt hàng có thể thay đổi; không nên phụ thuộc hoàn toàn vào dịch vụ tại điểm.
+
+Sau khi tham quan, du khách có thể ăn tại khu vực Tuy Phước, Diêu Trì, An Nhơn hoặc quay về Quy Nhơn. Nếu đi theo tuyến nửa ngày, có thể ăn sáng trước khi đi hoặc ăn trưa sau khi kết thúc lịch trình. Với đoàn đông, nên đặt quán trước để tránh chờ lâu.
+
+Các món có thể gợi ý khi ở vùng Bình Định cũ gồm bánh ít lá gai, bánh hỏi lòng heo, nem chợ Huyện, bánh xèo tôm nhảy, bún chả cá Quy Nhơn, tré, rượu Bàu Đá và các món ăn dân dã địa phương. Tuy nhiên, chatbot nên nói đây là đặc sản vùng lân cận, không nhất thiết bán ngay trong khu tháp.
+
+4. Đặc sản địa phương
+
+Bánh ít lá gai là đặc sản có liên hệ thú vị với tên gọi Tháp Bánh Ít. Dù tên tháp xuất phát từ dáng tháp gợi hình chiếc bánh ít, du khách có thể kết hợp mua hoặc thưởng thức bánh ít lá gai khi đi qua các khu vực bán đặc sản Bình Định. Đây là gợi ý tốt cho nội dung chatbot khi người dùng hỏi “đi Tháp Bánh Ít mua gì”.
+
+Nem chợ Huyện là đặc sản nổi tiếng của vùng Tuy Phước. Nếu lịch trình đi qua khu vực này, du khách có thể tìm mua nem, tré hoặc các món quà địa phương. Cần nhắc người dùng chọn cơ sở uy tín, chú ý bảo quản nếu mang đi xa hoặc lên máy bay.
+
+Rượu Bàu Đá là đặc sản truyền thống của Bình Định, phù hợp làm quà cho người trưởng thành nhưng không phù hợp cho trẻ em hoặc người không dùng đồ uống có cồn. Chatbot nên tránh khuyến nghị quá mức và chỉ giới thiệu như một đặc sản địa phương nếu người dùng hỏi về quà mang về.
+
+5. Lưu trú và khách sạn
+
+Phần lớn du khách tham quan Tháp Bánh Ít sẽ lưu trú tại trung tâm Quy Nhơn, khu biển Xuân Diệu, khu quảng trường Nguyễn Tất Thành, khu Ghềnh Ráng hoặc các khách sạn gần trung tâm. Từ Quy Nhơn đi Tháp Bánh Ít không quá xa, nên không cần thiết phải lưu trú ngay cạnh di tích nếu mục đích chính là du lịch biển kết hợp văn hóa.
+
+Nếu lịch trình tập trung vào Tuy Phước, An Nhơn, sân bay Phù Cát hoặc các điểm di sản Chăm, du khách có thể chọn lưu trú gần ga Diêu Trì, khu An Nhơn hoặc khu gần sân bay tùy nhu cầu. Tuy nhiên, lựa chọn dịch vụ lưu trú ở các khu này thường ít phong phú hơn trung tâm Quy Nhơn.
+
+Với khách bay đến Quy Nhơn, phương án phổ biến là đặt khách sạn trong thành phố, thuê xe hoặc taxi đi Tháp Bánh Ít trong nửa ngày. Cách này giúp dễ kết hợp ăn uống, biển, chợ đêm, quảng trường, Ghềnh Ráng và các điểm trung tâm khác.
+
+6. Tiện ích hỗ trợ
+
+Tiện ích cần kiểm tra gồm bãi gửi xe, nhà vệ sinh, điểm bán vé, bảng chỉ dẫn, chỗ nghỉ chân và bóng râm. Vì điều kiện thực tế có thể thay đổi theo thời điểm tu bổ hoặc vận hành, chatbot không nên khẳng định quá cụ thể nếu không có dữ liệu mới. Nên dùng cách diễn đạt “thường có các tiện ích cơ bản” hoặc “nên chuẩn bị thêm”.
+
+Wifi công cộng không phải tiện ích nên kỳ vọng tại điểm di tích. Du khách nên chuẩn bị dữ liệu di động để tra bản đồ, gọi xe hoặc liên hệ người đi cùng. Nếu đi theo đoàn, nên hẹn trước điểm tập trung vì khu vực đồi có thể làm tầm nhìn khuất ở một số đoạn.
+
+Khả năng tiếp cận cho xe lăn hoặc người hạn chế vận động có thể không thuận tiện do địa hình đồi, bậc thang và lối đi ngoài trời. Nếu người dùng hỏi có phù hợp với người lớn tuổi không, nên trả lời rằng vẫn có thể đi nếu sức khỏe ổn, nhưng cần đi chậm, tránh nắng và không bắt buộc phải leo hết tất cả khu vực.
+
+7. Dịch vụ tour và hướng dẫn viên
+
+Các công ty du lịch tại Quy Nhơn có thể đưa Tháp Bánh Ít vào tour văn hóa hoặc tour city/tour ngoại ô. Lợi ích của tour là có xe đưa đón, hướng dẫn viên, lịch trình sẵn và giải thích lịch sử. Nhược điểm là thời gian tại điểm có thể ngắn nếu tour ghép nhiều địa điểm.
+
+Nếu người dùng quan tâm sâu về kiến trúc Chăm, nên chọn tour riêng hoặc hướng dẫn viên có hiểu biết về lịch sử địa phương. Với nhóm học sinh, sinh viên hoặc đoàn nghiên cứu, nên chuẩn bị câu hỏi trước để khai thác tốt hơn phần thuyết minh.
+
+8. Nguồn tham khảo
+
+Vietnam Airlines - Tháp Bánh Ít: biểu tượng văn hóa và lịch sử của Bình Định: https://www.vietnamairlines.com/cn/vi/plan-book/travel/travel-guide/thap-banh-it
+
+Cổng thông tin du lịch Quy Nhơn - Tháp Bánh Ít / Tháp Bạc: https://dulichquynhon.binhdinh.gov.vn/vi/thapbanhit
+
+Cổng thông tin du lịch Quy Nhơn - lịch trình có Tháp Bánh Ít: https://dulichquynhon.binhdinh.gov.vn/vi/tourdetail/?tourid=8023
+
+Cục Du lịch Quốc gia Việt Nam - Diện mạo mới ở tháp Bánh Ít, Bình Định: https://vietnamtourism.gov.vn/post/47044
+
+Vinpearl - Tháp Bánh Ít, dấu ấn của vương triều Chăm Pa: https://vinpearl.com/vi/thap-banh-it-dau-an-cua-vuong-trieu-cham-pa-hung-manh
+
+Cổng thông tin tỉnh Gia Lai - đơn vị hành chính xã Tuy Phước Bắc: https://gialai.gov.vn/don-vi-hanh-chinh/xa-tuy-phuoc-bac.html
+
+Ghi chú cập nhật: giá vé, lịch mở cửa, dịch vụ hướng dẫn, chương trình biểu diễn và tình trạng bảo tồn có thể thay đổi. Khi triển khai chatbot công khai, nên đối soát lại với điểm bán vé, ban quản lý di tích hoặc cổng thông tin địa phương vào thời điểm trả lời.

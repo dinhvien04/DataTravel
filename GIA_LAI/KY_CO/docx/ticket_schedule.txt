@@ -1,0 +1,75 @@
+Tài liệu này phục vụ các câu hỏi về giá vé, giờ mở cửa, thời điểm nên đi, mùa đẹp nhất và thông tin thời tiết khi tham quan Kỳ Co. Đây là nhóm dữ liệu cần ghi chú tính cập nhật cao vì giá vé, vé cano, dịch vụ trò chơi biển, giờ vận hành và tình trạng mở cửa có thể thay đổi theo mùa, thời tiết, ngày lễ hoặc đơn vị khai thác.
+
+Khi chatbot trả lời về giá, nên dùng cụm “tham khảo”, “có thể thay đổi”, “nên xác nhận lại với khu du lịch hoặc đơn vị tour trước khi đi”. Không nên trả lời như một bảng giá cố định vĩnh viễn.
+
+1. Giá vé vào Kỳ Co
+
+Một số nguồn du lịch và hãng vận chuyển ghi vé tham quan Kỳ Co khoảng 120.000 đồng/người lớn hoặc trẻ em trên 1,2 m, trẻ em từ 0,8 m đến 1,2 m khoảng 60.000 đồng/lượt. Một số bài viết khác ghi mức 100.000 đồng/người tùy thời điểm cập nhật. Vì có sự khác biệt giữa nguồn và thời gian cập nhật, dữ liệu nên lưu theo dạng khoảng tham khảo và ghi rõ cần kiểm tra lại.
+
+Câu trả lời an toàn cho chatbot: “Giá vé vào khu du lịch Kỳ Co thường được các nguồn du lịch ghi khoảng 100.000-120.000 đồng/người lớn; trẻ em có thể được tính mức thấp hơn tùy chiều cao. Giá có thể thay đổi, vì vậy nên xác nhận lại trước ngày đi.”
+
+2. Giá cano và tour ghép
+
+Vé cano khứ hồi từ Nhơn Lý ra Kỳ Co thường được bán riêng hoặc nằm trong combo. Các nguồn tour địa phương ghi mức tham khảo khoảng 190.000-300.000 đồng cho vé cano khứ hồi tùy chương trình, hoặc combo cano + lặn ngắm san hô + ăn trưa khoảng 250.000-480.000 đồng ở một số chương trình khuyến mại. Một số bài viết khác ghi tour trọn gói Kỳ Co - Eo Gió một ngày khoảng 300.000-350.000 đồng hoặc cao hơn tùy dịch vụ, bữa ăn, xe đưa đón và hướng dẫn viên.
+
+Vì thị trường tour thay đổi nhanh, chatbot nên trả lời theo nhu cầu. Nếu người dùng hỏi “đi tự túc hết bao nhiêu”, nên tách chi phí thành vé vào cổng, cano, ăn uống, di chuyển từ Quy Nhơn và dịch vụ phát sinh. Nếu hỏi “tour trọn gói bao nhiêu”, nên nói mức giá phụ thuộc nhà tour và gói dịch vụ, thường gồm xe đưa đón, cano, vé tham quan, lặn san hô và bữa trưa.
+
+3. Giá dịch vụ đi kèm
+
+Các dịch vụ đi kèm tại Kỳ Co và tuyến Kỳ Co - Bãi Dứa có thể gồm lặn snorkeling, lặn có bình, mô tô nước, phao chuối, dù bay, kayak/SUP, quay phim dưới nước, thuê chòi nghỉ, tắm tráng nước ngọt, thuê phao hoặc dịch vụ chụp ảnh. Một nguồn du lịch Kỳ Co từng ghi các mức tham khảo như mô tô nước tính theo 10-20 phút, phao chuối tính theo người, dù bay tính theo vòng, kayak tính theo giờ, snorkeling và lặn ngắm san hô có giá riêng.
+
+Những mức này cần xem là dữ liệu tham khảo, không phải bảng giá chính thức cố định. Đối với chatbot, nên trả lời: “Kỳ Co có nhiều dịch vụ biển tính phí riêng như mô tô nước, phao chuối, kayak/SUP, dù bay, snorkeling hoặc chụp ảnh; giá thay đổi theo thời điểm và nhà cung cấp.”
+
+4. Giờ mở cửa và thời gian vận hành
+
+Một số đơn vị bán vé ghi thời gian mở cửa khu cano hoặc dịch vụ tham quan Kỳ Co khoảng 07:00-17:30. Tuy nhiên, với điểm du lịch biển phụ thuộc cano, giờ thực tế còn phụ thuộc thời tiết, thủy triều, sóng, lịch tàu/cano và quy định vận hành trong ngày. Không nên trả lời rằng Kỳ Co luôn hoạt động cả ngày mà không có điều kiện.
+
+Khung thời gian tham quan hợp lý nhất là buổi sáng đến đầu giờ chiều. Nếu đi tour một ngày, lịch thường bắt đầu khoảng 7:00-8:00 từ Quy Nhơn, ra Kỳ Co buổi sáng, ăn trưa ở Nhơn Lý hoặc nhà hàng ven biển, sau đó đi Eo Gió hoặc Tịnh xá Ngọc Hòa buổi chiều.
+
+5. Thời điểm nên tham quan
+
+Thời điểm trong ngày phù hợp nhất là sáng sớm hoặc buổi sáng. Lúc này nắng chưa quá gắt, biển thường đẹp hơn, thời gian chụp ảnh và tắm biển thoải mái hơn. Buổi trưa nắng mạnh, cát và đá nóng, nên cần mũ, áo chống nắng, nước uống và kem chống nắng. Buổi chiều có thể phù hợp chụp ảnh nhẹ, nhưng cần xem giờ cano quay về và điều kiện sóng.
+
+Nếu mục đích là chụp ảnh, nên tránh giờ trưa nắng gắt vì ảnh dễ bị cháy sáng và người dễ mệt. Nếu mục đích là tắm biển và lặn san hô, nên đi khi biển êm, nước trong và có nắng. Nếu mục đích là kết hợp Eo Gió, nên đi Kỳ Co buổi sáng rồi Eo Gió buổi chiều, hoặc ngược lại tùy tour và hướng ánh sáng.
+
+6. Mùa đẹp nhất
+
+Mùa đẹp nhất để đi Kỳ Co thường được các nguồn du lịch ghi từ tháng 3 đến tháng 9 hoặc tháng 4 đến tháng 9. Đây là giai đoạn mùa khô ở Quy Nhơn, nắng nhiều, biển xanh và xác suất biển êm cao hơn. Trong các tháng hè, Kỳ Co rất đông khách, đặc biệt vào cuối tuần, lễ 30/4, 1/5 và kỳ nghỉ hè.
+
+Mùa mưa bão, thường khoảng tháng 10 đến tháng 12, không phải thời điểm lý tưởng cho hoạt động cano, tắm biển và lặn san hô. Thời tiết có thể thay đổi nhanh, biển động, nước đục hoặc cano tạm ngừng. Tuy nhiên, điều kiện từng năm khác nhau, vì vậy cần kiểm tra dự báo gần ngày đi thay vì chỉ dựa trên tháng.
+
+7. Thông tin thời tiết
+
+Kỳ Co là điểm du lịch biển ngoài trời nên chịu ảnh hưởng mạnh của nắng, gió, sóng và mưa. Thời tiết đẹp cho Kỳ Co thường gồm trời nắng hoặc ít mây, gió nhẹ đến vừa, biển êm, không có cảnh báo mưa dông. Thời tiết xấu gồm mưa lớn, dông sét, gió mạnh, biển động, sóng cao hoặc áp thấp/bão.
+
+Khi chatbot trả lời câu hỏi “mai đi Kỳ Co được không”, cần dùng dữ liệu thời tiết hiện tại nếu có công cụ cập nhật. Nếu không có dữ liệu thời tiết thời gian thực, chỉ nên trả lời theo kinh nghiệm mùa và khuyên người dùng kiểm tra dự báo biển, liên hệ đơn vị cano/khu du lịch trước khi xuất phát.
+
+8. Mức độ đông khách
+
+Kỳ Co thường đông khách vào mùa hè, cuối tuần, dịp lễ, Tết và các kỳ nghỉ dài. Vào những ngày cao điểm, bến cano, bãi tắm, khu chụp ảnh và nhà hàng ở Nhơn Lý có thể đông. Điều này ảnh hưởng đến trải nghiệm tắm biển, chụp ảnh, chờ cano và ăn trưa.
+
+Khách muốn yên tĩnh nên đi ngày thường, đi sớm và tránh khung giờ đoàn tour lớn đổ về. Khách muốn có ảnh đẹp ít người nên ưu tiên chuyến cano đầu ngày hoặc chọn góc chụp xa khu trung tâm bãi.
+
+9. Cách trả lời an toàn về giá và lịch
+
+Các câu trả lời nên có cấu trúc: nêu mức tham khảo, giải thích yếu tố thay đổi và khuyến nghị xác nhận lại. Ví dụ: “Giá vé vào Kỳ Co thường được ghi khoảng 100.000-120.000 đồng/người lớn, cano khứ hồi hoặc combo có thể dao động theo nhà tour. Bạn nên kiểm tra lại giá trong ngày đi vì giá thay đổi theo mùa, thời tiết và gói dịch vụ.”
+
+Không nên trả lời: “Giá vé Kỳ Co chắc chắn là X đồng” nếu không có nguồn cập nhật trực tiếp từ khu du lịch trong ngày. Với các câu hỏi có yếu tố thời gian như “hôm nay có mở không”, cần nhắc kiểm tra fanpage/hotline/đơn vị tour do cano phụ thuộc thời tiết.
+
+10. Nguồn tham khảo
+
+1. Vietnam National Authority of Tourism - Kỳ Co - vẻ đẹp hoang sơ làm say lòng người: https://vietnamtourism.gov.vn/post/26753
+
+2. Cổng thông tin điện tử tỉnh Gia Lai - Biển Kỳ Co: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/bien-ky-co.html
+
+3. Quy Nhơn Tourist - Vé cano tham quan Kỳ Co: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-cano-tham-quan-ky-co/
+
+4. Bamboo Airways - Kinh nghiệm du lịch Kỳ Co Eo Gió tự túc: https://www.bambooairways.com/th/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ky-co-eo-gio
+
+5. Du lịch Quy Nhơn Blog - Kỳ Co Quy Nhơn kinh nghiệm du lịch: https://dulichquynhon.blog/dia-diem-du-lich/ky-co/
+
+6. Du lịch Kỳ Co - Bảng giá tour và dịch vụ vui chơi Kỳ Co: https://dulichkyco.vn/bang-gia-tour-ky-co-moi-nhat/
+
+7. Quy Nhơn Tourist - Làng chài Nhơn Lý: https://quynhontourist.com/lang-chai-nhon-ly/
+
+8. Cổng thông tin điện tử Gia Lai - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

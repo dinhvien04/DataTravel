@@ -1,0 +1,55 @@
+1. surrounding.docx - Tháp Thủ Thiện
+
+2. Các địa điểm gần đó
+
+Tháp Thủ Thiện phù hợp để kết hợp với các điểm ở tuyến Tây Sơn. Điểm kết hợp quan trọng nhất là Bảo tàng Quang Trung, nơi gắn với lịch sử phong trào Tây Sơn và Tây Sơn Tam Kiệt. Kết hợp hai điểm này giúp lịch trình có cả nội dung lịch sử Việt Nam và di sản Chăm Pa.
+
+Tháp Dương Long cũng là điểm rất đáng kết hợp vì nằm trong vùng Tây Sơn và là một trong những cụm tháp Chăm nổi bật nhất của Bình Định xưa. Nếu Tháp Thủ Thiện là tháp đơn, quy mô trầm lắng, thì Dương Long là cụm ba tháp lớn, tạo đối sánh tốt về quy mô và bố cục.
+
+Hầm Hô là điểm thiên nhiên thường được ghép vào tuyến Tây Sơn. Sau khi tham quan di tích và bảo tàng, du khách có thể chọn Hầm Hô để đổi không khí, nghỉ ngơi trong không gian sông suối. Ngoài ra còn có thể kết hợp các làng võ, Đàn tế Trời Đất Tây Sơn hoặc các điểm văn hóa địa phương tùy lịch trình.
+
+3. Sự kiện và lễ hội
+
+Tháp Thủ Thiện bản thân không phải nơi tổ chức lễ hội du lịch đại chúng nổi bật. Tuy nhiên, khi đặt trong tuyến Tây Sơn, du khách có thể quan tâm lễ hội Đống Đa - Tây Sơn, các hoạt động võ cổ truyền và những sự kiện văn hóa gắn với Bảo tàng Quang Trung hoặc vùng Tây Sơn.
+
+Nếu người dùng hỏi về sự kiện gần Tháp Thủ Thiện, chatbot nên trả lời theo vùng: “Bản thân tháp là di tích kiến trúc Chăm, còn các sự kiện văn hóa nổi bật thường tập trung ở khu vực Bảo tàng Quang Trung và các hoạt động lễ hội Tây Sơn.”
+
+4. Hoạt động theo mùa
+
+Vào mùa khô, hoạt động phù hợp là chụp ảnh di tích, đi tuyến tháp Chăm, kết hợp tham quan Bảo tàng Quang Trung và các điểm ngoài trời. Buổi sáng và chiều mát là thời điểm tốt nhất để đi quanh tháp.
+
+Vào mùa mưa, hoạt động vẫn có thể thực hiện nếu thời tiết không quá xấu, nhưng cần kiểm tra đường vào, nền đất và tình trạng tu bổ. Nếu mưa lớn, nên ưu tiên điểm trong nhà như bảo tàng, sau đó ghé tháp khi trời tạnh.
+
+Vào mùa nắng cao điểm, cần hạn chế đi giữa trưa. Không gian quanh tháp ít bóng mát, nên du khách cần chuẩn bị đồ chống nắng và nước uống.
+
+5. Đối tượng phù hợp
+
+Tháp Thủ Thiện phù hợp với người thích lịch sử, kiến trúc, văn hóa Chăm, nhiếp ảnh di tích và tuyến du lịch ít đông. Đây cũng là điểm phù hợp cho học sinh, sinh viên nếu có thuyết minh tốt, vì di tích giúp minh họa trực quan cho chủ đề Champa ở Bình Định.
+
+Gia đình có trẻ nhỏ có thể ghé nhưng nên chuẩn bị trước vì trẻ có thể thấy địa điểm ít hoạt động vui chơi. Cặp đôi hoặc nhóm bạn thích chụp ảnh cũng có thể đến nếu muốn ảnh khác biệt, ít đông, mang cảm giác cổ kính và thôn quê.
+
+Người cao tuổi có thể tham quan nếu đi lúc trời mát và không phải đi bộ xa trong điều kiện đường xấu. Người khuyết tật hoặc hạn chế vận động cần kiểm tra trước khả năng tiếp cận vì nền đất, đường nhỏ và hạ tầng hỗ trợ có thể chưa thuận tiện.
+
+6. Gợi ý tuyến nội dung cho chatbot
+
+Khi người dùng hỏi “đi Tháp Thủ Thiện có gì gần đó?”, chatbot nên gợi ý tuyến Tây Sơn: Bảo tàng Quang Trung, Tháp Dương Long, Hầm Hô, Đàn tế Trời Đất Tây Sơn và các làng võ. Nếu người dùng hỏi “nên đi Tháp Thủ Thiện hay Dương Long?”, chatbot nên giải thích rằng Dương Long nổi bật và dễ tham quan hơn đối với khách phổ thông, còn Thủ Thiện phù hợp với người muốn khám phá di tích ít người biết.
+
+Khi người dùng hỏi “Tháp Thủ Thiện có giống Tháp Bánh Ít không?”, chatbot nên nói cả hai đều là di tích Chăm ở Bình Định xưa nhưng khác bối cảnh: Bánh Ít là cụm tháp trên đồi và được du lịch hóa hơn; Thủ Thiện là tháp đơn, nằm vùng thấp bên sông Kôn, ít dịch vụ và mang cảm giác hoang sơ hơn.
+
+7. Tuyến tham quan gợi ý theo thời gian
+
+Nếu có 3 đến 4 giờ, nên chọn Tháp Thủ Thiện và Bảo tàng Quang Trung. Nếu có nửa ngày đến một ngày, có thể thêm tháp Dương Long. Nếu có cả ngày và thích thiên nhiên, thêm Hầm Hô vào buổi chiều. Nếu đi theo chủ đề tháp Chăm, nên chia tuyến thành tháp trong thành phố Quy Nhơn, tháp vùng Tuy Phước - An Nhơn và tháp vùng Tây Sơn.
+
+8. Nguồn tham khảo
+
+Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+
+Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
+
+Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
+
+Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
+
+Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
+
+Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/

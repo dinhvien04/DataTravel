@@ -1,0 +1,75 @@
+1. Dịch vụ tại địa điểm
+
+Dịch vụ ở Bãi Xép phát triển theo mô hình làng chài du lịch: quán ăn, quán nước, homestay, nhà nghỉ, resort lân cận, dịch vụ gửi xe, tắm nước ngọt, thuê ghế hoặc ô, thuyền nhỏ, kayak hoặc trải nghiệm biển tùy thời điểm. Không phải mọi dịch vụ đều cố định như khu du lịch lớn, vì vậy chatbot nên dùng ngôn ngữ "có thể có", "nên hỏi trước", "tùy mùa và đơn vị khai thác".
+
+Các dịch vụ cơ bản phục vụ khách ghé trong ngày gồm ăn uống, nước giải khát, gửi xe, chỗ nghỉ tạm, nhà vệ sinh hoặc tắm nước ngọt tại một số quán/cơ sở. Dịch vụ dành cho khách lưu trú gồm phòng nghỉ, ăn sáng, đặt xe, hỗ trợ tour hoặc giới thiệu điểm ăn. Mức độ tiện nghi khác nhau rất lớn giữa homestay bình dân và resort cao cấp.
+
+Vì là khu dân cư sát biển, du khách không nên kỳ vọng hệ thống tiện ích đồng nhất như công viên du lịch. Một số ngõ nhỏ có thể không có biển chỉ dẫn rõ. Nên hỏi người dân, quán ăn hoặc nơi lưu trú để biết nhà vệ sinh, điểm thay đồ, chỗ gửi xe và lối ra bãi phù hợp.
+
+2. Ăn uống và đặc sản địa phương
+
+Ẩm thực quan trọng nhất ở Bãi Xép là hải sản. Du khách có thể tìm các món cá, tôm, mực, ốc, ghẹ hoặc các loại hải sản trong ngày tùy mùa. Nên chọn quán có niêm yết hoặc thông báo giá rõ, hỏi trước giá theo phần hoặc theo kilogram, hỏi phí chế biến nếu tự chọn hải sản. Nếu đi nhóm đông, đặt trước sẽ chủ động hơn.
+
+Ngoài hải sản, có thể kết hợp đặc sản Quy Nhơn như bánh xèo tôm nhảy, bún chả cá, bún tôm, bánh hỏi lòng heo, nem chợ Huyện, tré, mắm nhum, các món cuốn và nước rong biển nếu gặp nơi bán. Cổng thông tin du lịch địa phương cũng nhắc đến rong biển ở Bãi Xếp như một đặc sản của làng chài, thường được phơi khô và dùng nấu nước mát hoặc chè.
+
+Nếu du khách có trẻ em, người lớn tuổi hoặc người dị ứng hải sản, nên hỏi kỹ nguyên liệu. Các quán nhỏ có thể không có thực đơn tiếng Anh hoặc không ghi đầy đủ thành phần. Khách quốc tế nên nhờ người địa phương hoặc nơi lưu trú hỗ trợ gọi món nếu cần tránh dị ứng.
+
+3. Lưu trú gần Bãi Xép
+
+Cổng thông tin Du lịch Quy Nhơn ghi Bãi Xếp có loại hình lưu trú đa dạng từ homestay đến resort cao cấp. Đây là điểm mạnh của địa điểm vì du khách có thể chọn trải nghiệm làng chài bình dân hoặc nghỉ dưỡng tiện nghi hơn. Các cái tên thường được tìm quanh khu vực gồm Life's A Beach, Haven, Long Hill Bãi Xếp Resort & Spa, Avani Quy Nhơn Resort, Anantara Quy Nhơn Villas và một số cơ sở nhỏ trong làng hoặc dọc quốc lộ 1D.
+
+Homestay trong làng phù hợp với khách thích gần đời sống địa phương, thích không khí giản dị và ngân sách vừa phải. Tuy nhiên, cần đọc kỹ đánh giá về cách âm, đường vào, vệ sinh, nhà tắm, máy lạnh và độ gần biển. Resort hoặc villa ven biển phù hợp với gia đình, cặp đôi và khách muốn tiện nghi cao hơn, nhưng chi phí cao hơn và có thể không nằm đúng trong lõi làng chài.
+
+Khi đặt phòng, nên hỏi rõ: vị trí chính xác, xe ô tô có vào được không, có gửi xe không, có ăn sáng không, có lối xuống biển riêng không, nhận phòng/trả phòng giờ nào, có chính sách hủy phòng mùa mưa bão không. Thông tin giá phòng thay đổi theo ngày, mùa và nền tảng đặt phòng; cần kiểm tra lại trước khi đi.
+
+4. Tiện ích hỗ trợ
+
+Nhà vệ sinh và tắm nước ngọt có thể có tại một số quán, homestay hoặc điểm dịch vụ. Không nên mặc định toàn bộ bãi có nhà tắm công cộng miễn phí. Nếu cần thay đồ sau khi tắm biển, nên hỏi trước nơi sử dụng dịch vụ ăn uống hoặc cơ sở lưu trú.
+
+Gửi xe thường là nhu cầu phổ biến vì lối vào làng nhỏ. Xe máy có thể linh hoạt hơn, ô tô nên gửi ở nơi phù hợp rồi đi bộ xuống. Phí gửi xe là thông tin tham khảo và cần hỏi tại chỗ. Vào ngày đông khách, nên đến sớm để dễ tìm chỗ gửi.
+
+Wifi chủ yếu có trong cơ sở lưu trú, quán cà phê hoặc nhà hàng, không phải tiện ích chung ngoài bãi. Sóng điện thoại thường có nhưng có thể yếu ở một số góc khuất. Nếu cần làm việc từ xa, nên chọn chỗ lưu trú có đánh giá tốt về internet.
+
+Dịch vụ hướng dẫn viên tại Bãi Xép không phổ biến như di tích hoặc tour đảo, nhưng các công ty lữ hành có thể đưa Bãi Xép vào lịch trình. Nếu đi cùng khách quốc tế, có thể thuê hướng dẫn viên riêng từ Quy Nhơn để giải thích về làng chài, đời sống biển và các điểm lân cận.
+
+5. Dịch vụ cho trẻ em, người lớn tuổi và khách cần hỗ trợ
+
+Trẻ em có thể vui chơi trên cát và quan sát thuyền thúng, nhưng Bãi Xép không phải khu vui chơi trẻ em có hàng rào an toàn. Cần giám sát liên tục, không để trẻ tự xuống nước, không để trẻ leo bãi đá và không để trẻ chơi gần thuyền, lưới hoặc dụng cụ nghề biển.
+
+Người lớn tuổi nên chọn dịch vụ xe đưa đón, chỗ ngồi có bóng râm và tránh lịch trình quá dài dưới nắng. Nếu đường xuống bãi dốc hoặc trơn, cần có người hỗ trợ. Nên ưu tiên ăn uống nhẹ, nghỉ ngơi và ngắm cảnh thay vì leo đá.
+
+Khách khuyết tật hoặc hạn chế vận động cần kiểm tra trước vì lối vào làng, cát, bậc, dốc và đá có thể khó tiếp cận. Không nên mặc định có lối đi xe lăn hoàn chỉnh. Nếu cần hỗ trợ, nên liên hệ cơ sở lưu trú/resort gần Bãi Xép để hỏi chi tiết.
+
+6. Lưu ý về thanh toán và đặt trước
+
+Một số quán nhỏ có thể ưu tiên tiền mặt, trong khi resort hoặc cơ sở lớn có thể nhận chuyển khoản, thẻ hoặc thanh toán qua nền tảng đặt phòng. Du khách nên mang một ít tiền mặt mệnh giá nhỏ để trả gửi xe, nước uống, tắm nước ngọt hoặc mua đồ địa phương. Không nên phụ thuộc hoàn toàn vào thẻ.
+
+Dịch vụ lưu trú nên đặt trước vào mùa hè, cuối tuần, lễ Tết hoặc dịp có sự kiện tại Quy Nhơn. Nên kiểm tra chính sách hủy, phụ thu trẻ em, phụ thu người thứ ba, giờ nhận phòng, chỗ đỗ xe và đường vào. Nếu muốn ăn hải sản ở quán cụ thể, đặt trước giúp chủ động món và giá.
+
+Nếu đặt tour hoặc xe, cần xác nhận lịch trình có đi đúng Bãi Xép Quy Nhơn không, tránh nhầm Bãi Xép Phú Yên. Nên lưu số điện thoại tài xế và nơi lưu trú vì đường nhỏ trong làng có thể làm việc tìm điểm đón khó hơn.
+
+7. Các câu hỏi chatbot có thể trả lời từ file này
+
+Chatbot có thể trả lời: Bãi Xép / Bãi Xếp Quy Nhơn nằm ở đâu và khác gì với Bãi Xép Phú Yên?
+
+Chatbot có thể trả lời: đi Bãi Xép / Bãi Xếp Quy Nhơn từ trung tâm Quy Nhơn mất bao lâu?
+
+Chatbot có thể trả lời: ở Bãi Xép / Bãi Xếp Quy Nhơn có tắm biển, ăn hải sản, thuê thuyền hoặc nghỉ qua đêm được không?
+
+Chatbot có thể trả lời: thời điểm nào nên đi Bãi Xép / Bãi Xếp Quy Nhơn để biển xanh và ít mưa?
+
+Chatbot có thể trả lời: cần lưu ý gì về an toàn biển, bãi đá, lối đi nhỏ và giá dịch vụ tại Bãi Xép / Bãi Xếp Quy Nhơn?
+
+8. Nguồn tham khảo
+
+Cổng thông tin Du lịch Quy Nhơn - Bình Định, bài "Vẻ đẹp hoang sơ của làng chài Bãi Xếp ở Quy Nhơn", ghi đường từ trung tâm Quy Nhơn theo quốc lộ 1D khoảng 13 km, mô tả làng chài Bãi Xếp trong vùng biển Quy Hòa, hai bờ cát hình vòng cung, khu dân cư lâu đời, lưu trú từ homestay đến resort, đời sống ngư dân, rong biển và thuyền ra các hòn nhỏ.
+
+Cục Du lịch Quốc gia Việt Nam, bài "Bãi Xép (Bình Định) yên bình", ghi làng chài Bãi Xép thuộc KV 1, phường Ghềnh Ráng, TP Quy Nhơn, tỉnh Bình Định cũ, nằm trên tuyến QL 1D và cách trung tâm thành phố khoảng 13 km.
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai, dùng để ghi chú bối cảnh hành chính mới sau khi các địa danh ở Quy Nhơn được sắp xếp lại.
+
+Vinpearl/VinWonders Wonderpedia, bài về Bãi Xếp Quy Nhơn, bổ sung các trải nghiệm phổ biến như tắm biển, check-in bãi đá, đón bình minh, đời sống làng chài, ẩm thực hải sản và mùa đẹp từ khoảng tháng 5 đến tháng 8.
+
+Các nguồn kinh nghiệm du lịch và tour địa phương như Gody, Phan Văn Travel, Quy Nhơn Tourist, Halo Quy Nhơn Travel, Traveloka; chỉ dùng để tham khảo thực tế về phí dịch vụ, gửi xe, lối vào, homestay/resort, ăn uống, thuê thuyền và các chi phí dễ thay đổi.
+
+Thông tin tham khảo, cần kiểm tra lại trước khi đi, nhất là giá vé, giờ hoạt động, tình trạng dịch vụ, quy định gửi xe, tour thuyền và thời tiết biển.

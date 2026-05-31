@@ -1,0 +1,55 @@
+1. Dịch vụ tại địa điểm
+
+Tháp Đôi là di tích trong khuôn viên không quá lớn, nên dịch vụ tại chỗ thường tập trung vào bán vé, hướng dẫn tham quan cơ bản, khu vực gửi xe, nhà vệ sinh, lối đi và bảng thông tin. Theo cổng du lịch địa phương, điểm đến có thông tin giá vé, giờ mở cửa, số điện thoại và thời lượng tham quan. Tuy nhiên, mức độ dịch vụ thực tế có thể thay đổi theo thời điểm, ngày thường, cuối tuần, lễ Tết hoặc kế hoạch của đơn vị quản lý.
+
+Nếu du khách cần thuyết minh, nhất là đoàn học sinh, đoàn nghiên cứu hoặc khách quốc tế, nên liên hệ trước thay vì mặc định lúc nào cũng có hướng dẫn viên tại điểm. Một số nguồn nhắc du khách có thể quét mã QR để xem thông tin khái quát về vương quốc Chăm Pa và tháp Chăm ở Bình Định. Đây là tiện ích hữu ích cho khách đi tự túc, nhưng vẫn nên kiểm tra tại chỗ vì mã QR, bảng thông tin và hệ thống thuyết minh điện tử có thể được thay đổi.
+
+Các dịch vụ phụ như bán nước, lưu niệm, chụp ảnh hoặc hướng dẫn tự do nếu có không nên coi là dịch vụ chính thức khi chưa xác nhận. Trong tài liệu RAG, nên phân biệt “dịch vụ chắc chắn theo nguồn chính thống” và “dịch vụ có thể có theo trải nghiệm thực tế”.
+
+2. Ăn uống và đặc sản địa phương
+
+Bản thân Tháp Đôi không phải khu ẩm thực lớn. Du khách nên ăn uống trước hoặc sau khi tham quan ở các khu trung tâm Quy Nhơn. Cổng du lịch địa phương gợi ý sau hành trình city tour, du khách có thể thưởng thức các món nổi tiếng như nem chua nướng, chả cá nướng cuốn rau răm, bánh xèo, bún cá hoặc hải sản tại đường Xuân Diệu. Những món này phù hợp để kết hợp với Tháp Đôi trong lịch trình nửa ngày hoặc một ngày.
+
+Các món nên gợi ý cho chatbot gồm bún cá Quy Nhơn, bánh hỏi cháo lòng, bánh xèo tôm nhảy, nem chợ Huyện, chả ram tôm đất, hải sản đường Xuân Diệu và các món ăn vặt ở trung tâm. Với khách ăn chay hoặc khách có kiêng kỵ thực phẩm, nên khuyên tìm quán trước trên bản đồ vì không phải khu quanh di tích lúc nào cũng có lựa chọn phù hợp.
+
+Không nên ăn uống trong khu vực sát di tích, xả rác hoặc mang đồ ăn vào tạo mùi và ảnh hưởng vệ sinh. Nếu mang nước, nên giữ chai cá nhân và bỏ rác đúng nơi quy định. Với đoàn học sinh, nên tổ chức ăn uống ở nơi riêng, không biến sân di tích thành khu picnic.
+
+3. Lưu trú gần đó
+
+Vì Tháp Đôi nằm trong khu vực Quy Nhơn, du khách có nhiều lựa chọn lưu trú từ khách sạn trung tâm, homestay, căn hộ, khách sạn gần biển đến resort xa hơn ở Ghềnh Ráng, Quy Hòa hoặc bán đảo Phương Mai. Nếu mục tiêu là tham quan Tháp Đôi, ăn uống trung tâm và đi bộ biển, nên chọn khách sạn trong nội thành để di chuyển thuận tiện.
+
+Khách thích nghỉ dưỡng biển có thể ở khu gần đường Xuân Diệu hoặc các khách sạn ven biển, rồi đi taxi/xe máy tới Tháp Đôi trong thời gian ngắn. Khách muốn yên tĩnh có thể chọn khu xa hơn nhưng cần tính thêm thời gian vào trung tâm. Với lịch trình chỉ một đêm ở Quy Nhơn, lưu trú trung tâm là lựa chọn hiệu quả nhất vì dễ ghé Tháp Đôi, chợ, quán ăn và bãi biển.
+
+Thông tin khách sạn thay đổi nhanh theo mùa, giá phòng, khuyến mãi và đánh giá. Chatbot nên đưa tiêu chí chọn hơn là liệt kê cứng: gần trung tâm, dễ gọi xe, có chỗ đậu xe nếu thuê ô tô, gần quán ăn, phù hợp ngân sách, đánh giá mới tốt và chính sách hủy rõ ràng.
+
+4. Tiện ích hỗ trợ
+
+Các tiện ích cần kiểm tra khi đến gồm nhà vệ sinh, điểm gửi xe, khu nghỉ chân, bảng nội quy, bảng thông tin, quầy vé và nhân viên hỗ trợ. Vì đây là di tích trong thành phố, nhu cầu cơ bản thường dễ xử lý hơn các điểm xa. Tuy nhiên, nếu đi đoàn đông hoặc có người cần hỗ trợ đặc biệt, nên gọi trước để hỏi.
+
+Với trẻ em, tiện ích quan trọng là không gian nghỉ, nước uống, nhà vệ sinh và lối đi an toàn. Với người lớn tuổi, cần quan tâm điểm ngồi nghỉ, bóng râm, bậc lên xuống và thời gian đứng dưới nắng. Với người khuyết tật hoặc người dùng xe lăn, thông tin khả năng tiếp cận cần xác minh trực tiếp vì các di tích cổ có thể có nền bậc, lối đi không hoàn toàn phẳng hoặc khu vực hạn chế.
+
+Wifi không nên được xem là tiện ích bắt buộc tại di tích. Du khách nên chuẩn bị mạng di động để tra cứu thông tin, gọi xe, dùng bản đồ và quét mã QR. Nếu cần thuyết minh bằng tiếng nước ngoài, nên chuẩn bị trước nội dung hoặc đi với hướng dẫn viên.
+
+5. Chi phí dịch vụ và thanh toán
+
+Chi phí chính khi tham quan là vé vào cửa, gửi xe nếu có, chi phí di chuyển và chi phí ăn uống/lưu trú bên ngoài. Giá vé tham khảo khoảng 20.000 đồng/người theo nguồn du lịch, nhưng cần kiểm tra lại. Phí gửi xe có thể thay đổi, thường không quá lớn, nhưng nên hỏi trước khi gửi.
+
+Về thanh toán, di tích có thể nhận tiền mặt và có thể có hoặc không có thanh toán điện tử tùy thời điểm. Du khách nên mang tiền mặt mệnh giá nhỏ để mua vé hoặc gửi xe, đặc biệt nếu đi sớm, đi đoàn hoặc mạng không ổn định. Với đoàn cần hóa đơn, chứng từ hoặc xác nhận, nên liên hệ trước.
+
+Đặt vé online không phải lúc nào cũng cần cho Tháp Đôi vì đây là điểm tham quan ngắn trong đô thị. Tuy nhiên, nếu đi theo tour hoặc dịp cao điểm, nên đặt dịch vụ tour/xe trước. Với người dùng hỏi “có cần mua vé trước không”, câu trả lời hợp lý là thường không bắt buộc đối với khách lẻ, nhưng thông tin tham khảo, cần kiểm tra lại vào dịp lễ hoặc khi đi đoàn.
+
+6. Câu hỏi chatbot có thể trả lời
+
+Các câu hỏi chatbot có thể trả lời từ file này gồm: Tháp Đôi có nhà vệ sinh không, có gửi xe không, có hướng dẫn viên không, có quét mã QR không, gần Tháp Đôi ăn gì, ở đâu gần Tháp Đôi, có cần tiền mặt không, có đặt vé online không, đi đoàn có cần liên hệ trước không, có phù hợp người lớn tuổi không, có dịch vụ cho trẻ em không.
+
+7. Nguồn tham khảo
+
+Nguồn tham khảo:
+Cổng thông tin du lịch Quy Nhơn - Bình Định, mục “Tháp đôi (Tháp Hưng Thạnh)”, https://dulichquynhon.binhdinh.gov.vn/vi/thapdoiquynhon, truy cập để đối chiếu thông tin mô tả, giá vé tham khảo, thời gian mở cửa, thời lượng tham quan, số điện thoại và địa chỉ.
+Thông tấn xã Việt Nam/Báo ảnh Việt Nam, “Tháp Đôi - dấu ấn văn hóa Chăm Pa ở Quy Nhơn”, https://vietnam.vnanet.vn/vietnamese/long-form/thap-doi-dau-an-van-hoa-cham-pa-o-quy-nhon-364059.html, tham khảo thông tin về tên Tháp Hưng Thạnh, niên đại, cấu trúc hai tháp, kỹ thuật xây gạch và trang trí điêu khắc.
+Báo Gia Lai, “Chiêm ngưỡng vẻ đẹp tháp Chăm gần nghìn năm ở Quy Nhơn”, https://baogialai.com.vn/chiem-nguong-ve-dep-thap-cham-gan-nghin-nam-o-quy-nhon-post299676.html, tham khảo thông tin về Tháp Đôi là một trong các cụm tháp Chăm cổ ở vùng Bình Định cũ, vị trí đường Trần Hưng Đạo và trải nghiệm quét mã QR tại di tích.
+Cổng thông tin du lịch Quy Nhơn - Bình Định, “Một ngày citytour ở trung tâm thành phố Quy Nhơn”, https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_1184&t=mot-ngay-citytour-o-trung-tam-thanh-pho-quy-nhon, tham khảo gợi ý kết hợp Tháp Đôi trong city tour trung tâm Quy Nhơn.
+Cục Du lịch Quốc gia Việt Nam, bài “Phát huy giá trị tháp Champa (Bình Định): Tu bổ, tôn tạo di tích gắn với phát triển du lịch”, https://vietnamtourism.gov.vn/post/38114, tham khảo bối cảnh hệ thống 8 cụm tháp Champa với 14 tháp ở vùng Bình Định cũ.
+Vinpearl, “Tháp Đôi Quy Nhơn: Dấu ấn cổ kính giữa lòng phố biển”, https://vinpearl.com/vi/thap-doi-quy-nhon, tham khảo bổ sung kinh nghiệm tham quan, tuyến di chuyển, nội quy và thông tin giá vé/giờ mở cửa có thể thay đổi.
+Cổng thông tin điện tử Gia Lai ALBA, “Sáp nhập Bình Định và Gia Lai: Hình thành cực tăng trưởng mới”, https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html, tham khảo bối cảnh hành chính mới sau sáp nhập năm 2025.
+Lưu ý: Giá vé, giờ mở cửa, số điện thoại, quy định đoàn, dịch vụ thuyết minh và thông tin hành chính có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

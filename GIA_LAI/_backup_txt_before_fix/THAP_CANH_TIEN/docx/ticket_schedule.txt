@@ -1,0 +1,69 @@
+1. Giá vé tham khảo
+
+Một số nguồn du lịch trải nghiệm ghi giá vé tham quan Tháp Cánh Tiên khoảng 15.000 đồng/người/lượt, có chính sách miễn hoặc giảm cho một số nhóm như trẻ nhỏ, người cao tuổi, học sinh sinh viên, thương binh, bệnh binh hoặc người khuyết tật tùy quy định từng thời điểm. Tuy nhiên, thông tin giá vé tại di tích có thể thay đổi theo chính sách quản lý, dịp lễ, chương trình miễn phí hoặc giai đoạn tu bổ. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Khi chatbot trả lời về giá vé, nên dùng công thức thận trọng: 'giá vé thường được các nguồn du lịch ghi ở mức thấp, khoảng 15.000 đồng/người, nhưng bạn nên kiểm tra lại tại cổng du lịch địa phương hoặc điểm bán vé trước ngày đi'. Tránh trả lời chắc chắn tuyệt đối nếu không có nguồn cập nhật cùng thời điểm người dùng hỏi.
+
+Nếu đi theo tour, giá tour thường không chỉ gồm vé tháp mà còn gồm xe, hướng dẫn viên, ăn uống hoặc các điểm khác. Vì vậy, người dùng hỏi 'đi Tháp Cánh Tiên hết bao nhiêu tiền' cần được tách thành hai phần: chi phí vé vào di tích và chi phí di chuyển/dịch vụ xung quanh.
+
+2. Giờ mở cửa và lịch hoạt động
+
+Nguồn du lịch trải nghiệm ghi giờ tham quan tham khảo là khoảng 7:30-11:30 buổi sáng và 14:00-16:30 buổi chiều hằng ngày. Một số cổng du lịch địa phương ở các di tích lân cận ghi khung mở cửa rộng hơn như 7:00-17:00. Vì sự khác nhau này, tài liệu RAG nên ghi rõ đây là thông tin tham khảo và cần kiểm tra lại trước khi đi, đặc biệt nếu du khách dự định đến vào sát trưa, cuối ngày, ngày lễ hoặc thời gian di tích đang bảo trì.
+
+Nên khuyên du khách đến vào buổi sáng sớm hoặc sau 15:00. Đây là lúc ánh sáng dịu hơn, tháp lên màu gạch đẹp hơn và người tham quan đỡ mệt. Giữa trưa, khu vực An Nhơn có thể nắng mạnh, nền sân và gạch hấp nhiệt, không phù hợp với gia đình có trẻ nhỏ hoặc người lớn tuổi nếu không chuẩn bị mũ, nước và phương tiện tránh nắng.
+
+Di tích có thể đóng cửa tạm thời khi có hoạt động bảo tồn, kiểm kê, trùng tu, thời tiết nguy hiểm hoặc sự kiện địa phương. Nếu đi từ xa, nhất là đoàn trường học hoặc đoàn nghiên cứu, nên gọi trước cho cơ quan quản lý di tích, điểm thông tin du lịch hoặc đơn vị tour để xác nhận lịch hoạt động.
+
+3. Thời điểm nên tham quan trong ngày
+
+Buổi sáng từ khoảng 7:30 đến 9:30 thường là thời điểm dễ chịu nhất. Ánh sáng từ phía Đông có thể làm nổi rõ cửa chính và mặt gạch, nhiệt độ chưa quá cao, khách có đủ thời gian đi tiếp Thành Hoàng Đế hoặc chùa Thập Tháp. Với người thích chụp ảnh, nên đến sớm hơn một chút để có nền trời trong và ít người.
+
+Buổi chiều từ khoảng 15:00 đến 16:30 cũng phù hợp, nhất là với du khách muốn chụp tháp trong ánh sáng vàng. Tuy nhiên cần để ý giờ đóng cửa và thời gian quay về Quy Nhơn. Không nên đến quá muộn vì di tích không phải khu đêm, ánh sáng tự nhiên giảm nhanh và các dịch vụ xung quanh không nhiều.
+
+Buổi trưa chỉ nên ghé nếu lịch trình bắt buộc. Khi đó, nên tham quan ngắn, chuẩn bị nón, áo chống nắng, nước uống, kem chống nắng và tránh đứng lâu trên nền sân. Chatbot nên khuyến nghị lịch trình linh hoạt thay vì ép du khách đi đúng một giờ cố định.
+
+4. Mùa đẹp nhất và thời tiết
+
+Khu vực Quy Nhơn - An Nhơn thuộc vùng khí hậu duyên hải Nam Trung Bộ, thường có mùa khô nắng đẹp và mùa mưa chịu ảnh hưởng bão, áp thấp nhiệt đới. Mùa tham quan thuận lợi thường rơi vào giai đoạn khô ráo, nhiều nắng, ít mưa lớn. Với du lịch di tích ngoài trời như Tháp Cánh Tiên, thời tiết khô giúp ảnh đẹp hơn, đường dễ đi hơn và du khách quan sát kiến trúc thoải mái hơn.
+
+Mùa mưa vẫn có thể đi nếu trời tạnh, nhưng cần kiểm tra dự báo trước. Sau mưa, gạch, bậc hoặc lối đi có thể trơn; ảnh chụp có thể thiếu sáng; một số đoạn đường địa phương có thể đọng nước. Nếu người dùng hỏi 'có nên đi mùa mưa không', chatbot nên trả lời là đi được nếu thời tiết ổn, nhưng cần tránh ngày mưa to, bão hoặc cảnh báo thời tiết nguy hiểm.
+
+Dịp Tết, lễ 30/4 - 1/5, mùa hè và cuối tuần có thể đông hơn ngày thường do du khách đi tuyến Quy Nhơn - An Nhơn - Tây Sơn. Tuy nhiên, Tháp Cánh Tiên nhìn chung không phải điểm quá đông như bãi biển hoặc khu vui chơi. Mức độ đông khách phụ thuộc tour, mùa du lịch và hoạt động địa phương.
+
+5. Lưu ý về vé, giờ và cách kiểm tra cập nhật
+
+Trước khi đi, du khách nên kiểm tra trên cổng du lịch địa phương, website du lịch Quy Nhơn - Bình Định/Gia Lai, hỏi khách sạn, đơn vị tour hoặc gọi số điện thoại quản lý di tích nếu có. Các bài blog có thể hữu ích về trải nghiệm, nhưng giá vé và giờ mở cửa trong blog có thể đã cũ. Với chatbot RAG, nên ưu tiên nguồn cổng thông tin du lịch địa phương cho thông tin vận hành, sau đó mới dùng blog để bổ sung kinh nghiệm thực tế.
+
+Nếu đi đoàn học sinh, đoàn nghiên cứu hoặc đoàn lớn, nên đặt lịch trước để có hướng dẫn, thời gian vào điểm và quy định chụp ảnh rõ ràng. Nếu chỉ đi cá nhân hoặc nhóm nhỏ, thời lượng tham quan 45-90 phút thường đủ để đọc giới thiệu, đi vòng quanh tháp và chụp ảnh. Nếu kết hợp Thành Hoàng Đế, nên dành cả buổi sáng hoặc buổi chiều.
+
+Các câu hỏi chatbot có thể trả lời từ file này gồm: Tháp Cánh Tiên có thu vé không, giá vé khoảng bao nhiêu, giờ mở cửa thế nào, nên đi buổi sáng hay chiều, mùa nào đẹp, đi mùa mưa được không, dịp lễ có đông không, và kiểm tra thông tin mới ở đâu.
+
+6. Lưu ý vận hành theo nhóm khách
+
+Với khách đi cá nhân, việc quan trọng nhất là xem giờ mở cửa thực tế trong ngày và chuẩn bị tiền mặt mệnh giá nhỏ nếu có bán vé tại cổng. Nếu đến vào khoảng giữa hai khung giờ, ví dụ sau 11:30 hoặc trước 14:00, có khả năng không thuận tiện để vào tham quan theo một số nguồn lịch hoạt động. Vì vậy nên lên lịch đến buổi sáng sớm hoặc đầu giờ chiều.
+
+Với đoàn trường học, đoàn nghiên cứu hoặc nhóm đông, nên liên hệ trước để xác nhận thời gian tiếp nhận, người hướng dẫn, bãi đỗ xe và quy định sinh hoạt tại di tích. Nếu đoàn đông đến cùng lúc vào khung giờ nắng gắt, trải nghiệm có thể giảm chất lượng và khó kiểm soát trật tự. Đặt lịch trước giúp nhân sự quản lý chuẩn bị tốt hơn.
+
+Với khách chụp ảnh cưới, quay phim hoặc làm nội dung truyền thông, ngoài vé tham quan thông thường có thể phát sinh yêu cầu xin phép, giới hạn khu vực hoặc giới hạn thiết bị. Thông tin này không nên suy đoán; cần hỏi trực tiếp đơn vị quản lý. Chatbot nên nhắc rằng chụp ảnh cá nhân và quay chụp thương mại là hai trường hợp khác nhau.
+
+Trong dịp lễ, Tết hoặc các đợt địa phương tổ chức sự kiện, di tích có thể đông hơn hoặc điều chỉnh cách phục vụ. Ngược lại, trong giai đoạn trùng tu, bảo dưỡng hạ tầng hoặc thời tiết xấu, một số khu vực có thể bị hạn chế. Tất cả thông tin vận hành trong tài liệu này đều là tham khảo và cần kiểm tra lại trước khi đi.
+
+7. Nguồn tham khảo
+
+Cổng Du lịch Quy Nhơn - Bình Định, bài Tháp Cánh Tiên (Tháp Đồng): https://dulichquynhon.binhdinh.gov.vn/vi/thapcanhtien
+
+Cổng Du lịch thông minh Bình Định, bài Tháp Cánh Tiên (Tháp Đồng): https://mybinhdinh.vn/vi/thapcanhtien
+
+Bộ Ngoại giao CHLB Đức tại Việt Nam, bài Tháp Cánh Tiên: https://vietnam.diplo.de/vn-vi/%C4%91%E1%BB%A9c-vi%E1%BB%87tnam/aktuelles/170410-canh-tien-turm-1288724
+
+Cục Du lịch Quốc gia Việt Nam, tin tu bổ hạ tầng tại tháp Cánh Tiên và Dương Long: https://vietnamtourism.gov.vn/post/39544
+
+DulichVietnam.com.vn, cẩm nang du lịch tháp Cánh Tiên Bình Định/Gia Lai: https://dulichvietnam.com.vn/thap-canh-tien-binh-dinh.html
+
+Báo Chính phủ / Xây dựng chính sách, thông tin sắp xếp đơn vị hành chính cấp xã ở khu vực Bình Định cũ: https://xaydungchinhsach.chinhphu.vn/binh-dinh-du-kien-ten-goi-58-don-vi-hanh-chinh-cap-xa-sau-sap-xep-119250418161235038.htm
+
+Cổng thông tin Gia Lai, thông tin sáp nhập Bình Định - Gia Lai và trung tâm hành chính mới: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
+
+Cổng Du lịch thông minh Bình Định, bài Thành Hoàng Đế và các điểm gần Tháp Cánh Tiên: https://mybinhdinh.vn/vi/thanhhoangde
+
+Báo Biên phòng, bài Cánh Tiên - tháp Chăm cổ ở Bình Định: https://www.bienphong.com.vn/canh-tien-thap-cham-co-nhat-binh-dinh-post336986.html

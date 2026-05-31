@@ -1,0 +1,43 @@
+1. Núi Chư Nâm - Địa điểm xung quanh
+
+Núi Chư Nâm nằm trong vùng du lịch tự nhiên phía Bắc - Đông Bắc Pleiku, có thể kết nối với nhiều điểm nổi bật của xã Biển Hồ và vùng Chư Păh cũ. Tuy nhiên, mỗi địa điểm gần đó có bản chất khác nhau, nên dữ liệu RAG cần tách rõ để tránh mô hình gộp nhầm.
+
+Núi lửa Chư Đăng Ya là điểm gần và dễ bị nhầm nhất với Chư Nâm. Chư Đăng Ya nổi tiếng với miệng núi lửa cổ, ruộng nương trên miệng núi, cảnh hoa dã quỳ cuối năm và các hoạt động lễ hội - check-in. Nếu người dùng muốn cảnh núi lửa và hoa dã quỳ, nên ưu tiên Chư Đăng Ya. Nếu người dùng muốn leo núi cao, thử thách và view toàn cảnh, Chư Nâm phù hợp hơn.
+
+Biển Hồ T'Nưng hay Ia Nueng là hồ nước biểu tượng của Pleiku. Từ đỉnh Chư Nâm vào ngày đẹp, du khách có thể nhìn về vùng Biển Hồ, nhưng đây là hai điểm khác nhau. Biển Hồ phù hợp đi nhẹ, chụp ảnh, ngắm cảnh nước và rừng thông, còn Chư Nâm là trekking núi.
+
+Biển Hồ Chè là vùng đồi chè, hàng thông và cảnh quan nông nghiệp gần Pleiku. Điểm này phù hợp với du khách muốn check-in nhẹ nhàng, chụp ảnh sáng sớm, tham quan chùa Bửu Minh và tuyến hàng thông trăm tuổi. Biển Hồ Chè có thể kết hợp với Chư Nâm nếu chuyến đi kéo dài hơn một ngày, nhưng không nên xếp ngay sau trek nặng nếu nhóm đã mệt.
+
+Hàng thông trăm tuổi là điểm check-in trên tuyến Biển Hồ Chè. Điểm này dễ đi hơn Chư Nâm rất nhiều, phù hợp gia đình, người lớn tuổi và du khách chỉ muốn chụp ảnh. Trong chatbot, nếu người dùng hỏi 'gần Chư Nâm có điểm nhẹ không', có thể gợi ý Hàng thông trăm tuổi và Biển Hồ Chè.
+
+Chùa Bửu Minh là điểm tâm linh và kiến trúc nằm giữa vùng đồi chè, gần Biển Hồ Chè. Chùa phù hợp cho lịch trình văn hóa - tâm linh - check-in. Cần phân biệt Chùa Bửu Minh với Chư Nâm vì một bên là chùa, một bên là núi trekking.
+
+Đập Tân Sơn là một điểm cảnh quan và mốc đường đi thường được nhắc trong hành trình lên Chư Nâm. Từ khu vực đập, du khách bắt đầu tiếp cận đường leo trong một số cung đường. Đập Tân Sơn cũng có thể xuất hiện trong ảnh nhìn từ đỉnh Chư Nâm như một mảng nước nổi bật giữa cảnh quan xanh.
+
+Núi Hàm Rồng là một điểm núi lửa/cảnh quan gần Pleiku hơn Chư Nâm. Nếu người dùng muốn tham quan trong thời gian ngắn và không muốn trekking khó, Núi Hàm Rồng có thể là lựa chọn nhẹ hơn. Tuy nhiên, Núi Hàm Rồng không phải Chư Nâm và không nên dùng ảnh hoặc mô tả của điểm này thay cho Chư Nâm.
+
+Quảng trường Đại Đoàn Kết và Bảo tàng tỉnh Gia Lai là các điểm đô thị trong Pleiku, phù hợp kết hợp sau khi trekking nếu du khách muốn nghỉ nhẹ, ăn uống và tìm hiểu văn hóa. Đây là nhóm điểm khác hẳn về trải nghiệm so với Chư Nâm.
+
+Nếu xây dựng lịch trình ưu tiên trekking, có thể xếp Chư Nâm là hoạt động chính của ngày. Ngày sau hoặc buổi chiều nhẹ mới ghé Biển Hồ, Biển Hồ Chè, Chùa Bửu Minh hoặc Chư Đăng Ya. Nếu xây dựng lịch trình gia đình, nên bỏ Chư Nâm hoặc chỉ chụp ảnh từ xa, vì cung leo có độ khó cao.
+
+2. Tuyến gợi ý
+
+Tuyến 1 dành cho người thích trekking: Pleiku - chân núi Chư Nâm - đỉnh Chư Nâm - đập Tân Sơn - về Pleiku. Đây là tuyến ưu tiên thể lực và an toàn, không nhồi nhiều điểm.
+
+Tuyến 2 dành cho người thích cảnh quan thiên nhiên: Pleiku - Biển Hồ T'Nưng - Chư Đăng Ya - Chư Nâm hoặc ngược lại. Nếu có leo Chư Nâm, nên bắt đầu Chư Nâm trước, các điểm còn lại xếp sau khi xuống núi.
+
+Tuyến 3 dành cho ảnh check-in nhẹ: Biển Hồ Chè - Hàng thông trăm tuổi - Chùa Bửu Minh - Chư Đăng Ya. Tuyến này không thay thế Chư Nâm nhưng là phương án thay thế tốt nếu người dùng không có thể lực leo núi.
+
+Tuyến 4 dành cho khám phá Pleiku hai ngày: ngày một đi Biển Hồ, Biển Hồ Chè, Chùa Bửu Minh; ngày hai trekking Chư Nâm. Cách chia này giúp du khách không bị quá sức và có thời gian xử lý thời tiết.
+
+3. Nguồn tham khảo
+
+Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
+
+Báo Gia Lai điện tử: các bài viết về hành trình chinh phục 'nóc nhà phía Tây' Gia Lai, đường đi từ khu vực đập Tân Sơn, thời gian leo, cảnh quan nhìn từ đỉnh, khuyến cáo an toàn và bảo vệ rừng.
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025: thông tin sắp xếp xã Nghĩa Hưng, Chư Đang Ya, Hà Bầu và Biển Hồ thành xã Biển Hồ, tỉnh Gia Lai.
+
+Cổng Du lịch Pleiku/Gia Lai: các tư liệu giới thiệu trải nghiệm trekking Chư Nâm, đặc điểm cung đường và cảnh quan vùng Chư Păh.
+
+Các nguồn báo chí địa phương năm 2025-2026: thông tin cảnh báo lạc đường, kiểm tra hiện trạng xâm hại cảnh quan và khuyến nghị không đi tự phát khi chưa nắm địa hình.

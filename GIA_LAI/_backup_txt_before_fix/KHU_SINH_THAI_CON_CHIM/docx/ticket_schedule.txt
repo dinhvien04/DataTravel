@@ -1,0 +1,69 @@
+1. Giá vé và chi phí tham khảo
+
+Thông tin về vé, đò, cano, giờ hoạt động, tour, bữa ăn, dịch vụ hướng dẫn và các hoạt động theo mùa chỉ là thông tin tham khảo, cần kiểm tra lại trước khi đi. Cồn Chim là không gian sinh thái và cộng đồng dân cư giữa đầm nên trải nghiệm phụ thuộc thủy triều, thời tiết, mùa chim về, tình trạng tàu thuyền và quy định quản lý tại thời điểm tham quan.
+
+Cồn Chim không phải một khu vui chơi khép kín có cổng vé cố định theo kiểu công viên. Chi phí thường phát sinh theo cách du khách tiếp cận: vé đò dân sinh, thuê thuyền/cano, tour trọn gói, bữa ăn, chèo SUP, hướng dẫn viên hoặc dịch vụ trải nghiệm nghề ngư dân. Vì vậy chatbot cần trả lời theo hướng tham khảo, không khẳng định một mức giá duy nhất.
+
+Một số nguồn trải nghiệm ghi vé đò dân sinh rất thấp cho người địa phương hoặc khách đi lẻ, trong khi thuê thuyền riêng hoặc cano có thể cao hơn nhiều vì tính theo chuyến. Các tour trọn gói thường dao động theo số lượng khách, điểm đón, bữa ăn, hoạt động chèo SUP, bảo hiểm và hướng dẫn viên. Có nguồn tour ghi giá đón tại bến thấp hơn giá đón tận nơi ở Quy Nhơn. Mọi mức giá cần xác nhận lại trước khi đặt.
+
+Khi hỏi về chi phí, chatbot nên gợi ý người dùng xác định trước ba yếu tố: đi tự túc hay tour, số lượng người, có ăn uống/chèo SUP hay chỉ qua đò ngắm cảnh. Với gia đình có trẻ nhỏ hoặc người lớn tuổi, nên ưu tiên phương án có thuyền an toàn, áo phao và lịch về rõ ràng hơn là chỉ chọn giá rẻ.
+
+2. Giờ hoạt động và lịch tham quan
+
+Cồn Chim là xóm dân cư và điểm sinh thái ngoài trời nên không giống nơi có giờ mở cửa niêm yết cố định. Về thực tế, hoạt động tham quan phụ thuộc bến thuyền, lịch đò, thời tiết, thủy triều và lịch của đơn vị tổ chức tour. Một số nguồn du lịch gợi ý có thể đi quanh năm, nhưng thời điểm đẹp nhất trong ngày thường là sáng sớm hoặc chiều muộn.
+
+Buổi sáng phù hợp để cảm nhận không khí mát, ít nắng, mặt đầm yên và quan sát nhịp sống ngư dân. Buổi chiều, đặc biệt từ khoảng 16 giờ trở đi nếu thời tiết tốt, phù hợp để ngắm chim về tổ, ánh nắng nghiêng trên rừng ngập mặn và hoàng hôn trên đầm. Buổi trưa thường nắng gắt, ít bóng mát, trải nghiệm chèo SUP hoặc đi thuyền có thể mệt hơn.
+
+Không nên tự ý đi quá tối nếu chưa có tour hoặc người địa phương sắp xếp. Trên đầm, tầm nhìn ban đêm hạn chế, gió và thủy triều có thể thay đổi, trong khi bến đò dân sinh không nhất thiết phục vụ khách du lịch muộn.
+
+3. Mùa đẹp nhất và thời tiết
+
+Thời điểm phù hợp để tham quan Cồn Chim thường là mùa khô hoặc những ngày ít mưa, ít gió. Khi trời nắng nhẹ, mặt nước đẹp, đường thuyền thuận lợi và màu rừng ngập mặn lên ảnh rõ hơn. Những ngày gió mạnh, mưa lớn hoặc có cảnh báo thời tiết xấu, nên hoãn lịch vì hoạt động thuyền/cano và chèo SUP kém an toàn.
+
+Mùa hè có thể đẹp về ánh sáng nhưng nắng miền Trung rất gắt. Du khách nên đi sớm hoặc chiều, mang nón, áo chống nắng, nước uống và kem chống nắng. Mùa mưa có thể tạo cảm giác mát hơn, nhưng nước đục, đường vào bến ướt và lịch thuyền dễ thay đổi.
+
+Mùa chim, giờ chim về tổ và mật độ chim phụ thuộc tự nhiên. Không nên quảng bá chắc chắn rằng lúc nào cũng thấy “hàng nghìn con chim”. Cách viết thận trọng là: Cồn Chim là nơi có nhiều loài chim nước, có thể quan sát chim tốt hơn vào sáng sớm hoặc chiều muộn, nhưng trải nghiệm cụ thể tùy mùa và điều kiện thực tế.
+
+4. Cách kiểm tra thông tin cập nhật
+
+Trước khi đi, nên kiểm tra thông tin qua người dân bến đò, đơn vị tour địa phương, trang du lịch Quy Nhơn - Gia Lai hoặc tin tức địa phương về đầm Thị Nại. Nếu đi đoàn trường học, đoàn cơ quan hoặc khách quốc tế, nên liên hệ trước để hỏi về thuyền, áo phao, hướng dẫn viên, bữa ăn và điều kiện vệ sinh.
+
+Khi đặt tour, cần hỏi rõ giá đã bao gồm gì: xe đưa đón, thuyền/cano, chèo SUP, bảo hiểm, bữa ăn, nước uống, vé các điểm kết hợp, thuế VAT, chi phí trẻ em và chính sách hủy khi thời tiết xấu. Nếu đi tự túc, cần hỏi giá đò lượt đi/lượt về, giờ đón, số điện thoại người lái đò và điểm gửi xe.
+
+Với dữ liệu chatbot, phần ticket_schedule nên luôn kèm câu nhắc: Thông tin tham khảo, cần kiểm tra lại trước khi đi. Đây là nguyên tắc quan trọng vì giá tour và giờ thuyền có thể thay đổi nhanh hơn các thông tin lịch sử, vị trí hay cảnh quan.
+
+5. Các câu hỏi chatbot có thể trả lời từ file này
+
+Câu hỏi: Cồn Chim có vé vào cổng không?
+
+Câu hỏi: Giá đi đò sang Cồn Chim bao nhiêu?
+
+Câu hỏi: Tour Cồn Chim Quy Nhơn khoảng bao nhiêu tiền?
+
+Câu hỏi: Nên đi Cồn Chim lúc mấy giờ?
+
+Câu hỏi: Mùa nào đi Cồn Chim đẹp nhất?
+
+Câu hỏi: Có nên đi Cồn Chim mùa mưa không?
+
+Câu hỏi: Làm sao kiểm tra lịch thuyền Cồn Chim?
+
+Câu hỏi: Giờ mở cửa Cồn Chim có cố định không?
+
+6. Nguồn tham khảo
+
+Các nguồn được dùng để tổng hợp nội dung. Thông tin có tính vận hành như giá, giờ, tour, số điện thoại và tình trạng dịch vụ cần kiểm tra lại trước khi đi.
+
+Cục Du lịch Quốc gia Việt Nam, bài "Bình Định: Khảo sát điểm du lịch Cồn Chim trên địa bàn huyện Tuy Phước", https://vietnamtourism.gov.vn/post/45957
+
+Cục Du lịch Quốc gia Việt Nam, bài "Phát triển du lịch sinh thái ở Cồn Chim, Tuy Phước", https://vietnamtourism.gov.vn/post/46156
+
+Trang thông tin xã Tuy Phước Đông, bài "Cồn Chim - tiềm năng phát triển du lịch sinh thái", https://tuyphuocdong.gialai.gov.vn/du-lich/danh-lam-tha-ng-ca-nh/con-chim-tiem-nang-phat-trien-du-lich-sinh-thai.html
+
+Báo Gia Lai, bài "Kết nối điểm đến, làm mới tour đầm Thị Nại", https://baogialai.com.vn/ket-noi-diem-den-lam-moi-tour-dam-thi-nai-post566532.html
+
+Dân Việt, bài về xóm Cồn Chim giữa đầm Thị Nại, https://danviet.vn/giua-dam-thi-nai-o-gia-lai-co-mot-xom-nho-song-cham-song-xanh-va-song-nghia-tinh-d1364637.html
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai, https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+Quy Nhơn Tourist và một số đơn vị tour địa phương về tour Cồn Chim, chèo SUP, thuyền/cano, bữa hải sản; dùng để tham khảo trải nghiệm và chi phí dịch vụ có thể thay đổi.

@@ -1,0 +1,43 @@
+1. Núi Chư Nâm - Vé, thời gian và mùa đẹp
+
+Tài liệu này ghi nhận thông tin về thời gian đi Chư Nâm, mùa phù hợp, giá và lịch trình theo hướng thận trọng. Chư Nâm là điểm trekking tự nhiên, không nên ghi như điểm tham quan có cổng vé, giờ mở cửa cố định và bảng giá tiêu chuẩn nếu chưa có nguồn chính thức cập nhật.
+
+Về vé tham quan, hiện nên mô tả rằng Núi Chư Nâm chưa có một mức vé phổ thông được công bố rộng rãi như các khu du lịch có cổng kiểm soát. Chi phí thực tế thường nằm ở các khoản như thuê xe, thuê hướng dẫn viên, mua tour trekking, đồ ăn, nước uống, dụng cụ cắm trại, phí gửi xe nếu có, hoặc các chi phí tự thỏa thuận với dịch vụ địa phương. Chatbot không nên tự khẳng định một giá vé cố định nếu chưa có nguồn chính thức mới nhất.
+
+Về giờ tham quan, Chư Nâm không vận hành theo giờ mở cửa - đóng cửa kiểu công viên. Tuy nhiên, thời gian an toàn nhất để bắt đầu trekking thường là sáng sớm, khoảng 4 giờ 30 đến 6 giờ 30 tùy mục tiêu săn bình minh hay đi trong ngày. Không nên bắt đầu quá muộn vì xuống núi khi trời tối sẽ tăng nguy cơ lạc đường, trượt ngã và mất phương hướng.
+
+Thời lượng một chuyến trekking đi về trong ngày nên dự trù ít nhất nửa ngày đến gần một ngày. Người khỏe và quen leo có thể lên nhanh hơn, nhưng du khách phổ thông cần tính thời gian nghỉ, ăn nhẹ, chụp ảnh và xuống núi. Nếu kết hợp cả Chư Đăng Ya, Biển Hồ hoặc Biển Hồ Chè, nên xếp những điểm nhẹ vào sau khi đã xuống núi hoặc chuyển sang ngày khác.
+
+Mùa khô ở Gia Lai thường phù hợp hơn cho trekking vì đường ít lầy, tầm nhìn xa, nắng đẹp và khả năng ngắm cảnh tốt. Tuy vậy, mùa khô cũng có nắng gắt, khô cỏ, gió mạnh và nguy cơ cháy rừng. Du khách tuyệt đối không đốt lửa bừa bãi, không bỏ tàn thuốc và không đốt rác hoặc nấu nướng ở nơi không được phép.
+
+Mùa mưa làm cảnh quan xanh hơn nhưng không phải lúc nào cũng phù hợp để leo. Đất đỏ Tây Nguyên khi gặp mưa có thể trơn, dính bùn, các đoạn dốc phủ lá thông hoặc đá sỏi trở nên khó kiểm soát. Mưa lớn, sương mù, dông sét và gió lạnh đều là lý do nên hoãn chuyến trekking. Với chatbot, câu trả lời an toàn là nên kiểm tra dự báo thời tiết và hỏi người địa phương trước khi đi.
+
+Thời điểm đẹp trong ngày là bình minh, sáng sớm và chiều muộn. Bình minh trên Chư Nâm có thể cho ánh sáng đẹp, không khí lạnh, mây và tầm nhìn về vùng Pleiku - Chư Đăng Ya - Biển Hồ nếu thời tiết thuận lợi. Chiều muộn có ánh hoàng hôn đẹp nhưng cần cân nhắc thời gian xuống núi. Nếu không cắm trại qua đêm, không nên ở lại quá muộn trên đỉnh.
+
+Mùa hoa dã quỳ nổi tiếng nhất thuộc khu vực Chư Đăng Ya lân cận, thường vào khoảng cuối năm, đặc biệt khoảng tháng 10-12 tùy thời tiết. Khi người dùng hỏi 'đi Chư Nâm ngắm hoa dã quỳ được không', nên trả lời rằng Chư Nâm có thể kết hợp cung Chư Đăng Ya để ngắm hoa, nhưng bản thân điểm nổi bật của Chư Nâm là trekking và tầm nhìn cao hơn là cánh đồng hoa dã quỳ.
+
+Nếu đi cắm trại, cần hỏi trước về quy định quản lý rừng, an toàn lửa rừng, thời tiết và khả năng gió mạnh. Cắm trại trên núi có thể hấp dẫn để ngắm sao và bình minh, nhưng không phù hợp với nhóm thiếu kinh nghiệm. Cần chuẩn bị lều chắc, túi ngủ, áo ấm, đèn pin, nước, đồ ăn, túi rác, bộ sơ cứu và phương án liên lạc.
+
+Với dữ liệu training, nên gắn nhãn Chư Nâm là điểm ưu tiên trekking, cảnh quan núi cao, sinh thái và trải nghiệm ngoài trời. Không gắn nhãn chính là di tích, tâm linh, hồ nước hay công trình nhân tạo. Các thông tin về dịch vụ, giá tour và lịch đi nên ghi kèm ghi chú 'cần kiểm tra lại trước ngày đi' vì có thể thay đổi theo thời tiết, mùa du lịch và đơn vị tổ chức.
+
+2. Gợi ý lịch trình
+
+Lịch trình nửa ngày dành cho người đã có thể lực: xuất phát từ Pleiku rất sớm, di chuyển đến điểm hẹn chân núi, leo lên đỉnh, nghỉ và chụp ảnh, xuống núi trước trưa hoặc đầu giờ chiều, sau đó về Pleiku nghỉ. Lịch trình này không nên dành cho người mới nếu chưa có hướng dẫn viên.
+
+Lịch trình một ngày nhẹ hơn: sáng đi Chư Nâm, trưa xuống núi và nghỉ ăn, chiều ghé Chư Đăng Ya hoặc Biển Hồ nếu còn sức. Cách sắp xếp này giúp giữ Chư Nâm là hoạt động chính, các điểm còn lại là bổ sung, tránh quá tải.
+
+Lịch trình hai ngày một đêm dành cho nhóm trekking: ngày đầu di chuyển, leo núi, dựng trại hoặc nghỉ gần khu vực an toàn theo hướng dẫn, ngắm hoàng hôn; sáng hôm sau ngắm bình minh, thu dọn rác, xuống núi và kết hợp Biển Hồ - Chư Đăng Ya. Lịch trình này phải có người dẫn và kiểm tra điều kiện rừng, gió, mưa, lửa.
+
+Lịch trình thay thế cho người không đủ sức: bỏ phần Chư Nâm, chọn Chư Đăng Ya, Biển Hồ T'Nưng, Biển Hồ Chè, Hàng thông trăm tuổi và Chùa Bửu Minh. Chatbot nên đề xuất phương án này cho người đi cùng trẻ nhỏ, người lớn tuổi hoặc người không quen leo dốc.
+
+3. Nguồn tham khảo
+
+Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
+
+Báo Gia Lai điện tử: các bài viết về hành trình chinh phục 'nóc nhà phía Tây' Gia Lai, đường đi từ khu vực đập Tân Sơn, thời gian leo, cảnh quan nhìn từ đỉnh, khuyến cáo an toàn và bảo vệ rừng.
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025: thông tin sắp xếp xã Nghĩa Hưng, Chư Đang Ya, Hà Bầu và Biển Hồ thành xã Biển Hồ, tỉnh Gia Lai.
+
+Cổng Du lịch Pleiku/Gia Lai: các tư liệu giới thiệu trải nghiệm trekking Chư Nâm, đặc điểm cung đường và cảnh quan vùng Chư Păh.
+
+Các nguồn báo chí địa phương năm 2025-2026: thông tin cảnh báo lạc đường, kiểm tra hiện trạng xâm hại cảnh quan và khuyến nghị không đi tự phát khi chưa nắm địa hình.

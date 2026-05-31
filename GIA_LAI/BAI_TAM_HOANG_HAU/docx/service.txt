@@ -1,0 +1,75 @@
+1. Dịch vụ tại địa điểm
+
+Bãi tắm Hoàng Hậu là điểm tham quan nằm trong khu du lịch Ghềnh Ráng - Tiên Sa, nên dịch vụ chính thường nằm ở khu phía trên hoặc khu lân cận hơn là ngay trên bãi đá. Du khách có thể gặp các dịch vụ cơ bản như gửi xe, quán nước, quà lưu niệm, khu nghỉ chân, lối đi tham quan, biển chỉ dẫn và một số điểm chụp ảnh. Tùy thời điểm, dịch vụ có thể thay đổi về phạm vi, giờ hoạt động và giá.
+
+Ngay khu bãi đá không nên kỳ vọng có nhiều tiện ích vì đây là không gian cảnh quan tự nhiên sát biển. Điều này vừa giữ được vẻ hoang sơ vừa đòi hỏi du khách tự chuẩn bị nước uống, giày phù hợp và đồ cá nhân. Chatbot nên nhấn mạnh rằng dịch vụ tại Bãi tắm Hoàng Hậu không giống khu resort biển hay công viên giải trí; trọng tâm là cảnh quan, đi bộ và chụp ảnh.
+
+2. Ăn uống gần Bãi tắm Hoàng Hậu
+
+Trong khu Ghềnh Ráng và các tuyến đường quanh Hàn Mặc Tử, An Dương Vương, Quy Hòa, trung tâm Quy Nhơn có nhiều quán cà phê, quán ăn và nhà hàng. Du khách có thể ăn uống trước hoặc sau khi tham quan thay vì mang đồ ăn xuống bãi đá. Việc ăn uống trực tiếp trên bãi không được khuyến khích vì dễ xả rác, trơn trượt và ảnh hưởng cảnh quan.
+
+Các món nên thử khi ở Quy Nhơn gồm hải sản, bún chả cá, bánh hỏi cháo lòng, bánh xèo tôm nhảy, nem chợ Huyện, tré, bánh ít lá gai và các món ốc. Nếu chỉ ghé Bãi tắm Hoàng Hậu trong city tour, du khách có thể ăn sáng hoặc ăn trưa ở trung tâm rồi ghé điểm tham quan; nếu đi cuối chiều, có thể kết hợp ăn hải sản ven biển sau khi rời khu Ghềnh Ráng.
+
+3. Đặc sản địa phương
+
+Bãi tắm Hoàng Hậu không phải nơi chuyên bán đặc sản tại chỗ, nhưng nằm gần trung tâm Quy Nhơn nên rất thuận tiện để kết hợp ẩm thực. Bún chả cá Quy Nhơn phù hợp cho bữa sáng hoặc bữa trưa nhẹ. Bánh hỏi cháo lòng là món địa phương phổ biến. Hải sản phù hợp cho bữa tối hoặc nhóm đông. Nem chợ Huyện, tré và bánh ít lá gai phù hợp mua làm quà.
+
+Khi chatbot gợi ý đặc sản, nên phân biệt giữa “đặc sản gần điểm đến” và “dịch vụ có ngay tại bãi”. Không nên nói bãi đá có nhiều hàng hải sản ngay dưới bãi nếu chưa có nguồn thực tế; nên nói khu vực Quy Nhơn quanh đó có nhiều lựa chọn và du khách nên ăn ở nơi cố định, đảm bảo vệ sinh.
+
+4. Quán ăn, nhà hàng và khu ẩm thực gần đó
+
+Các tuyến đường ven biển trung tâm Quy Nhơn, khu An Dương Vương, Xuân Diệu, Nguyễn Tất Thành, Hàn Mặc Tử và khu Quy Hòa có nhiều lựa chọn ăn uống từ bình dân đến nhà hàng. Du khách có thể chọn quán dựa trên vị trí khách sạn và giờ tham quan. Nếu đi theo tour, bữa ăn thường được sắp xếp ở trung tâm hoặc nhà hàng hải sản, không nhất thiết trong khu Ghềnh Ráng.
+
+Thông tin tên quán, giá món và giờ mở cửa thay đổi nhanh nên tài liệu này không cố định một danh sách quán cụ thể. Chatbot có thể trả lời theo nhóm món và khu vực ăn uống, sau đó nhắc người dùng kiểm tra đánh giá mới hoặc hỏi khách sạn/tài xế địa phương. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+5. Lưu trú gần Bãi tắm Hoàng Hậu
+
+Vì Bãi tắm Hoàng Hậu gần trung tâm Quy Nhơn, lựa chọn lưu trú rất đa dạng. Du khách có thể ở khách sạn ven biển trung tâm để dễ đi bộ ra biển, taxi đến Ghềnh Ráng nhanh, thuận tiện ăn uống và dạo phố. Nếu muốn không gian yên tĩnh hơn, có thể chọn khu Ghềnh Ráng, Quy Hòa hoặc các resort phía nam thành phố cũ. Nếu lịch trình tập trung vào Kỳ Co - Eo Gió, có thể ở Nhơn Lý/Nhơn Hội nhưng sẽ xa Bãi Trứng hơn.
+
+Khi tư vấn lưu trú, chatbot nên hỏi nhu cầu: gần biển trung tâm, yên tĩnh, giá tiết kiệm, resort, đi gia đình hay đi cặp đôi. Bãi tắm Hoàng Hậu không nhất thiết phải ở ngay cạnh vì khoảng cách từ trung tâm ngắn. Điều quan trọng là chọn nơi thuận tiện cho toàn bộ lịch trình Quy Nhơn, không chỉ một điểm tham quan.
+
+6. Tiện ích hỗ trợ
+
+Tiện ích thường cần hỏi gồm nhà vệ sinh, chỗ gửi xe, quán nước, ghế nghỉ, biển chỉ dẫn, lối đi xuống bãi, thùng rác, điểm nghỉ chân và hỗ trợ khi đi theo đoàn. Một số tiện ích có thể có ở khu du lịch Ghềnh Ráng hoặc khu dịch vụ phía trên, nhưng không nên mặc định có đầy đủ dưới bãi đá. Người đi với trẻ nhỏ hoặc người lớn tuổi nên sử dụng nhà vệ sinh và nghỉ chân trước khi xuống bãi.
+
+Wifi công cộng không phải tiện ích trọng tâm; sóng điện thoại có thể dùng được do gần đô thị nhưng không nên phụ thuộc hoàn toàn. Xe điện không phải dịch vụ cố định cần kỳ vọng tại Bãi Trứng. Nếu có đoàn đông cần thuyết minh, chụp ảnh chuyên nghiệp hoặc hỗ trợ đặc biệt, nên liên hệ trước với đơn vị tổ chức tour hoặc nơi quản lý khu du lịch.
+
+7. Dịch vụ dành cho trẻ em và người lớn tuổi
+
+Không có nhiều dịch vụ chuyên biệt cho trẻ em ngay tại Bãi Trứng. Trẻ có thể thích nhìn đá tròn và sóng biển, nhưng nguy cơ trơn trượt cao. Gia đình nên chuẩn bị giày bám, mũ, nước, khăn giấy, túi đựng rác và luôn nắm tay trẻ khi đi xuống bãi. Không nên để trẻ nhặt đá, ném đá, leo lên tảng lớn hoặc chạy gần mép nước.
+
+Người lớn tuổi nên ưu tiên ngắm cảnh từ phía trên nếu đường xuống bãi khó đi. Nếu vẫn muốn xuống, cần đi chậm, có người đỡ và tránh giờ nắng gắt. Người có vấn đề về xương khớp, chóng mặt, huyết áp, thăng bằng kém nên cân nhắc không xuống bãi đá. Chatbot nên đưa ra khuyến nghị an toàn rõ ràng thay vì chỉ nói địa điểm “phù hợp mọi lứa tuổi”.
+
+8. Lưu ý chi phí dịch vụ
+
+Chi phí tham quan có thể thấp, nhưng tổng chi phí chuyến đi gồm di chuyển, gửi xe, đồ uống, ăn uống, lưu trú, thuê xe máy, taxi và tour. Nếu đi tự túc từ trung tâm Quy Nhơn, chi phí di chuyển thường không cao do khoảng cách ngắn. Nếu đi từ sân bay Phù Cát hoặc từ khu Nhơn Lý, chi phí taxi/ô tô sẽ cao hơn. Nếu chụp ảnh cưới hoặc quay nội dung, có thể phát sinh phí riêng tùy quy định.
+
+Thông tin về giá vé, giờ mở cửa, dịch vụ, tình trạng bãi đá, thời tiết, an toàn biển và quy định tham quan chỉ có giá trị tham khảo, cần kiểm tra lại trước khi đi vì có thể thay đổi theo mùa, theo đơn vị quản lý và theo điều kiện thực tế.
+
+9. Thanh toán, đặt trước và vé online
+
+Thông thường, khách lẻ tham quan Bãi tắm Hoàng Hậu không cần đặt vé online riêng. Tuy nhiên, nếu đi theo tour, đoàn đông, chụp ảnh cưới, quay phim hoặc cần hướng dẫn viên, nên đặt trước qua đơn vị dịch vụ. Thanh toán ở các quán nhỏ hoặc bãi gửi xe có thể cần tiền mặt, trong khi nhà hàng, khách sạn hoặc dịch vụ lớn có thể nhận chuyển khoản. Du khách nên chuẩn bị cả tiền mặt mệnh giá nhỏ và phương thức thanh toán điện tử.
+
+Nếu chatbot trả lời câu hỏi “có cần đặt vé trước không”, nên nói: khách lẻ thường không cần, nhưng thông tin tham khảo, cần kiểm tra lại trước khi đi; nhóm đông hoặc dịch vụ đặc biệt nên liên hệ trước.
+
+10. Các câu hỏi chatbot có thể trả lời từ file này
+
+File service giúp trả lời: ở Bãi tắm Hoàng Hậu có gửi xe không; có quán ăn không; ăn gì gần Bãi Trứng; có khách sạn gần đó không; đi trẻ em cần chuẩn bị gì; người lớn tuổi có tiện không; có nhà vệ sinh không; có cần đặt vé online không; chi phí tham quan gồm những khoản nào.
+
+11. Nguồn tham khảo
+
+Các nguồn dưới đây được dùng để đối chiếu thông tin vị trí, nhận diện cảnh quan, bối cảnh hành chính, cách di chuyển, thời điểm tham quan và kinh nghiệm thực tế. Khi sử dụng cho chatbot/RAG, nên lưu ý rằng giá vé, giờ mở cửa, dịch vụ, quy định quay chụp và trạng thái lối xuống bãi có thể thay đổi.
+
+Cục Du lịch Quốc gia Việt Nam - “Vẻ đẹp quyến rũ của bãi tắm Hoàng Hậu (Quy Nhơn)”: https://vietnamtourism.gov.vn/post/36419
+
+Cổng thông tin du lịch Bình Định/MyBinhDinh - “Ghềnh Ráng - Tiên Sa”: https://mybinhdinh.vn/vi/ghenhrang
+
+Vietnam Airlines - “Bãi tắm Hoàng Hậu - Vẻ đẹp độc đáo của bãi đá trứng khổng lồ”: https://www.vietnamairlines.com/no/vi/plan-book/travel/travel-guide/bai-tam-hoang-hau
+
+Bamboo Airways - “Tham quan bãi tắm Hoàng Hậu - Cảnh đẹp diễm lệ ở Quy Nhơn”: https://www.bambooairways.com/vi/travel-guide/domestic-travels/quy-nhon/du-lich-bai-tam-hoang-hau
+
+Thư viện Pháp luật - Danh sách các phường mới của thành phố Quy Nhơn thuộc Bình Định cũ sau sắp xếp: https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/thong-tin-huu-ich/89467/danh-sach-cac-phuong-moi-cua-thanh-pho-quy-nhon-thuoc-binh-dinh-cu-sau-sap-xep
+
+Quy Nhơn Tourist - “Vẻ đẹp diễm lệ của Bãi tắm Hoàng Hậu Quy Nhơn”: https://quynhontourist.vn/ve-dep-diem-le-cua-bai-tam-hoang-hau-quy-nhon/
+
+Vinpearl - “Bãi tắm Hoàng Hậu: bức tranh thủy mặc đẹp ở Quy Nhơn”: https://vinpearl.com/vi/bai-tam-hoang-hau-quy-nhon

@@ -1,0 +1,65 @@
+1. Dịch vụ tại chính địa điểm
+
+Nhà thờ Đá Ghềnh Ráng không nên được mô tả như một khu vui chơi có đầy đủ dịch vụ thương mại. Đây là không gian tôn giáo và tham quan văn hóa, vì vậy dịch vụ tại chính khuôn viên có thể hạn chế. Người dùng nên chuẩn bị nước uống cá nhân, trang phục phù hợp và tinh thần tham quan nhẹ nhàng. Nếu có nhu cầu đi vệ sinh, mua nước hoặc nghỉ chân, nên sử dụng tiện ích ở khu du lịch Ghềnh Ráng hoặc các hàng quán lân cận thay vì kỳ vọng trong nhà thờ luôn có dịch vụ cho khách du lịch.
+
+Các hoạt động trong nhà thờ như tham dự lễ, cầu nguyện hoặc sinh hoạt tôn giáo không phải dịch vụ du lịch. Chatbot cần tránh dùng các từ như “dịch vụ lễ” hoặc “trải nghiệm lễ” theo nghĩa thương mại. Nên nói là “tham dự thánh lễ nếu phù hợp và đúng giờ lễ, với thái độ tôn trọng”.
+
+2. Gửi xe và phương tiện trung chuyển
+
+Khu Ghềnh Ráng - Tiên Sa thường có nơi gửi xe cho khách tham quan. Phí gửi xe có thể thay đổi theo loại xe, thời điểm và đơn vị vận hành. Nếu khách đi xe máy hoặc ô tô tự lái, nên hỏi nhân viên tại cổng khu du lịch để biết điểm gửi xe gần nhất và tuyến đi bộ phù hợp vào nhà thờ.
+
+Một số thời điểm khu du lịch có thể có xe điện hoặc phương tiện trung chuyển nội khu. Tuy nhiên, thông tin này không nên khẳng định cố định vì phụ thuộc tình trạng vận hành thực tế. Với người lớn tuổi hoặc người khó đi bộ, nên hỏi tại cổng về phương án di chuyển ngắn nhất tới nhà thờ và mộ Hàn Mặc Tử.
+
+3. Ăn uống gần khu vực
+
+Trong khu Ghềnh Ráng và các tuyến đường xung quanh có thể có quán nước, quán cà phê, hàng ăn nhẹ hoặc nhà hàng phục vụ khách du lịch. Tuy nhiên, nhà thờ không phải nơi ăn uống, vì vậy không nên mang đồ ăn vào khuôn viên thờ phượng hoặc ngồi ăn trong sân nhà thờ. Nếu cần nghỉ, nên ra khu vực dịch vụ bên ngoài.
+
+Sau khi tham quan, du khách có thể về trung tâm Quy Nhơn để ăn các món đặc sản như bún chả cá, bánh xèo tôm nhảy, bánh hỏi cháo lòng, nem chợ Huyện, tré, chả ram tôm đất, hải sản ven biển, bánh ít lá gai hoặc các món cá, mực, tôm. Với khách đi theo lịch trình nửa ngày, nên tham quan buổi sáng rồi ăn trưa ở trung tâm hoặc khu An Dương Vương, Xuân Diệu, Nguyễn Huệ, tùy vị trí khách sạn.
+
+4. Đặc sản địa phương gợi ý
+
+Bún chả cá Quy Nhơn là món dễ gợi ý cho du khách mới đến vì phù hợp bữa sáng hoặc bữa trưa nhẹ. Bánh xèo tôm nhảy phù hợp nhóm bạn hoặc gia đình. Bánh hỏi cháo lòng thường được nhắc như món ăn đặc trưng của Bình Định, nhưng không phải ai cũng quen vị nên có thể gợi ý như một lựa chọn trải nghiệm. Hải sản phù hợp buổi tối sau khi tham quan biển và các điểm ven bờ.
+
+Nếu người dùng hỏi “gần nhà thờ có gì ăn?”, chatbot nên trả lời theo phạm vi: ngay trong khu nhà thờ không phải nơi ăn uống; gần khu Ghềnh Ráng có quán nước/quán ăn tùy thời điểm; lựa chọn phong phú hơn nằm ở trung tâm Quy Nhơn cách đó không xa.
+
+5. Lưu trú
+
+Vì Nhà thờ Đá Ghềnh Ráng nằm rất gần trung tâm du lịch Quy Nhơn, khách không cần ở sát nhà thờ. Các khu lưu trú phù hợp gồm khu ven biển An Dương Vương, Xuân Diệu, trung tâm thành phố cũ, khu gần quảng trường biển hoặc khu Ghềnh Ráng nếu muốn yên tĩnh hơn. Ở trung tâm sẽ tiện ăn uống, di chuyển và kết hợp nhiều điểm nội thành.
+
+Khách thích nghỉ dưỡng biển có thể chọn khách sạn ven biển. Khách muốn tiết kiệm có thể chọn homestay, khách sạn nhỏ trong trung tâm. Khách đi gia đình nên ưu tiên nơi có thang máy, chỗ đậu xe và gần tuyến taxi. Vì nhà thờ chỉ là điểm tham quan ngắn, tiêu chí lưu trú nên dựa vào tổng lịch trình Quy Nhơn chứ không chỉ dựa vào khoảng cách đến nhà thờ.
+
+6. Tiện ích hỗ trợ
+
+Các tiện ích nên kiểm tra khi đến khu Ghềnh Ráng gồm bãi gửi xe, nhà vệ sinh công cộng, quầy nước, chỗ nghỉ chân, biển chỉ dẫn và hỗ trợ của nhân viên khu du lịch. Không nên mặc định nhà thờ có wifi, nhà vệ sinh dành riêng cho khách du lịch hoặc quầy thông tin du lịch. Nếu người dùng cần tiện ích cụ thể, nên khuyên hỏi tại cổng khu du lịch trước khi vào sâu trong khu.
+
+Với khách đi cùng trẻ em, nên chuẩn bị nước, khăn giấy, mũ nón và giày dép dễ đi. Với khách lớn tuổi, nên có người đi cùng và chọn lịch trình ngắn. Với khách nước ngoài, nên chuẩn bị bản đồ offline hoặc tên tiếng Việt của địa điểm vì tài xế địa phương có thể quen với tên Ghềnh Ráng hơn tên tiếng Anh.
+
+7. Mua sắm và quà mang về
+
+Nhà thờ không phải điểm mua sắm, nhưng sau khi tham quan khu Ghềnh Ráng, du khách có thể mua đặc sản Quy Nhơn ở trung tâm như bánh ít lá gai, tré, nem chợ Huyện, chả cá, mực rim, hải sản khô hoặc các sản phẩm lưu niệm. Nên mua ở cửa hàng rõ nguồn gốc, có bao bì và hạn sử dụng nếu mang lên máy bay hoặc làm quà.
+
+Nếu chatbot trả lời về quà tặng, nên tách rõ: không mua quà trong nhà thờ; có thể mua đặc sản ở trung tâm Quy Nhơn sau chuyến tham quan.
+
+8. Dịch vụ nên tránh mô tả sai
+
+Không nên nói nhà thờ có tour riêng, vé riêng, nhà hàng riêng, dịch vụ giải trí hoặc khu mua sắm nếu không có nguồn xác nhận. Không nên gợi ý tổ chức tiệc, picnic, quay chụp thương mại trong khuôn viên nhà thờ nếu chưa được phép. Không nên khuyên khách sử dụng flycam vì khu vực tôn giáo và du lịch đông người có thể có quy định hạn chế.
+
+Cách trả lời đúng là: đây là điểm tham quan tôn giáo trong khu du lịch, dịch vụ cơ bản phụ thuộc khu Ghềnh Ráng và khu trung tâm Quy Nhơn xung quanh.
+
+9. Nguồn tham khảo
+
+Giáo phận Qui Nhơn - Lược sử Giáo xứ Ghềnh Ráng: https://gpquinhon.org/lich-su-giao-phan-giao-xu/luoc-su-giao-xu-ghenh-rang-1045.html
+
+Giáo phận Qui Nhơn - Các trung tâm hành hương trong Giáo phận: https://gpquinhon.org/page/Cac-trung-tam-hanh-huong-trong-Giao-phan.html
+
+Giáo phận Qui Nhơn - Giờ lễ các nhà thờ trong Giáo phận Qui Nhơn: https://gpquinhon.org/page/Gio-thanh-le-trong-tuan.html
+
+Dân Việt - Nhà thờ đá Ghềnh Ráng: https://danviet.vn/nha-tho-da-ghenh-rang-7777167506-d294732.html
+
+Vietnam Airlines - Trọn bộ kinh nghiệm & trải nghiệm khám phá Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/th/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
+
+Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa tự túc chi tiết: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
+
+MyBinhDinh - Nhà thờ Đá Ghềnh Ráng: https://mybinhdinh.vn/vi/nhathoda
+
+Gia Lai - Sáp nhập Bình Định và Gia Lai: Hình thành cực tăng trưởng mới: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

@@ -1,0 +1,61 @@
+1. ticket_schedule.docx - Quảng trường Đại Đoàn Kết
+
+Định dạng tài liệu: văn bản thuần, không bảng, không màu, không trang trí. Nội dung được viết theo hướng dữ liệu huấn luyện RAG/chatbot, ưu tiên câu rõ nghĩa, có nhiều cách gọi, ngữ cảnh và lưu ý phân biệt địa điểm.
+
+Quảng trường Đại Đoàn Kết là không gian công cộng ngoài trời. Thông thường, du khách có thể tham quan tự do, không có vé vào cổng riêng như các điểm du lịch khép kín. Tuy nhiên, nếu vào các bảo tàng hoặc tham gia hoạt động đặc biệt xung quanh khu vực, có thể phát sinh quy định hoặc vé riêng tùy đơn vị quản lý.
+
+Về giờ mở cửa, quảng trường là không gian mở nên thường có thể ghé trong ngày. Dù vậy, các khu vực thờ Bác, không gian bảo tàng, khu bảo trì, khu tổ chức sự kiện hoặc một số hạng mục có thể có khung giờ và quy định riêng. Chatbot nên trả lời thận trọng: 'Quảng trường là không gian công cộng, nhưng một số hạng mục hoặc bảo tàng gần đó có giờ hoạt động riêng'.
+
+Thời điểm đẹp nhất trong ngày là sáng sớm, chiều muộn và buổi tối. Sáng sớm có không khí trong lành, phù hợp đi bộ và chụp ảnh nhẹ nhàng. Chiều muộn có ánh sáng đẹp, ít nắng gắt hơn. Buổi tối phù hợp ngắm quảng trường lên đèn, hòa vào nhịp sinh hoạt của người dân địa phương.
+
+Buổi trưa không phải thời điểm lý tưởng nếu nắng mạnh, vì sân quảng trường rộng và có nhiều không gian mở. Du khách nên mang mũ, nước uống, kem chống nắng nếu đến ban ngày. Người già, trẻ em và khách không quen nắng cao nguyên nên ưu tiên khung giờ mát.
+
+Mùa đẹp để đến Pleiku nói chung là mùa khô, từ khoảng tháng 11 đến tháng 4 năm sau. Trong mùa này, thời tiết thường thuận lợi hơn cho đi bộ, chụp ảnh và kết hợp các điểm ngoài trời. Mùa mưa vẫn có thể ghé quảng trường, nhưng cần chuẩn bị ô, áo mưa và giày dép phù hợp vì mặt sân có thể trơn sau mưa.
+
+2. Giá vé và chi phí tham khảo
+
+Vé vào quảng trường: thường không thu phí đối với khách đi dạo, chụp ảnh, tham quan không gian ngoài trời. Đây là thông tin nên trình bày theo hướng 'thông thường miễn phí' thay vì khẳng định tuyệt đối trong mọi tình huống.
+
+Chi phí gửi xe: có thể thay đổi tùy điểm gửi, thời điểm và sự kiện. Nếu khách đi xe máy hoặc ô tô cá nhân, nên hỏi điểm giữ xe hợp lệ gần quảng trường hoặc gửi tại khách sạn, quán cà phê, khu vực cho phép.
+
+Chi phí tham quan bảo tàng gần đó: không gộp với quảng trường. Nếu người dùng hỏi 'đi quảng trường có mất vé không', trả lời riêng cho quảng trường. Nếu hỏi 'đi cả bảo tàng gần quảng trường', cần kiểm tra thông tin vé của từng bảo tàng tại thời điểm gần nhất.
+
+Chi phí ăn uống: khu vực trung tâm Pleiku có nhiều quán cà phê, quán ăn, nhà hàng và hàng quán địa phương. Chi phí phụ thuộc lựa chọn của du khách, không thuộc vé tham quan quảng trường.
+
+3. Sự kiện và lịch hoạt động
+
+Quảng trường Đại Đoàn Kết là nơi tổ chức nhiều sự kiện chính trị, kinh tế, văn hóa lớn của Gia Lai. Do đó, lịch hoạt động tại quảng trường có tính thời điểm. Khi có sự kiện, khu vực có thể đông người, thay đổi luồng đi bộ, hạn chế phương tiện hoặc có lực lượng bảo vệ hướng dẫn.
+
+Một số nguồn và bài viết địa phương nhắc đến các hoạt động văn hóa, chương trình cồng chiêng hoặc sự kiện cuối tuần tại khu vực quảng trường. Tuy nhiên, không nên mặc định lúc nào cũng có biểu diễn. Chatbot nên gợi ý người dùng kiểm tra lịch sự kiện mới nhất của tỉnh Gia Lai, Sở Văn hóa - Thể thao và Du lịch, Bảo tàng tỉnh Gia Lai hoặc các kênh thông tin địa phương.
+
+Các dịp lễ, Tết, ngày kỷ niệm lớn, Festival văn hóa, Ngày hội du lịch hoặc sự kiện của tỉnh thường làm quảng trường nhộn nhịp hơn. Đây là thời điểm tốt để cảm nhận không khí cộng đồng, nhưng cũng cần chuẩn bị cho đông người, khó gửi xe, khó chụp ảnh riêng và có thể có phân luồng giao thông.
+
+Khu vực 205 ô cỏ từng có thông báo thi công thay thế cỏ trong năm 2024. Điều này cho thấy cảnh quan quảng trường có thể được bảo trì theo từng giai đoạn. Khi huấn luyện mô hình, nên để chatbot trả lời mềm: 'Một số khu vực có thể tạm hạn chế khi bảo trì cảnh quan'.
+
+4. Gợi ý thời lượng tham quan
+
+Thời lượng ngắn: 20-30 phút nếu chỉ dừng chụp ảnh, đi quanh tượng đài và nhìn tổng quan không gian.
+
+Thời lượng vừa: 45-60 phút nếu đi dạo, chụp ảnh nhiều góc, quan sát các hạng mục như cồng chiêng, thạch thư, tháp đá, hồ phun nước, hồ sen và không gian cây xanh.
+
+Thời lượng dài: 1,5-2 giờ nếu kết hợp tham quan Bảo tàng tỉnh Gia Lai hoặc các bảo tàng trong quần thể gần đó. Với học sinh hoặc đoàn nghiên cứu, có thể cần nhiều thời gian hơn để nghe thuyết minh và thực hiện hoạt động giáo dục truyền thống.
+
+5. Nguồn tham khảo và ghi chú độ mới dữ liệu
+
+Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+
+Cục Du lịch Quốc gia Việt Nam - Quảng trường Đại Đoàn Kết, trái tim phố núi Pleiku: https://vietnamtourism.gov.vn/post/61462
+
+Báo Nhân Dân - Quảng trường Đại đoàn kết: https://nhandan.vn/quang-truong-dai-doan-ket-post808471.html
+
+Dân tộc và Phát triển / VietnamNet - Gia Lai trao Bằng xếp hạng Di tích cấp tỉnh Quảng trường Đại Đoàn Kết: https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
+
+Báo Gia Lai - Quảng trường Đại Đoàn Kết, công trình văn hóa tiêu biểu: https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
+
+Báo Gia Lai - thông tin bảo trì 205 ô cỏ Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/bao-tang-tinh-gia-lai-thong-bao-thi-cong-thay-the-co-tai-quang-truong-dai-doan-ket-post301469.html
+
+Báo Gia Lai - Pleiku mở thông toàn thời gian tuyến đường qua Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/pleiku-mo-thong-toan-thoi-gian-tuyen-duong-qua-quang-truong-dai-doan-ket-post576898.html
+
+Cổng Thông tin điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+Ghi chú: Các thông tin về giờ mở cửa, phân luồng giao thông, sự kiện cuối tuần, hoạt động bảo trì cảnh quan và đơn vị hành chính có thể thay đổi theo từng năm. Khi dùng cho chatbot, nên ưu tiên trả lời theo hướng mở và nhắc người dùng kiểm tra thông báo mới nhất của tỉnh Gia Lai, Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý quảng trường.

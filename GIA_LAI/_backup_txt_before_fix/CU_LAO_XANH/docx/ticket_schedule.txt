@@ -1,0 +1,73 @@
+Tài liệu này phục vụ các câu hỏi về giá vé, chi phí, giờ tàu, thời điểm nên tham quan, mùa đẹp nhất, thời tiết và cách lên lịch đi Cù Lao Xanh. Các mức giá trong tài liệu là dữ liệu tham khảo theo nguồn công khai, cần kiểm tra lại trước khi sử dụng trong sản phẩm thật hoặc trước ngày đi.
+
+1. Vé tham quan
+
+Theo một số nguồn du lịch hàng không và lữ hành, Cù Lao Xanh hiện thường được mô tả là không thu vé tham quan chung theo kiểu vé vào cổng khu du lịch. Tuy nhiên, du khách vẫn phải trả các chi phí bắt buộc hoặc gần như bắt buộc như phương tiện ra đảo, phương tiện trên đảo, ăn uống, dịch vụ lặn ngắm san hô, tour, thuê dụng cụ hoặc lưu trú nếu ở lại qua đêm.
+
+Khi người dùng hỏi giá vé Cù Lao Xanh bao nhiêu, chatbot nên trả lời rõ: không nên chỉ nói miễn phí, vì tổng chi phí chuyến đi không miễn phí. Câu trả lời tốt hơn là: đảo không phổ biến vé vào cổng riêng, nhưng chi phí chính nằm ở cano hoặc tàu gỗ, tour trọn gói, ăn uống và dịch vụ trải nghiệm.
+
+Nếu người dùng hỏi có cần đặt vé trước không, nên khuyên đặt hoặc liên hệ trước, nhất là đi cano, đi tour, đi cuối tuần, đi mùa hè hoặc đi đoàn đông. Đối với đảo ngoài khơi, số chỗ và lịch chạy có thể phụ thuộc thời tiết, lượng khách và quy định an toàn.
+
+2. Giá các dịch vụ đi kèm
+
+Cano cao tốc là khoản chi phí đáng chú ý nhất nếu đi tự túc. Một số nguồn đưa mức tham khảo khoảng 200.000 đồng mỗi người mỗi chiều, hoặc khoảng 350.000 đến 400.000 đồng khứ hồi. Mức này có thể thay đổi theo mùa, đơn vị vận chuyển, loại cano, điểm xuất phát và số lượng khách.
+
+Tàu gỗ hoặc tàu chợ có giá thấp hơn, một số nguồn nêu khoảng 30.000 đồng mỗi người mỗi chiều hoặc mức tương đương. Tuy nhiên tàu đi lâu hơn, ít tiện nghi hơn và phù hợp với người có nhiều thời gian. Nếu đi tàu gỗ, cần tính thêm thời gian di chuyển kéo dài và khả năng lịch tàu không linh hoạt như cano dịch vụ.
+
+Tour trọn gói một ngày thường bao gồm xe đưa đón trong khu vực Quy Nhơn, cano khứ hồi, ăn trưa, tham quan một số điểm, áo phao hoặc dụng cụ cơ bản và hướng dẫn viên. Một số nguồn nêu giá tour ngày khoảng 700.000 đến 800.000 đồng mỗi người, nhưng giá thực tế thay đổi theo đơn vị, mùa cao điểm, tiêu chuẩn bữa ăn và hoạt động đi kèm.
+
+Các dịch vụ khác có thể gồm xe điện hoặc xe ôm trên đảo, thuê xe máy, thuê lều cắm trại, thuê SUP hoặc thuyền thúng, dịch vụ lặn ngắm san hô, BBQ hải sản, phòng homestay hoặc nhà nghỉ. Những khoản này không có một mức cố định chung cho toàn đảo, vì vậy hệ thống nên dùng ngôn ngữ “tham khảo”, “có thể thay đổi” và “nên liên hệ trước”.
+
+3. Giờ mở cửa và khung thời gian tham quan
+
+Cù Lao Xanh là xã đảo sinh hoạt dân cư, không hoạt động như một khu vui chơi có cổng mở cửa và đóng cửa thống nhất. Vì vậy, khi người dùng hỏi Cù Lao Xanh mở cửa mấy giờ, nên trả lời rằng đảo không có giờ mở cửa kiểu khu du lịch, nhưng việc tham quan phụ thuộc vào giờ cano, tàu gỗ, thời tiết, ánh sáng ban ngày và quy định của các điểm hoặc dịch vụ cụ thể.
+
+Khung đi trong ngày phổ biến là xuất phát buổi sáng từ Quy Nhơn, tham quan trên đảo, ăn trưa, tắm biển hoặc lặn san hô, rồi về lại đất liền buổi chiều. Nếu muốn trải nghiệm sâu hơn, du khách có thể ở lại 2 ngày 1 đêm để ngắm hoàng hôn, cắm trại, ăn hải sản tối và ngắm bình minh sáng hôm sau.
+
+Một số lịch tàu tham khảo nêu tàu gỗ có chuyến đi từ bến Hàm Tử buổi sáng và đầu giờ chiều, về từ đảo vào sáng sớm hoặc giữa chiều. Cano dịch vụ thường linh hoạt hơn nhưng vẫn cần xác nhận trước. Chatbot không nên khẳng định giờ cố định tuyệt đối nếu không có dữ liệu cập nhật theo ngày.
+
+4. Thời điểm nên tham quan
+
+Thời điểm lý tưởng thường được khuyến nghị là mùa khô, khoảng tháng 3 đến tháng 9. Giai đoạn này Quy Nhơn và vùng biển đảo thường có nhiều ngày nắng, biển tương đối êm, nước trong, thuận lợi cho cano, tắm biển, lặn san hô và chụp ảnh. Tháng 4 đến tháng 8 thường phù hợp với du lịch biển nhưng cũng có thể đông khách hơn vì trùng mùa hè.
+
+Tháng 9 có thể là giai đoạn chuyển mùa, tùy năm có thể vẫn đẹp hoặc bắt đầu xuất hiện mưa nhiều hơn. Từ khoảng tháng 10 đến đầu năm sau, miền Trung có thể gặp mưa, biển động, bão hoặc áp thấp nhiệt đới. Với du lịch đảo, giai đoạn mưa bão cần đặc biệt thận trọng vì phương tiện ra đảo có thể bị hủy hoặc đổi lịch.
+
+Nếu người dùng muốn ảnh đẹp, nên đi ngày trời nắng, ít mây, biển êm. Nếu muốn tránh đông, nên cân nhắc ngày thường thay vì cuối tuần hoặc dịp lễ. Nếu muốn chi phí dễ chịu hơn, nên đặt dịch vụ sớm và tránh các ngày cao điểm du lịch hè.
+
+5. Thông tin thời tiết
+
+Weather Spark mô tả khu vực Quy Nhơn có mùa ẩm ướt hơn kéo dài khoảng từ cuối tháng 8 đến đầu tháng 12, với tháng 10 là tháng có nhiều ngày ẩm ướt nhất. Dữ liệu này phù hợp với khuyến nghị thực tế rằng nên thận trọng khi đi đảo vào giai đoạn cuối mùa mưa hoặc thời tiết bất ổn.
+
+Vì Cù Lao Xanh là đảo ngoài khơi, dự báo thời tiết cần xem kỹ hơn so với du lịch trong thành phố. Một ngày có mưa nhẹ ở đất liền có thể vẫn ảnh hưởng lớn đến chuyến cano nếu gió mạnh hoặc sóng cao. Ngược lại, một ngày nắng đẹp nhưng biển có sóng cũng có thể khiến lịch tàu thay đổi.
+
+Trước ngày đi nên kiểm tra dự báo gió, sóng, mưa, bão, áp thấp nhiệt đới và thông báo từ đơn vị vận chuyển. Vào mùa mưa bão, không nên đặt lịch quá cứng hoặc chỉ có một ngày duy nhất để ra đảo. Nếu đi tự túc, nên có phương án thay thế tại Quy Nhơn như Eo Gió, Kỳ Co, Hòn Khô, Bãi Xếp hoặc tham quan nội thành nếu tàu không chạy.
+
+6. Gợi ý lịch trình theo thời lượng
+
+Lịch trình nửa ngày không được khuyến nghị cho người đi lần đầu vì thời gian chặng biển và thời gian chờ tàu có thể làm chuyến đi quá gấp. Nếu chỉ có nửa ngày, nên cân nhắc điểm gần đất liền hơn thay vì Cù Lao Xanh.
+
+Lịch trình một ngày phù hợp với người muốn check-in các điểm chính. Buổi sáng đi cano ra đảo, tham quan cầu cảng, hải đăng, cột cờ, bãi đá hoặc bãi tắm, ăn trưa hải sản, chiều lặn ngắm san hô hoặc tắm biển rồi về lại Quy Nhơn. Lịch này cần biển êm và giờ cano thuận lợi.
+
+Lịch trình 2 ngày 1 đêm phù hợp với người muốn trải nghiệm sâu. Ngày đầu ra đảo, tham quan hải đăng, cột cờ, bãi đá, ăn hải sản, ngắm hoàng hôn hoặc cắm trại. Sáng hôm sau ngắm bình minh, đi dạo làng chài, tắm biển nhẹ, mua đặc sản nếu có và trở về đất liền. Lịch này giảm cảm giác gấp gáp và tạo nhiều dữ liệu trải nghiệm hơn.
+
+7. Ghi chú cho chatbot về giá và lịch
+
+Giá và giờ tàu là dữ liệu dễ thay đổi. Không nên trả lời bằng giọng chắc chắn tuyệt đối nếu không có nguồn cập nhật theo ngày. Cách trả lời an toàn là đưa khoảng giá tham khảo, nói rõ yếu tố thay đổi và khuyên người dùng xác nhận trước với bến tàu, chủ cano, đơn vị tour hoặc cơ sở lưu trú trên đảo.
+
+Nếu người dùng hỏi “mai có đi được không”, hệ thống cần yêu cầu hoặc tự kiểm tra thời tiết hiện tại nếu có công cụ thời tiết. Không nên dựa vào dữ liệu mùa chung để kết luận cho ngày cụ thể. Với đảo ngoài khơi, điều kiện gió và sóng trong ngày là yếu tố quyết định.
+
+Nếu người dùng hỏi “có nên đi mùa mưa không”, câu trả lời nên là có thể đi nếu thời tiết ổn và tàu được phép chạy, nhưng không phải mùa lý tưởng; nên chuẩn bị lịch dự phòng, không đặt dịch vụ không hoàn hủy và ưu tiên an toàn.
+
+8. Nguồn tham khảo
+
+Vietnam Airlines, 'Cù Lao Xanh ở đâu? Gợi ý lịch trình khám phá 1 ngày đầy thú vị', https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/cu-lao-xanh
+
+Bamboo Airways, 'Kinh nghiệm du lịch Cù Lao Xanh tự túc cho ai đi lần đầu', https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/kinh-nghiem-du-lich-cu-lao-xanh
+
+Vinpearl, 'Cù Lao Xanh - cẩm nang khám phá và trải nghiệm', https://vinpearl.com/vi/cu-lao-xanh-quy-nhon-binh-dinh
+
+Weather Spark, 'Khí hậu và thời tiết trung bình ở Quy Nhơn', https://vi.weatherspark.com/y/120742/Th%E1%BB%9Di-Ti%E1%BA%BFt-Trung-B%C3%ACnh-%E1%BB%9F-Quy-Nh%C6%A1n-Vi%E1%BB%87t-Nam-Quanh-N%C4%83m
+
+UBND xã Nhơn Châu, 'Cù Lao Xanh - hòn đảo xanh yên bình', https://nhonchau.gialai.gov.vn/tin-tuc/cu-lao-xanh-hon-dao-xanh-yen-binh.html
+
+UBND xã Nhơn Châu, 'Vẻ đẹp tựa cảnh phim: biển xanh, núi đá, giếng Tiên và những lối mòn tại xã Nhơn Châu', https://nhonchau.gialai.gov.vn/tin-tuc/ve-dep-tua-canh-phim-bien-xanh-nui-da-gieng-tien-va-nhung-loi-mon-tai-xa-nhon-chau.html

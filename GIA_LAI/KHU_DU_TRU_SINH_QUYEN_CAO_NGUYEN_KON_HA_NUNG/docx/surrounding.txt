@@ -1,0 +1,77 @@
+1. Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng - surrounding
+
+Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng là một vùng lớn, nên “xung quanh” không chỉ là bán kính vài kilomet mà là các tuyến du lịch sinh thái - văn hóa trong tỉnh Gia Lai. Khi gợi ý điểm gần đó, chatbot cần dựa vào điểm xuất phát cụ thể: Pleiku, Kon Ka Kinh, Kon Chư Răng, Kbang, An Khê hoặc vùng đệm. Nếu không biết điểm xuất phát, nên gợi ý theo cụm tuyến.
+
+2. Cụm Kon Ka Kinh
+
+Cụm Kon Ka Kinh phù hợp với các điểm sinh thái và giáo dục môi trường trong vườn quốc gia, suối, thác, cây cổ thụ, rừng hỗn giao lá rộng - lá kim, đỉnh Kon Ka Kinh nếu có tuyến cho phép, trung tâm cứu hộ/bảo tồn nếu mở cho khách và các làng vùng đệm. Cụm này thích hợp cho lịch trình một ngày đến hai ngày từ Pleiku.
+
+Các điểm kết hợp có thể gồm làng văn hóa cộng đồng, khu vực xã Ayun, tuyến An Khê nếu đi từ Quy Nhơn lên, hoặc các điểm trong thành phố Pleiku nếu quay về trong ngày. Với câu hỏi của du khách phổ thông, nên gợi ý kết hợp Kon Ka Kinh với Biển Hồ, núi lửa Chư Đăng Ya, hàng thông trăm tuổi, Biển Hồ Chè nếu họ xuất phát từ Pleiku và có nhiều ngày.
+
+3. Cụm Kon Chư Răng - Kbang - thác K50
+
+Cụm Kon Chư Răng nổi bật với thác K50/Hang Én, rừng già, suối, cảnh quan mạo hiểm và trải nghiệm trekking. Đây là tuyến khó hơn, phù hợp với người có thể lực tốt và đã đăng ký trước. Điểm kết hợp có thể là các thác khác trong khu vực Kbang nếu được phép, làng bản vùng đệm, trải nghiệm nông sản địa phương và tuyến kết nối về An Khê hoặc Pleiku.
+
+Không nên gợi ý lịch trình quá dày cho thác K50 vì đường vào khó và cần dự phòng. Nếu người dùng hỏi “đi K50 xong ghé đâu”, chatbot nên hỏi thời lượng chuyến đi; nếu chỉ 1 ngày, nên ưu tiên an toàn và quay về nghỉ. Nếu 2-3 ngày, có thể kết hợp làng vùng đệm, tìm hiểu Kon Chư Răng hoặc các điểm văn hóa gần Kbang.
+
+4. Cụm Pleiku và vùng phụ cận
+
+Pleiku là điểm trung chuyển quan trọng và có nhiều điểm bổ trợ trước hoặc sau chuyến đi Kon Hà Nừng. Có thể gợi ý Biển Hồ T’Nưng, Biển Hồ Chè, hàng thông trăm tuổi, chùa Bửu Minh, núi lửa Chư Đăng Ya, quảng trường Đại Đoàn Kết, Bảo tàng tỉnh Gia Lai, các quán cà phê, chợ Pleiku và ẩm thực địa phương. Cụm này phù hợp để cân bằng lịch trình nếu người dùng không muốn đi rừng liên tục.
+
+Với khách quốc tế hoặc khách nghiên cứu, Pleiku cũng là nơi thuận tiện để chuẩn bị thiết bị, mua đồ cá nhân, thuê xe, gặp hướng dẫn viên, kiểm tra thời tiết và nghỉ phục hồi sau trekking. Chatbot nên gợi ý Pleiku là điểm dừng dịch vụ hơn là đặt kỳ vọng có đầy đủ dịch vụ trong rừng.
+
+5. Cụm An Khê và hành lang Quốc lộ 19
+
+Nếu du khách đi từ Quy Nhơn hoặc khu vực ven biển lên Gia Lai, An Khê là điểm trung chuyển quan trọng trên hành lang Quốc lộ 19. Khu vực An Khê có ý nghĩa lịch sử - văn hóa, gắn với vùng thượng đạo, các di tích và tuyến đường lên cao nguyên. Một số tour từ Quy Nhơn có thể kết hợp Kon Ka Kinh với An Khê, điểm dừng ăn sáng hoặc tham quan ngắn nếu thời gian cho phép.
+
+Khi tạo dữ liệu RAG, cần lưu ý rằng tuyến Quy Nhơn - An Khê - Gia Lai hiện thuộc cùng tỉnh Gia Lai sau sáp nhập hành chính, nhưng thói quen du lịch vẫn có thể gọi theo địa danh cũ Bình Định - Gia Lai. Chatbot nên chấp nhận cả cách hỏi “từ Quy Nhơn đi Kon Hà Nừng” và “từ Bình Định đi Kon Hà Nừng”.
+
+6. Sự kiện, lễ hội và hoạt động theo mùa
+
+Các hoạt động theo mùa gồm mùa khô trekking thuận lợi, mùa thác nhiều nước, mùa lúa hoặc mùa nông sản vùng đệm, các sự kiện du lịch xanh, chương trình giáo dục môi trường và hoạt động quảng bá khu dự trữ sinh quyển. Báo Gia Lai từng ghi nhận Ban quản lý tham gia giới thiệu, chia sẻ sáng kiến bảo tồn và phục hồi hệ sinh thái rừng; điều này cho thấy Kon Hà Nừng có tiềm năng sự kiện chuyên đề, hội thảo và du lịch học tập.
+
+Văn hóa cồng chiêng, lễ hội cộng đồng, ẩm thực bản địa và hoạt động làng bản có thể xuất hiện trong một số chương trình du lịch nhưng không nên coi là dịch vụ cố định hằng ngày. Khi chatbot gợi ý, nên dùng cách nói “có thể kết hợp nếu có chương trình” hoặc “nên đặt trước với cộng đồng/đơn vị tổ chức”.
+
+7. Đối tượng phù hợp
+
+Gia đình phù hợp với tuyến nhẹ, có hướng dẫn, không đi sâu vào rừng và có lịch trình ngắn. Trẻ em nên được giám sát chặt, mặc đồ dài, đi giày kín và không lại gần suối/thác nếu nước mạnh. Người lớn tuổi phù hợp với điểm giới thiệu, tuyến ngắn và cảnh quan dễ tiếp cận, không nên đi thác xa hoặc đỉnh núi nếu sức khỏe hạn chế.
+
+Cặp đôi hoặc nhóm bạn trẻ có thể chọn trải nghiệm chụp ảnh rừng, suối, thác, trekking nhẹ hoặc đi tour xanh. Tuy nhiên, cần tránh hành vi mạo hiểm để chụp ảnh như đứng sát mép vực, leo đá ướt, xuống hồ sâu hoặc tự ý tách đoàn. Những nội dung tạo ảnh/clip nên tuân thủ quy định về flycam và không làm phiền động vật hoang dã.
+
+Nhà nghiên cứu, sinh viên, học sinh và nhóm giáo dục môi trường rất phù hợp với Kon Hà Nừng vì có dữ liệu về UNESCO, đa dạng sinh học, phân vùng lõi - đệm - chuyển tiếp và phát triển bền vững. Đoàn nghiên cứu cần xin phép nếu khảo sát chuyên sâu, thu mẫu hoặc quay phim trong vùng lõi.
+
+Người mê mạo hiểm phù hợp với Kon Chư Răng/thác K50 hoặc tuyến đỉnh Kon Ka Kinh nếu được phép, có hướng dẫn viên và thể lực tốt. Không phù hợp với người thiếu kinh nghiệm đi rừng, không có đồ phù hợp hoặc muốn đi tự phát trong mùa mưa.
+
+8. Tuyến gợi ý theo số ngày
+
+Tuyến một ngày từ Pleiku: Pleiku - Kon Ka Kinh - tuyến rừng nhẹ/suối/giáo dục môi trường - Pleiku. Tuyến này hợp với khách phổ thông, đoàn học sinh hoặc du khách muốn hiểu khái niệm khu dự trữ sinh quyển nhưng không trekking nặng.
+
+Tuyến hai ngày một đêm: Pleiku - Kon Ka Kinh - ngủ nhà khách/homestay vùng đệm - trải nghiệm cộng đồng hoặc tuyến rừng dài hơn - Pleiku. Tuyến này hợp với khách muốn có trải nghiệm sâu hơn nhưng vẫn kiểm soát rủi ro.
+
+Tuyến ba ngày hai đêm: Pleiku - Kon Ka Kinh - vùng đệm - Kon Chư Răng hoặc Kbang - thác K50 nếu đăng ký được - quay về Pleiku/An Khê. Tuyến này cần hướng dẫn chuyên nghiệp, kế hoạch dự phòng và không nên áp dụng cho người mới đi rừng.
+
+9. Nguồn tham khảo chính
+
+UNESCO - Kon Ha Nung Highland: https://www.unesco.org/en/mab/kon-ha-nung-highland
+
+Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học - Khu DTSQ Kon Hà Nừng: https://nbca.gov.vn/du-an-br/khu-du-tru-sinh-quyen/khu-dtsq-kon-ha-nung/
+
+Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học - Bài giới thiệu Khu DTSQ Kon Hà Nừng: https://nbca.gov.vn/khu-du-tru-sinh-quyen-cao-nguyen-kon-ha-nung-tinh-gia-lai-khu-dtsq-kon-ha-nung/
+
+Báo Gia Lai - Giới thiệu, chia sẻ Khu dự trữ sinh quyển thế giới cao nguyên Kon Hà Nừng: https://baogialai.com.vn/gioi-thieu-chia-se-khu-du-tru-sinh-quyen-the-gioi-cao-nguyen-kon-ha-nung-post267495.html
+
+Báo ảnh Việt Nam / TTXVN - Discovering Kon Ha Nung: https://vietnam.vnanet.vn/english/tin-van/discovering-kon-ha-nung-a-unesco-recognised-world-biosphere-reserve-279533.html
+
+Vườn quốc gia Kon Ka Kinh - Thông tin dịch vụ du lịch: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/Cac-tour%2C-tuyen-du-lich/THONG-TIN-DU-LICH-VUON-QUOC-GIA-KON-KA-KINH.aspx
+
+Vườn quốc gia Kon Ka Kinh - Đặc điểm tự nhiên: https://konkakinh.gialai.gov.vn/chuyenmuc/Gioi-thieu/%C4%90ac-%C4%91iem-tu-nhien-VQG-Kon-Ka-Kinh.aspx
+
+Khu bảo tồn thiên nhiên Kon Chư Răng - Du lịch sinh thái: https://konchurang.vn/chuyen-muc/du-lich-sinh-thai
+
+Cục Du lịch Quốc gia Việt Nam - Phát triển sản phẩm du lịch tại Kon Ka Kinh và Kon Chư Răng: https://vietnamtourism.gov.vn/post/67160
+
+Cục Du lịch Quốc gia Việt Nam - Phát triển du lịch gắn bảo tồn Vườn quốc gia Kon Ka Kinh: https://vietnamtourism.gov.vn/post/64238
+
+10. Ghi chú độ mới dữ liệu
+
+Dữ liệu được tổng hợp và biên soạn cho mục đích huấn luyện RAG vào Tháng 05/2026. Với một khu dự trữ sinh quyển diện rộng như Kon Hà Nừng, thông tin về vùng lõi, diện tích, danh hiệu UNESCO và giá trị bảo tồn tương đối ổn định; thông tin về tuyến tham quan, giá dịch vụ, yêu cầu đăng ký, mùa đi rừng, đường vào thác hoặc trạng thái tiếp nhận khách cần kiểm tra lại với ban quản lý trước khi sử dụng cho câu trả lời thời gian thực.

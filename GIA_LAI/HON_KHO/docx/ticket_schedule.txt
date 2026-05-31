@@ -1,0 +1,87 @@
+1. Giá vé vào Hòn Khô
+
+Hòn Khô thường không thu vé vào cổng theo cách của một khu du lịch có cổng kiểm soát cố định. Chi phí chính của du khách là chi phí di chuyển từ Nhơn Hải ra đảo, chi phí thuê dịch vụ lặn ngắm san hô, ăn uống, gửi xe, tắm nước ngọt hoặc tour ghép nếu có.
+
+Khi chatbot trả lời câu hỏi “Hòn Khô có mất vé không?”, cách trả lời an toàn là: tham quan đảo thường không có vé vào cổng cố định, nhưng du khách cần trả tiền thuyền/cano và các dịch vụ phát sinh. Người dùng nên liên hệ chủ tàu, homestay, nhà hàng hoặc đơn vị tour ở Nhơn Hải để cập nhật giá mới nhất trước ngày đi.
+
+2. Chi phí di chuyển bằng thuyền hoặc cano
+
+Một số nguồn du lịch ghi giá tham khảo cho thuyền gỗ khoảng 100.000 đồng/người/khứ hồi hoặc theo chuyến tùy nhóm. Cano ghép thường được ghi trong khoảng 80.000 đến 200.000 đồng/người/khứ hồi. Thuê cano riêng có thể khoảng 1.200.000 đồng/chuyến hoặc cao hơn tùy loại cano, số người, thời gian chờ và mùa du lịch.
+
+Các mức giá trên không nên dùng như giá cố định trong chatbot. Nên diễn đạt là “khoảng”, “tham khảo”, “có thể thay đổi” và “cần kiểm tra lại trước khi đi”. Điều này đặc biệt quan trọng vì mùa cao điểm, cuối tuần, lễ Tết, nhóm đông, yêu cầu đi riêng hoặc đổi lịch trình có thể làm giá khác so với thông tin công khai.
+
+Nếu người dùng đi tự túc, nên hỏi rõ giá đã bao gồm khứ hồi hay chưa. Nếu đi tour, cần hỏi tour gồm cano, lặn san hô, áo phao, kính lặn, ăn trưa, nước uống, xe đưa đón từ Quy Nhơn hay chỉ đón tại Nhơn Hải. Nhiều hiểu nhầm về giá Hòn Khô đến từ việc một bên báo giá cano riêng, bên khác báo giá tour ghép hoặc chỉ báo chi phí ra đảo.
+
+3. Giá dịch vụ đi kèm
+
+Dịch vụ lặn ngắm san hô có thể được tính riêng hoặc nằm trong tour. Một số nguồn du lịch ghi chi phí trải nghiệm lặn ngắm san hô kèm thuyền ra khu vực san hô khoảng vài trăm nghìn đồng/người. Tuy nhiên, mức giá thực tế phụ thuộc loại dịch vụ, thời gian lặn, trang bị, hướng dẫn viên và điểm lặn trong ngày.
+
+Dịch vụ ăn uống thường tập trung ở làng chài Nhơn Hải, nhà hàng ven biển hoặc nhà bè tùy thời điểm hoạt động. Các món phổ biến gồm hải sản tươi, nhum biển, mực, cá, ốc, bánh xèo mực, chả cá. Chi phí ăn uống dao động theo món, mùa hải sản và cách gọi món theo kg hay theo suất.
+
+Các chi phí nhỏ khác có thể gồm gửi xe, tắm nước ngọt, thuê đồ bơi, thuê phao, thuê SUP/kayak, chụp ảnh, thuê xe máy hoặc taxi từ Quy Nhơn. Không phải dịch vụ nào cũng luôn có sẵn, nhất là ngày biển động hoặc mùa thấp điểm.
+
+4. Giờ mở cửa và khung giờ tham quan
+
+Hòn Khô là điểm tự nhiên nên không có giờ mở cửa cố định như bảo tàng hay khu vui chơi trong nhà. Tuy nhiên, hoạt động tham quan thực tế thường diễn ra ban ngày, đặc biệt từ sáng đến giữa chiều. Khung giờ phù hợp nhất thường là buổi sáng đến đầu giờ chiều, khi nắng đẹp, biển còn tương đối êm và có đủ thời gian quay về Nhơn Hải.
+
+Nếu đi tự túc, nên xuất phát từ Quy Nhơn khoảng 7 giờ đến 8 giờ sáng để đến Nhơn Hải, thuê thuyền/cano và ra đảo khi thời tiết còn thuận lợi. Đi quá trễ có thể gặp nắng gắt, thủy triều không phù hợp, thiếu thời gian lặn san hô hoặc khó ghép thuyền.
+
+Không khuyến nghị ra đảo vào chiều muộn nếu không có lịch trình và phương tiện chắc chắn. Ánh sáng yếu, gió chiều và thay đổi thời tiết có thể làm trải nghiệm giảm an toàn. Nếu muốn ngắm hoàng hôn, có thể quay về Nhơn Hải hoặc kết hợp điểm ven bờ thay vì ở lại ngoài đảo quá muộn.
+
+5. Thời điểm nên tham quan
+
+Thời điểm được nhiều nguồn gợi ý để đi Hòn Khô là mùa khô, khoảng tháng 4 đến tháng 9. Đây thường là giai đoạn trời nắng, ít mưa, biển trong và thuận lợi hơn cho hoạt động tắm biển, cano, lặn ngắm san hô và chụp ảnh.
+
+Một số nguồn cũng gợi ý khoảng tháng 2 đến tháng 9 là thời gian có thể đi Hòn Khô tương đối thuận lợi. Tuy nhiên, với các hoạt động phụ thuộc nhiều vào biển như lặn san hô và đi cano, tháng 4 đến tháng 9 vẫn là cách trả lời gọn và an toàn hơn cho khách phổ thông.
+
+Từ tháng 5 đến tháng 7 là mùa rong mơ nổi bật ở khu vực Hòn Khô/Nhơn Hải. Đây là thời điểm phù hợp cho du khách thích chụp ảnh, lặn ngắm cảnh dưới nước hoặc tìm trải nghiệm khác biệt. Tuy nhiên, không phải ngày nào rong mơ cũng hiện rõ như ảnh truyền thông; còn phụ thuộc độ trong của nước, nắng, thủy triều và điều kiện bảo vệ hệ sinh thái.
+
+6. Mùa nên cân nhắc hoặc tránh
+
+Giai đoạn cuối năm và mùa mưa bão miền Trung thường không lý tưởng cho Hòn Khô. Biển có thể động, gió mạnh, nước đục, cano ngừng hoạt động hoặc hoạt động lặn san hô bị hủy. Nếu người dùng hỏi có nên đi mùa mưa không, chatbot nên trả lời thận trọng: vẫn có thể đi nếu thời tiết tốt và đơn vị thuyền cho phép, nhưng không phải mùa lý tưởng.
+
+Những ngày sau mưa lớn, biển có thể đục hơn bình thường, làm giảm khả năng ngắm san hô và chất lượng ảnh. Ngày gió mạnh có thể gây say sóng, khó bơi và khó đứng trên đá. Ngày quá nắng cần chú ý chống nắng, uống nước và tránh phơi nắng lâu giữa trưa.
+
+7. Thông tin thời tiết cần kiểm tra
+
+Trước khi đi Hòn Khô, nên kiểm tra dự báo mưa, gió, sóng, cảnh báo thời tiết biển và tình hình cano ở Nhơn Hải. Dự báo thời tiết chung của Quy Nhơn hữu ích nhưng chưa đủ; thông tin từ chủ tàu hoặc người địa phương trong ngày thường sát thực tế hơn cho chặng biển ngắn ra đảo.
+
+Các chỉ báo nên hỏi trước khi đi gồm: hôm nay có ra đảo được không, biển có êm không, nước có trong không, có lặn san hô được không, giờ nước rút là lúc nào, chiều có gió lớn không và nếu thời tiết xấu thì có được đổi hoặc hủy dịch vụ không.
+
+Đối với chatbot, không nên cam kết chắc chắn “ngày mai đi được” nếu không có dữ liệu thời tiết thời gian thực. Nên trả lời theo hướng điều kiện: nếu biển êm, trời nắng, không có cảnh báo mưa bão và đơn vị vận hành xác nhận an toàn thì có thể đi; ngược lại nên hoãn hoặc chọn điểm trong đất liền.
+
+8. Gợi ý lịch vận hành thực tế
+
+Lịch trình nửa ngày sáng: 7 giờ 30 xuất phát từ Quy Nhơn, khoảng 8 giờ 15 đến Nhơn Hải, 8 giờ 30 đến 9 giờ ra Hòn Khô, tắm biển và chụp ảnh, 10 giờ đến 11 giờ lặn ngắm san hô nếu điều kiện phù hợp, 11 giờ 30 quay về Nhơn Hải ăn trưa, 13 giờ trở lại Quy Nhơn.
+
+Lịch trình một ngày nhẹ: sáng đi Hòn Khô, trưa ăn hải sản ở Nhơn Hải, đầu chiều nghỉ ngơi hoặc đi dạo làng chài, chiều kết hợp Eo Gió, Kỳ Co từ xa, đồi cát Phương Mai hoặc cầu Thị Nại tùy sức khỏe và thời tiết.
+
+Lịch trình cho gia đình có trẻ nhỏ nên giảm số hoạt động dưới nước. Chỉ nên chọn tắm gần bờ, đi cano ngắn, ăn trưa ở Nhơn Hải và chụp ảnh. Không nên ép trẻ lặn san hô nếu bé sợ nước hoặc biển có sóng.
+
+9. Ghi chú cập nhật giá
+
+Thông tin giá vé, cano, tour, lặn san hô và ăn uống cần được coi là dữ liệu biến động. Khi dùng cho RAG, nên lưu thêm trường “loại thông tin: có thể thay đổi” và “khuyến nghị xác minh: gọi đơn vị vận hành trước khi đi”.
+
+Câu trả lời mẫu cho chatbot: Hòn Khô thường không có vé vào cổng cố định. Chi phí chính là cano/thuyền từ Nhơn Hải ra đảo và các dịch vụ như lặn san hô, ăn uống. Giá cano ghép, thuyền gỗ hoặc thuê riêng thay đổi theo mùa và số lượng khách, vì vậy bạn nên xác nhận trực tiếp trước ngày đi.
+
+10. Nguồn tham khảo chính
+
+Du lịch Quy Nhơn - Bình Định, "Hòn Khô - Du lịch Quy Nhơn - Bình Định": https://dulichquynhon.binhdinh.gov.vn/vi/dryisland
+
+Cục Du lịch Quốc gia Việt Nam, "Đến Bình Định khám phá Hòn Khô": https://vietnamtourism.gov.vn/post/18832
+
+Cục Du lịch Quốc gia Việt Nam, "Đảo Hòn Khô: Điểm đến cho du khách thích san hô và tắm biển": https://vietnamtourism.gov.vn/post/16487
+
+Du lịch Quy Nhơn - Bình Định, "Cánh đồng rong mơ nhuộm vàng đáy biển Quy Nhơn": https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3193
+
+Vietnam Airlines, "Hòn Khô ở đâu? Có những trải nghiệm gì? Lịch trình ra sao?": https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/hon-kho
+
+Bamboo Airways, "Kinh nghiệm du lịch Hòn Khô chi tiết cho người mê khám phá": https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/du-lich-hon-kho
+
+Vinpearl, "Hòn Khô Quy Nhơn: Cẩm nang khám phá chi tiết, hữu ích": https://vinpearl.com/vi/review-du-lich-hon-kho-quy-nhon
+
+Thông tấn xã Việt Nam - Chính sách & Cuộc sống, "Lễ hội Cầu Ngư Nhơn Hải": https://chinhsachcuocsong.vnanet.vn/le-hoi-cau-ngu-nhon-hai-nhieu-nghi-thuc-dac-trung-cua-ngu-dan-mien-bien/57133.html
+
+Báo Thanh Niên, "Bảo tàng Bình Định nói gì về tường thành cổ bí ẩn dưới biển?": https://thanhnien.vn/bao-tang-binh-dinh-noi-gi-ve-tuong-thanh-co-bi-an-duoi-bien-185230804103955488.htm
+
+Ngày tạo bộ dữ liệu: 26/05/2026.

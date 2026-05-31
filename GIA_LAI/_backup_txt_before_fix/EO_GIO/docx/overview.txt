@@ -1,0 +1,85 @@
+Ngày tổng hợp dữ liệu: 26/05/2026.
+
+Tài liệu này dùng để nhận diện, mô tả và giải thích tổng quan về Eo Gió, một thắng cảnh biển nổi bật trong cụm du lịch Nhơn Lý - Kỳ Co - Eo Gió của khu vực Quy Nhơn. Nội dung được viết theo hướng phục vụ hệ thống hỏi đáp du lịch, vì vậy mỗi đoạn đều cố gắng làm rõ tên gọi, vị trí, đặc điểm cảnh quan, trải nghiệm nổi bật và các cách diễn đạt mà người dùng có thể hỏi khi tìm kiếm địa điểm này.
+
+Eo Gió là điểm đến thiên nhiên ven biển, nổi tiếng bởi địa hình eo biển nhỏ được bao quanh bởi các dãy núi đá, tạo thành dạng vòng cung hướng ra biển. Tên gọi “Eo Gió” gợi đến vị trí đón gió biển quanh năm; khi đứng trên cao, du khách có thể quan sát biển xanh, vách đá, con đường đi bộ uốn lượn và một phần đời sống làng chài Nhơn Lý.
+
+1. Giới thiệu địa điểm
+
+Eo Gió nằm trong khu vực Nhơn Lý, thuộc vùng bán đảo Phương Mai, cách trung tâm Quy Nhơn khoảng 20 km. Nhiều tài liệu cũ ghi địa chỉ là xã Nhơn Lý, thành phố Quy Nhơn, tỉnh Bình Định. Một số nguồn cập nhật sau thay đổi hành chính ghi khu vực này thuộc phường Quy Nhơn Đông, tỉnh Gia Lai. Khi xây dựng chatbot, nên cho phép hệ thống hiểu cả hai cách gọi địa chỉ cũ và mới để tránh trả lời sai khi người dùng hỏi “Eo Gió Bình Định”, “Eo Gió Gia Lai”, “Eo Gió Quy Nhơn” hoặc “Eo Gió Nhơn Lý”.
+
+Về bản chất du lịch, Eo Gió không phải là một bãi biển nghỉ dưỡng có cát dài để tắm biển như Kỳ Co hay biển Quy Nhơn trung tâm. Đây là thắng cảnh ngắm biển, chụp ảnh, đi bộ ven vách đá và quan sát địa hình núi đá ven biển. Điểm hấp dẫn nhất của Eo Gió nằm ở cảm giác mở rộng tầm nhìn: một bên là núi đá, một bên là biển xanh, phía dưới là bãi đá và sóng biển, còn phía xa là làng chài, thuyền bè và các công trình tâm linh ven biển.
+
+2. Mô tả tổng quan
+
+Không gian Eo Gió được hình thành bởi các dãy núi đá ôm lấy một eo biển nhỏ. Khi nhìn từ xa hoặc từ trên cao, đường bờ ở đây cong mềm theo dạng vòng cung, khiến cảnh quan có cảm giác vừa hùng vĩ vừa gọn trong tầm mắt. Các vách đá ở Eo Gió có màu sắc biến đổi theo thời điểm trong ngày: buổi sáng sớm thường có sắc xanh lạnh của biển và trời, buổi trưa nổi bật ánh nắng mạnh trên đá, còn cuối chiều có sắc vàng cam tạo nền đẹp cho chụp ảnh.
+
+Điểm khác biệt của Eo Gió so với nhiều thắng cảnh biển khác ở Quy Nhơn là nơi đây có sự kết hợp rõ giữa địa hình đá, biển, gió và đường dạo bộ. Du khách không chỉ đứng một chỗ ngắm biển mà có thể men theo con đường đi bộ dọc sườn núi để quan sát từng góc nhìn khác nhau. Có đoạn nhìn xuống bãi đá dưới chân núi, có đoạn nhìn thẳng ra biển, có đoạn nhìn ngược về làng chài Nhơn Lý và các công trình xung quanh.
+
+3. Lịch sử hình thành và bối cảnh phát triển du lịch
+
+Eo Gió trước hết là một thắng cảnh tự nhiên, hình thành từ địa hình núi đá ven biển và sự bào mòn lâu dài của gió, sóng, nước biển. Tên gọi dân gian phản ánh cảm nhận rất trực tiếp của người địa phương và du khách: đây là một eo biển nhiều gió, nơi gió từ biển thổi vào mạnh, tạo ra cảm giác khoáng đạt và trong lành.
+
+Trong quá trình phát triển du lịch Quy Nhơn, Eo Gió trở thành một trong những điểm check-in tiêu biểu của tuyến Nhơn Lý - Kỳ Co - Eo Gió. Khi hạ tầng giao thông qua cầu Thị Nại và khu Nhơn Hội thuận tiện hơn, việc đi từ trung tâm Quy Nhơn đến Nhơn Lý trở nên dễ dàng. Vì vậy, Eo Gió thường được đưa vào các tour một ngày cùng Kỳ Co, làng chài Nhơn Lý, Tịnh xá Ngọc Hòa, đồi cát Phương Mai hoặc FLC Zoo Safari Park.
+
+Việc đầu tư đường đi bộ ven sườn núi, tay vịn và các điểm dừng ngắm cảnh giúp Eo Gió dễ tiếp cận hơn với khách phổ thông. Tuy vậy, giá trị cốt lõi của địa điểm vẫn là cảnh quan tự nhiên. Khi mô tả cho du khách, nên nhấn mạnh rằng Eo Gió đẹp nhất khi được trải nghiệm chậm: đi bộ, quan sát địa hình, nghe tiếng gió và sóng, thay vì chỉ đến chụp ảnh trong vài phút rồi rời đi.
+
+4. Giá trị văn hóa và đời sống địa phương
+
+Eo Gió gắn với không gian làng chài Nhơn Lý, nơi người dân sống bằng nghề biển, đánh bắt và chế biến hải sản. Khi đứng trên cao, du khách có thể thấy thuyền bè, hoạt động kéo lưới, chợ hải sản hoặc sinh hoạt đời thường của cư dân ven biển. Vì vậy, địa điểm này không chỉ là nơi ngắm cảnh mà còn là cửa ngõ để tìm hiểu văn hóa làng chài ven biển Quy Nhơn.
+
+Gần Eo Gió có các điểm tâm linh như Tịnh xá Ngọc Hòa và chùa Phước Sa. Những công trình này tạo thêm lớp văn hóa cho tuyến tham quan, đặc biệt với nhóm khách thích kết hợp cảnh quan thiên nhiên và trải nghiệm tâm linh. Khi trả lời câu hỏi của du khách, chatbot nên hiểu rằng “đi Eo Gió” thường không chỉ là vào thắng cảnh Eo Gió mà còn có thể bao gồm tham quan làng chài, ăn hải sản và ghé tịnh xá hoặc chùa gần đó.
+
+Nguồn hải sản và các sản phẩm chế biến từ biển cũng là một phần quan trọng trong trải nghiệm địa phương. Các bài viết về Quy Nhơn Đông nhấn mạnh việc gắn du lịch với sản phẩm OCOP, hải sản và sinh kế người dân. Đây là bối cảnh hữu ích khi hệ thống cần gợi ý ăn uống, đặc sản hoặc quà mang về sau chuyến đi Eo Gió.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên của Eo Gió là cảnh quan vòng cung giữa núi và biển. Khác với một bãi tắm phẳng, Eo Gió có nhiều tầng nhìn: tầng đường dạo, tầng vách đá, tầng bãi đá dưới chân núi và tầng biển phía xa. Chính sự phân tầng này khiến ảnh chụp tại đây có chiều sâu và dễ tạo cảm giác hùng vĩ.
+
+Điểm nổi bật thứ hai là con đường đi bộ ven sườn núi. Đây là một trong những hình ảnh nhận diện mạnh nhất của Eo Gió, thường xuất hiện trong ảnh check-in với tay vịn màu đỏ gạch, nền đá núi và biển xanh. Con đường này giúp du khách dễ tiếp cận các góc nhìn mà không cần leo trèo quá nhiều, nhưng vẫn cần đi giày dép chắc chân vì có bậc thang, độ dốc và khu vực nhiều gió.
+
+Điểm nổi bật thứ ba là khả năng kết hợp tuyến. Eo Gió nằm gần Kỳ Co, làng chài Nhơn Lý, Tịnh xá Ngọc Hòa, Bãi Rạng và các điểm trên bán đảo Phương Mai. Vì vậy, dữ liệu du lịch nên xem Eo Gió như một điểm trong cụm tuyến chứ không chỉ là một địa điểm đơn lẻ.
+
+6. Kiến trúc và cảnh quan
+
+Cảnh quan chính của Eo Gió là cảnh quan tự nhiên: núi đá, eo biển, sóng, gió, bãi đá và đường chân trời. Các yếu tố nhân tạo chỉ đóng vai trò hỗ trợ tham quan, nổi bật nhất là đường dạo bộ và hệ thống lan can. Việc thiết kế đường dạo men theo sườn núi giúp tạo trải nghiệm thị giác liên tục, mỗi đoạn mở ra một góc ảnh khác nhau.
+
+Bãi đá dưới chân núi, thường được nhắc đến trong các bài review, là nơi có nhiều tảng đá với hình dáng khác nhau do tác động tự nhiên của sóng và thời gian. Tuy nhiên, không nên khuyến khích du khách tự ý trèo xuống các khu vực đá nguy hiểm khi sóng lớn, trời mưa hoặc gió mạnh. Trong dữ liệu hỏi đáp, cần tách rõ “ngắm bãi đá” và “đi xuống bãi đá” vì mức độ an toàn khác nhau.
+
+7. Các khu vực chính
+
+Khu vực cổng và lối vào là nơi du khách mua vé, gửi xe hoặc tập trung trước khi bắt đầu tham quan. Thông tin về giá vé và giờ mở cửa có thể thay đổi theo thời điểm, vì vậy hệ thống nên trả lời ở dạng tham khảo và khuyến nghị kiểm tra lại trước ngày đi.
+
+Khu vực đường đi bộ ven núi là phần trải nghiệm chính. Du khách thường dành nhiều thời gian chụp ảnh ở các đoạn có lan can, góc ôm biển và hướng nhìn xuống eo biển. Đây là khu vực cần chú ý an toàn khi đông khách, khi trời nắng gắt hoặc khi có gió mạnh.
+
+Khu vực điểm nhìn cao là nơi có thể quan sát tổng thể Nhơn Lý, biển, thuyền bè và các công trình gần đó. Đây là điểm phù hợp để chụp ảnh toàn cảnh, ngắm bình minh hoặc quan sát không gian làng chài.
+
+Khu vực xung quanh Eo Gió gồm làng chài Nhơn Lý, Tịnh xá Ngọc Hòa, chùa Phước Sa, các quán hải sản và các điểm kết nối sang Kỳ Co, Bãi Rạng, đồi cát Phương Mai. Khi lập lịch trình, nên xem đây là vùng trải nghiệm mở rộng.
+
+8. Từ khóa mô tả địa điểm
+
+Eo Gió, Eo Gió Quy Nhơn, Eo Gió Nhơn Lý, Kỳ Co Eo Gió, thắng cảnh Eo Gió, bán đảo Phương Mai, phường Quy Nhơn Đông, Nhơn Lý, Quy Nhơn, Bình Định, Gia Lai, eo biển, núi đá, đường đi bộ ven biển, con đường đỏ Eo Gió, nơi ngắm bình minh, check-in Quy Nhơn, du lịch biển Quy Nhơn, làng chài Nhơn Lý, Tịnh xá Ngọc Hòa, chùa Phước Sa, bãi đá Đẻ, gió biển, cảnh hoang sơ, biển xanh, vách đá, du lịch tự túc Quy Nhơn.
+
+9. Ghi chú dùng cho RAG
+
+Khi embedding, nên chia nội dung Eo Gió thành các nhóm ngữ nghĩa riêng: nhận diện vị trí, mô tả cảnh quan, giá trị văn hóa, trải nghiệm tham quan, đường đi, giá vé, mùa đẹp và lưu ý an toàn. Không nên gộp toàn bộ Eo Gió với Kỳ Co vì hai địa điểm có bản chất trải nghiệm khác nhau. Kỳ Co thiên về tắm biển, cano và biển đảo; Eo Gió thiên về ngắm cảnh, đi bộ, chụp ảnh và quan sát địa hình núi đá ven biển.
+
+Các câu hỏi người dùng thường nhập có thể rất ngắn như “Eo Gió ở đâu”, “Eo Gió có gì chơi”, “giá vé Eo Gió”, “đi Eo Gió mùa nào đẹp”, “Eo Gió có tắm biển không”, “Eo Gió cách Quy Nhơn bao xa”. Hệ thống nên hiểu các câu hỏi này đều trỏ về cùng một thực thể địa điểm, đồng thời cần trả lời tùy ngữ cảnh: nếu hỏi tắm biển thì nói rõ Eo Gió không phải bãi tắm chính; nếu hỏi check-in thì ưu tiên đường dạo, vách đá, bình minh, hoàng hôn; nếu hỏi kết hợp tuyến thì gợi ý Kỳ Co, Nhơn Lý và Tịnh xá Ngọc Hòa.
+
+10. Nguồn tham khảo chính
+
+Cục Du lịch Quốc gia Việt Nam - Eo Gió Nhơn Lý Quy Nhơn - https://vietnamtourism.gov.vn/post/31346
+
+Cổng thông tin Du lịch Quy Nhơn - Thắng cảnh Eo Gió - https://dulichquynhon.binhdinh.gov.vn/vi/eogiolandscape
+
+My Binh Dinh - Thắng cảnh Eo Gió - https://mybinhdinh.vn/vi/eogiolandscape
+
+Vietnam Airlines - Khám phá Eo Gió: Thiên đường biển hoang sơ của Quy Nhơn - https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/eo-gio
+
+Vinpearl - Eo Gió Quy Nhơn: kinh nghiệm khám phá chi tiết - https://vinpearl.com/vi/cam-nang-du-lich-eo-gio-quy-nhon
+
+Du lịch Quy Nhơn Bình Định - Du xuân Eo Gió, nơi ngắm bình minh đẹp nhất Việt Nam - https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_1226&t=du-xuan-eo-gio-quy-nhon-noi-ngam-binh-minh-dep-nhat-viet-nam
+
+Nông thôn mới Gia Lai - Du lịch gắn với sản phẩm OCOP: Hướng đi bền vững của Quy Nhơn Đông - https://ntm.snnmt.gialai.gov.vn/tin-tuc-su-kien/du-lich-gan-voi-san-pham-ocop-huong-di-ben-vung-cua-quy-nhon-dong-292.html
+
+VinWonders - Thời tiết Quy Nhơn - https://vinwonders.com/vi/wonderpedia/news/thoi-tiet-quy-nhon/

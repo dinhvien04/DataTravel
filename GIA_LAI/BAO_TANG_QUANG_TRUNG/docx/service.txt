@@ -1,0 +1,65 @@
+1. Dịch vụ tại địa điểm
+
+Bảo tàng có dịch vụ bán vé tham quan và dịch vụ biểu diễn võ thuật, trống trận theo thông tin chính thức. Các dịch vụ biểu diễn có thể tính phí riêng tùy đoàn khách, số lượng người và cách sắp lịch. Với đoàn dưới 20 người, nguồn chính thức ghi mức theo suất; với đoàn từ 20 người trở lên hoặc khách lẻ, nguồn chính thức ghi mức theo người/suất.
+
+Dịch vụ thuyết minh hoặc hướng dẫn là yếu tố rất nên có nếu khách muốn hiểu sâu về Bảo tàng Quang Trung. Không gian bảo tàng chứa nhiều lớp lịch sử, từ hiện vật đến di tích gốc, nên tự đi có thể bỏ sót thông tin quan trọng. Đoàn trường, đoàn cơ quan hoặc nhóm nghiên cứu nên liên hệ trước để được sắp xếp.
+
+Khuôn viên có không gian tiếp nhận khách, sân rộng và các điểm dừng chân. Do đây là điểm di tích - bảo tàng, khách nên hỏi nhân viên tại cổng về khu vực được phép chụp ảnh, nơi gửi xe, nhà vệ sinh, điểm tập trung đoàn và lịch biểu diễn trong ngày.
+
+2. Ăn uống gần Bảo tàng Quang Trung
+
+Ngay trong khu vực Tây Sơn/Phú Phong có các quán ăn địa phương phục vụ khách đi tour và khách lẻ. Nếu đi từ Quy Nhơn, du khách có thể ăn trước khi đi, ăn trưa ở khu Tây Sơn hoặc kết hợp ăn trong hành trình Hầm Hô - Bảo tàng Quang Trung.
+
+Các món nên gợi ý theo bối cảnh Bình Định - Tây Sơn gồm bánh hỏi cháo lòng, bánh xèo, nem chợ Huyện, tré, bánh ít lá gai, chả ram tôm đất, bánh tráng nước dừa và các món dân dã địa phương. Nếu người dùng hỏi món đặc sản, chatbot nên phân biệt món đặc sản Bình Định nói chung với món có sẵn ngay quanh bảo tàng, vì không phải món nào cũng bán ngay trong khuôn viên.
+
+Với đoàn đông, nên đặt trước bữa ăn ở nhà hàng địa phương thay vì đến mới tìm. Lý do là khu Tây Sơn không dày đặc dịch vụ như trung tâm Quy Nhơn, và mùa lễ hội có thể đông khách bất thường.
+
+3. Đặc sản địa phương
+
+Bình Định cũ nổi tiếng với văn hóa ẩm thực dân dã, nhiều món phù hợp mua làm quà hoặc ăn trong hành trình: tré, nem, bánh ít lá gai, bánh tráng nước dừa, rượu Bàu Đá, bánh hỏi cháo lòng. Khi trả lời du khách, nên gợi ý kiểm tra nguồn gốc sản phẩm và chọn cơ sở uy tín.
+
+Nếu khách đi theo tuyến Quy Nhơn - Tây Sơn, có thể mua đặc sản ở Quy Nhơn, An Nhơn hoặc khu Tây Sơn tùy lịch trình. Không nên khẳng định tất cả đặc sản đều có bán trong bảo tàng. Câu trả lời an toàn là “có thể tìm ở các quán/cửa hàng quanh Tây Sơn hoặc tại Quy Nhơn”.
+
+4. Lưu trú và khách sạn
+
+Nếu chỉ tham quan Bảo tàng Quang Trung, khách thường lưu trú tại Quy Nhơn rồi đi về trong ngày. Quy Nhơn có nhiều lựa chọn khách sạn, homestay, resort và dịch vụ du lịch hơn, phù hợp với khách kết hợp biển và lịch sử.
+
+Khu Tây Sơn/Phú Phong có thể có nhà nghỉ hoặc cơ sở lưu trú địa phương nhưng số lượng và tiện nghi thường không đa dạng như Quy Nhơn. Nếu mục tiêu là tham dự lễ hội Đống Đa - Tây Sơn hoặc đi nhiều điểm ở Tây Sơn, khách có thể cân nhắc lưu trú gần khu vực nhưng cần đặt sớm và kiểm tra đánh giá.
+
+Với đoàn học sinh hoặc đoàn công ty, phương án thường dùng là đi trong ngày từ Quy Nhơn. Điều này giúp dễ quản lý lịch trình và ăn ở, đồng thời vẫn có đủ thời gian tham quan nếu xuất phát sớm.
+
+5. Tiện ích hỗ trợ
+
+Các tiện ích nên kiểm tra tại chỗ gồm nhà vệ sinh, nơi gửi xe, quầy vé, khu nghỉ chân, nước uống, khu vực dành cho đoàn và thông tin thuyết minh. Vì tiện ích có thể thay đổi theo thời điểm, chatbot nên nói theo hướng “có thể hỏi nhân viên bảo tàng tại cổng” thay vì liệt kê chắc chắn nếu chưa có nguồn cập nhật chi tiết.
+
+Đối với người lớn tuổi, nên chuẩn bị nước, thuốc cá nhân, nón và lịch đi chậm. Khuôn viên có nhiều điểm ngoài trời nên cần tránh nắng gắt, đặc biệt từ cuối buổi sáng đến đầu buổi chiều.
+
+Đối với trẻ em, nên có người lớn đi kèm, không để trẻ chạy trong khu trưng bày, sờ hiện vật, đùa nghịch gần khu thờ tự hoặc chen vào khu biểu diễn. Với đoàn đông, nên có giáo viên/người phụ trách chia nhóm rõ ràng.
+
+6. Dịch vụ dành cho đoàn
+
+Bảo tàng Quang Trung rất phù hợp cho đoàn trường, đoàn cơ quan, đoàn cựu chiến binh, đoàn khách văn hóa - lịch sử. Đoàn đông nên liên hệ trước để hỏi giá vé, lịch biểu diễn, thuyết minh, điểm đỗ xe và thời gian phù hợp.
+
+Nếu đoàn muốn xem biểu diễn trống trận - võ Tây Sơn, cần xác nhận trước vì đây là dịch vụ có lịch và chi phí riêng. Khi đặt tour, nên hỏi rõ trong giá tour đã bao gồm vé tham quan, thuyết minh và biểu diễn hay chưa.
+
+Với học sinh, có thể chuẩn bị phiếu học tập theo các câu hỏi: Ai là Tây Sơn Tam Kiệt? Vì sao chiến thắng Ngọc Hồi - Đống Đa quan trọng? Cây me và giếng nước cổ có ý nghĩa gì? Trống trận Tây Sơn khác gì một tiết mục văn nghệ thông thường?
+
+7. Nguồn tham khảo
+
+Trang thông tin điện tử Bảo tàng Quang Trung: https://baotangquangtrung.com.vn/
+
+Bảo tàng Quang Trung - Thông tin dịch vụ: https://baotangquangtrung.com.vn/vi/page/Thong-tin-dich-vu.html
+
+Bảo tàng Quang Trung - Lời giới thiệu: https://baotangquangtrung.com.vn/vi/about/Gioi-thieu-chung.html
+
+Bảo tàng Quang Trung - Sự hình thành và phát triển: https://baotangquangtrung.com.vn/vi/about/Su-hinh-thanh-va-phat-trien.html
+
+Cổng thông tin xã Tây Sơn - Bảo tàng Quang Trung, hành trình về miền sử thi Tây Sơn: https://tayson.gialai.gov.vn/tin-tuc/tin-van-hoa-xa-hoi/bao-tang-quang-trung-hanh-trinh-ve-mien-su-thi-tay-son2.html
+
+Cổng thông tin xã Tây Sơn - Giếng nước cổ và cây me di sản: https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/gieng-nuoc-co-va-cay-me-di-san-dau-tich-linh-thieng-cua-ba-anh-em-nha-tay-son.html
+
+Cục Du lịch Quốc gia Việt Nam - Về miền đất võ thăm Bảo tàng Quang Trung: https://vietnamtourism.gov.vn/printer/17757?type=1
+
+Vietnam Airlines - Cẩm nang du lịch Bảo tàng Quang Trung: https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/quang-trung-museum
+
+Ghi chú về nguồn: Các thông tin giá vé, lịch biểu diễn, giờ đón khách và địa chỉ hành chính có thể thay đổi theo thời điểm. Khi dùng dữ liệu cho chatbot/RAG, nên ưu tiên trả lời theo hướng “tham khảo” và khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại chính thức trước ngày đi.

@@ -1,0 +1,55 @@
+1. Giới thiệu địa điểm
+
+Chùa Ông Núi là tên gọi dân gian rất quen thuộc của Linh Phong Thiền Tự, một điểm đến tâm linh và danh thắng nằm trên khu vực núi Bà, đỉnh Chóp Vung, xã Cát Tiến, Gia Lai. Trong các tài liệu du lịch cũ, địa điểm thường được giới thiệu là thuộc xã Cát Tiến, huyện Phù Cát, tỉnh Bình Định, cách trung tâm Quy Nhơn khoảng 25-30 km. Với du khách đi theo tuyến Quy Nhơn - Nhơn Hội - Cát Tiến, hình ảnh dễ nhận ra nhất là pho tượng Phật Thích Ca Mâu Ni màu trắng rất lớn, tựa lưng vào núi và hướng tầm nhìn về biển Đông.
+
+Địa điểm này không chỉ là nơi lễ Phật đầu năm mà còn là nơi kết hợp giữa văn hóa Phật giáo, truyền thuyết Mộc Y Sơn Ông, cảnh quan núi đá ven biển và trải nghiệm leo bậc thang. Vì thế, dữ liệu về Chùa Ông Núi cần được viết theo hướng vừa nhận diện được kiến trúc chùa cổ, vừa nhận diện được quần thể tượng Phật hiện đại, đồng thời giải thích rõ sự thay đổi cách ghi hành chính sau khi Bình Định cũ hợp nhất vào tỉnh Gia Lai mới.
+
+Lưu ý cập nhật: nhiều nguồn cũ vẫn ghi Chùa Ông Núi thuộc xã Cát Tiến, huyện Phù Cát, tỉnh Bình Định. Sau sắp xếp hành chính năm 2025, cách ghi phù hợp trong tài liệu dữ liệu là xã Cát Tiến, tỉnh Gia Lai mới; đồng thời nên lưu cả từ khóa Bình Định cũ/Quy Nhơn/Phù Cát để chatbot nhận diện đúng truy vấn của du khách.
+
+2. Tên gọi và cách nhận diện
+
+Tên gọi phổ biến nhất của địa điểm là Chùa Ông Núi. Tên chữ thường gặp là Linh Phong Tự hoặc Linh Phong Thiền Tự; một số nguồn du lịch hiện nay còn dùng Linh Phong Sơn Tự hoặc Dũng Tuyền Linh Phong Thiền Viện khi nói về quần thể tâm linh mở rộng. Trong dữ liệu chatbot, nên lưu tất cả các cách gọi này, đồng thời bổ sung các từ khóa “Chùa Ông Núi Bình Định”, “Chùa Ông Núi Gia Lai”, “Chùa Ông Núi Quy Nhơn”, “Linh Phong Cát Tiến”, “tượng Phật ngồi chùa Ông Núi”.
+
+Đặc điểm nhận diện mạnh nhất là tượng Phật Thích Ca Mâu Ni ngồi màu trắng, quy mô rất lớn, đặt trên sườn núi Bà trong tư thế thường được mô tả là tựa sơn vọng hải. Khi nhìn từ xa trên đường ven biển hoặc từ khu vực Cát Tiến, du khách dễ thấy tượng nổi bật giữa nền núi đá, cây xanh và trời biển. Cụm nhận diện thứ hai là đường lên chùa nhiều bậc thang, khu cổng tam quan, chánh điện mái ngói đỏ, các công trình phụ trợ và không gian hang đá gắn với tích tu hành của vị tổ sư.
+
+3. Vị trí và địa danh hành chính
+
+Theo nguồn du lịch địa phương mới, Chùa Ông Núi nằm trên đường tỉnh lộ 639, khu vực Phương Phi, xã Cát Tiến, tỉnh Gia Lai. Trước thời điểm sắp xếp hành chính năm 2025, các nguồn du lịch quen thuộc thường ghi địa điểm thuộc xã Cát Tiến, huyện Phù Cát, tỉnh Bình Định. Khi xây dựng dữ liệu RAG, cần giữ cả hai cách ghi để chatbot trả lời đúng với thói quen tìm kiếm của người dùng.
+
+Vị trí của chùa có lợi thế đặc biệt: phía sau là dãy núi Bà, phía trước mở ra không gian biển Cát Tiến, đầm và vùng ven biển Nhơn Hội - Phù Cát. Đường đến từ Quy Nhơn thường đi qua khu kinh tế Nhơn Hội, tuyến ven biển hoặc các trục kết nối về Cát Tiến. Do tượng Phật rất lớn và nằm trên cao, địa điểm có thể được nhận diện từ xa trong nhiều bức ảnh du lịch vùng phía Bắc Quy Nhơn.
+
+4. Lịch sử hình thành
+
+Lịch sử Chùa Ông Núi gắn với truyền thuyết về một vị tu sĩ sống ẩn cư trên núi Bà, thường được gọi là Mộc Y Sơn Ông, tức “ông núi mặc áo vỏ cây”. Một số tài liệu kể rằng thiền sư Giám Huyền và đệ tử Tánh Ban đến khu vực hang đá Dũng Tuyền tu hành từ cuối thế kỷ XVII; các tài liệu địa phương khác nhấn mạnh nhân vật Lê Ban, pháp danh Tịnh Giác - Thiện Trì, người sống thanh bần, chữa bệnh bằng thuốc Nam và được dân chúng kính trọng.
+
+Từ một am nhỏ trong núi, nơi tu hành dần trở thành chùa, qua nhiều lần trùng tu để có diện mạo như ngày nay. Phần chùa cổ, hang Tổ, suối nước và truyền thuyết Mộc Y Sơn Ông tạo nên chiều sâu lịch sử - tín ngưỡng. Phần tượng Phật và các hạng mục hiện đại tạo nên dấu ấn du lịch đương đại, giúp địa điểm trở thành một biểu tượng tâm linh nổi bật của vùng Quy Nhơn - Phù Cát.
+
+5. Giá trị văn hóa, tâm linh và du lịch
+
+Giá trị văn hóa của Chùa Ông Núi nằm ở sự kết hợp giữa tín ngưỡng Phật giáo, truyền thuyết tu hành trong núi và sinh hoạt lễ hội dân gian. Vào dịp 24-25 tháng Giêng âm lịch hằng năm, người dân địa phương và du khách thập phương thường về chùa dự lễ hội, dâng hương, cầu bình an, tưởng nhớ vị tổ có công với ngôi chùa. Đây là một phần quan trọng trong đời sống văn hóa đầu xuân của khu vực Cát Tiến.
+
+Về du lịch, chùa đáp ứng nhiều nhu cầu: tham quan kiến trúc, hành hương, leo bậc thang, ngắm biển từ trên cao, chụp ảnh với tượng Phật, tìm hiểu câu chuyện địa phương và kết hợp các điểm ven biển lân cận. Điểm đến phù hợp với khách đi Quy Nhơn muốn có thêm trải nghiệm tâm linh ngoài các điểm biển đảo như Kỳ Co, Eo Gió, Trung Lương hay Đề Gi.
+
+6. Cảnh quan và kiến trúc nổi bật
+
+Cảnh quan Chùa Ông Núi có sự tương phản rõ giữa đá núi, cây xanh và biển trời. Du khách đi lên qua các bậc thang sẽ cảm nhận cao độ thay đổi dần: từ chân núi có đường xe và khu dân cư, qua những đoạn bậc đá, rồi đến khu chùa và khu tượng Phật. Khi trời trong, từ khu vực tượng và sân cao có thể nhìn xuống biển Cát Tiến, những dải cát, làng mạc và không gian phía Bắc Quy Nhơn.
+
+Kiến trúc chùa có những yếu tố truyền thống như tam quan, mái ngói, chánh điện, điện thờ, tượng thờ, khuôn viên có cây xanh và hồ nước. Trong khi đó, tượng Phật Thích Ca Mâu Ni là hạng mục hiện đại có quy mô lớn, được nhiều nguồn giới thiệu cao khoảng 69 m, nếu tính cả bệ và đài sen có thể lên đến khoảng 108 m. Thông tin này cần ghi kèm chú thích vì cách đo giữa các nguồn có thể khác nhau.
+
+7. Các khu vực chính
+
+Khi xây dữ liệu định vị địa điểm, có thể chia Chùa Ông Núi thành một số khu vực chính. Khu chân núi là nơi đón khách, gửi xe, bắt đầu đi bộ và quan sát tổng thể tượng từ xa. Khu đường bậc thang là không gian trải nghiệm thể lực, hành hương và ngắm cảnh dọc sườn núi. Khu chùa chính gồm chánh điện, sân chùa, khu thờ Tổ và các hạng mục thờ tự truyền thống. Khu tượng Phật là điểm nhấn lớn nhất, thường được dùng để check-in, chiêm bái và quan sát toàn cảnh.
+
+Ngoài ra, một số nguồn và lời kể dân gian nhắc đến hang Tổ, Dũng Tuyền Thạch Cốc và dòng suối nhỏ. Các khu vực này giúp chatbot trả lời tốt khi người dùng hỏi “chùa có gì”, “đi lên mệt không”, “có tượng Phật lớn không”, “có phải chùa cổ không” hoặc “ảnh có tượng trắng trên núi là chỗ nào”.
+
+8. Từ khóa mô tả địa điểm
+
+Từ khóa gợi ý: Chùa Ông Núi, Linh Phong Tự, Linh Phong Thiền Tự, Linh Phong Sơn Tự, Dũng Tuyền Linh Phong Thiền Viện, Phương Phi, Cát Tiến, Phù Cát, Bình Định cũ, Gia Lai mới, Quy Nhơn, núi Bà, đỉnh Chóp Vung, tượng Phật Thích Ca Mâu Ni, tượng Phật ngồi, tượng Phật 69 m, tựa sơn vọng hải, 600 bậc thang, lễ hội 24-25 tháng Giêng, Mộc Y Sơn Ông, Tịnh Giác, Thiền sư Tịnh Giác, hang Tổ, Dũng Tuyền Thạch Cốc, du lịch tâm linh Quy Nhơn.
+
+9. Các câu hỏi chatbot có thể trả lời từ file này
+
+Chatbot có thể trả lời các câu hỏi như: Chùa Ông Núi ở đâu? Chùa Ông Núi còn có tên nào khác? Chùa Ông Núi thuộc Bình Định hay Gia Lai? Tại sao gọi là Chùa Ông Núi? Tượng Phật ở chùa cao bao nhiêu? Chùa có lịch sử từ khi nào? Chùa có gì nổi bật để nhận diện qua hình ảnh? Điểm khác nhau giữa chùa cổ Linh Phong và khu tượng Phật hiện đại là gì? Chùa có phù hợp để kết hợp lịch trình Quy Nhơn không?
+
+10. Nguồn tham khảo
+
+- Cổng thông tin xã Cát Tiến, Gia Lai: "Linh Phong Thiền tự - Chùa Ông Núi", địa chỉ đường TL 639, thôn/khu phố Phương Phi, xã Cát Tiến, Gia Lai; giới thiệu vị trí trên đỉnh Chóp Vung thuộc dãy núi Bà và giá trị du lịch tâm linh. - Vietnam Airlines Travel Guide: "Chùa Ông Núi - Tìm hiểu lịch sử, kiến trúc và kinh nghiệm tham quan", cung cấp thông tin tham khảo về vị trí, giờ mở cửa 9:00-18:00, giá vé miễn phí, tên gọi Linh Phong Sơn Tự/Dũng Tuyền Linh Phong Thiền Viện, lịch sử Tánh Ban - Mộc Y Sơn Ông, mùa đi đẹp và lưu ý mùa mưa. - Vinpearl: "Chùa Ông Núi - địa điểm du lịch tâm linh nổi tiếng", ghi nhận tên gọi Linh Phong Thiền Tự, khoảng cách từ Quy Nhơn khoảng 30 km, đường lên chùa khoảng 600 bậc thang, tượng Phật Thích Ca Mâu Ni 69 m và tổng chiều cao công trình khoảng 108 m khi tính cả bệ/đài sen. - Báo Gia Lai: "Lên đỉnh Bô Chinh, vãn cảnh chùa Ông Núi", "Lễ hội chùa Ông Núi", "Tháng Giêng đi lễ chùa Ông Núi" và các tin liên quan, cung cấp bối cảnh lễ hội 24-25 tháng Giêng âm lịch, ngày giỗ vị trụ trì thời kỳ đầu và các mô tả lịch sử - văn hóa địa phương. - Thư viện Pháp luật: thông tin Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai; xã Cát Tiến mới hình thành từ thị trấn Cát Tiến, xã Cát Thành và xã Cát Hải từ 01/07/2025. - Thanh Niên: "Tượng Phật khổng lồ cao 69 m thu hút hàng ngàn người đến tham quan", cung cấp thông tin trải nghiệm lễ hội và mô tả tượng Phật trong dự án du lịch tâm linh Linh Phong.

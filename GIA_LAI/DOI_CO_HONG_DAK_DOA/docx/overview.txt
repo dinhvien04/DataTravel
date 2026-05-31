@@ -1,0 +1,45 @@
+1. Đồi cỏ hồng Đăk Đoa / Glar - Thông tin tổng quan
+
+Đồi cỏ hồng Đăk Đoa là một điểm check-in cảnh quan theo mùa ở khu vực Glar, cao nguyên Gia Lai. Địa điểm này thường được gọi bằng nhiều tên như Đồi cỏ hồng Glar, Thung lũng cỏ hồng Glar, đồi thông Glar, đồi cỏ hồng xã Glar, đồi cỏ hồng Đak Đoa hoặc đồi cỏ hồng gần Pleiku. Trong bộ dữ liệu du lịch Gia Lai, đây là một địa điểm riêng, thuộc nhóm check-in theo mùa, cảnh quan đồi cỏ và rừng thông, không nên gộp chung với Đồi cỏ hồng Chư Sê, đồi cỏ ở khu vực Núi Đá Pleiku hoặc các thảm cỏ ven đường đi cửa khẩu Lệ Thanh.
+
+Điểm nhận diện nổi bật nhất của địa điểm là thảm cỏ chuyển sang sắc hồng, tím hồng hoặc hồng nhạt vào đầu mùa khô, thường đẹp nhất trong khoảng cuối tháng 10, tháng 11 đến đầu tháng 12 tùy thời tiết từng năm. Cỏ mọc xen dưới rừng thông, trên các triền đồi thoai thoải, tạo ra cảnh quan rộng, mềm và dễ chụp ảnh. Không gian này làm nhiều du khách liên tưởng đến các đồi cỏ hồng ở Đà Lạt, nhưng bối cảnh của Glar mang nét cao nguyên Gia Lai rõ hơn vì có rừng thông, đất bazan, nương rẫy và đời sống văn hóa của cộng đồng bản địa ở Đak Đoa.
+
+Theo mô tả trên báo Nhân Dân, đồi cỏ hồng Glar thuộc xã Glar, huyện Đăk Đoa cũ, nằm ở ngoại ô và cách trung tâm Pleiku khoảng 20 km. Nguồn này cũng mô tả cỏ hồng là cách gọi dựa trên màu sắc của cỏ khi chuyển sang sắc hồng; thực chất có thể hiểu là dạng cỏ đuôi chồn, cỏ lông chim phù hợp với vùng đất Tây Nguyên. Một số bài viết mô tả quy mô cảnh quan Glar rộng khoảng 500 ha, với thảo nguyên cỏ dưới những gốc thông hàng chục năm tuổi. Khi đưa vào hệ thống RAG, nên xem con số này là thông tin cảnh quan theo nguồn báo chí, không phải diện tích pháp lý của một khu du lịch có ranh giới được niêm yết tại cổng.
+
+2. Phân biệt để tránh nhầm lẫn
+
+Đồi cỏ hồng Đăk Đoa / Glar là địa điểm ở khu vực Đăk Đoa, cách Pleiku khoảng 20 km. Địa điểm này khác với Đồi cỏ hồng Chư Sê, vốn nằm ở khu vực Chư Sê và nên được tạo bộ dữ liệu riêng nếu bảng địa điểm có mục riêng. Địa điểm này cũng khác với Núi Hàm Rồng, Biển Hồ T’Nưng, Núi lửa Chư Đăng Ya, Biển Hồ Chè và Hàng thông trăm tuổi, dù tất cả đều có thể ghép thành tuyến tham quan trong cùng hành trình Gia Lai.
+
+Khi người dùng hỏi “cỏ hồng Gia Lai”, chatbot cần hỏi hoặc suy luận theo ngữ cảnh. Nếu người dùng nói “Glar”, “Đăk Đoa”, “đồi thông Glar”, “lễ hội cỏ hồng Đăk Đoa”, câu trả lời nên ưu tiên Đồi cỏ hồng Đăk Đoa. Nếu người dùng nói “Chư Sê”, “đồi cỏ hồng Chư Sê”, “phía Nam Gia Lai”, thì không nên trả lời bằng dữ liệu Glar. Nếu người dùng chỉ hỏi “đi cỏ hồng ở Pleiku”, có thể giới thiệu Glar như điểm nổi bật gần Pleiku nhưng cần nêu có nhiều điểm cỏ hồng khác trong tỉnh.
+
+3. Địa chỉ cũ và địa chỉ mới
+
+Cách ghi cũ phổ biến trong các bài du lịch là: đồi cỏ hồng thuộc xã Glar, huyện Đăk Đoa, tỉnh Gia Lai. Sau sắp xếp đơn vị hành chính cấp xã năm 2025, xã Glar cũ cùng thị trấn Đak Đoa và xã Tân Bình được sắp xếp thành xã Đak Đoa, tỉnh Gia Lai. Vì vậy, khi tạo dữ liệu mới cho chatbot, có thể ghi theo hướng an toàn: khu vực Glar cũ, nay thuộc xã Đak Đoa, tỉnh Gia Lai.
+
+Trong thực tế tìm đường, nhiều bản đồ, bài review và người dân địa phương vẫn dùng tên “xã Glar” hoặc “đồi thông Glar”. Chatbot nên chấp nhận cả cách hỏi cũ và mới, ví dụ: “Đồi cỏ hồng Glar ở đâu?”, “đồi cỏ hồng xã Glar”, “đồi cỏ hồng Đak Đoa”, “thung lũng cỏ hồng Glar”. Đây là các alias quan trọng để tăng khả năng truy xuất đúng tài liệu.
+
+4. Giá trị cảnh quan và văn hóa
+
+Về cảnh quan, đồi cỏ hồng Đăk Đoa không phải là công trình nhân tạo lớn hay khu vui chơi có nhiều hạng mục xây dựng. Giá trị chính nằm ở khoảnh khắc tự nhiên theo mùa: cỏ lên màu, sương sớm, ánh nắng đầu ngày, nền thông xanh và khoảng trời rộng của cao nguyên. Vì vậy, trải nghiệm đẹp nhất thường là đi chậm, ngắm cảnh, chụp ảnh, picnic nhẹ và cảm nhận không gian yên tĩnh.
+
+Về văn hóa, đồi cỏ hồng Glar gắn với các sự kiện địa phương như Ngày hội Văn hóa các dân tộc gắn với lễ hội cỏ hồng và phiên chợ hàng nông sản huyện Đak Đoa. Các nguồn báo địa phương ghi nhận lễ hội có hoạt động cồng chiêng, hát dân ca, dân vũ, trình diễn nhạc cụ truyền thống, đan lát, dệt thổ cẩm, giã gạo đôi, thể thao dân gian, giới thiệu sản phẩm OCOP và nông sản. Điều này giúp điểm đến không chỉ là nơi chụp ảnh mà còn là dịp tiếp cận văn hóa bản địa của vùng Đak Đoa.
+
+5. Dữ liệu nhận diện cho chatbot
+
+Từ khóa chính: Đồi cỏ hồng Đăk Đoa, đồi cỏ hồng Glar, thung lũng cỏ hồng Glar, đồi thông Glar, cỏ hồng Gia Lai, cỏ hồng Pleiku, lễ hội cỏ hồng Đak Đoa, Glar Đak Đoa.
+
+Ý định người dùng thường gặp: hỏi địa chỉ, hỏi mùa cỏ hồng nở, hỏi tháng mấy đi đẹp, hỏi đi từ Pleiku bao xa, hỏi có vé không, hỏi có lễ hội không, hỏi chụp ảnh buổi nào đẹp, hỏi có đi ô tô được không, hỏi có gần Biển Hồ hay Chư Đăng Ya không, hỏi có phải cỏ hồng Chư Sê không.
+
+6. Nguồn tham khảo
+
+Báo Gia Lai - Lễ hội cỏ hồng huyện Đak Đoa diễn ra vào cuối tháng 11: https://baogialai.com.vn/le-hoi-co-hong-huyen-dak-doa-dien-ra-vao-cuoi-thang-11-post301002.html
+
+Báo Gia Lai - Khai mạc lễ hội cỏ hồng huyện Đak Đoa: https://baogialai.com.vn/khai-mac-le-hoi-co-hong-huyen-dak-doa-post302067.html
+
+Báo Gia Lai - Đak Đoa tổ chức Ngày hội du lịch đồi cỏ hồng từ ngày 20 đến 22-11: https://baogialai.com.vn/dak-doa-to-chuc-ngay-hoi-du-lich-doi-co-hong-tu-ngay-20-den-22-11-post198179.html
+
+Nhân Dân - Dạo chơi trên đồi cỏ hồng ở Gia Lai: https://nhandan.vn/dao-choi-tren-doi-co-hong-o-gia-lai-post379746.html
+
+Du lịch Pleiku/Gia Lai - Đồi cỏ hồng Đăk Đoa: https://dulichpleiku.gialai.gov.vn/Thong-tin-can-biet/Diem-tham-quan/Travel_agency/GLar%2C-Dak-Doa%2C-Pleiku%2C-Gia-Lai
+
+Thư Viện Pháp Luật - xã Đak Đoa mới sau sắp xếp theo Nghị quyết 1664: https://thuvienphapluat.vn/phap-luat/xa-dak-doa-moi-tinh-gia-lai-sau-sap-xep-tai-nghi-quyet-1664-duoc-hinh-thanh-tu-viec-sap-xep-nhung-d-503575-256811.html

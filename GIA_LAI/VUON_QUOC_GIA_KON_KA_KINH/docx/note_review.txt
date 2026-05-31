@@ -1,0 +1,93 @@
+1. Lưu ý quan trọng nhất
+
+Vườn Quốc gia Kon Ka Kinh là rừng đặc dụng, không phải điểm check-in tự do. Du khách không nên tự ý vào rừng sâu, đi tắt, tách đoàn, cắm trại tự phát, đốt lửa khi chưa được phép, săn bắt, hái cây, bẻ cành, bắt côn trùng, thu mẫu sinh vật hoặc xả rác. Mọi tuyến dài nên đăng ký và đi cùng hướng dẫn viên/kiểm lâm/người dẫn đường được phép.
+
+Nếu chatbot chỉ được trả lời một câu ngắn về an toàn, nên nói: “Hãy liên hệ vườn trước, đi đúng tuyến được phép, mang giày trekking, không đi một mình và không tự ý vào rừng sâu.”
+
+2. Quy định bảo tồn và hành vi nên tránh
+
+Không cho động vật ăn, không gọi bầy, không dùng loa phát tiếng chim/thú, không chiếu đèn mạnh vào động vật ban đêm, không đăng vị trí chi tiết của loài quý hiếm nếu có nguy cơ bị săn bắt. Đối với rừng có loài đặc hữu như voọc chà vá chân xám, vượn đen má hung trung bộ và nhiều loài quý hiếm, giữ khoảng cách là nguyên tắc quan trọng.
+
+Không lấy mẫu cây, lan rừng, nấm, đá, đất, côn trùng hoặc động vật về làm kỷ niệm. Không khắc tên lên thân cây, đá, biển chỉ dẫn. Không dùng xà phòng, dầu gội hoặc hóa chất ở suối. Không để lại rác hữu cơ vì có thể làm thay đổi tập tính động vật và gây ô nhiễm.
+
+3. An toàn thời tiết
+
+Mùa mưa làm rừng rất đẹp nhưng tăng rủi ro. Đường trơn, rễ cây ướt, vắt nhiều hơn, suối có thể dâng nhanh, thác nước mạnh, tầm nhìn giảm và thiết bị dễ ẩm. Nếu có mưa lớn, bão, cảnh báo lũ hoặc kiểm lâm khuyến cáo không đi, nên hoãn tuyến sâu.
+
+Mùa khô thuận lợi hơn cho trekking nhưng vẫn cần chú ý mất nước, nắng ở đoạn trống, nguy cơ cháy rừng và bụi đường. Không hút thuốc hoặc đốt lửa bừa bãi. Nếu tổ chức lửa trại, phải theo dịch vụ/cho phép của vườn và có quản lý phòng cháy chữa cháy rừng.
+
+4. An toàn sức khỏe và thể lực
+
+Trekking rừng núi yêu cầu sức khỏe, nhất là các tuyến nhiều giờ, qua suối, leo dốc hoặc ngủ rừng. Người có bệnh tim mạch, hen suyễn, huyết áp, tiền sử chấn thương gối/cổ chân hoặc trẻ nhỏ cần chọn tuyến nhẹ và hỏi ý kiến y tế nếu cần. Không nên cố theo tuyến 2-4 ngày nếu chưa từng đi rừng.
+
+Dấu hiệu cần dừng hoặc báo hướng dẫn viên: chóng mặt, đau ngực, khó thở, chuột rút nặng, tụt đường huyết, mất nước, sốt, dị ứng côn trùng, ngã chấn thương hoặc lạc khỏi nhóm. Nhóm nên đi cùng nhau, có danh sách thành viên, số liên hệ khẩn cấp và điểm tập kết.
+
+5. Trang phục và vật dụng nên mang
+
+Nên mặc áo dài tay thoáng mồ hôi, quần dài, tất dày, giày trekking hoặc giày thể thao có độ bám tốt. Tránh dép lê, giày đế trơn, váy dài vướng, quần áo quá mỏng hoặc màu quá nổi nếu muốn quan sát động vật. Mang áo mưa nhẹ, áo khoác mỏng, mũ, khăn đa năng, thuốc cá nhân và túi chống nước.
+
+Với tuyến dài, cần có đèn pin đội đầu, pin dự phòng, còi, la bàn hoặc thiết bị định vị, túi ngủ nếu chương trình yêu cầu, nước, đồ ăn năng lượng, thuốc chống côn trùng, băng cá nhân, thuốc sát trùng, túi rác, giấy vệ sinh tự hủy hoặc phương án vệ sinh theo hướng dẫn của đoàn.
+
+6. Khả năng tiếp cận
+
+Kon Ka Kinh không phải điểm dễ tiếp cận cho mọi đối tượng. Người lớn tuổi, trẻ nhỏ, người hạn chế vận động hoặc người cần xe lăn chỉ nên tham gia khu trung tâm, vườn thực vật hoặc các hoạt động rất nhẹ nếu điều kiện thực tế cho phép. Nhiều tuyến rừng có bậc đất, rễ cây, đá, suối, dốc và bùn, không phù hợp với xe lăn hoặc người khó đi bộ.
+
+Chatbot nên hỏi lại: “Bạn muốn đi nhẹ hay trekking?”, “đoàn có trẻ nhỏ/người lớn tuổi không?”, “bạn đi mùa nào?”, “bạn muốn đi trong ngày hay ngủ lại?” trước khi đề xuất tuyến.
+
+7. Mức độ đông khách và hạ tầng du lịch
+
+So với các điểm du lịch nổi tiếng ở Gia Lai, Kon Ka Kinh vẫn là điểm sinh thái ít thương mại hơn, hạ tầng đang phát triển và lượng khách không quá đông. Tuổi Trẻ News năm 2025 ghi khu vực còn ở giai đoạn đầu phát triển du lịch sinh thái, lượng khách chưa lớn và tỉnh có định hướng đầu tư phát triển hạ tầng, truyền thông quốc tế và du lịch bền vững.
+
+Ưu điểm của sự ít đông là rừng yên tĩnh, trải nghiệm thiên nhiên rõ, phù hợp nghiên cứu và trekking. Nhược điểm là dịch vụ chưa dày, cần đặt trước, không nên kỳ vọng quán ăn/khách sạn/phương tiện luôn sẵn như điểm đô thị.
+
+8. Review tổng hợp
+
+Nhìn chung, Kon Ka Kinh phù hợp nhất với người yêu thiên nhiên, thích rừng nguyên sinh, thác suối, trekking, quan sát sinh thái, tìm hiểu cộng đồng Ba Na và chấp nhận điều kiện dịch vụ cơ bản. Đây là điểm đến có chiều sâu cho du lịch xanh, giáo dục môi trường và nghiên cứu, không phải nơi chỉ để check-in nhanh.
+
+Trải nghiệm dễ hài lòng nhất thường là khi du khách xác định đúng kỳ vọng: đi rừng sẽ mệt, có bùn, có vắt mùa ẩm, có thể không thấy động vật, dịch vụ đơn giản; đổi lại là không khí trong lành, rừng già, thác suối, cây cổ thụ, câu chuyện bảo tồn và cảm giác tách khỏi nhịp đô thị.
+
+9. Ưu điểm
+
+Ưu điểm lớn nhất là giá trị sinh thái cao: rừng tự nhiên lớn, hệ sinh thái đa dạng, nhiều loài quý hiếm, cảnh quan núi rừng và thác suối phong phú. Danh hiệu Vườn Di sản ASEAN và vai trò trong Khu dự trữ sinh quyển Kon Hà Nừng giúp Kon Ka Kinh có ý nghĩa vượt ra ngoài du lịch thông thường.
+
+Ưu điểm thứ hai là trải nghiệm có chiều sâu: du khách có thể học về rừng, cây, động vật, bảo tồn, phòng cháy chữa cháy rừng, văn hóa vùng đệm và sinh kế cộng đồng. Điều này phù hợp với RAG chatbot vì có nhiều câu hỏi đa dạng chứ không chỉ hỏi giá vé/đường đi.
+
+10. Nhược điểm và hạn chế
+
+Nhược điểm là hạ tầng du lịch còn hạn chế, dịch vụ cần đặt trước, một số tuyến xa và khó, giá tour tuyến dài không rẻ nếu nhóm ít người, thời tiết ảnh hưởng mạnh, và không phải lúc nào du khách cũng có thể đi tuyến mong muốn. Một số thông tin trên mạng có thể cũ, nên cần ưu tiên nguồn chính thức và xác nhận trước.
+
+Các tuyến dài như Thác 95 hoặc đỉnh Kon Ka Kinh không phù hợp với mọi khách. Nếu chatbot gợi ý sai tuyến cho người không đủ sức, có thể gây trải nghiệm xấu hoặc nguy hiểm. Vì vậy, khi người dùng hỏi chung “nên đi đâu trong Kon Ka Kinh”, chatbot nên gợi ý tuyến theo thể lực và thời gian.
+
+11. Các câu trả lời an toàn cho chatbot
+
+Nếu không chắc giá hiện tại: “Giá mình có là giá tham khảo từ nguồn công bố của vườn; bạn nên gọi Trung tâm Giáo dục môi trường và Dịch vụ để xác nhận trước chuyến đi.”
+
+Nếu người dùng muốn tự đi rừng: “Bạn không nên tự ý vào rừng sâu. Hãy đăng ký tuyến và đi cùng hướng dẫn viên hoặc kiểm lâm, đặc biệt với các tuyến thác/đỉnh.”
+
+Nếu người dùng đi mùa mưa: “Mùa mưa rừng đẹp và thác nhiều nước, nhưng đường trơn, suối dâng và có vắt; nên hỏi tình trạng tuyến trước khi đi và chuẩn bị giày bám tốt, áo mưa, bọc chống nước.”
+
+Nếu người dùng hỏi có chắc thấy động vật không: “Không thể bảo đảm nhìn thấy động vật hoang dã. Bạn có thể có cơ hội quan sát nếu đi đúng tuyến, giữ yên tĩnh và có hướng dẫn viên, nhưng cần ưu tiên bảo tồn.”
+
+12. Nguồn tham khảo và ghi chú độ mới dữ liệu
+
+Dữ liệu trong file này được tổng hợp từ website chính thức của Vườn Quốc gia Kon Ka Kinh, Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học, Báo Gia Lai, Tuổi Trẻ News và một số nguồn hỗ trợ về tuyến du lịch. Khi dùng cho chatbot RAG, nên ưu tiên trả lời theo nguồn chính thức của Vườn Quốc gia Kon Ka Kinh đối với vé, dịch vụ, số điện thoại, tuyến trekking và quy định vào rừng.
+
+Các số liệu về giá vé, nhà khách, hướng dẫn viên, dịch vụ ăn uống, dụng cụ thuê và chương trình tour lấy từ trang thông tin du lịch chính thức của Vườn Quốc gia Kon Ka Kinh, bài đăng năm 2018. Vì đây là dữ liệu vận hành có thể thay đổi theo thời điểm, chatbot nên trả lời theo mẫu: “giá tham khảo theo nguồn công bố, du khách nên liên hệ Trung tâm Giáo dục môi trường và Dịch vụ trước chuyến đi để xác nhận”.
+
+Nguồn 1: Vườn Quốc gia Kon Ka Kinh - website chính thức. URL: https://konkakinh.gialai.gov.vn/
+
+Nguồn 2: Thông tin du lịch, lưu trú, vé và dịch vụ VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/Cac-tour%2C-tuyen-du-lich/THONG-TIN-DU-LICH-VUON-QUOC-GIA-KON-KA-KINH.aspx
+
+Nguồn 3: Các sản phẩm/tuyến du lịch VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/cac-loai-hinh-du-lich/CAC-SAN-PHAM-DU-LICH.aspx
+
+Nguồn 4: Kinh nghiệm du lịch rừng - VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/huong-dan-xanh/Kinh-Nghiem-Du-Lich-Rung.aspx
+
+Nguồn 5: Liên hệ các phòng/đơn vị VQG Kon Ka Kinh. URL: https://konkakinh.gialai.gov.vn/contact/Offices.aspx
+
+Nguồn 6: Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học - VQG Kon Ka Kinh. URL: https://nbca.gov.vn/vuon-quoc-gia-kon-ka-kinh-gia-lai/
+
+Nguồn 7: Tuổi Trẻ News 2025 - định hướng phát triển du lịch sinh thái Kon Ka Kinh. URL: https://news.tuoitre.vn/vietnam-province-aims-to-promote-kon-ka-kinh-national-park-as-global-ecotourism-destination-103250809170939105.htm
+
+Nguồn 8: Báo Gia Lai - bảo tồn rừng gắn với đa dạng sinh học. URL: https://baogialai.com.vn/kon-ka-kinh-bao-ton-de-phat-trien-rung-gan-voi-da-dang-sinh-hoc-post264410.html
+
+Nguồn 9: Xã Ayun Gia Lai - thông tin vận hành sau sắp xếp 2025. URL: https://ayun.gialai.gov.vn/tin-tuc/hanh-trinh-moi-cho-ky-nguyen-vuon-minh2.html

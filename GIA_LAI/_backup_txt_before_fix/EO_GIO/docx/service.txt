@@ -1,0 +1,75 @@
+Ngày tổng hợp dữ liệu: 26/05/2026.
+
+Tài liệu này tổng hợp các dịch vụ tại Eo Gió và khu vực xung quanh, gồm ăn uống, đặc sản địa phương, lưu trú, tiện ích cơ bản và những điều du khách cần chuẩn bị. Vì Eo Gió là thắng cảnh thiên nhiên chứ không phải khu nghỉ dưỡng khép kín, nhiều dịch vụ hỗ trợ nằm ở làng chài Nhơn Lý hoặc các cơ sở du lịch gần đó.
+
+1. Dịch vụ tại địa điểm
+
+Tại khu Eo Gió, dịch vụ chính là bán vé, lối vào tham quan, tuyến đi bộ ngắm cảnh, khu vực gửi xe và các điểm nghỉ ngắn tùy thời điểm vận hành. Du khách không nên kỳ vọng có quá nhiều tiện ích như trung tâm thương mại, khu vui chơi trong nhà hoặc khu nghỉ dưỡng lớn ngay trong phạm vi đường dạo.
+
+Một số dịch vụ như nước uống, đồ ăn nhẹ, chụp ảnh, xe đưa đón hoặc hướng dẫn viên thường phụ thuộc vào đơn vị kinh doanh xung quanh và tour. Chất lượng, giá và khả năng phục vụ có thể thay đổi theo mùa. Khi trả lời cho du khách, chatbot nên hướng người dùng hỏi giá trước khi sử dụng dịch vụ để tránh hiểu nhầm.
+
+Nếu đi theo tour Kỳ Co - Eo Gió, dịch vụ thường được gom trong gói tour gồm xe đưa đón, cano hoặc phương tiện đến Kỳ Co, ăn trưa, vé một số điểm và hướng dẫn viên. Tuy nhiên, mỗi tour có nội dung khác nhau. Người dùng nên kiểm tra tour có bao gồm vé Eo Gió, vé Kỳ Co, bữa ăn, nước uống và phí phát sinh hay không.
+
+2. Ăn uống
+
+Khu vực phù hợp để ăn uống khi đi Eo Gió là làng chài Nhơn Lý. Tại đây có các quán hải sản, quán ăn địa phương và nhà hàng phục vụ khách đi tuyến Kỳ Co - Eo Gió. Hải sản là lựa chọn phổ biến, gồm tôm, cá, mực, ốc, ghẹ, các món nướng, hấp, lẩu hoặc cháo hải sản tùy mùa.
+
+Du khách nên hỏi giá trước khi gọi món, nhất là với hải sản tính theo kg hoặc theo thời giá. Nếu đi nhóm đông, nên đặt bàn trước vào cuối tuần hoặc mùa cao điểm. Nếu đi tour, nên kiểm tra bữa trưa gồm món gì, khẩu phần ra sao, có phụ thu đồ uống hay không.
+
+Với người không ăn hải sản, nên chuẩn bị phương án thay thế như cơm, mì, bánh, đồ ăn nhẹ hoặc về trung tâm Quy Nhơn ăn sau khi tham quan. Làng chài có nhiều món biển nhưng không phải lúc nào cũng có nhiều lựa chọn chay, ăn kiêng hoặc món cho trẻ nhỏ.
+
+3. Đặc sản địa phương
+
+Khi đi Eo Gió và Nhơn Lý, đặc sản đáng chú ý nhất là hải sản tươi và các sản phẩm chế biến từ biển. Khu vực Quy Nhơn Đông được nhắc đến với nguồn hải sản phong phú, nghề đánh bắt và chế biến hải sản gắn với sinh kế địa phương. Một số sản phẩm như chả cá, cá viên, hải sản khô, mực khô hoặc các món chế biến sẵn có thể phù hợp làm quà.
+
+Ngoài hải sản, du khách có thể kết hợp thưởng thức đặc sản Quy Nhơn ở trung tâm thành phố như bánh xèo tôm nhảy, bún chả cá, bánh hỏi lòng heo, nem chợ Huyện, tré, bánh ít lá gai hoặc các món ăn vặt địa phương. Nếu chatbot trả lời câu hỏi “đi Eo Gió ăn gì”, nên phân tách “ăn gần Eo Gió” và “ăn đặc sản Quy Nhơn nói chung”.
+
+Đối với khách muốn mua quà, nên gợi ý các sản phẩm khô, chả cá đóng gói hoặc đặc sản có bao bì rõ ràng, hạn sử dụng và thông tin cơ sở sản xuất. Không nên khuyến khích mua hải sản tươi nếu khách phải di chuyển xa, bay máy bay hoặc không có thùng bảo quản.
+
+4. Lưu trú và khách sạn
+
+Du khách đi Eo Gió có thể chọn lưu trú ở trung tâm Quy Nhơn để thuận tiện ăn uống, tắm biển trung tâm, đi chợ đêm và di chuyển đến nhiều điểm khác. Từ trung tâm đến Eo Gió chỉ khoảng 30-40 phút đi xe trong điều kiện thuận lợi, nên đa số khách vẫn ở trung tâm và đi Eo Gió trong ngày.
+
+Nếu muốn nghỉ gần Nhơn Lý hoặc bán đảo Phương Mai, có thể chọn homestay, nhà nghỉ hoặc các khu nghỉ dưỡng gần tuyến Kỳ Co - Eo Gió. Lựa chọn này phù hợp với khách muốn ngắm bình minh, đi sớm, tránh di chuyển nhiều hoặc thích không gian làng chài. Tuy nhiên, dịch vụ đêm và ăn uống có thể ít đa dạng hơn trung tâm Quy Nhơn.
+
+Gia đình có trẻ em, người lớn tuổi hoặc khách cần tiện nghi cao nên ưu tiên khách sạn ở trung tâm hoặc khu nghỉ dưỡng có dịch vụ rõ ràng. Khách trẻ, thích trải nghiệm địa phương có thể cân nhắc homestay gần Nhơn Lý, nhưng nên xem đánh giá mới, vị trí, điều hòa, nước nóng và chính sách nhận phòng.
+
+5. Tiện ích hỗ trợ
+
+Tiện ích cơ bản du khách cần quan tâm gồm bãi gửi xe, nhà vệ sinh, điểm bán nước, chỗ nghỉ chân và nơi tránh nắng. Các tiện ích này có thể thay đổi tùy thời điểm và lượng khách. Nếu đi cùng trẻ nhỏ hoặc người lớn tuổi, nên hỏi trước vị trí nhà vệ sinh và điểm nghỉ gần nhất khi vào khu tham quan.
+
+Wifi công cộng không phải yếu tố nên kỳ vọng tại khu đường dạo ngoài trời. Du khách nên chuẩn bị 4G/5G, sạc dự phòng và tải trước bản đồ nếu cần. Sóng điện thoại thường có, nhưng có thể yếu ở một số vị trí khuất núi hoặc đông người.
+
+Khu vực đường đi bộ có bậc thang và dốc, vì vậy khả năng tiếp cận cho xe lăn hoặc người khó đi lại còn hạn chế. Nếu có người lớn tuổi hoặc người khuyết tật, nên chọn điểm ngắm gần lối vào, hạn chế đi sâu và tránh khung giờ nắng gắt.
+
+6. Dịch vụ ảnh và trải nghiệm số
+
+Eo Gió là điểm chụp ảnh rất phổ biến, nên du khách thường mang điện thoại, máy ảnh, flycam hoặc thiết bị quay video. Tuy nhiên, việc dùng flycam có thể chịu quy định riêng và không nên tự ý bay ở nơi đông người, gần khu dân cư hoặc khu vực có biển cấm. Nếu cần quay chuyên nghiệp, nên xin phép đơn vị quản lý hoặc kiểm tra quy định hiện hành.
+
+Với dữ liệu multimodal RAG, nên phân loại ảnh Eo Gió thành các nhóm: ảnh đường đi bộ ven núi, ảnh vách đá và biển, ảnh toàn cảnh Nhơn Lý, ảnh bình minh, ảnh hoàng hôn, ảnh bãi đá, ảnh du khách trên lan can. Phân loại này giúp mô hình nhận diện địa điểm tốt hơn thay vì chỉ học nhãn chung “Eo Gió”.
+
+7. Lưu ý khi sử dụng dịch vụ
+
+Nên hỏi giá trước khi ăn uống, gửi xe, thuê xe hoặc mua tour. Du khách cần phân biệt vé vào Eo Gió với giá tour Kỳ Co - Eo Gió. Nếu tour ghi “đã bao gồm vé”, nên hỏi rõ bao gồm vé nào, có phí phát sinh khi đi ngày lễ hoặc thời tiết xấu không.
+
+Không nên đặt cọc tour hoặc dịch vụ qua nguồn không rõ ràng. Nên chọn đơn vị có thông tin liên hệ, đánh giá thật, lịch trình cụ thể và điều khoản hoàn hủy. Với khách đi vào mùa mưa, cần hỏi chính sách khi cano Kỳ Co không chạy do biển động.
+
+Nếu ăn hải sản ở làng chài, nên kiểm tra cân, giá theo kg, cách chế biến và phụ phí trước khi gọi. Với nhóm đông, nên chốt thực đơn trước để dễ kiểm soát chi phí.
+
+8. Nguồn tham khảo chính
+
+Cục Du lịch Quốc gia Việt Nam - Eo Gió Nhơn Lý Quy Nhơn - https://vietnamtourism.gov.vn/post/31346
+
+Cổng thông tin Du lịch Quy Nhơn - Thắng cảnh Eo Gió - https://dulichquynhon.binhdinh.gov.vn/vi/eogiolandscape
+
+My Binh Dinh - Thắng cảnh Eo Gió - https://mybinhdinh.vn/vi/eogiolandscape
+
+Vietnam Airlines - Khám phá Eo Gió: Thiên đường biển hoang sơ của Quy Nhơn - https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/eo-gio
+
+Vinpearl - Eo Gió Quy Nhơn: kinh nghiệm khám phá chi tiết - https://vinpearl.com/vi/cam-nang-du-lich-eo-gio-quy-nhon
+
+Du lịch Quy Nhơn Bình Định - Du xuân Eo Gió, nơi ngắm bình minh đẹp nhất Việt Nam - https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_1226&t=du-xuan-eo-gio-quy-nhon-noi-ngam-binh-minh-dep-nhat-viet-nam
+
+Nông thôn mới Gia Lai - Du lịch gắn với sản phẩm OCOP: Hướng đi bền vững của Quy Nhơn Đông - https://ntm.snnmt.gialai.gov.vn/tin-tuc-su-kien/du-lich-gan-voi-san-pham-ocop-huong-di-ben-vung-cua-quy-nhon-dong-292.html
+
+VinWonders - Thời tiết Quy Nhơn - https://vinwonders.com/vi/wonderpedia/news/thoi-tiet-quy-nhon/

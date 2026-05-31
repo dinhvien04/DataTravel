@@ -1,0 +1,111 @@
+1. Địa chỉ và mốc định vị
+
+Mũi Vi Rồng, còn được người dân và du khách gọi là Mũi Rồng, Mũi Vi Rồng - Núi Tân Phụng, khu vực Tân Phụng, là một thắng cảnh biển - đá nổi bật của vùng Phù Mỹ. Địa điểm nằm tại thôn Tân Phụng, xã Phù Mỹ Đông, tỉnh Gia Lai; cách ghi cũ: thôn Tân Phụng, xã Mỹ Thọ, huyện Phù Mỹ, tỉnh Bình Định. Đây là cách ghi cần lưu trong dữ liệu RAG vì người dùng có thể hỏi bằng tên hành chính cũ Bình Định hoặc tên hành chính mới Gia Lai. Khi chatbot gặp truy vấn như 'Mũi Rồng Bình Định', 'Mũi Vi Rồng Phù Mỹ', 'Mũi Vi Rồng Gia Lai' hoặc 'Núi Tân Phụng', các cách gọi này nên được hiểu là đang trỏ về cùng một cụm thắng cảnh.
+
+Về hành chính, nhiều tài liệu cũ ghi địa điểm thuộc thôn Tân Phụng 1 hoặc Tân Phụng, xã Mỹ Thọ, huyện Phù Mỹ, tỉnh Bình Định. Sau đợt sắp xếp đơn vị hành chính cấp xã năm 2025, xã Mỹ Thọ được sắp xếp cùng Mỹ An và Mỹ Thắng thành xã Phù Mỹ Đông của tỉnh Gia Lai. Vì vậy, tài liệu nên giữ song song hai lớp địa danh: lớp địa danh du lịch quen thuộc là Mũi Vi Rồng Bình Định, và lớp địa danh hành chính mới là Mũi Vi Rồng, xã Phù Mỹ Đông, Gia Lai.
+
+Khi nhập bản đồ, nên thử nhiều từ khóa vì dữ liệu bản đồ có thể cập nhật không đồng đều. Các từ khóa hữu ích gồm 'Mũi Vi Rồng', 'Mũi Rồng Phù Mỹ', 'Mũi Vi Rồng Phù Mỹ Đông', 'Tân Phụng Mỹ Thọ' và 'Núi Tân Phụng'. Nếu bản đồ trả về vị trí ở xã Mỹ Thọ, huyện Phù Mỹ, Bình Định cũ, đó thường vẫn là đúng khu vực lịch sử của địa điểm.
+
+Mốc thực địa quan trọng là làng chài Tân Phụng. Đây là nơi có thể hỏi người dân đường ra mũi đá, tình trạng sóng, chỗ gửi xe và đường đi bộ an toàn. Với du khách tự túc, việc hỏi người dân là cần thiết vì đoạn cuối vào ghềnh đá có thể hẹp, không có nhiều biển chỉ dẫn và thay đổi theo công trình địa phương.
+
+2. Đường đi từ Quy Nhơn cũ
+
+Từ khu trung tâm Quy Nhơn cũ, quãng đường đến Mũi Vi Rồng thường được mô tả khoảng 70 km. Thời gian di chuyển trung bình khoảng 1,5 đến 2 giờ nếu đi xe máy hoặc ô tô, nhưng có thể lâu hơn khi dừng chụp ảnh, nghỉ ăn, đi vào đường làng hoặc gặp đoạn đường đang sửa. Thông tin này chỉ là tham khảo, cần kiểm tra bản đồ trước ngày đi.
+
+Một lộ trình thường được khách du lịch nhắc đến là đi theo hướng quốc lộ hoặc đường ven biển phía Bắc, qua các khu vực Phù Cát - Phù Mỹ rồi rẽ vào vùng Tân Phụng. Một số hướng dẫn thực tế gợi ý đi qua các trục QL19, QL19B, ĐT639 hoặc các đường tỉnh nối về Mỹ Thọ cũ. Do hệ thống đường có thể thay đổi, chatbot không nên đưa một tuyến duy nhất như mệnh lệnh, mà nên khuyên người dùng mở bản đồ cập nhật và chọn tuyến ít kẹt, ít sửa đường.
+
+Ưu điểm của đường ven biển là cảnh đẹp, có thể kết hợp nhiều điểm dừng. Nhược điểm là có đoạn vắng, nắng gió, ít cửa hàng sửa xe hoặc cây xăng hơn khu vực đô thị. Người đi xe máy nên đổ xăng đầy, kiểm tra phanh, mang áo khoác nắng và không xuất phát quá muộn nếu muốn quay lại Quy Nhơn trong ngày.
+
+3. Đường đi từ sân bay, ga tàu và bến xe
+
+Nếu xuất phát từ sân bay Phù Cát, du khách có thể chọn đi thẳng về hướng Phù Mỹ hoặc ghé Quy Nhơn trước rồi đi Mũi Vi Rồng trong một ngày riêng. Đi thẳng từ sân bay có thể tiết kiệm thời gian nếu mục tiêu chính là phía Bắc tỉnh Bình Định cũ, nhưng cần đặt xe trước vì cung đường về làng biển không phải tuyến taxi ngắn phổ biến. Thông tin giá xe là tham khảo và cần hỏi lại nhà xe trước khi đi.
+
+Nếu xuất phát từ ga Diêu Trì hoặc ga Quy Nhơn, phương án thuận tiện là thuê xe máy, thuê ô tô có tài xế hoặc bắt xe khách về Phù Mỹ rồi tiếp tục đi xe ôm địa phương. Khách có hành lý lớn nên cân nhắc gửi đồ tại nơi lưu trú trước, vì khu vực mỏm đá không phù hợp kéo vali hoặc mang nhiều đồ.
+
+Từ bến xe Quy Nhơn, có thể tìm các xe đi hướng Phù Mỹ hoặc các tuyến liên huyện rồi xuống gần khu vực phù hợp để tiếp tục bằng xe ôm/xe máy. Tuy vậy, cách này kém linh hoạt hơn nhiều so với thuê xe riêng, đặc biệt nếu muốn ngắm hoàng hôn hoặc kết hợp nhiều điểm trong ngày.
+
+4. Phương tiện phù hợp
+
+Xe máy phù hợp với nhóm trẻ, người quen đi đường xa, thích dừng chụp ảnh và muốn chủ động lịch trình. Ưu điểm là linh hoạt ở đoạn đường làng, dễ gửi xe và tiết kiệm chi phí. Nhược điểm là mệt nếu đi trong ngày từ Quy Nhơn, dễ nắng, dễ gặp gió ngang, và không phù hợp với người không quen chạy xe đường ven biển.
+
+Ô tô riêng hoặc xe thuê có tài xế phù hợp với gia đình, nhóm bạn, khách lớn tuổi hoặc người mang nhiều thiết bị chụp ảnh. Xe có thể đưa đến gần làng Tân Phụng, sau đó du khách đi bộ hoặc hỏi phương án trung chuyển gần nhất. Cần xác nhận trước điểm xe có thể dừng, đường có đủ rộng cho ô tô không và chỗ quay đầu có thuận tiện không.
+
+Đi tour hoặc thuê xe trọn gói phù hợp nếu du khách muốn kết hợp Mũi Vi Rồng với các điểm khác ở Phù Mỹ, Hoài Nhơn, đầm Trà Ổ, bãi biển Mỹ Thọ hoặc các làng chài. Với tour, cần hỏi rõ thời lượng dừng ở Mũi Vi Rồng, có vào ghềnh đá không, có hỗ trợ ăn trưa không, có bảo hiểm không và có thay đổi lịch khi thời tiết xấu không.
+
+5. Cách tìm bản đồ và chuẩn bị lộ trình
+
+Trước khi đi, nên lưu bản đồ ngoại tuyến vì sóng điện thoại ở một số đoạn ven biển hoặc trong làng có thể không ổn định. Người dùng có thể đánh dấu trước các mốc: điểm xuất phát, Mũi Vi Rồng, làng Tân Phụng, cây xăng gần nhất, quán ăn dự kiến và điểm dừng phụ. Cách này giúp giảm rủi ro khi bản đồ đổi tuyến hoặc tín hiệu yếu.
+
+Khi đến gần khu dân cư, nên giảm tốc độ và hỏi người dân đường ra mỏm đá thay vì cố chạy theo bản đồ nếu đường nhỏ. Một số lối đi có thể phù hợp xe máy nhưng không phù hợp ô tô. Nếu thấy đường cát, đường đá hoặc lối xuống ghềnh không rõ ràng, nên để xe ở điểm an toàn và đi bộ.
+
+Không nên đi một mình vào thời điểm chiều tối muộn, sau mưa lớn hoặc khi biển đang động. Nếu muốn chụp hoàng hôn, cần tính thời gian quay ra khi trời còn sáng. Khu vực ghềnh đá ít đèn và không phải điểm tham quan có hạ tầng chiếu sáng như khu du lịch chính thức.
+
+6. Gợi ý đi tự túc và đi theo nhóm
+
+Lịch tự túc nửa ngày từ Quy Nhơn có thể xuất phát lúc sáng sớm, di chuyển đến Mũi Vi Rồng, tham quan ghềnh đá, chụp ảnh, ghé làng chài ăn hải sản rồi quay về. Nếu đi chiều, nên đến sớm trước hoàng hôn ít nhất một đến hai giờ để khảo sát đường, chọn góc chụp và tránh leo đá trong ánh sáng yếu.
+
+Với nhóm bạn, nên phân công người kiểm tra bản đồ, người theo dõi thời tiết, người giữ nước uống và đồ y tế cơ bản. Không nên tách nhóm khi leo ghềnh đá hoặc vào khu hang. Nếu một người muốn xuống sát nước chụp ảnh, các thành viên khác nên giữ khoảng cách quan sát và nhắc an toàn.
+
+Với gia đình có trẻ em, chỉ nên tham quan khu vực dễ đi, tránh sát mép đá và không để trẻ tự chạy trên đá. Với người lớn tuổi, cần chọn giày chống trơn, đi chậm, không bắt buộc leo lên điểm cao nhất. Trải nghiệm ngắm biển từ làng chài hoặc bãi cát vẫn đủ đẹp mà an toàn hơn.
+
+7. Lưu ý giao thông, gửi xe và đường ven biển
+
+Thông tin gửi xe ở Mũi Vi Rồng có thể thay đổi theo mùa, lượng khách và cách người dân địa phương tổ chức dịch vụ. Có thời điểm chỉ là gửi nhờ ở nhà dân hoặc khu vực quán nhỏ, có thời điểm có người hướng dẫn. Chi phí nếu có là thông tin tham khảo, cần hỏi trước khi gửi.
+
+Đường ven biển miền Trung có thể nắng gắt, gió mạnh, ít bóng râm và có đoạn cát bay. Người đi xe máy nên đeo kính, khẩu trang, áo chống nắng và không chở quá nhiều đồ. Những ngày sau mưa, cát và bùn có thể làm đoạn đường nhỏ trơn hơn, cần chạy chậm.
+
+Nếu thuê xe có tài xế, nên nói rõ điểm đến là Mũi Vi Rồng thuộc Tân Phụng, Phù Mỹ Đông, không chỉ nói 'Mũi Rồng' chung chung. Một số tài xế chưa quen tên mới sau sáp nhập hoặc có thể nhầm với điểm khác. Nên gửi định vị trước và thống nhất giờ chờ, điểm đón lại.
+
+8. Các câu hỏi chatbot có thể trả lời từ file này
+
+Mũi Vi Rồng cách Quy Nhơn bao xa?
+
+Đi Mũi Vi Rồng bằng xe máy có ổn không?
+
+Từ sân bay Phù Cát đi Mũi Vi Rồng như thế nào?
+
+Có nên đi ô tô vào sát Mũi Vi Rồng không?
+
+Tìm Mũi Vi Rồng trên Google Maps bằng từ khóa nào?
+
+Đi Mũi Vi Rồng trong ngày từ Quy Nhơn có kịp không?
+
+9. Nguồn tham khảo
+
+Các nguồn dưới đây được dùng để đối chiếu thông tin nền, vị trí, hành chính, trải nghiệm và lưu ý. Thông tin giá vé, dịch vụ, giờ hoạt động, tour, phương tiện và tình trạng đường có thể thay đổi theo mùa, thời tiết hoặc cách quản lý tại địa phương; du khách cần kiểm tra lại trước khi đi.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá Mũi Vi Rồng, vẻ đẹp hoang sơ kỳ diệu của thiên nhiên Bình Định: https://vietnamtourism.gov.vn/post/37351
+
+TTXVN/VietnamPlus - Khám phá vẻ đẹp hoang sơ và kỳ bí của Mũi Vi Rồng: https://www.vietnamplus.vn/binh-dinh-kham-pha-ve-dep-hoang-so-va-ky-bi-cua-mui-vi-rong-post1037481.vnp
+
+Chính sách & Cuộc sống/TTXVN - Mũi Vi Rồng hút du khách bởi nét hoang sơ, kỳ bí: https://chinhsachcuocsong.vnanet.vn/mui-vi-rong-hut-du-khach-boi-net-hoang-so-ky-bi/60614.html
+
+Báo Gia Lai - Gia Lai xếp hạng thêm 2 di tích lịch sử cấp tỉnh: https://baogialai.com.vn/gia-lai-xep-hang-them-2-di-tich-lich-su-cap-tinh-post582965.html
+
+Cổng thông tin Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+VinWonders - Du lịch kỳ quan Mũi Vi Rồng, hướng dẫn đường đi và trải nghiệm: https://vinwonders.com/vi/wonderpedia/news/mui-vi-rong-binh-dinh/
+
+Traveloka - Mũi Vi Rồng, kiệt tác thiên nhiên: https://www.traveloka.com/vi-vn/explore/destination/mui-vi-rong/334861
+
+Dulichquynhon.blog - Mũi Vi Rồng Bình Định: đường đi, cảnh đẹp, ăn gì chơi gì: https://dulichquynhon.blog/dia-diem-du-lich/mui-vi-rong/
+
+10. Nguồn tham khảo cuối file
+
+Các nguồn đã dùng để đối chiếu và cập nhật dữ liệu. Thông tin giá vé, giờ hoạt động, dịch vụ, đường đi, lễ hội và điều kiện thời tiết là thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá Mũi Vi Rồng, vẻ đẹp hoang sơ kỳ diệu của thiên nhiên Bình Định: https://vietnamtourism.gov.vn/post/37351
+
+TTXVN/VietnamPlus - Khám phá vẻ đẹp hoang sơ và kỳ bí của Mũi Vi Rồng: https://www.vietnamplus.vn/binh-dinh-kham-pha-ve-dep-hoang-so-va-ky-bi-cua-mui-vi-rong-post1037481.vnp
+
+Chính sách & Cuộc sống/TTXVN - Mũi Vi Rồng hút du khách bởi nét hoang sơ, kỳ bí: https://chinhsachcuocsong.vnanet.vn/mui-vi-rong-hut-du-khach-boi-net-hoang-so-ky-bi/60614.html
+
+Báo Gia Lai - Gia Lai xếp hạng thêm 2 di tích lịch sử cấp tỉnh: https://baogialai.com.vn/gia-lai-xep-hang-them-2-di-tich-lich-su-cap-tinh-post582965.html
+
+Cổng thông tin Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+VinWonders - Du lịch kỳ quan Mũi Vi Rồng, hướng dẫn đường đi và trải nghiệm: https://vinwonders.com/vi/wonderpedia/news/mui-vi-rong-binh-dinh/
+
+Traveloka - Mũi Vi Rồng, kiệt tác thiên nhiên: https://www.traveloka.com/vi-vn/explore/destination/mui-vi-rong/334861
+
+Dulichquynhon.blog - Mũi Vi Rồng Bình Định: đường đi, cảnh đẹp, ăn gì chơi gì: https://dulichquynhon.blog/dia-diem-du-lich/mui-vi-rong/

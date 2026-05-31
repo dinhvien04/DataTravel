@@ -1,0 +1,171 @@
+1. Hướng sử dụng FAQ cho chatbot
+
+Bộ FAQ này bao phủ các nhóm câu hỏi thường gặp về Chùa Ông Núi/Linh Phong Thiền Tự: vị trí, tên gọi, hành chính mới, giá vé, giờ mở cửa, cách đi, leo bậc thang, mùa đẹp, lễ hội, dịch vụ, đối tượng phù hợp và nhận diện qua hình ảnh. Với các thông tin dễ thay đổi như giá vé, giờ mở cửa, dịch vụ, gửi xe và quy định tại chỗ, chatbot nên luôn thêm câu nhắc “Thông tin tham khảo, cần kiểm tra lại trước khi đi”.
+
+2. Câu 1. Chùa Ông Núi ở đâu?
+
+Chùa Ông Núi, còn gọi là Linh Phong Thiền Tự, nằm trên khu vực núi Bà, đỉnh Chóp Vung, xã Cát Tiến, tỉnh Gia Lai. Trong các nguồn cũ, địa điểm thường được ghi là xã Cát Tiến, huyện Phù Cát, tỉnh Bình Định, cách trung tâm Quy Nhơn khoảng 25-30 km.
+
+3. Câu 2. Chùa Ông Núi còn có tên nào khác?
+
+Tên gọi thường gặp gồm Linh Phong Tự, Linh Phong Thiền Tự, Linh Phong Sơn Tự và trong một số tài liệu là Dũng Tuyền Linh Phong Thiền Viện. Tên dân gian “Chùa Ông Núi” gắn với câu chuyện vị tu sĩ sống ẩn tu trên núi và được người dân kính gọi là Ông Núi.
+
+4. Câu 3. Chùa Ông Núi thuộc Bình Định hay Gia Lai?
+
+Theo cách gọi du lịch cũ, chùa thuộc Bình Định, gần Quy Nhơn và Phù Cát. Sau sắp xếp hành chính năm 2025, khu vực Cát Tiến thuộc tỉnh Gia Lai mới. Khi tìm trên bản đồ, bạn nên thử cả “Chùa Ông Núi Bình Định” và “Chùa Ông Núi Gia Lai”.
+
+5. Câu 4. Từ Quy Nhơn đi Chùa Ông Núi mất bao lâu?
+
+Tùy vị trí xuất phát và giao thông, từ trung tâm Quy Nhơn đến Chùa Ông Núi thường mất khoảng 40-60 phút bằng ô tô hoặc xe máy. Khoảng cách phổ biến được các nguồn du lịch ghi khoảng 25-30 km.
+
+6. Câu 5. Chùa Ông Núi có bao nhiêu bậc thang?
+
+Nhiều nguồn ghi đường lên chùa và khu tượng có khoảng 600 bậc thang. Con số này nên hiểu là tham khảo, nhưng đủ để biết rằng du khách cần đi bộ và nên chuẩn bị giày dép phù hợp.
+
+7. Câu 6. Tượng Phật ở Chùa Ông Núi cao bao nhiêu?
+
+Nhiều nguồn du lịch ghi tượng Phật Thích Ca Mâu Ni ngồi cao khoảng 69 m. Nếu tính cả bệ và đài sen, tổng chiều cao công trình có nguồn ghi khoảng 108 m. Khi trả lời, nên phân biệt tượng và toàn bộ công trình để tránh nhầm.
+
+8. Câu 7. Chùa Ông Núi có phải tượng Phật ngồi lớn nhất Đông Nam Á không?
+
+Một số nguồn từng giới thiệu tượng Phật ngồi tại Chùa Ông Núi là một trong những tượng Phật ngồi lớn nhất Đông Nam Á tại thời điểm khánh thành. Tuy nhiên, các danh xưng kỷ lục có thể thay đổi, nên nên nói theo hướng thận trọng thay vì khẳng định tuyệt đối.
+
+9. Câu 8. Chùa Ông Núi có mất vé không?
+
+Một số nguồn hiện ghi chùa tham quan miễn phí. Tuy nhiên, gửi xe, nước uống, tour, thuyết minh hoặc dịch vụ ở điểm lân cận có thể phát sinh chi phí. Thông tin giá vé là tham khảo, cần kiểm tra lại trước khi đi.
+
+10. Câu 9. Chùa Ông Núi mở cửa mấy giờ?
+
+Một số nguồn trải nghiệm ghi giờ tham khảo khoảng 9:00-18:00 hằng ngày. Vì giờ vận hành có thể thay đổi theo mùa, lễ hội hoặc quy định tại chỗ, bạn nên kiểm tra lại trước ngày đi.
+
+11. Câu 10. Nên đi Chùa Ông Núi vào buổi nào?
+
+Buổi sáng sớm là lựa chọn tốt nhất vì mát, dễ leo và ánh sáng đẹp. Chiều muộn cũng đẹp để ngắm cảnh, nhưng cần xuống núi trước khi tối. Giữa trưa thường nắng và dễ mệt.
+
+12. Câu 11. Mùa nào đi Chùa Ông Núi đẹp?
+
+Mùa khô, đặc biệt từ sau Tết đến trước mùa mưa, thường thuận lợi hơn. Mùa xuân âm lịch có lễ hội và không khí hành hương. Mùa mưa cuối năm cần chú ý bậc trơn và thời tiết xấu.
+
+13. Câu 12. Lễ hội Chùa Ông Núi diễn ra khi nào?
+
+Lễ hội Chùa Ông Núi thường diễn ra ngày 24-25 tháng Giêng âm lịch hằng năm. Đây là dịp đông khách hành hương, dâng lễ và vãn cảnh.
+
+14. Câu 13. Đi Chùa Ông Núi có mệt không?
+
+Có thể mệt nếu bạn không quen leo bậc, đi lúc trời nắng hoặc mang nhiều đồ. Nên đi chậm, nghỉ giữa chặng, mang nước và chọn giày bám tốt.
+
+15. Câu 14. Người lớn tuổi có nên đi Chùa Ông Núi không?
+
+Người lớn tuổi vẫn có thể đi nếu sức khỏe tốt và đi chậm. Nếu có bệnh xương khớp, tim mạch, huyết áp hoặc khó thở, nên chỉ tham quan một phần hoặc hỏi trước về lối tiếp cận thuận lợi.
+
+16. Câu 15. Trẻ em có đi Chùa Ông Núi được không?
+
+Trẻ em có thể đi nếu có người lớn giám sát. Cần nhắc trẻ không chạy trên bậc thang, không leo lan can, không gây ồn trong chánh điện và uống đủ nước.
+
+17. Câu 16. Có nên đi Chùa Ông Núi mùa mưa không?
+
+Có thể đi nếu thời tiết ổn, nhưng không nên leo khi mưa lớn vì bậc đá trơn và tầm nhìn kém. Mùa mưa nên kiểm tra dự báo thời tiết và chuẩn bị áo mưa, giày chống trượt.
+
+18. Câu 17. Chùa Ông Núi có gì để chụp ảnh?
+
+Các góc đẹp gồm tượng Phật trắng trên núi, bậc thang dẫn lên tượng, sân chùa, mái ngói đỏ, cảnh núi Bà và tầm nhìn về biển Cát Tiến. Khi chụp ở khu thờ tự cần giữ trang phục và dáng chụp lịch sự.
+
+19. Câu 18. Có được chụp ảnh trong chùa không?
+
+Thông thường có thể chụp ảnh ở nhiều khu vực ngoài trời, nhưng cần quan sát biển báo và không chụp ảnh phản cảm hoặc ảnh hưởng người đang lễ Phật. Khu vực cấm chụp nếu có phải tuân thủ.
+
+20. Câu 19. Nên mặc gì khi đi Chùa Ông Núi?
+
+Nên mặc trang phục lịch sự, kín đáo, dễ vận động. Giày thể thao hoặc dép có quai chắc là lựa chọn phù hợp vì phải leo bậc thang.
+
+21. Câu 20. Có cần đặt vé trước không?
+
+Nếu chỉ tham quan chùa, thường không cần đặt vé trước theo các nguồn ghi miễn phí. Nếu đi tour, thuê xe hoặc đi đoàn vào lễ hội, nên đặt trước dịch vụ di chuyển và hỏi kỹ lịch trình.
+
+22. Câu 21. Chùa Ông Núi có phù hợp để đi tự túc không?
+
+Có. Du khách có thể đi tự túc bằng xe máy, ô tô cá nhân, taxi hoặc xe hợp đồng từ Quy Nhơn. Cần kiểm tra bản đồ, thời tiết và chuẩn bị cho đoạn leo bộ.
+
+23. Câu 22. Có tour đi Chùa Ông Núi không?
+
+Một số tour Quy Nhơn có thể kết hợp Chùa Ông Núi với Trung Lương, Eo Gió, Kỳ Co hoặc các điểm ven biển. Nên hỏi rõ thời gian dừng ở chùa và chi phí đã bao gồm những gì.
+
+24. Câu 23. Gần Chùa Ông Núi có địa điểm nào?
+
+Các điểm thường kết hợp gồm bãi biển Cát Tiến, khu dã ngoại Trung Lương, Eo Gió, Kỳ Co, Đề Gi và các điểm văn hóa trong khu vực Quy Nhơn - Phù Cát.
+
+25. Câu 24. Đi Chùa Ông Núi và Trung Lương trong nửa ngày được không?
+
+Có thể đi được nếu xuất phát từ Quy Nhơn sớm và không ở lại quá lâu ở mỗi điểm. Lịch trình phù hợp là Chùa Ông Núi buổi sáng, sau đó ghé Trung Lương hoặc bãi Cát Tiến ăn trưa/nghỉ ngơi.
+
+26. Câu 25. Đi Chùa Ông Núi có thể kết hợp Kỳ Co Eo Gió không?
+
+Có thể kết hợp trong một ngày, nhưng nên xuất phát sớm vì Kỳ Co - Eo Gió cũng cần nhiều thời gian. Nếu đi cùng trẻ em hoặc người lớn tuổi, không nên nhồi quá nhiều điểm.
+
+27. Câu 26. Có quán ăn gần Chùa Ông Núi không?
+
+Khu vực Cát Tiến và các điểm ven biển lân cận có quán ăn, nước uống và hải sản. Không nên ăn uống trong khu thờ tự; nên dùng bữa ở khu dân cư hoặc điểm du lịch gần đó.
+
+28. Câu 27. Có nhà vệ sinh và gửi xe không?
+
+Thường có dịch vụ cơ bản như gửi xe và nhà vệ sinh ở khu chân núi hoặc khu lân cận, nhưng tình trạng cụ thể có thể thay đổi theo mùa và lễ hội. Nên chuẩn bị trước và hỏi tại chỗ.
+
+29. Câu 28. Chùa Ông Núi có phù hợp khách quốc tế không?
+
+Có, nhất là khách quan tâm kiến trúc Phật giáo, cảnh quan núi biển và trải nghiệm đi bộ. Tuy nhiên, nên có người thuyết minh hoặc chuẩn bị thông tin tiếng Anh về lịch sử, tên gọi và quy tắc ứng xử.
+
+30. Câu 29. Tại sao gọi là Chùa Ông Núi?
+
+Tên gọi gắn với vị tu sĩ sống ẩn cư trên núi, thường được gọi là Mộc Y Sơn Ông vì sống giản dị, mặc áo vỏ cây và giúp dân chữa bệnh. Người dân kính trọng gọi ông là Ông Núi, từ đó hình thành tên gọi dân gian của chùa.
+
+31. Câu 30. Chùa Ông Núi có phải chùa cổ không?
+
+Có. Chùa gắn với truyền thuyết và lịch sử tu hành từ nhiều thế kỷ trước, trải qua nhiều lần trùng tu. Bên cạnh chùa cổ, hiện nay quần thể còn có hạng mục tượng Phật lớn hiện đại.
+
+32. Câu 31. Ảnh có tượng Phật trắng rất lớn trên núi nhìn ra biển là ở đâu?
+
+Nếu ảnh có tượng Phật Thích Ca Mâu Ni ngồi màu trắng rất lớn, phía sau là núi Bà, phía trước có hướng nhìn ra biển Cát Tiến, rất có thể đó là Chùa Ông Núi/Linh Phong Thiền Tự ở xã Cát Tiến, Gia Lai.
+
+33. Câu 32. Ảnh có bậc thang dài dẫn lên tượng Phật trắng là địa điểm nào?
+
+Mô tả này rất khớp với Chùa Ông Núi ở Cát Tiến. Địa điểm nổi bật với đường bậc thang lên khu tượng Phật Thích Ca Mâu Ni lớn trên núi.
+
+34. Câu 33. Có nên đi Chùa Ông Núi vào dịp lễ hội không?
+
+Nên đi nếu bạn muốn cảm nhận không khí hành hương đông vui và lễ hội đầu năm. Nếu muốn yên tĩnh, chụp ảnh thoáng hoặc đi cùng người lớn tuổi, nên tránh đúng ngày 24-25 tháng Giêng âm lịch.
+
+35. Câu 34. Cần lưu ý gì về an toàn khi leo bậc?
+
+Đi chậm, bám lan can nếu có, không chạy, không leo khi trời mưa lớn, mang giày bám tốt và uống nước. Nếu mệt, chóng mặt hoặc khó thở thì nên dừng nghỉ.
+
+36. Câu 35. Có nên mang lễ vật không?
+
+Nếu đi lễ, có thể mang lễ vật gọn nhẹ, phù hợp văn hóa chùa. Không nên mang quá nhiều đồ cồng kềnh vì phải leo bậc và có thể gây bất tiện trong khu đông người.
+
+37. Câu 36. Có thể bay drone ở Chùa Ông Núi không?
+
+Không nên tự ý bay drone. Khu vực tâm linh và đông người có thể có quy định hạn chế quay chụp từ trên cao; cần xin phép và tuân thủ quy định địa phương.
+
+38. Câu 37. Chùa Ông Núi có gần biển không?
+
+Có. Chùa nằm trên núi Bà gần khu vực biển Cát Tiến, nên từ trên cao có thể nhìn về không gian biển, làng mạc và vùng ven biển phía Bắc Quy Nhơn.
+
+39. Câu 38. Nên dành bao lâu để tham quan?
+
+Nên dành khoảng 2-3 giờ nếu muốn leo lên khu tượng, dâng hương và ngắm cảnh. Nếu chỉ đi nhanh hoặc chỉ tham quan một phần, có thể cần khoảng 1-1,5 giờ.
+
+40. Câu 39. Có thể đi Chùa Ông Núi bằng taxi không?
+
+Có thể đi taxi hoặc xe hợp đồng từ Quy Nhơn. Với chiều về, nên hẹn xe chờ hoặc đặt trước vì khu vực xa trung tâm hơn, không phải lúc nào cũng dễ gọi xe ngay.
+
+41. Câu 40. Chùa Ông Núi có gì khác so với các chùa trong Quy Nhơn?
+
+Điểm khác biệt là chùa nằm trên núi ven biển, có bậc thang hành hương và tượng Phật ngồi quy mô rất lớn. Đây là điểm kết hợp rõ giữa tâm linh, vận động và cảnh quan núi biển.
+
+42. Câu 41. Thông tin mới nhất cần kiểm tra là gì?
+
+Cần kiểm tra giờ mở cửa, tình trạng gửi xe, thời tiết, quy định chụp ảnh, dịch vụ thuyết minh, giá dịch vụ phụ trợ và tình hình đông khách vào dịp lễ hội hoặc cuối tuần.
+
+43. Nguồn tham khảo
+
+- Cổng thông tin xã Cát Tiến, Gia Lai: "Linh Phong Thiền tự - Chùa Ông Núi", địa chỉ đường TL 639, thôn/khu phố Phương Phi, xã Cát Tiến, Gia Lai; giới thiệu vị trí trên đỉnh Chóp Vung thuộc dãy núi Bà và giá trị du lịch tâm linh. - Vietnam Airlines Travel Guide: "Chùa Ông Núi - Tìm hiểu lịch sử, kiến trúc và kinh nghiệm tham quan", cung cấp thông tin tham khảo về vị trí, giờ mở cửa 9:00-18:00, giá vé miễn phí, tên gọi Linh Phong Sơn Tự/Dũng Tuyền Linh Phong Thiền Viện, lịch sử Tánh Ban - Mộc Y Sơn Ông, mùa đi đẹp và lưu ý mùa mưa. - Vinpearl: "Chùa Ông Núi - địa điểm du lịch tâm linh nổi tiếng", ghi nhận tên gọi Linh Phong Thiền Tự, khoảng cách từ Quy Nhơn khoảng 30 km, đường lên chùa khoảng 600 bậc thang, tượng Phật Thích Ca Mâu Ni 69 m và tổng chiều cao công trình khoảng 108 m khi tính cả bệ/đài sen. - Báo Gia Lai: "Lên đỉnh Bô Chinh, vãn cảnh chùa Ông Núi", "Lễ hội chùa Ông Núi", "Tháng Giêng đi lễ chùa Ông Núi" và các tin liên quan, cung cấp bối cảnh lễ hội 24-25 tháng Giêng âm lịch, ngày giỗ vị trụ trì thời kỳ đầu và các mô tả lịch sử - văn hóa địa phương. - Thư viện Pháp luật: thông tin Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai; xã Cát Tiến mới hình thành từ thị trấn Cát Tiến, xã Cát Thành và xã Cát Hải từ 01/07/2025. - Thanh Niên: "Tượng Phật khổng lồ cao 69 m thu hút hàng ngàn người đến tham quan", cung cấp thông tin trải nghiệm lễ hội và mô tả tượng Phật trong dự án du lịch tâm linh Linh Phong.

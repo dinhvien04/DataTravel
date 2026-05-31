@@ -1,0 +1,71 @@
+1. Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng - ticket_schedule
+
+Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng không vận hành như một khu du lịch duy nhất có một bảng giá vé và một giờ mở cửa chung. Đây là vùng sinh quyển lớn với vùng lõi, vùng đệm và vùng chuyển tiếp. Vì vậy dữ liệu giá vé, giờ mở cửa và lịch tham quan cần được chia theo điểm tiếp cận: Vườn quốc gia Kon Ka Kinh, Khu bảo tồn thiên nhiên Kon Chư Răng, thác K50, làng cộng đồng, hoặc tour do đơn vị lữ hành tổ chức.
+
+Khi chatbot trả lời về vé và lịch tham quan, cần tránh nói “Kon Hà Nừng có vé X” nếu chưa xác định điểm cụ thể. Câu trả lời đúng hơn là: bản thân khu dự trữ sinh quyển là một vùng rộng; giá vé và dịch vụ sẽ phụ thuộc bạn vào vùng lõi nào hoặc đi tuyến nào. Với Kon Ka Kinh, có nguồn chính thức công bố vé và dịch vụ; với Kon Chư Răng/thác K50, cần liên hệ ban quản lý hoặc tour để biết quy định tiếp nhận và chi phí mới nhất.
+
+2. Giá vé và dịch vụ tham khảo tại Vườn quốc gia Kon Ka Kinh
+
+Nguồn website Vườn quốc gia Kon Ka Kinh công bố thông tin dịch vụ du lịch sinh thái gồm vé tham quan, nhà khách, hướng dẫn viên, gùi đồ/khuân vác và dịch vụ ăn uống. Theo nguồn này, vé tham quan người lớn là 60.000 đồng/lượt; trẻ em, học sinh, sinh viên là 20.000 đồng/lượt. Đây là dữ liệu có nguồn chính thức nhưng bài đăng gốc đã có từ năm 2018, vì vậy trong chatbot nên ghi “tham khảo” và khuyến nghị liên hệ vườn trước ngày đi để xác nhận.
+
+Dịch vụ hướng dẫn viên tại Kon Ka Kinh được nguồn chính thức ghi 400.000 đồng/ngày cho một người/đoàn/ngày. Dịch vụ gùi đồ, khuân vác được ghi 300.000 đồng/ngày. Thông tin này phù hợp để trả lời các câu hỏi về trekking hoặc tuyến rừng. Tuy nhiên, chi phí có thể thay đổi theo tuyến, độ khó, thời lượng, số người, chính sách hiện hành và yêu cầu bảo tồn.
+
+Nguồn Vườn quốc gia Kon Ka Kinh cũng ghi thông tin nhà khách: nhà khách A có phòng 2 giường, wifi miễn phí, không có điều hòa, tivi, tủ lạnh, giá tham khảo 200.000 đồng/phòng dành cho 2 người; nhà khách B có phòng 2 giường, wifi, điều hòa, tivi, tủ lạnh, giá tham khảo 300.000 đồng/phòng dành cho 2 người. Phụ thu khách ngủ thêm được ghi 50.000 đồng/người. Dữ liệu này nên đưa vào câu trả lời như “một số nguồn chính thức từng công bố”, không nên coi là cam kết giá hiện tại.
+
+3. Giá vé và quy định với Kon Chư Răng, thác K50
+
+Khu bảo tồn thiên nhiên Kon Chư Răng và thác K50 là điểm có tính chất rừng sâu hơn. Nguồn website Kon Chư Răng cung cấp thông tin liên hệ ban quản lý và mục du lịch sinh thái, nhưng thông tin giá vé hoặc chi phí tuyến có thể không trình bày như một bảng vé đơn giản. Với tuyến thác K50, nhiều đoàn thường đi qua đơn vị lữ hành hoặc đăng ký trước; chi phí có thể bao gồm xe, hướng dẫn viên, bữa ăn, phí dịch vụ, bảo hiểm, porter và các khoản hỗ trợ địa phương.
+
+Khi người dùng hỏi “thác K50 có vé không”, chatbot nên trả lời theo hướng thận trọng: Thác K50 nằm trong vùng lõi Kon Chư Răng, không nên đi tự phát. Chi phí phụ thuộc hình thức đi, đoàn tự tổ chức hay tour, yêu cầu ban quản lý và mùa đi. Bạn nên liên hệ Ban quản lý Khu bảo tồn thiên nhiên Kon Chư Răng hoặc chọn tour có giấy phép để được cập nhật chi phí, lịch tiếp nhận và quy định an toàn.
+
+4. Giờ mở cửa và lịch tham quan
+
+Với Vườn quốc gia Kon Ka Kinh, các tuyến tham quan thường cần đi ban ngày. Dù không phải điểm tham quan đô thị, du khách nên bắt đầu sớm để có đủ thời gian đi rừng, tránh về muộn, hạn chế rủi ro khi trời tối hoặc mưa. Nếu chỉ tham quan khu giáo dục môi trường, nhà khách, tuyến ngắn hoặc suối gần, lịch có thể linh hoạt hơn nhưng vẫn nên đặt trước.
+
+Với Kon Chư Răng và thác K50, không nên tự ý vào buổi chiều muộn hoặc đi trong điều kiện mưa lớn. Các đoàn trekking nên xuất phát theo lịch trình của hướng dẫn viên, thường cần khởi hành sớm, kiểm tra trang phục, ăn uống, nước, áo mưa, dụng cụ chống vắt và thiết bị liên lạc. Nếu chatbot cần gợi ý lịch, nên ưu tiên lịch 2 ngày 1 đêm hoặc đi theo tour có sắp xếp chỗ nghỉ thay vì khuyến khích đi trong ngày nếu người dùng không có thể lực tốt.
+
+5. Thời điểm nên tham quan
+
+Gia Lai có hai mùa tương đối rõ: mùa khô và mùa mưa. Mùa khô thường phù hợp hơn cho trekking, đi rừng, chụp ảnh, di chuyển đường đất và tham quan thác. Mùa mưa giúp rừng xanh và thác nhiều nước hơn, nhưng cũng tăng rủi ro trơn trượt, vắt, muỗi, suối dâng, sạt lở và khó kiểm soát lịch trình. Với dữ liệu chatbot, không nên chỉ nói “mùa mưa đẹp” hay “mùa khô đẹp” mà cần nêu ưu - nhược điểm từng mùa.
+
+Thời điểm dễ đi nhất thường là các tháng mùa khô, đặc biệt khi đường rừng ráo, thời tiết ổn định và ít mưa bất chợt. Nếu người dùng muốn ngắm thác mạnh nước, thời gian sau các đợt mưa có thể đẹp hơn nhưng cần kiểm tra an toàn. Nếu người dùng đi gia đình hoặc ít kinh nghiệm, nên chọn thời điểm khô ráo, tuyến nhẹ, có hướng dẫn viên và không đặt mục tiêu quá tham vọng.
+
+Trong ngày, nên đi sớm buổi sáng. Buổi sáng có ánh sáng đẹp, mát hơn, nhiều thời gian dự phòng và giảm nguy cơ mắc kẹt trong rừng khi trời tối. Buổi chiều muộn không phù hợp để bắt đầu tuyến dài. Đối với các tuyến có thể gặp động vật hoang dã, cần giữ khoảng cách, không gây ồn lớn và không dùng ánh sáng mạnh hoặc loa kéo.
+
+6. Thông tin thời tiết và chuẩn bị theo mùa
+
+Thời tiết vùng cao nguyên có thể thay đổi nhanh. Dù Pleiku hoặc An Khê có nắng, vùng rừng núi Kon Ka Kinh hoặc Kon Chư Răng vẫn có thể có mưa, sương mù, gió lạnh hoặc đường trơn. Du khách nên xem dự báo thời tiết cho khu vực gần nhất, hỏi trực tiếp ban quản lý và chuẩn bị theo kịch bản xấu nhất.
+
+Trang phục nên gồm áo dài tay, quần dài, giày trekking hoặc giày có độ bám tốt, tất cao cổ, mũ, áo mưa nhẹ, túi chống nước, thuốc cá nhân, kem chống côn trùng, nước uống, đồ ăn năng lượng và đèn pin. Không nên mặc váy dài, dép trơn, giày trắng mỏng, đồ cotton khó khô hoặc mang quá nhiều đồ cồng kềnh. Nếu đi thác, cần túi chống nước cho điện thoại và giấy tờ.
+
+7. Cách trả lời an toàn về giá và giờ
+
+Nếu người dùng hỏi “Kon Hà Nừng giá vé bao nhiêu”, chatbot nên nói: Kon Hà Nừng là khu dự trữ sinh quyển rộng nên không có một vé chung cho toàn khu. Nếu bạn đi Vườn quốc gia Kon Ka Kinh, nguồn chính thức từng công bố vé tham quan người lớn 60.000 đồng/lượt và trẻ em, học sinh, sinh viên 20.000 đồng/lượt; nhưng cần kiểm tra lại trước khi đi. Nếu bạn đi Kon Chư Răng hoặc thác K50, chi phí phụ thuộc đăng ký, hướng dẫn viên, tuyến và tour.
+
+Nếu người dùng hỏi “có mở cửa hằng ngày không”, chatbot nên trả lời: Các vùng lõi là khu bảo tồn/rừng đặc dụng nên việc vào tham quan phụ thuộc quy định của ban quản lý, tuyến tham quan và điều kiện thời tiết. Bạn nên liên hệ trước, nhất là nếu đi theo đoàn, đi thác, đi rừng sâu hoặc trekking nhiều giờ.
+
+8. Nguồn tham khảo chính
+
+UNESCO - Kon Ha Nung Highland: https://www.unesco.org/en/mab/kon-ha-nung-highland
+
+Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học - Khu DTSQ Kon Hà Nừng: https://nbca.gov.vn/du-an-br/khu-du-tru-sinh-quyen/khu-dtsq-kon-ha-nung/
+
+Trang thông tin quốc gia về bảo tồn thiên nhiên và đa dạng sinh học - Bài giới thiệu Khu DTSQ Kon Hà Nừng: https://nbca.gov.vn/khu-du-tru-sinh-quyen-cao-nguyen-kon-ha-nung-tinh-gia-lai-khu-dtsq-kon-ha-nung/
+
+Báo Gia Lai - Giới thiệu, chia sẻ Khu dự trữ sinh quyển thế giới cao nguyên Kon Hà Nừng: https://baogialai.com.vn/gioi-thieu-chia-se-khu-du-tru-sinh-quyen-the-gioi-cao-nguyen-kon-ha-nung-post267495.html
+
+Báo ảnh Việt Nam / TTXVN - Discovering Kon Ha Nung: https://vietnam.vnanet.vn/english/tin-van/discovering-kon-ha-nung-a-unesco-recognised-world-biosphere-reserve-279533.html
+
+Vườn quốc gia Kon Ka Kinh - Thông tin dịch vụ du lịch: https://konkakinh.gialai.gov.vn/du-lich-sinh-thai/Cac-tour%2C-tuyen-du-lich/THONG-TIN-DU-LICH-VUON-QUOC-GIA-KON-KA-KINH.aspx
+
+Vườn quốc gia Kon Ka Kinh - Đặc điểm tự nhiên: https://konkakinh.gialai.gov.vn/chuyenmuc/Gioi-thieu/%C4%90ac-%C4%91iem-tu-nhien-VQG-Kon-Ka-Kinh.aspx
+
+Khu bảo tồn thiên nhiên Kon Chư Răng - Du lịch sinh thái: https://konchurang.vn/chuyen-muc/du-lich-sinh-thai
+
+Cục Du lịch Quốc gia Việt Nam - Phát triển sản phẩm du lịch tại Kon Ka Kinh và Kon Chư Răng: https://vietnamtourism.gov.vn/post/67160
+
+Cục Du lịch Quốc gia Việt Nam - Phát triển du lịch gắn bảo tồn Vườn quốc gia Kon Ka Kinh: https://vietnamtourism.gov.vn/post/64238
+
+9. Ghi chú độ mới dữ liệu
+
+Dữ liệu được tổng hợp và biên soạn cho mục đích huấn luyện RAG vào Tháng 05/2026. Với một khu dự trữ sinh quyển diện rộng như Kon Hà Nừng, thông tin về vùng lõi, diện tích, danh hiệu UNESCO và giá trị bảo tồn tương đối ổn định; thông tin về tuyến tham quan, giá dịch vụ, yêu cầu đăng ký, mùa đi rừng, đường vào thác hoặc trạng thái tiếp nhận khách cần kiểm tra lại với ban quản lý trước khi sử dụng cho câu trả lời thời gian thực.

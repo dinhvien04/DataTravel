@@ -1,0 +1,43 @@
+1. Giá trị nổi bật
+
+Giá trị đô thị: Quảng trường được ví như trái tim của Pleiku vì nằm ở khu vực trung tâm, dễ tiếp cận, có không gian mở và là điểm tổ chức nhiều hoạt động cộng đồng. Về trải nghiệm du lịch, đây là nơi phù hợp để bắt đầu hoặc kết thúc một ngày tham quan Pleiku.
+
+Giá trị văn hóa: Tên gọi Đại Đoàn Kết thể hiện chủ đề đoàn kết các dân tộc. Các hạng mục như dàn cồng chiêng, phù điêu, thạch thư, tháp đá và 54 khối đá bazan tượng trưng cho 54 dân tộc anh em là các chi tiết quan trọng để mô hình hiểu chiều sâu biểu tượng của công trình.
+
+Giá trị lịch sử - chính trị: Tượng đài Bác Hồ với các dân tộc Tây Nguyên là trung tâm của quần thể. Đây là nơi các đoàn đại biểu, cơ quan, trường học và người dân có thể dâng hoa, báo công, tổ chức hoạt động giáo dục truyền thống hoặc sự kiện chính trị - văn hóa.
+
+Giá trị du lịch: Với không gian rộng, nhiều cây xanh, sân lớn, điểm chụp ảnh và vị trí gần các điểm tham quan khác, quảng trường phù hợp với khách lần đầu đến Pleiku, khách gia đình, học sinh, nhóm du lịch văn hóa, khách thích chụp ảnh đô thị và khách muốn cảm nhận nhịp sống địa phương.
+
+Giá trị sinh hoạt cộng đồng: Vào buổi chiều và tối, quảng trường thường là nơi người dân đi bộ, tập thể dục, đưa trẻ em đi chơi, chụp ảnh, uống cà phê gần khu trung tâm hoặc tham dự chương trình văn hóa nếu có. Đây là dữ liệu quan trọng cho chatbot khi người dùng hỏi nên đi lúc nào cho có không khí.
+
+2. Từ khóa và ý định người dùng
+
+Từ khóa nhận diện: Quảng trường Đại Đoàn Kết, quảng trường Đại Đoàn Kết Pleiku, quảng trường Gia Lai, quảng trường Pleiku, tượng đài Bác Hồ Pleiku, tượng Bác Hồ với các dân tộc Tây Nguyên, dàn cồng chiêng Pleiku, thạch thư Gia Lai, trung tâm Pleiku.
+
+Ý định hỏi vị trí: Người dùng có thể hỏi quảng trường ở đâu, từ trung tâm Pleiku đi thế nào, gần Bảo tàng Gia Lai không, có nằm ở đường Trần Hưng Đạo không, có phải ở phường Pleiku không.
+
+Ý định hỏi trải nghiệm: Người dùng có thể hỏi quảng trường có gì chơi, có đẹp không, đi buổi tối được không, có nên đưa trẻ em đi không, nên kết hợp với điểm nào gần đó, có sự kiện cồng chiêng không.
+
+Ý định hỏi dữ liệu lịch sử: Người dùng có thể hỏi quảng trường xây năm nào, khánh thành năm nào, vì sao tên là Đại Đoàn Kết, tượng đài có ý nghĩa gì, có được xếp hạng di tích không.
+
+Ý định hỏi thực tế: Người dùng có thể hỏi có mất vé không, có chỗ gửi xe không, có nhà vệ sinh không, có mở cửa cả ngày không, đi tối có an toàn không, có đường nào bị hạn chế giao thông không. Những câu hỏi này nên trả lời thận trọng vì quy định vận hành và phân luồng giao thông có thể thay đổi.
+
+3. Nguồn tham khảo và ghi chú độ mới dữ liệu
+
+Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+
+Cục Du lịch Quốc gia Việt Nam - Quảng trường Đại Đoàn Kết, trái tim phố núi Pleiku: https://vietnamtourism.gov.vn/post/61462
+
+Báo Nhân Dân - Quảng trường Đại đoàn kết: https://nhandan.vn/quang-truong-dai-doan-ket-post808471.html
+
+Dân tộc và Phát triển / VietnamNet - Gia Lai trao Bằng xếp hạng Di tích cấp tỉnh Quảng trường Đại Đoàn Kết: https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
+
+Báo Gia Lai - Quảng trường Đại Đoàn Kết, công trình văn hóa tiêu biểu: https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
+
+Báo Gia Lai - thông tin bảo trì 205 ô cỏ Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/bao-tang-tinh-gia-lai-thong-bao-thi-cong-thay-the-co-tai-quang-truong-dai-doan-ket-post301469.html
+
+Báo Gia Lai - Pleiku mở thông toàn thời gian tuyến đường qua Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/pleiku-mo-thong-toan-thoi-gian-tuyen-duong-qua-quang-truong-dai-doan-ket-post576898.html
+
+Cổng Thông tin điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+Ghi chú: Các thông tin về giờ mở cửa, phân luồng giao thông, sự kiện cuối tuần, hoạt động bảo trì cảnh quan và đơn vị hành chính có thể thay đổi theo từng năm. Khi dùng cho chatbot, nên ưu tiên trả lời theo hướng mở và nhắc người dùng kiểm tra thông báo mới nhất của tỉnh Gia Lai, Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý quảng trường.

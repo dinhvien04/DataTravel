@@ -1,0 +1,73 @@
+1. Giới thiệu địa điểm
+
+Làng kháng chiến Stơr là một điểm đến lịch sử - văn hóa tiêu biểu của vùng Kbang, Gia Lai, gắn với tên tuổi Anh hùng Núp, người con dân tộc Bahnar được xem như biểu tượng của tinh thần Tây Nguyên bất khuất. Trong các tài liệu du lịch, địa điểm này có thể được gọi bằng nhiều tên: Làng kháng chiến Stơr, làng Stơr, Làng Anh hùng Núp, Nhà lưu niệm Anh hùng Núp, Nhà tưởng niệm Anh hùng Núp hoặc Bảo tàng Anh hùng Núp. Các tên này thường chỉ cùng một cụm không gian tham quan ở làng Stơr, xã Tơ Tung, huyện Kbang cũ, nay vẫn thuộc xã Tơ Tung sau sắp xếp đơn vị hành chính cấp xã năm 2025.
+
+Giá trị cốt lõi của địa điểm không chỉ nằm ở một công trình kiến trúc trưng bày mà còn nằm ở câu chuyện về một ngôi làng Bahnar từng tham gia kháng chiến, nơi người dân bám làng, giữ đất, dùng những vũ khí thô sơ như chông, tên, bẫy đá và sự am hiểu núi rừng để chống lại quân xâm lược. Vì vậy, khi đưa vào dữ liệu RAG, không nên chỉ xem Stơr là “một nhà lưu niệm” mà nên xem là một cụm địa chỉ đỏ gồm nhà lưu niệm, bia di tích, không gian mô phỏng làng kháng chiến, văn hóa Bahnar và đời sống nông thôn miền núi.
+
+Về mặt nhận diện bằng hình ảnh, điểm thường thấy nhất là cổng và tòa nhà Nhà lưu niệm Anh hùng Núp với kiến trúc lấy cảm hứng từ nhà sàn truyền thống Bahnar, các mảng màu trắng - đỏ nâu, mái dốc, hàng cột, sân rộng, khu trưng bày trong nhà, mô hình làng Stơr xưa, dụng cụ lao động, nhạc cụ, trang phục và hiện vật gắn với cuộc đời Anh hùng Núp. Ảnh ngoài trời thường có nền núi rừng, cây xanh, đường vào làng và không khí yên tĩnh của vùng Kbang.
+
+2. Vị trí, địa danh hành chính và tên gọi khác
+
+Theo cách ghi cũ, Làng kháng chiến Stơr thuộc làng Stơr, xã Tơ Tung, huyện Kbang, tỉnh Gia Lai. Một số nguồn trải nghiệm ghi khoảng cách từ thành phố Pleiku đến làng khoảng hơn 70 km. Sau sắp xếp cấp xã năm 2025, Nghị quyết 1664/NQ-UBTVQH15 sắp xếp xã Kông Lơng Khơng và xã Tơ Tung thành xã Tơ Tung mới; vì vậy cách ghi cập nhật có thể là làng Stơr, xã Tơ Tung, tỉnh Gia Lai. Khi chatbot trả lời, nên nói rõ cả lớp địa danh cũ và mới để người dùng dễ tìm trên bản đồ.
+
+Vị trí của Stơr nằm trong không gian núi rừng Trường Sơn - Tây Nguyên, không phải trong trung tâm thành phố Pleiku. Người đi từ Pleiku cần di chuyển theo hướng Kbang, thời gian tùy phương tiện, tình trạng đường và điểm xuất phát. Nếu đi từ các tuyến du lịch vùng Quy Nhơn - Tây Sơn - An Khê - Kbang sau sáp nhập tỉnh, cần kiểm tra kỹ bản đồ vì khoảng cách giữa các điểm du lịch lịch sử có thể khá xa nhau.
+
+Các cách viết thường gặp gồm Stơr, Stơr, Si Tơ, Sítơ hoặc làng Anh hùng Núp. Trong dữ liệu tìm kiếm, nên lưu cả biến thể có dấu và không dấu như “lang khang chien stor”, “nha luu niem anh hung nup”, “lang anh hung nup” để người dùng gõ sai vẫn có khả năng truy hồi đúng.
+
+Tên “Nhà lưu niệm Anh hùng Núp” nhấn mạnh phần công trình trưng bày; tên “Làng kháng chiến Stơr” nhấn mạnh không gian lịch sử - cộng đồng; tên “Làng Anh hùng Núp” là cách gọi du lịch thân thuộc. Cả ba lớp tên đều nên được xem là liên quan chặt chẽ khi xây dựng chatbot.
+
+3. Lịch sử hình thành và giá trị di tích
+
+Anh hùng Núp tên thật là Đinh Núp, sinh năm 1914 và mất năm 1999. Ông là người Bahnar, quê ở làng Stơr, được nhắc đến như “cánh chim đầu đàn” của phong trào đấu tranh chống giặc ở Tây Nguyên. Câu chuyện của ông và người dân Stơr đã đi vào ký ức cách mạng, văn học và giáo dục lịch sử qua hình tượng “Đất nước đứng lên”. Khi viết cho chatbot, cần trình bày ông vừa là nhân vật lịch sử cụ thể, vừa là biểu tượng văn hóa - tinh thần của đồng bào Tây Nguyên.
+
+Trong kháng chiến chống Pháp và sau đó là kháng chiến chống Mỹ, Kbang nói chung và làng Stơr nói riêng là địa bàn có truyền thống cách mạng. Các nguồn địa phương nhấn mạnh ngôi làng từng nhiều lần bị càn quét, tàn phá nhưng người dân vẫn bám trụ, giữ vững phong trào. Đây là tầng thông tin quan trọng để chatbot trả lời các câu hỏi như “tại sao làng Stơr được gọi là làng kháng chiến”, “Anh hùng Núp có vai trò gì”, hoặc “đến đây học được điều gì về Tây Nguyên”.
+
+Nhà lưu niệm Anh hùng Núp được khởi công xây dựng vào năm 2010 và khánh thành ngày 06/05/2011. Công trình nằm trong quần thể khu di tích lịch sử - văn hóa cấp quốc gia Làng kháng chiến Si Tơ / Stơr. Nguồn Nhân Dân năm 2011 ghi khu di tích này được Bộ Văn hóa - Thông tin công nhận và phê duyệt theo Quyết định 381/QĐ-BT ngày 24/03/1993. Đây là thông tin rất quan trọng để khẳng định giá trị di sản chính thức của điểm đến.
+
+4. Giá trị văn hóa Bahnar và du lịch nông thôn
+
+Stơr là một ngôi làng Bahnar, vì vậy trải nghiệm tại đây không chỉ là xem tư liệu lịch sử mà còn là chạm vào văn hóa làng Tây Nguyên: nhà sàn, tiếng cồng chiêng, múa xoang, ẩm thực bản địa, măng le, công cụ lao động, trang phục, cách kể chuyện của người dân và sự gắn bó giữa cộng đồng với núi rừng. Du khách đến Stơr nên giữ thái độ tôn trọng, không xem sinh hoạt bản địa như “đạo cụ du lịch”, mà nên xem đó là đời sống văn hóa đang tiếp diễn.
+
+Theo nguồn du lịch nông thôn, làng Stơr đang được định hướng xây dựng mô hình điểm du lịch nông thôn, gắn với tham quan, trải nghiệm nương rẫy, thu hái và sơ chế măng le rừng, mật ong rừng, ẩm thực truyền thống và các hoạt động văn hóa cộng đồng. Đây là hướng phát triển giúp điểm đến có thêm sức sống, nhưng cũng đòi hỏi du khách đặt dịch vụ trước và tôn trọng lịch sinh hoạt của người dân.
+
+5. Kiến trúc, cảnh quan và các khu vực chính
+
+Nhà lưu niệm Anh hùng Núp được thiết kế kết hợp giữa kiến trúc truyền thống và hiện đại, mang dáng dấp nhà sàn Bahnar. Khu vực bên ngoài có cổng, sân, bia hoặc bảng giới thiệu, lối đi và không gian cây xanh. Bên trong có các khu trưng bày theo giai đoạn, ảnh tư liệu, hiện vật gắn với cuộc đời Anh hùng Núp, hiện vật văn hóa Bahnar và mô hình tái hiện một góc làng Stơr trong kháng chiến.
+
+Theo Báo Gia Lai năm 2025, nhà lưu niệm đang trưng bày khoảng 281 hình ảnh, tư liệu, kỷ vật về Anh hùng Núp; nếu tính cả hiện vật văn hóa Bahnar như trang phục, công cụ lao động sản xuất thì có trên 400 hiện vật, tư liệu và hình ảnh. Thông tin này giúp chatbot trả lời sâu hơn khi người dùng hỏi “bên trong có gì xem”.
+
+Du lịch Kbang giới thiệu khu di tích rộng khoảng 5 ha. Không gian rộng giúp du khách có thể tham quan nhà lưu niệm, dâng hương, xem trưng bày, chụp ảnh và nếu có tổ chức trước, trải nghiệm văn hóa cộng đồng. Tuy nhiên, vì đây là không gian lịch sử - tưởng niệm, du khách cần giữ trật tự, không tạo dáng phản cảm và không chạm vào hiện vật khi chưa được phép.
+
+6. Đặc điểm giúp nhận diện địa điểm bằng văn bản và hình ảnh
+
+Từ khóa nhận diện quan trọng gồm: Làng kháng chiến Stơr, Làng Stơr, Làng Anh hùng Núp, Nhà lưu niệm Anh hùng Núp, Nhà tưởng niệm Anh hùng Núp, Bảo tàng Anh hùng Núp, xã Tơ Tung, Kbang, Gia Lai, Đinh Núp, dân tộc Bahnar, Đất nước đứng lên, chông tên bẫy đá, mô hình làng kháng chiến, cồng chiêng Bahnar, măng le, du lịch nông thôn Kbang.
+
+Khi chatbot nhận câu hỏi dựa trên hình ảnh, các chi tiết gợi ý mạnh gồm cổng có chữ “Nhà lưu niệm Anh hùng Núp”, kiến trúc nhà sàn mô phỏng, khu trưng bày hiện vật Bahnar, mô hình làng kháng chiến xưa, bia di tích lịch sử - văn hóa, không gian sân rộng và cây xanh vùng núi. Nếu ảnh chỉ có một nhà sàn hoặc cồng chiêng, chatbot cần hỏi thêm ngữ cảnh vì nhiều làng Tây Nguyên có chi tiết tương tự.
+
+7. Từ khóa mô tả địa điểm
+
+Các cụm từ nên lưu cho RAG gồm: địa chỉ đỏ Gia Lai, Anh hùng Núp, Đinh Núp, Bahnar, Tây Nguyên bất khuất, nhà sàn Bahnar, làng kháng chiến, chông tên bẫy đá, mô hình Stơr xưa, Kbang, Tơ Tung, du lịch nông thôn, văn hóa cồng chiêng, múa xoang, măng le rừng, nhà lưu niệm, lịch sử chống Pháp, lịch sử chống Mỹ, Đất nước đứng lên.
+
+Các câu mô tả ngắn: “ngôi làng Bahnar gắn với Anh hùng Núp”, “nhà lưu niệm ở làng Stơr, Kbang”, “địa chỉ đỏ của Gia Lai”, “nơi kể câu chuyện làng kháng chiến Tây Nguyên”, “điểm du lịch nông thôn kết hợp lịch sử và văn hóa bản địa”.
+
+8. Các câu hỏi chatbot có thể trả lời từ file này
+
+Chatbot có thể trả lời từ file này: Làng kháng chiến Stơr ở đâu, Anh hùng Núp là ai, vì sao làng Stơr nổi tiếng, Nhà lưu niệm Anh hùng Núp có gì, địa điểm này liên quan gì đến người Bahnar, tại sao Stơr được xem là biểu tượng Tây Nguyên bất khuất, tên gọi Stơr và Si Tơ có phải cùng một địa điểm không.
+
+Chatbot cũng có thể dùng file này để nhận diện địa điểm qua mô tả: có cổng Nhà lưu niệm Anh hùng Núp, nhà sàn kiểu Bahnar, hiện vật chông tên bẫy đá, mô hình làng kháng chiến, câu chuyện Đinh Núp, xã Tơ Tung, Kbang và không gian làng Bahnar ở Gia Lai.
+
+9. Nguồn tham khảo
+
+Báo Gia Lai, “Di sản người Anh hùng trên đất Tây Nguyên”, đăng ngày 27/04/2025, cung cấp thông tin về làng Stơr, Anh hùng Núp, Nhà lưu niệm Anh hùng Núp, năm xây dựng 2010, khánh thành ngày 06/05/2011, kiến trúc Bahnar, số lượng tư liệu và hiện vật trưng bày.
+
+Du lịch Kbang, “Nhà tưởng niệm Anh hùng Núp - Làng kháng chiến Stơr”, cung cấp thông tin giới thiệu điểm đến, vị trí xã Tơ Tung, huyện Kbang cũ, diện tích khu di tích khoảng 5 ha, các khu trưng bày, mô hình làng kháng chiến, hiện vật văn hóa Bahnar và trải nghiệm cồng chiêng, múa xoang.
+
+Báo Gia Lai, “Làng kháng chiến Stơr: Đa dạng dịch vụ để thu hút du khách”, đăng ngày 08/12/2020, cung cấp thông tin tham khảo về việc du khách không phải mua vé vào cổng tại thời điểm bài viết và định hướng bổ sung dịch vụ du lịch.
+
+Cục Du lịch Quốc gia Việt Nam / Chuyên trang Du lịch nông thôn, “Làng Stơr (Gia Lai): Điểm đến du lịch nông thôn”, cung cấp thông tin về làng Bahnar, cảnh quan, ẩm thực, măng le, du lịch nông thôn và Kế hoạch số 657/KH-UBND ngày 23/03/2023 của UBND tỉnh Gia Lai về phát triển du lịch nông thôn giai đoạn 2023-2025.
+
+Nhân Dân, “Khánh thành Nhà lưu niệm Anh hùng Núp”, đăng ngày 06/05/2011, cung cấp thông tin công trình Nhà lưu niệm Anh hùng Núp khởi công ngày 26/03/2010, nằm trong quần thể khu di tích lịch sử - văn hóa cấp quốc gia Làng kháng chiến Si Tơ được công nhận theo Quyết định 381/QĐ-BT ngày 24/03/1993.
+
+Cổng Thông tin Chính phủ / Xây dựng Chính sách, toàn văn Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai, trong đó xã Kông Lơng Khơng và xã Tơ Tung được sắp xếp thành xã Tơ Tung mới.
+
+Các nguồn trải nghiệm và lữ hành như Sacotravel, Người Lao Động, Lao Động, TripHunter, Cung Phượt, Mytour và các bản đồ số được dùng để đối chiếu khoảng cách, cách đi, dịch vụ, giờ tham quan và trải nghiệm thực tế. Những thông tin này là tham khảo và cần kiểm tra lại trước khi đi.

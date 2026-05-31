@@ -1,0 +1,89 @@
+1. 1. Dịch vụ tại khu vực Biển Quy Nhơn
+
+Vì nằm ngay trung tâm, Biển Quy Nhơn có hệ sinh thái dịch vụ tốt hơn nhiều bãi biển xa: khách sạn, nhà hàng, quán cà phê, cửa hàng tiện lợi, điểm gửi xe, taxi/xe công nghệ, dịch vụ du lịch, tour trong ngày và khu vui chơi gần biển. Điểm mạnh là du khách không phải chuẩn bị quá nhiều như khi đi đảo hoặc bãi hoang sơ.
+
+Các dịch vụ trực tiếp trên bãi cát có thể thay đổi theo mùa và từng đoạn bãi. Chatbot nên tránh khẳng định cứng rằng luôn có ghế, chòi, tắm nước ngọt hoặc cứu hộ ở mọi đoạn; thay vào đó, nên khuyên du khách chọn khu đông người, gần lối lên xuống và hỏi thông tin tại khách sạn/điểm dịch vụ gần nhất.
+
+2. 2. Ăn uống quanh biển
+
+Khu đường Xuân Diệu nổi tiếng với nhiều nhà hàng hải sản, quán ăn và quán cà phê ven biển. Cổng thông tin Du lịch Quy Nhơn có ghi một số cơ sở gần biển như Surf Bar với giờ mở cửa tham khảo 06:00-22:59 và mức giá trung bình 25.000-150.000 đồng/người. Ngoài ra còn có các nhà hàng hải sản, quán ốc, quán ăn gia đình và quán nước bình dân tùy đoạn đường.
+
+3. Món nên gợi ý cho người dùng
+
+Hải sản tươi: tôm, mực, cá, ghẹ, ốc, sò, hàu tùy mùa và quán.
+
+Bún chả cá Quy Nhơn: món sáng phổ biến, nước dùng thanh, chả cá dai.
+
+Bún sứa: phù hợp khách thích món biển nhẹ, lạ miệng.
+
+Bánh xèo tôm nhảy: món đặc trưng Bình Định, nên ăn nóng.
+
+Nem chợ Huyện/tré/rượu Bàu Đá: đặc sản thường mua làm quà hoặc dùng trong bữa địa phương.
+
+Rong biển/đồ hải sản khô: có thể gắn với các làng chài như Bãi Xếp, Nhơn Hải, tùy điểm bán.
+
+Khi trả lời về quán cụ thể, mô hình nên ưu tiên hỏi ngân sách, số người, thời điểm đi và nhu cầu view biển hay món địa phương. Không nên tự khẳng định quán “ngon nhất” nếu không có dữ liệu đánh giá cập nhật.
+
+4. 3. Lưu trú/khách sạn
+
+Khu ven biển trung tâm có đủ phân khúc lưu trú: khách sạn bình dân, khách sạn 2-3 sao, khách sạn 4-5 sao, căn hộ, homestay và resort ở khu xa hơn. Đối với khách lần đầu đến Quy Nhơn, ở gần đường Xuân Diệu, An Dương Vương hoặc khu quảng trường giúp dễ đi bộ ra biển, ăn tối và gọi xe.
+
+5. Dữ liệu chi tiết
+
+Khu lưu trú: Xuân Diệu/ven biển trung tâm. Phù hợp với: Người muốn đi bộ ra biển, ăn hải sản. Ưu điểm: Rất tiện, nhiều dịch vụ. Lưu ý: Có thể đông/ồn buổi tối, giá cao dịp lễ.
+
+Khu lưu trú: An Dương Vương. Phù hợp với: Gia đình, khách muốn gần biển và khách sạn lớn. Ưu điểm: Nhiều khách sạn view biển, dễ đi lại. Lưu ý: Cần kiểm tra khoảng cách đi bộ đến bãi tắm.
+
+Khu lưu trú: Khu trung tâm phía trong. Phù hợp với: Khách tiết kiệm, thích ăn uống địa phương. Ưu điểm: Giá có thể mềm hơn, gần chợ/quán ăn. Lưu ý: Cần đi xe ra biển.
+
+Khu lưu trú: Bãi Xếp/Quy Hòa. Phù hợp với: Khách thích yên tĩnh/làng chài. Ưu điểm: Không gian khác biệt, gần núi và biển. Lưu ý: Xa trung tâm hơn, ít lựa chọn đêm muộn.
+
+Khu lưu trú: Nhơn Lý/Nhơn Hải. Phù hợp với: Khách đi Kỳ Co, Eo Gió, Hòn Khô. Ưu điểm: Gần biển đảo, trải nghiệm làng chài. Lưu ý: Không tiện nếu muốn dạo trung tâm mỗi tối.
+
+6. 4. Tiện ích hỗ trợ
+
+Gửi xe: thường có điểm gửi gần nhà hàng, khách sạn, quán cà phê hoặc khu công cộng; nên hỏi giá trước.
+
+WC/tắm tráng: có thể phụ thuộc vào cơ sở dịch vụ hoặc bãi tắm từng đoạn; không nên mặc định mọi đoạn đều có.
+
+Wifi: thường có ở quán cà phê, khách sạn, nhà hàng; không nên kỳ vọng wifi công cộng ổn định trên bãi biển.
+
+Y tế/khẩn cấp: do nằm trong trung tâm, khả năng tiếp cận cơ sở y tế tốt hơn các bãi xa; vẫn cần gọi số khẩn cấp hoặc nhờ khách sạn/nhân viên địa phương khi cần.
+
+Mua sắm: gần trung tâm nên dễ mua nước uống, kem chống nắng, đồ bơi, thuốc cơ bản, đồ ăn nhẹ.
+
+Đặt tour: nhiều đơn vị tổ chức tour Kỳ Co - Eo Gió, Hòn Khô, Cù Lao Xanh có đón tại khách sạn trung tâm.
+
+7. 5. Dịch vụ tour và hoạt động mở rộng
+
+Nếu khách chỉ muốn Biển Quy Nhơn trung tâm thì không cần tour. Tour phù hợp khi người dùng muốn đi các điểm cần cano/tàu hoặc lịch trình xa như Kỳ Co - Eo Gió, Hòn Khô/Nhơn Hải, Cù Lao Xanh, Trung Lương. Nguồn Cổng thông tin Du lịch Quy Nhơn từng mô tả tour Kỳ Co - Eo Gió một ngày gồm cano, lặn ngắm san hô, ăn trưa hải sản, xe đưa đón khách sạn. Đây là thông tin hữu ích về cấu trúc tour, nhưng giá cần cập nhật.
+
+Với RAG, nên tách “dịch vụ tại Biển Quy Nhơn trung tâm” khỏi “dịch vụ tour biển đảo Quy Nhơn”. Nếu gộp chung, chatbot dễ trả lời sai rằng muốn tắm Biển Quy Nhơn phải mua vé cano hoặc tour.
+
+8. 6. Dữ liệu dịch vụ nên cập nhật định kỳ
+
+Danh sách khách sạn/nhà hàng đang hoạt động quanh đường Xuân Diệu.
+
+Giá phòng theo mùa, chính sách phụ thu lễ/tết.
+
+Giờ mở cửa và menu của quán cà phê/nhà hàng ven biển.
+
+Giá tour Kỳ Co - Eo Gió, Hòn Khô, Cù Lao Xanh.
+
+Tình trạng cứu hộ, bãi tắm được phép tắm và biển báo an toàn theo mùa.
+
+Thông tin bãi gửi xe, WC công cộng, tắm tráng nếu có bản đồ dịch vụ địa phương.
+
+9. Nguồn tham khảo
+
+Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
+
+Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Cổng thông tin Du lịch Quy Nhơn - Vẻ đẹp hoang sơ của làng chài Bãi Xếp: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Cổng thông tin Du lịch Quy Nhơn - Surf Bar: https://dulichquynhon.binhdinh.gov.vn/vi/suftbar
+
+Cổng thông tin Du lịch Quy Nhơn - Tour Kỳ Co - Eo Gió: https://dulichquynhon.binhdinh.gov.vn/vi/tourdetail/
+
+Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.

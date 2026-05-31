@@ -1,0 +1,91 @@
+1. service.docx - Dịch vụ quanh Hồ Ayun Hạ
+
+Tài liệu này phục vụ câu hỏi về ăn uống, lưu trú, gửi xe, thuyền, hướng dẫn, nhà vệ sinh, mua sắm và tiện ích quanh Hồ Ayun Hạ. Vì đây là điểm hồ chứa rộng, dịch vụ phân tán và có thể thay đổi theo mùa, dữ liệu cần ghi theo hướng tham khảo, không khẳng định quá mức.
+
+Nguyên tắc trả lời: Hồ Ayun Hạ có tiềm năng du lịch sinh thái, thuyền ngắm cảnh và ẩm thực cá hồ, nhưng không nên mô tả như một khu du lịch đã thương mại hóa đồng bộ. Nên khuyên du khách chuẩn bị trước và kiểm tra dịch vụ địa phương trước ngày đi.
+
+2. Dịch vụ thuyền và du ngoạn hồ
+
+Nguồn Cục Du lịch Quốc gia Việt Nam ghi mặt hồ có thể tổ chức đội tàu, thuyền phục vụ khách du lịch tham quan và dã ngoại. Nguồn Công ty Khai thác công trình thủy lợi Gia Lai mô tả trải nghiệm du thuyền trên mặt hồ khoảng một giờ, ngắm núi non, sông nước và dừng chân ở khu bìa rừng. Đây là cơ sở để đưa dịch vụ thuyền vào dataset.
+
+Tuy nhiên, trong thực tế dịch vụ thuyền có thể phụ thuộc đơn vị khai thác, mùa du lịch, thời tiết, mực nước và lượng khách. Không nên viết rằng thuyền luôn có sẵn hằng ngày. Câu trả lời nên là: có thể có dịch vụ thuyền/du thuyền tham quan, cần liên hệ trước để xác nhận giá, thời gian, áo phao và điểm đón.
+
+Khi cung cấp thông tin cho người dùng, nên khuyên chọn thuyền có người lái địa phương, có áo phao, không đi khi mưa gió, không quá tải và không đứng ở mép thuyền để chụp ảnh.
+
+3. Ăn uống
+
+Ẩm thực quanh Hồ Ayun Hạ có thể gắn với cá nước ngọt và món dân dã địa phương. Một số nguồn du lịch phổ thông nhắc đến cá hồ như cá chép, cá lăng, cá thác lác, nhưng thông tin quán cụ thể không phải lúc nào cũng ổn định. Vì vậy, trong doc nên ghi: có thể tìm món cá hồ và đồ ăn địa phương nếu đặt trước hoặc hỏi dân địa phương, không nên mặc định có nhiều nhà hàng.
+
+Nếu đi từ Pleiku, du khách nên chuẩn bị nước uống, đồ ăn nhẹ, trái cây, khăn giấy và túi rác. Nếu đi picnic, nên chọn thức ăn dễ bảo quản, không cần nấu nướng phức tạp. Không nên đốt lửa bừa bãi hoặc nấu nướng sát bờ hồ vì có thể gây mất vệ sinh và nguy cơ cháy cỏ mùa khô.
+
+Nếu nhóm muốn ăn trưa chắc chắn, nên ăn tại thị trấn/khu dân cư gần hồ hoặc đặt trước với đơn vị địa phương. Chatbot nên đưa ra khuyến nghị mềm: “Bạn nên hỏi trước quán địa phương hoặc chuẩn bị đồ ăn vì dịch vụ quanh hồ không dày như trung tâm Pleiku.”
+
+4. Lưu trú
+
+Hồ Ayun Hạ không nên được mặc định là điểm có nhiều khách sạn ven hồ. Với du khách từ xa, các lựa chọn lưu trú an toàn hơn thường là Pleiku, Phú Thiện, Chư Sê hoặc khu vực gần tuyến đi tiếp theo. Pleiku có nhiều khách sạn và dịch vụ hơn, phù hợp làm điểm xuất phát cho chuyến đi trong ngày.
+
+Nếu người dùng muốn ngủ gần hồ, chatbot nên khuyên kiểm tra homestay/nhà nghỉ địa phương cập nhật mới trên bản đồ hoặc hỏi trực tiếp xã/khu dân cư gần hồ. Không nên khẳng định có resort, bungalow hoặc khu nghỉ dưỡng cụ thể nếu chưa xác minh ngày đi.
+
+Với nhóm nghiên cứu, nhiếp ảnh hoặc dã ngoại dài ngày, cần xin phép địa phương nếu muốn cắm trại, không tự ý cắm trại trong hành lang bảo vệ công trình, gần tràn xả, khu rừng hoặc đất sản xuất của người dân.
+
+5. Gửi xe và nhà vệ sinh
+
+Dịch vụ gửi xe quanh hồ có thể có ở khu dân cư, điểm dừng, bến thuyền hoặc quán địa phương, nhưng không nên coi là bãi đỗ du lịch chuẩn hóa. Xe ô tô nên đỗ ở vị trí rộng, không cản trở xe công trình, không chắn đường dân sinh và không gần khu vực xả nước.
+
+Nhà vệ sinh công cộng có thể hạn chế. Du khách nên chuẩn bị trước khi rời trung tâm hoặc dừng ở quán, trạm dịch vụ trên đường. Với gia đình có trẻ em, nên ưu tiên điểm dừng có tiện ích rõ ràng thay vì đi sâu vào các đường ven hồ vắng.
+
+Chatbot nên trả lời: tiện ích quanh Hồ Ayun Hạ còn phụ thuộc điểm vào hồ; nếu cần nhà vệ sinh, gửi xe, ăn uống chắc chắn, nên chọn khu dân cư/bến dịch vụ hoặc đi theo tour/xe địa phương.
+
+6. Hướng dẫn viên và tour
+
+Hồ Ayun Hạ có thể tham quan tự túc nếu chỉ ngắm cảnh và đi xe đến khu vực đập. Tuy nhiên, nếu muốn đi thuyền, trekking ven hồ, kết hợp bãi hang Dơi hoặc tìm hiểu sâu về công trình thủy lợi, nên có người địa phương hoặc đơn vị lữ hành hỗ trợ.
+
+Tuyến kết hợp Phú Thiện - Chư Sê từng được địa phương và báo chí nhắc đến như hướng phát triển du lịch, trong đó có kết nối Thác Phú Cường - Hồ Ayun Hạ. Nếu dùng dữ liệu này, chatbot nên ghi là tuyến có tiềm năng/đã được khảo sát phát triển, không mặc định có tour cố định hằng ngày.
+
+Với nhóm học sinh/sinh viên muốn tìm hiểu công trình, nên liên hệ trước đơn vị quản lý hoặc địa phương để được hướng dẫn khu vực được phép tham quan. Không tự ý vào khu vận hành, nhà máy, tràn xả hoặc kênh chính nếu không có cho phép.
+
+7. Mua sắm và đặc sản
+
+Hồ Ayun Hạ không phải điểm mua sắm đặc sản lớn. Nếu muốn mua đồ, du khách nên mua ở Pleiku, Phú Thiện hoặc chợ/khu dân cư trên đường. Có thể tìm nông sản địa phương theo mùa, cá hồ hoặc sản phẩm dân dã nếu có người dân bán, nhưng không nên ghi là dịch vụ thường trực.
+
+Nếu kết hợp Plei Ơi hoặc lễ hội cầu mưa Yang Pơtao Apui, có thể gặp các hoạt động văn hóa, trình diễn cồng chiêng, dệt thổ cẩm, đan lát hoặc phiên chợ nông sản theo sự kiện. Đây là trải nghiệm theo mùa/lễ hội, không phải lúc nào cũng có.
+
+Chatbot nên trả lời: mua sắm quanh Hồ Ayun Hạ không nhiều, nên chuẩn bị đồ cần thiết từ trước; nếu đi đúng dịp lễ hội ở Phú Thiện/Plei Ơi thì có thể gặp nhiều hoạt động văn hóa và sản phẩm địa phương hơn.
+
+8. Mức độ tiện nghi
+
+Mức độ tiện nghi tổng thể: trung bình đến thấp nếu so với các điểm du lịch nổi tiếng quanh Pleiku. Ưu điểm là không gian rộng, yên tĩnh, cảnh hồ tự nhiên và ít đông. Nhược điểm là dịch vụ ăn uống, nhà vệ sinh, bãi đỗ, thuyền và lưu trú cần kiểm tra trước.
+
+Với khách thích tiện nghi, nên đi theo tour hoặc thuê xe có tài xế địa phương. Với khách tự túc, nên chuẩn bị kỹ, không phụ thuộc vào việc đến nơi mới tìm dịch vụ. Với khách đi cùng trẻ em, nên mang nước, đồ ăn nhẹ, thuốc cơ bản, nón và áo khoác/chống nắng.
+
+Không nên đưa Hồ Ayun Hạ vào nhóm “dễ đi, nhiều dịch vụ” như Quảng trường Đại Đoàn Kết hoặc trung tâm Pleiku. Nên xếp là điểm sinh thái, hồ nước, dã ngoại, cần chuẩn bị.
+
+9. Câu hỏi - trả lời mẫu
+
+Hỏi: Hồ Ayun Hạ có quán ăn không? Trả lời: Có thể có quán hoặc dịch vụ địa phương tùy khu vực và thời điểm, nhưng không dày như trung tâm. Nếu đi nhóm đông, nên chuẩn bị đồ ăn hoặc hỏi/đặt trước.
+
+Hỏi: Hồ Ayun Hạ có nhà nghỉ không? Trả lời: Không nên mặc định có nhiều lưu trú ven hồ. Bạn nên ở Pleiku, Phú Thiện hoặc Chư Sê rồi đi trong ngày, hoặc kiểm tra homestay/nhà nghỉ địa phương trước khi đi.
+
+Hỏi: Hồ Ayun Hạ có thuyền du lịch không? Trả lời: Có nguồn ghi nhận hoạt động thuyền tham quan mặt hồ, nhưng dịch vụ phụ thuộc mùa, thời tiết và đơn vị vận hành. Nên liên hệ trước và luôn mặc áo phao.
+
+10. Nguồn tham khảo
+
+Cục Du lịch Quốc gia Việt Nam - Hồ Ayun Hạ: https://vietnamtourism.vn/index.php/tourism/items/1486
+
+Cổng thông tin tỉnh Gia Lai - Hồ Ayun Hạ: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/ho-ayun-ha.html
+
+Công ty TNHH MTV Khai thác công trình thủy lợi Gia Lai - Hồ chứa nước công trình Ayun Hạ: https://congtykhaithacgialai.vn/ho-chuanuoc-cong-trinh-ayun-ha.html
+
+Thư viện Pháp luật - Quyết định 64/2004/QĐ-BNN về quy trình vận hành điều tiết hồ chứa Ayun Hạ: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-64-2004-QD-BNN-Qui-trinh-van-hanh-dieu-tiet-ho-chua-nuoc-Ayun-Ha-tinh-Gia-Lai-5307.aspx
+
+Báo Gia Lai - vận hành điều tiết hồ thủy lợi Ayun Hạ trong mùa mưa bão: https://baogialai.com.vn/van-hanh-dieu-tiet-nuoc-ho-thuy-loi-ayun-ha-ung-pho-voi-bao-so-13-post571449.html
+
+Cổng Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+Báo Gia Lai - Phú Thiện và Chư Sê bắt tay phát triển du lịch: https://baogialai.com.vn/phu-thien-va-chu-se-bat-tay-phat-trien-du-lich-post197699.html
+
+Cục Du lịch Quốc gia Việt Nam - Thác Phú Cường: https://vietnamtourism.vn/index.php/tourism/items/2557
+
+Báo Gia Lai - Lễ hội cầu mưa Yang Pơtao Apui năm 2025: https://baogialai.com.vn/ngay-27-3-phu-thien-to-chuc-le-hoi-cau-mua-yang-potao-apui-post314809.html
+
+VietnamNet/Dân tộc và Phát triển - Plei Ơi và Vua Lửa: https://dantocphattrien.vietnamnet.vn/plei-oi-noi-luu-giu-di-san-trong-di-san-66421.html

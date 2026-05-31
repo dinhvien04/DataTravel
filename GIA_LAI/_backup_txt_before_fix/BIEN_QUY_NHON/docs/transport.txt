@@ -1,0 +1,105 @@
+1. transport.docx - Di chuyển đến Biển Quy Nhơn
+
+Bộ dữ liệu RAG du lịch Việt Nam - Địa điểm: Biển Quy Nhơn - Cập nhật: 26/05/2026
+
+Ghi chú dữ liệu: Nội dung được tổng hợp từ nguồn web công khai, ưu tiên nguồn du lịch chính thức và cổng thông tin địa phương. Các chi phí, giờ mở cửa, tour và dịch vụ có thể thay đổi theo mùa; nên kiểm tra lại trước khi đưa vào hệ thống trả lời thời gian thực.
+
+2. 1. Vị trí và định vị đường đi
+
+Biển Quy Nhơn nằm ngay khu vực trung tâm đô thị biển Quy Nhơn, gắn với trục đường ven biển Xuân Diệu và khu vực An Dương Vương - Nguyễn Tất Thành. Khi người dùng hỏi đường, chatbot nên ưu tiên mốc “bãi biển trung tâm dọc đường Xuân Diệu” hoặc “gần quảng trường Nguyễn Tất Thành” thay vì chỉ trả lời chung là Quy Nhơn.
+
+Từ các khách sạn ven biển, du khách thường có thể đi bộ ra bãi tắm trong vài phút. Từ những khu xa hơn trong trung tâm, xe máy, taxi hoặc xe công nghệ là lựa chọn nhanh và dễ gọi. Nếu đi từ sân bay Phù Cát, cần di chuyển về trung tâm Quy Nhơn trước, sau đó tiếp tục tới khu bãi biển/đường Xuân Diệu.
+
+3. 2. Các hướng di chuyển phổ biến
+
+4. Từ sân bay Phù Cát
+
+Sân bay Phù Cát là cửa ngõ hàng không thường dùng khi du khách đến Quy Nhơn. Nhiều nguồn du lịch ghi khoảng cách từ sân bay về trung tâm Quy Nhơn khoảng 30-35 km, thời gian di chuyển thường khoảng 40-60 phút tùy phương tiện và giao thông. Các lựa chọn gồm taxi, xe đưa đón, xe công nghệ, xe buýt sân bay hoặc thuê xe riêng.
+
+Taxi/xe công nghệ: phù hợp nhóm 2-4 người, có hành lý, cần đi thẳng về khách sạn gần biển.
+
+Xe đưa đón riêng: phù hợp gia đình, nhóm đông, người lớn tuổi hoặc đến muộn.
+
+Xe buýt sân bay: tiết kiệm chi phí hơn, thường về điểm trung tâm như khu Nguyễn Tất Thành; từ đó có thể đi taxi/xe công nghệ ra biển.
+
+Thuê xe máy: chỉ phù hợp khi đã vào trung tâm hoặc có kinh nghiệm đi đường địa phương; không khuyến nghị tự lái từ sân bay nếu hành lý nhiều.
+
+5. Từ ga Quy Nhơn/ga Diêu Trì
+
+Nếu đến bằng tàu hỏa, du khách có thể xuống ga Quy Nhơn hoặc ga Diêu Trì tùy hành trình. Từ ga/điểm đón, có thể dùng taxi hoặc xe công nghệ để về khu bãi biển trung tâm. Với hệ thống RAG, nên trả lời linh hoạt: “hãy nhập điểm xuất phát cụ thể để tính tuyến chính xác trên bản đồ”.
+
+6. Từ trung tâm nội đô
+
+Trong nội đô Quy Nhơn, các trục đường dễ nhớ gồm Xuân Diệu, An Dương Vương, Nguyễn Tất Thành, Trần Hưng Đạo. Nếu người dùng ở khu khách sạn đường Xuân Diệu/An Dương Vương, có thể đi bộ ra biển. Nếu ở khu Chợ Lớn, Tháp Đôi hoặc các phường phía trong, nên đi taxi/xe máy 5-15 phút tùy vị trí.
+
+7. 3. Phương tiện di chuyển phù hợp
+
+8. Dữ liệu chi tiết
+
+Phương tiện: Đi bộ. Phù hợp với: Khách ở gần Xuân Diệu/An Dương Vương. Ưu điểm: Không tốn chi phí, tiện ngắm cảnh. Lưu ý: Tránh đi giữa trưa nắng gắt.
+
+Phương tiện: Xe máy. Phù hợp với: Du khách thích linh hoạt. Ưu điểm: Dễ ghé nhiều điểm quanh biển. Lưu ý: Cần đội mũ bảo hiểm, chú ý gió biển và gửi xe.
+
+Phương tiện: Taxi/xe công nghệ. Phù hợp với: Gia đình, nhóm có trẻ em/người lớn tuổi. Ưu điểm: Nhanh, dễ gọi, phù hợp trời nắng/mưa. Lưu ý: Nên kiểm tra điểm đón/trả để tránh đi bộ xa.
+
+Phương tiện: Xe đạp. Phù hợp với: Khách thích trải nghiệm nhẹ. Ưu điểm: Hợp đường ven biển, chụp ảnh. Lưu ý: Không phải đoạn nào cũng thuận tiện giờ đông.
+
+Phương tiện: Tour 1 ngày. Phù hợp với: Muốn kết hợp Kỳ Co, Eo Gió, Hòn Khô. Ưu điểm: Có xe đưa đón, cano, ăn trưa. Lưu ý: Không cần thiết nếu chỉ đi Biển Quy Nhơn trung tâm.
+
+9. 4. Khoảng cách tham khảo từ Biển Quy Nhơn
+
+Các khoảng cách dưới đây chỉ nên dùng cho trả lời tương đối. Khi triển khai chatbot thực tế, nên gọi API bản đồ hoặc dùng dữ liệu GIS để tính theo điểm xuất phát của người dùng.
+
+Quảng trường Nguyễn Tất Thành: nằm gần khu bờ biển trung tâm, có thể đi bộ tùy điểm đứng.
+
+Ghềnh Ráng - Tiên Sa/Bãi Trứng: khoảng 3-4 km từ trung tâm bãi biển theo hướng nam.
+
+Khu du lịch Cửa Biển: khoảng 4 km theo hướng Xuân Diệu nối dài/Ghềnh Ráng theo nguồn Vietnam Airlines.
+
+Bãi Xếp: khoảng 13 km theo quốc lộ 1D theo nguồn Cổng thông tin Du lịch Quy Nhơn.
+
+Hòn Khô/Nhơn Hải: khoảng 16-20 km tùy điểm đến và tuyến qua cầu Thị Nại.
+
+Eo Gió/Nhơn Lý: khoảng 20 km theo nguồn Vietnam Airlines.
+
+Kỳ Co: khoảng 25 km theo nguồn Vietnam Airlines/Cổng thông tin Du lịch Quy Nhơn.
+
+Sân bay Phù Cát: khoảng 30-35 km đến trung tâm Quy Nhơn tùy nguồn và tuyến đường.
+
+10. 5. Hướng dẫn đường đi dạng hội thoại cho chatbot
+
+11. Câu trả lời ngắn khi người dùng hỏi “đi Biển Quy Nhơn như thế nào?”
+
+Bạn chỉ cần đi về khu trung tâm Quy Nhơn, chọn mốc đường Xuân Diệu hoặc quảng trường Nguyễn Tất Thành. Bãi biển nằm ngay sát trục đường ven biển, nhiều khách sạn và quán ăn có thể đi bộ ra bãi tắm. Nếu đi từ sân bay Phù Cát, hãy bắt taxi/xe đưa đón/xe buýt về trung tâm Quy Nhơn trước, mất khoảng 40-60 phút, rồi tiếp tục ra đường Xuân Diệu.
+
+12. Câu trả lời khi người dùng hỏi “có cần thuê xe đi biển không?”
+
+Nếu bạn ở khách sạn gần Xuân Diệu, An Dương Vương hoặc quảng trường Nguyễn Tất Thành thì thường không cần thuê xe để ra Biển Quy Nhơn; đi bộ là đủ. Thuê xe máy chỉ cần thiết nếu bạn muốn đi thêm Ghềnh Ráng, Bãi Xếp, Kỳ Co, Eo Gió, Hòn Khô hoặc các điểm xa trung tâm.
+
+13. 6. Lưu ý giao thông và an toàn
+
+Buổi sáng sớm và chiều tối là giờ đẹp để đi biển nhưng cũng có thể đông người tập thể dục, tắm biển và đỗ xe.
+
+Nếu di chuyển bằng xe máy dọc đường biển, cần chú ý gió ngang, cát bay và phương tiện dừng đỗ bất ngờ gần khu quán ăn.
+
+Mùa mưa hoặc ngày biển động nên hạn chế tự chạy xe xa ra các bán đảo, bãi đá, đường ven núi.
+
+Không nên định vị “Biển Quy Nhơn” quá chung chung nếu đặt xe; nên nhập điểm cụ thể như “đường Xuân Diệu”, “Quảng trường Nguyễn Tất Thành”, “Surf Bar Quy Nhơn” hoặc tên khách sạn/nhà hàng gần đó.
+
+Với khách gia đình có trẻ nhỏ, nên chọn đoạn bãi tắm có cứu hộ/biển báo, gần lối lên xuống và gần dịch vụ vệ sinh/ăn uống.
+
+14. Nguồn tham khảo
+
+Cổng thông tin Du lịch Quy Nhơn - Biển Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/bienquynhon
+
+Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
+
+Traveloka - Di chuyển từ sân bay Phù Cát về Quy Nhơn: https://www.traveloka.com/vi-vn/explore/tips/airport-di-chuyen-tu-san-bay-phu-cat-ve-quy-nhon/519681
+
+Quy Nhơn Tourist - phương tiện từ sân bay Phù Cát đến trung tâm Quy Nhơn: https://quynhontourist.vn/3-phuong-tien-di-chuyen-tu-san-bay-phu-cat-den-trung-tam-thanh-pho-quy-nhon/
+
+Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Cổng thông tin Du lịch Quy Nhơn - Vẻ đẹp hoang sơ của làng chài Bãi Xếp: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.

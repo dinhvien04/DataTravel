@@ -1,0 +1,83 @@
+1. overview.docx - Núi lửa Chư Đăng Ya
+
+Bộ dữ liệu địa điểm du lịch Gia Lai phục vụ RAG - bản nhiều dữ liệu, không bảng
+
+Ngày tổng hợp: 2026-05-28. Định dạng: văn bản thuần, không bảng, không màu, không trang trí. Nội dung được viết để làm dữ liệu huấn luyện và truy xuất cho chatbot, không thay thế thông báo chính thức tại điểm tham quan.
+
+2. Mục tiêu của file
+
+Thông tin nền tảng để nhận diện, giới thiệu và phân biệt Núi lửa Chư Đăng Ya với các địa điểm khác trong tuyến du lịch Pleiku - Biển Hồ - Chư Păh. File này ưu tiên dữ liệu định danh, bối cảnh địa lý, giá trị cảnh quan, giá trị văn hóa, điểm nổi bật và từ khóa phục vụ RAG.
+
+3. Giới thiệu địa điểm
+
+Núi lửa Chư Đăng Ya là một địa điểm cảnh quan - địa chất nổi bật của Gia Lai, thường được du khách biết đến qua mùa hoa dã quỳ vàng rực trên sườn núi. Tên địa điểm thường được viết theo nhiều dạng như Chư Đăng Ya, Chư Đang Ya, Chu Dang Ya Volcano, núi lửa Chư Đăng Ya, núi Chư Đăng Ya, miệng núi lửa Chư Đăng Ya hoặc vùng du lịch Biển Hồ - Chư Đăng Ya. Trong dữ liệu RAG, nên coi các cách viết này là đồng nghĩa hoặc biến thể truy vấn của cùng một địa điểm.
+
+Theo cách ghi hành chính cũ, địa điểm thuộc làng Ploi Lagri hoặc Plơi Ia Gri, xã Chư Đăng Ya, huyện Chư Păh, tỉnh Gia Lai. Theo sắp xếp đơn vị hành chính năm 2025, xã Chư Đăng Ya cũ được sắp xếp cùng Nghĩa Hưng, Hà Bầu và Biển Hồ để thành lập xã Biển Hồ mới. Vì vậy khi chatbot trả lời, có thể nói: địa chỉ cũ là xã Chư Đăng Ya, huyện Chư Păh; cách ghi mới nên tham chiếu xã Biển Hồ, tỉnh Gia Lai. Cách trả lời này giúp tránh xung đột giữa nguồn du lịch cũ và văn bản hành chính mới.
+
+Nguồn du lịch của tỉnh Gia Lai và Cục Du lịch Quốc gia Việt Nam đều mô tả Chư Đăng Ya nằm cách trung tâm Pleiku khoảng 30 km về phía đông bắc. Một số nguồn địa phương ghi thêm địa điểm cách khu du lịch Biển Hồ khoảng 20 km. Đây là điểm quan trọng cho định tuyến: du khách thường ghép Chư Đăng Ya với Biển Hồ T’Nưng, Biển Hồ Chè, Hàng thông trăm tuổi, Chùa Bửu Minh hoặc Núi Chư Nâm trong cùng hành trình phía bắc Pleiku.
+
+Điểm đặc trưng nhất của Chư Đăng Ya là địa hình miệng núi lửa cổ, các triền dốc thoai thoải, đất đỏ bazan, ruộng nương theo mùa và thảm hoa dã quỳ vào cuối năm. Địa điểm không phải công viên xây dựng hoàn chỉnh mà là không gian bán tự nhiên, gắn với canh tác nông nghiệp của người dân địa phương. Vì vậy trải nghiệm ở đây thiên về ngắm cảnh, chụp ảnh, trekking nhẹ, tìm hiểu cảnh quan núi lửa cổ và cảm nhận văn hóa làng Jrai hơn là vui chơi dịch vụ khép kín.
+
+Tên Chư Đăng Ya thường được giải thích là có nguồn gốc từ tiếng Jrai, liên quan đến hình ảnh củ gừng dại. Một số câu chuyện địa phương kể rằng tên núi gắn với cây gừng dại mọc trên núi và truyền thuyết về sự chữa lành. Khi đưa vào chatbot, nên mô tả đây là cách giải thích văn hóa - dân gian, không nên trình bày như một dữ kiện ngôn ngữ học tuyệt đối nếu không có nguồn chuyên khảo.
+
+4. Phân biệt để tránh nhầm lẫn
+
+Chư Đăng Ya khác với Biển Hồ T’Nưng. Biển Hồ T’Nưng là hồ nước tự nhiên/miệng núi lửa chứa nước, còn Chư Đăng Ya là cụm núi lửa cổ nổi trên địa hình cao nguyên, nổi bật với triền núi, ruộng nương và hoa dã quỳ.
+
+Chư Đăng Ya khác với Biển Hồ Chè. Biển Hồ Chè là cảnh quan đồi chè, hàng thông, hồ Ya Lũ và Chùa Bửu Minh; còn Chư Đăng Ya là địa điểm núi lửa cổ, nằm trong tuyến du lịch có thể kết nối với Biển Hồ Chè nhưng không phải một phần của đồi chè.
+
+Chư Đăng Ya khác với Núi Chư Nâm. Núi Chư Nâm là điểm trekking núi cao gần khu vực này, có thể nhìn về Chư Đăng Ya từ xa; còn Chư Đăng Ya là miệng núi lửa cổ và điểm check-in hoa dã quỳ. Nếu người dùng hỏi “leo Chư Nâm ngắm Chư Đăng Ya” thì nên hiểu là tuyến trekking khác nhưng có liên hệ cảnh quan.
+
+Chư Đăng Ya cũng không phải là Khu dự trữ sinh quyển Kon Hà Nừng hay Vườn quốc gia Kon Ka Kinh. Đây là điểm cảnh quan núi lửa - nông nghiệp ở khu vực phía bắc Pleiku, không phải khu bảo tồn rừng quy mô lớn.
+
+5. Giá trị cảnh quan và địa chất
+
+Nét nhận diện quan trọng của Chư Đăng Ya nằm ở hình thái núi lửa cổ. Các nguồn báo chí và du lịch mô tả nơi đây có miệng núi dạng phễu, các sườn núi thoai thoải và đá bazan/đá dung nham còn xuất hiện trên bề mặt. Qua thời gian dài, đất bazan phong hóa thành loại đất đỏ màu mỡ, tạo điều kiện cho nông nghiệp địa phương như cây hoa màu, dong riềng, ngô, khoai và các thảm thực vật theo mùa.
+
+Một số nguồn mô tả Chư Đăng Ya gồm ba miệng núi lửa nhỏ nằm gần nhau; cao nhất khoảng 975 m so với mực nước biển. Thông tin này hữu ích để chatbot giới thiệu cảnh quan, nhưng nếu dùng cho tài liệu địa chất chuyên sâu thì nên kiểm chứng thêm bằng nguồn chuyên ngành địa chất. Trong dữ liệu du lịch, có thể viết an toàn: Chư Đăng Ya là tổ hợp miệng núi lửa cổ có địa hình dạng phễu, đất bazan và đá núi lửa đặc trưng.
+
+Từ trên cao hoặc từ các điểm nhìn quanh triền núi, du khách có thể thấy mảng màu xen kẽ của ruộng rẫy, cỏ, đất đỏ, thảm hoa và những làng nhỏ dưới chân núi. Đây là kiểu cảnh quan rất phù hợp với dữ liệu nhận diện ảnh: núi lửa không còn phun trào, triền núi xanh hoặc vàng tùy mùa, đường mòn đất đỏ, ruộng bậc nhẹ và hoa dã quỳ vàng vào cuối năm.
+
+6. Giá trị văn hóa và cộng đồng
+
+Chư Đăng Ya gắn với không gian cư trú và sinh hoạt của cộng đồng Jrai ở khu vực làng Ia Gri/Ploi Lagri. Giá trị của địa điểm không chỉ là cảnh quan núi lửa mà còn là mối quan hệ giữa thiên nhiên, nông nghiệp và đời sống bản địa. Người dân canh tác trên đất bazan màu mỡ, giữ những câu chuyện tên gọi địa phương, tham gia các hoạt động lễ hội và cung cấp dịch vụ nhỏ cho du khách vào mùa cao điểm.
+
+Lễ hội Hoa dã quỳ - Núi lửa Chư Đăng Ya là sự kiện văn hóa - du lịch quan trọng, thường diễn ra vào tháng 11. Sự kiện có thể có hoạt động cồng chiêng, trò chơi dân gian, ẩm thực địa phương, trải nghiệm leo núi, bay dù lượn, giao lưu văn hóa, gian hàng nông sản và các hoạt động thể thao. Vì lịch lễ hội thay đổi từng năm, chatbot nên trả lời theo hướng: lễ hội thường diễn ra vào mùa hoa dã quỳ, khoảng tháng 11, nhưng cần kiểm tra lịch chính thức của tỉnh hoặc xã Biển Hồ cho năm cụ thể.
+
+7. Điểm nổi bật để giới thiệu nhanh
+
+Điểm nổi bật thứ nhất là mùa hoa dã quỳ. Vào khoảng cuối tháng 10 đến tháng 11, nhiều triền núi và đường mòn quanh Chư Đăng Ya chuyển sang sắc vàng. Đây là thời điểm thu hút đông du khách, nhiếp ảnh gia, nhóm phượt và người yêu cảnh quan Tây Nguyên.
+
+Điểm nổi bật thứ hai là địa hình miệng núi lửa cổ. Chư Đăng Ya không phải ngọn núi đá cao hiểm trở mà có dạng triền thoải và lòng chảo tự nhiên, tạo nên cảm giác vừa hùng vĩ vừa mềm mại. Cảnh quan thay đổi theo mùa: mùa mưa xanh tươi, mùa dã quỳ vàng rực, mùa khô có màu đất đỏ và cỏ khô rất rõ chất cao nguyên.
+
+Điểm nổi bật thứ ba là khả năng kết hợp tuyến. Từ Pleiku có thể đi Biển Hồ T’Nưng, Biển Hồ Chè, Hàng thông trăm tuổi, Chùa Bửu Minh, Chư Đăng Ya và Chư Nâm trong cùng cụm phía bắc. Đây là điểm quan trọng cho chatbot khi gợi ý lịch trình nửa ngày hoặc một ngày.
+
+8. Từ khóa và alias cho embedding
+
+Từ khóa chính: Núi lửa Chư Đăng Ya, Chư Đăng Ya, Chư Đang Ya, Chu Dang Ya Volcano, núi Chư Đăng Ya, núi lửa cổ Gia Lai, hoa dã quỳ Gia Lai, lễ hội hoa dã quỳ, Pleiku, Chư Păh, xã Biển Hồ, làng Ia Gri, Ploi Lagri, Plơi Ia Gri.
+
+Từ khóa ngữ nghĩa: miệng núi lửa cổ, đất đỏ bazan, hoa dã quỳ tháng 11, check-in Gia Lai, trekking nhẹ, ngắm bình minh, ngắm hoàng hôn, cảnh quan Tây Nguyên, Jrai, văn hóa cồng chiêng, tuyến Biển Hồ - Chư Đăng Ya, du lịch sinh thái cộng đồng.
+
+Câu nhận diện ngắn cho chatbot: Chư Đăng Ya là núi lửa cổ ở khu vực xã Biển Hồ, tỉnh Gia Lai, cách Pleiku khoảng 30 km, nổi tiếng với mùa hoa dã quỳ vàng rực vào cuối năm và cảnh quan đất đỏ bazan đặc trưng.
+
+Câu nhận diện dài cho chatbot: Núi lửa Chư Đăng Ya là một điểm cảnh quan địa chất và văn hóa ở phía bắc Pleiku, trước đây thuộc xã Chư Đăng Ya, huyện Chư Păh, nay thuộc xã Biển Hồ sau sắp xếp hành chính; nơi đây có miệng núi lửa cổ, triền đất bazan, nương rẫy theo mùa, hoa dã quỳ nở rộ vào khoảng tháng 11 và thường được kết hợp tham quan cùng Biển Hồ T’Nưng, Biển Hồ Chè, Chùa Bửu Minh, Hàng thông trăm tuổi và Núi Chư Nâm.
+
+9. Nguồn tham khảo đã dùng
+
+Các nguồn dưới đây được dùng để đối chiếu thông tin. Khi dùng dữ liệu cho chatbot, nên lưu ý ngày truy cập và kiểm tra lại các thông tin dễ thay đổi như lễ hội, giá dịch vụ, quy hoạch, tình trạng đường, thời tiết và khu vực đang quản lý.
+
+Cổng thông tin tỉnh Gia Lai, 'Chư Đăng Ya Volcano', https://gialai.gov.vn/en/du-lich/scenic-spots/chu-dang-ya-volcano.html
+
+Cục Du lịch Quốc gia Việt Nam, 'Núi lửa Chư Đăng Ya: Sắc màu núi rừng Tây Nguyên', https://vietnamtourism.gov.vn/post/33751
+
+Cổng thông tin tỉnh Gia Lai, 'Lễ hội hoa dã quỳ núi lửa Chư Đăng Ya ở Gia Lai', https://gialai.gov.vn/du-khach/le-hoi/le-hoi-hoa-da-quy-nui-lua-chu-dang-ya-o-gia-lai.html
+
+VietnamPlus/TTXVN, 'Chu Dang Ya Volcano: A captivating destination in Gia Lai', https://en.vietnamplus.vn/chu-dang-ya-volcano-a-captivating-destination-in-gia-lai-post339989.vnp
+
+Báo Gia Lai, 'Khám phá tổ hợp núi lửa cổ Chư Đăng Ya vào mùa hoa dã quỳ rực rỡ', https://baogialai.com.vn/kham-pha-to-hop-nui-lua-co-chu-dang-ya-vao-mua-hoa-da-quy-ruc-ro-post300602.html
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai, https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+Cổng thông tin tỉnh Gia Lai, thông tin quy hoạch Khu du lịch Biển Hồ - Chư Đăng Ya đến năm 2050, https://gialai.gov.vn/tin-tuc/hoat-dong-cua-lanh-dao/quy-hoach-khu-vuc-du-lich-bien-ho-chu-dang-ya-can-phai-lam-nhanh-nhung-phai-dam-bai-ban-vua-bao-ton-vua-phat-trien.html
+
+Vietravel, 'Du lịch Chư Đăng Ya Gia Lai: Kinh nghiệm săn hoa dã quỳ', https://www.vietravel.com/vn/am-thuc-kham-pha/du-lich-chu-dang-ya-gia-lai-kinh-nghiem-san-hoa-da-quy-v16049.aspx

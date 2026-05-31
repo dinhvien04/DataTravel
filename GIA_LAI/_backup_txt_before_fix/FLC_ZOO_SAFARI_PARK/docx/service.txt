@@ -1,0 +1,61 @@
+Document này tổng hợp dịch vụ tại FLC Zoo Safari Park Quy Nhơn và khu vực xung quanh, gồm ăn uống, đặc sản địa phương, lưu trú, tiện ích hỗ trợ, phương tiện nội khu và các dịch vụ phù hợp gia đình. Nội dung giúp chatbot trả lời các câu hỏi như "trong Safari có ăn uống không", "có xe điện không", "gần đó có khách sạn không", "đi với trẻ em cần chuẩn bị gì".
+
+1. Dịch vụ tại địa điểm
+
+FLC Zoo Safari Park có các dịch vụ gắn với trải nghiệm tham quan động vật và giải trí nhẹ. Nguồn FLC nhắc đến các trải nghiệm như bơi thuyền thiên nga, chèo thuyền kayak, xe ngựa, xe đạp đôi, nhà hàng và quầy lưu niệm. Một số nguồn du lịch cũng nhắc đến xe điện, thức ăn cho thú, chụp ảnh với động vật, câu cá hoặc các hoạt động tương tác tùy thời điểm.
+
+Vì dịch vụ phụ có thể thay đổi theo mùa, ngày lễ, bảo trì hoặc điều kiện vận hành, chatbot nên trả lời theo cách: "có thể có" hoặc "thường có" thay vì khẳng định chắc chắn từng dịch vụ đều hoạt động mỗi ngày. Với người dùng cần thông tin chính xác để đặt lịch, nên khuyên họ gọi hotline FLC Zoo Safari Park hoặc hỏi lễ tân FLC Quy Nhơn.
+
+2. Xe điện, xe ngựa và phương tiện nội khu
+
+Công viên có diện tích lớn, vì vậy xe điện hoặc xe ngựa là dịch vụ hữu ích cho gia đình có trẻ nhỏ, người lớn tuổi hoặc khách không muốn đi bộ nhiều. Xe điện giúp tiết kiệm sức, đặc biệt vào ngày nắng. Tuy nhiên, nếu người dùng khỏe và muốn chủ động dừng chụp ảnh, đi bộ cũng là lựa chọn tốt vì có thể quan sát kỹ hơn.
+
+Xe đạp đôi là trải nghiệm phù hợp nhóm bạn hoặc cặp đôi nhưng cần cân nhắc thời tiết. Nếu trời nắng gắt, hoạt động này dễ mệt. Với trẻ nhỏ, cần chọn phương tiện an toàn và tránh chạy gần khu vực đông người hoặc sát hồ nước.
+
+3. Ăn uống trong khu Safari
+
+Trang FLC mô tả nhà hàng FLC Zoo Safari Park nằm tại sảnh trung tâm của vườn thú, sức chứa khoảng 100-120 khách, phục vụ món ăn gia đình, đồ ăn nhanh và nước giải khát. Ngoài nhà hàng chính, công viên có thể bố trí quầy kem và đồ uống tại một số khu vực như khu thú cưng, khu cá sấu hoặc hồ thiên nga.
+
+Với gia đình có trẻ em, nên chuẩn bị thêm nước uống cá nhân, khăn giấy và đồ ăn nhẹ phù hợp, nhưng không dùng đồ ăn của người để cho động vật ăn. Nếu muốn cho thú ăn, nên mua đúng phần thức ăn do công viên cung cấp.
+
+4. Đặc sản địa phương gần khu Nhơn Lý - Quy Nhơn
+
+FLC Zoo Safari Park nằm gần khu Nhơn Lý, nên nếu muốn ăn ngoài khu Safari, du khách có thể kết hợp ăn hải sản ở khu làng chài Nhơn Lý hoặc các nhà hàng quanh Eo Gió, Kỳ Co. Các món đặc trưng có thể gợi ý gồm hải sản tươi, mực, tôm, cua, cá biển, bánh xèo tôm nhảy, bún chả cá Quy Nhơn, bánh hỏi cháo lòng và nem chợ Huyện.
+
+Khi chatbot tư vấn ăn uống, nên tách rõ: bên trong Safari có nhà hàng/quầy nước phục vụ tiện lợi; nếu muốn ăn đặc sản địa phương nhiều lựa chọn hơn, nên ra khu Nhơn Lý hoặc trung tâm Quy Nhơn. Không nên khẳng định một nhà hàng cụ thể nếu chưa kiểm tra giờ mở cửa và đánh giá mới.
+
+5. Lưu trú và khách sạn
+
+Điểm lưu trú gần nhất và liên quan trực tiếp là FLC Quy Nhon Beach & Golf Resort, bao gồm các khu khách sạn, biệt thự và dịch vụ nghỉ dưỡng trong quần thể FLC. Khách lưu trú tại đây có lợi thế di chuyển gần, có thể hỏi lễ tân về vé Safari, xe nội khu, lịch xe đưa đón hoặc các combo gia đình.
+
+Ngoài FLC, du khách có thể lưu trú ở khu Nhơn Lý, Eo Gió, Kỳ Co hoặc trung tâm Quy Nhơn. Lưu trú tại trung tâm có nhiều lựa chọn ăn uống, di chuyển thuận tiện hơn về đêm, nhưng đi Safari sẽ mất khoảng 30-40 phút. Lưu trú gần Nhơn Lý phù hợp nếu lịch trình tập trung vào Kỳ Co, Eo Gió, FLC Safari và các điểm bán đảo Phương Mai.
+
+6. Tiện ích hỗ trợ
+
+Tiện ích cần kiểm tra tại chỗ gồm nhà vệ sinh, quầy nước, khu nghỉ chân, khu nhà hàng, bãi đỗ xe, quầy vé và phương tiện di chuyển nội khu. Vì công viên ngoài trời rộng, người đi với trẻ em nên hỏi sơ đồ ngay khi vào cổng để biết vị trí nhà vệ sinh và điểm nghỉ gần nhất.
+
+Wifi không nên được xem là tiện ích chắc chắn trong toàn bộ công viên. Nếu người dùng cần mạng để gọi xe hoặc thanh toán, nên dùng dữ liệu di động và sạc dự phòng. Khu vực FLC có thể có sóng tốt hơn trong nhà hàng/lễ tân, nhưng ngoài trời có thể không ổn định tùy nhà mạng.
+
+7. Dịch vụ cho nhóm khách đặc biệt
+
+Gia đình có trẻ nhỏ nên ưu tiên xe điện, đi buổi sáng, chuẩn bị mũ và nước uống, không tham quá nhiều điểm trong một ngày. Trẻ em cần được nhắc không chạy lung tung, không đưa tay qua hàng rào và không cho thú ăn khi chưa được phép.
+
+Người lớn tuổi nên đi vào buổi sáng, tránh trưa nắng và cân nhắc xe điện. Nếu có vấn đề về chân, tim mạch hoặc dễ say nắng, không nên đi bộ quá lâu. Nên hỏi nhân viên về lộ trình ngắn nhất để xem các khu chính.
+
+Đoàn học sinh hoặc đoàn công ty nên liên hệ trước về vé đoàn, hướng dẫn, nhà hàng, thời gian tham quan và quy định an toàn. Với đoàn học sinh, cần có giáo viên/người phụ trách đi kèm theo nhóm nhỏ để kiểm soát an toàn khi quan sát thú.
+
+8. Ghi chú cho chatbot
+
+Nếu người dùng hỏi "trong Safari có gì ăn không", câu trả lời nên là: có nhà hàng/quầy nước trong khu, phục vụ món ăn gia đình, đồ ăn nhanh và nước giải khát; nếu muốn ăn hải sản hoặc đặc sản địa phương, nên ra khu Nhơn Lý hoặc trung tâm Quy Nhơn.
+
+Nếu người dùng hỏi "có xe điện không", trả lời: thường có dịch vụ xe điện hoặc phương tiện hỗ trợ tham quan, nhưng giá và tình trạng hoạt động cần kiểm tra tại cổng hoặc hỏi FLC trước khi đi.
+
+9. Nguồn tham khảo
+
+FLC Hotels & Resorts - Safari Quy Nhơn: https://flchotelsresorts.com/safari-quy-nhon
+
+FLC Hotels & Resorts - Zoo Safari Park: https://flchotelsresorts.com/dich-vu/zoo-safari-park-1
+
+Bamboo Airways - Kinh nghiệm đi công viên hoang dã FLC Safari Quy Nhơn: https://www.bambooairways.com/vi/travel-guide/domestic-travels/quy-nhon/kinh-nghiem-di-safari-quy-nhon
+
+Du lịch Quy Nhơn Blog - FLC Zoo Safari Park Quy Nhơn: https://dulichquynhon.blog/dia-diem-du-lich/flc-zoo-safari-park/

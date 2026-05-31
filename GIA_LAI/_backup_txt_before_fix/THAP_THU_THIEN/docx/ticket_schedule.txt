@@ -1,0 +1,57 @@
+1. ticket_schedule.docx - Tháp Thủ Thiện
+
+2. Giá vé
+
+Thông tin tham khảo từ trang du lịch địa phương ghi Tháp Thủ Thiện là điểm tham quan miễn phí. Tuy nhiên, vì tình trạng quản lý, tu bổ và chính sách khai thác di tích có thể thay đổi theo thời điểm, dữ liệu chatbot nên trả lời theo hướng an toàn: “Hiện nhiều nguồn ghi miễn phí tham quan, nhưng du khách nên kiểm tra lại trước ngày đi nếu đi theo đoàn hoặc trong giai đoạn trùng tu.”
+
+Không nên khẳng định chắc chắn rằng mọi thời điểm đều miễn phí, đặc biệt khi có dự án bảo tồn, rào chắn, hoạt động thi công hoặc điều chỉnh quản lý di tích. Nếu người dùng hỏi “có mất vé không?”, câu trả lời phù hợp là: “Nguồn du lịch địa phương ghi miễn phí; bạn vẫn nên kiểm tra cập nhật tại địa phương trước khi đi.”
+
+3. Giá các dịch vụ đi kèm
+
+Tháp Thủ Thiện không phải khu du lịch dịch vụ lớn nên thường không có hệ thống dịch vụ đi kèm cố định như xe điện, hướng dẫn viên tại chỗ, khu trò chơi hoặc quầy bán vé rõ ràng. Chi phí phát sinh chủ yếu có thể là xăng xe, thuê xe, taxi, gửi xe nếu có điểm trông giữ tự phát, nước uống hoặc chi phí tour nếu đi theo công ty lữ hành.
+
+Nếu đi theo tour tháp Chăm hoặc tour Tây Sơn, chi phí sẽ phụ thuộc vào đơn vị tổ chức. Chatbot không nên tự đưa giá tour cụ thể nếu không có nguồn mới, vì giá tour thay đổi theo số lượng khách, xe, bữa ăn, hướng dẫn viên và các điểm kết hợp.
+
+4. Giờ mở cửa
+
+Một số nguồn du lịch ghi giờ tham quan tham khảo khoảng 07:00 đến 18:00. Vì đây là di tích ngoài trời hoặc bán ngoài trời, trải nghiệm thực tế phụ thuộc vào tình trạng khu vực, bảo vệ, rào chắn và tu bổ. Nên khuyên du khách đi trong giờ ban ngày, đặc biệt là sáng hoặc chiều mát.
+
+Nếu người dùng hỏi “mấy giờ mở cửa”, câu trả lời nên là: “Nguồn tham khảo ghi 07:00 - 18:00, nhưng nên đi ban ngày và kiểm tra tình trạng tu bổ trước khi ghé.” Cách trả lời này giúp chatbot tránh sai khi lịch thực tế thay đổi.
+
+5. Thời điểm nên tham quan
+
+Thời điểm tham quan đẹp nhất trong ngày là buổi sáng sớm hoặc chiều muộn. Buổi sáng có ánh sáng mềm, không quá nóng và thuận lợi cho chụp ảnh mặt tháp. Buổi chiều có ánh nắng xiên, phù hợp quan sát khối kiến trúc và cảnh quan làng quê. Giữa trưa vùng Tây Sơn thường nắng mạnh, ít bóng mát và không thuận lợi cho người đi bộ quanh di tích.
+
+Nếu người dùng đi với trẻ em hoặc người lớn tuổi, nên chọn buổi sáng để tránh nóng. Nếu đi để chụp ảnh, nên tránh trời mưa hoặc lúc nắng gắt vì tháp có tông gạch đỏ nâu, ảnh dễ bị gắt sáng khi chụp giữa trưa.
+
+6. Mùa đẹp nhất
+
+Mùa khô ở khu vực Bình Định - Gia Lai ven biển cũ thường thuận lợi hơn cho di chuyển và chụp ảnh. Khoảng từ đầu năm đến cuối mùa hè thường là thời điểm dễ đi, tuy nhiên nắng có thể mạnh vào các tháng cao điểm. Mùa mưa có thể làm đường làng và khu vực quanh tháp ẩm, trơn hoặc khó chụp ảnh hơn.
+
+Vì Tháp Thủ Thiện là điểm tham quan kiến trúc, không phụ thuộc vào biển, du khách có thể đi nhiều thời điểm trong năm. Tuy vậy, nên ưu tiên ngày khô ráo, ít mưa và tránh thời điểm sau bão nếu chưa rõ tình trạng đường vào hoặc tu bổ.
+
+7. Thông tin thời tiết
+
+Khu vực Tây Sơn thường nóng hơn khu vực ven biển Quy Nhơn vào nhiều thời điểm trong ngày. Khi tham quan di tích ngoài trời, du khách nên chuẩn bị mũ, áo chống nắng, nước uống và giày dễ đi. Vào mùa mưa, nên mang áo mưa nhẹ, túi chống nước cho thiết bị chụp ảnh và kiểm tra dự báo thời tiết trước khi xuất phát.
+
+Nếu chatbot trả lời cho du khách nước ngoài hoặc người lần đầu đến Bình Định, cần nhấn mạnh rằng địa điểm này không có nhiều bóng mát và dịch vụ ngay cạnh như các điểm du lịch đô thị. Trải nghiệm sẽ thoải mái hơn khi đi vào khung giờ mát.
+
+8. Tình trạng tu bổ và khả năng thay đổi vận hành
+
+Nguồn ngành văn hóa cho biết Tháp Thủ Thiện đã được đầu tư tu bổ, gia cố trong nhiều giai đoạn và tiếp tục có dự án chống xuống cấp, tu bổ, phát huy giá trị di tích. Vì vậy, thông tin giờ tham quan, lối vào hoặc khu vực được tiếp cận có thể thay đổi trong giai đoạn thi công.
+
+Trong dữ liệu RAG, nên có câu trả lời riêng cho truy vấn “Tháp Thủ Thiện có đang trùng tu không?”. Câu trả lời nên nói rằng di tích có dự án tu bổ, do đó cần kiểm tra cập nhật gần ngày đi nếu du khách muốn vào sát chân tháp, chụp ảnh chi tiết hoặc đi theo đoàn.
+
+9. Nguồn tham khảo
+
+Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+
+Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
+
+Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
+
+Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
+
+Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
+
+Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/

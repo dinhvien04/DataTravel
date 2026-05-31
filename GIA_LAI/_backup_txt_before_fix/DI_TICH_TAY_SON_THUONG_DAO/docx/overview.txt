@@ -1,0 +1,83 @@
+1. Giới thiệu chung
+
+Tây Sơn Thượng đạo là tên gọi vùng căn cứ thượng nguồn ở phía Đông Gia Lai, gắn với giai đoạn đầu của phong trào nông dân Tây Sơn vào thế kỷ XVIII. Khác với một điểm check-in đơn lẻ, đây là một quần thể di tích lịch sử gồm nhiều điểm thành phần, nằm trong không gian An Khê - Đak Pơ - Kbang - Kông Chro, nơi đường núi, sông suối, làng mạc và ký ức cộng đồng cùng tạo nên lớp nghĩa lịch sử. Khi xây dựng dữ liệu cho chatbot, cần hiểu Tây Sơn Thượng đạo như một mạng lưới di tích: có khu trung tâm để tham quan nhanh, có các điểm dấu tích cần đi theo tuyến, có lớp thông tin về khởi nghĩa Tây Sơn, văn hóa Kinh - Bahnar, lễ hội tưởng niệm và các câu chuyện dân gian được truyền lại qua nhiều thế hệ.
+
+Về hành chính, nhiều nguồn cũ ghi trung tâm tham quan ở phường Tây Sơn, thị xã An Khê, tỉnh Gia Lai. Sau sắp xếp đơn vị hành chính năm 2025, phường An Khê mới được hình thành trên cơ sở sắp xếp các phường Ngô Mây, Tây Sơn, An Phú, An Phước, An Tân và xã Thành An. Vì vậy tài liệu nên lưu cả tên gọi cũ và tên gọi mới. Khi chatbot trả lời, cách diễn đạt an toàn là: khu trung tâm Tây Sơn Thượng đạo nằm ở khu vực An Khê, Gia Lai; các điểm thành phần phân bố rộng hơn ở An Khê, Cửu An, Ya Hội, Kông Bơ La và Kông Chro tùy theo cách khoanh vùng, quy hoạch và giai đoạn tài liệu.
+
+Một điểm cần chú ý khi làm dữ liệu RAG là số lượng điểm/cụm di tích có thể được diễn đạt khác nhau giữa các giai đoạn hồ sơ. Một số nguồn cũ ghi 17 di tích chia thành 6 cụm; nguồn sau khi di tích được quan tâm nâng hạng và truyền thông du lịch ghi 23 điểm, 8 cụm. Sự khác nhau này không nên xem là mâu thuẫn để loại bỏ dữ liệu, mà nên lưu như thông tin theo giai đoạn: hồ sơ cũ phục vụ xếp hạng cấp quốc gia và quá trình trùng tu thường dùng mốc 17 di tích, 6 cụm; các bài giới thiệu gần đây có thể dùng mốc 23 điểm, 8 cụm. Chatbot cần trả lời linh hoạt, ưu tiên nói rằng đây là quần thể nhiều điểm thành phần và nên kiểm tra bản đồ quản lý hiện hành trước khi đi hết tuyến.
+
+2. Vị trí và phạm vi di tích
+
+Quần thể di tích không nằm gọn trong một khuôn viên nhỏ. Khu trung tâm thường được du khách tìm đến tại khu vực An Khê, đặc biệt quanh đường Nguyễn Thiếp, khu An Khê đình - An Khê trường - Bảo tàng Tây Sơn Thượng Đạo. Tuy nhiên, ý nghĩa đầy đủ của Tây Sơn Thượng đạo nằm ở hệ thống các điểm phân bố trên địa bàn phía Đông Gia Lai, nơi có đèo An Khê, thượng nguồn sông Ba, các làng cổ, gò đồi, miếu, lũy, hòn đá và cây cổ thụ gắn với ký ức phong trào Tây Sơn.
+
+Theo nguồn di sản, ngày 18/01/2022, Thủ tướng Chính phủ ký Quyết định 93/QĐ-TTg xếp hạng Quần thể di tích Tây Sơn Thượng Đạo là di tích quốc gia đặc biệt. Quyết định này xác định phạm vi theo các địa bàn cũ gồm thị xã An Khê, huyện Đak Pơ, huyện Kbang và huyện Kông Chro của tỉnh Gia Lai. Nguồn quy hoạch năm 2026 tiếp tục đặt trọng tâm vào phường An Khê, xã Cửu An, xã Ya Hội, xã Kông Bơ La và xã Kông Chro, với định hướng bảo tồn, phục hồi và phát huy giá trị di tích trong không gian liên kết rộng.
+
+3. Lịch sử hình thành và vai trò trong phong trào Tây Sơn
+
+Tây Sơn Thượng đạo gắn với giai đoạn đầu khi ba anh em Nguyễn Nhạc, Nguyễn Huệ và Nguyễn Lữ gây dựng lực lượng. Trong cách hiểu truyền thống, Tây Sơn hạ đạo là vùng đồng bằng phía Bình Định, còn Tây Sơn thượng đạo là vùng thượng nguồn, rừng núi, cao nguyên phía trên đèo An Khê. Chính địa thế hiểm yếu, có đường giao thương giữa miền xuôi và miền thượng, có nguồn lương thực, lâm sản và cộng đồng cư dân đa dạng đã tạo điều kiện để nghĩa quân tích trữ lương thảo, kết nối lực lượng, luyện quân và chuẩn bị cho quá trình tiến xuống đồng bằng.
+
+Giá trị của di tích không chỉ nằm ở một công trình kiến trúc còn nguyên vẹn, mà nằm ở mối quan hệ giữa địa hình, địa danh và ký ức lịch sử. Những tên gọi như An Khê đình, An Khê trường, lũy An Khê, Gò Chợ, Hòn Bình, Hòn Nhạc, Hòn Tào, Gò Kho - Xóm Ké, Miếu Xà, Cây Ké phất cờ, Cây Cầy gióng trống thường được nhắc như dấu chỉ của thời kỳ chuẩn bị lực lượng. Mỗi tên gọi là một mảnh ghép giúp du khách hình dung cách nghĩa quân dựng căn cứ, tổ chức sinh hoạt, thờ tự, tập hợp dân chúng và tạo khí thế cho cuộc khởi nghĩa.
+
+4. Giá trị văn hóa, lịch sử và khoa học
+
+Giá trị lịch sử nổi bật của Tây Sơn Thượng đạo là vai trò khởi nguồn trong phong trào nông dân Tây Sơn, một phong trào đã tạo chuyển biến lớn trong lịch sử Việt Nam cuối thế kỷ XVIII. Với Gia Lai, di tích cho thấy mối liên hệ lâu dài giữa miền núi và đồng bằng, giữa người Kinh và cộng đồng Bahnar, giữa đường thương mại cũ và không gian quân sự - chính trị của một phong trào lớn. Đây cũng là lý do nguồn quy hoạch năm 2026 nhấn mạnh di tích như cầu nối giao lưu giữa miền xuôi và miền Thượng, đồng thời là điểm tựa cho phát triển du lịch văn hóa, tín ngưỡng và lịch sử.
+
+Giá trị văn hóa thể hiện qua các nghi lễ tưởng niệm, lễ dâng hương, lễ cúng Khai Sơn, lễ cúng Quý Xuân, các hoạt động tái hiện hào khí Tây Sơn và sinh hoạt cộng đồng vùng An Khê. Khi kết hợp với võ cổ truyền Bình Định - Gia Lai, cồng chiêng Tây Nguyên, tín ngưỡng thờ tiền nhân và truyền thống kể chuyện dân gian, di tích trở thành một không gian văn hóa sống chứ không chỉ là nơi trưng bày tư liệu.
+
+Giá trị khoa học còn mở rộng sang khảo cổ học An Khê. Bảo tàng Tây Sơn Thượng Đạo không chỉ lưu giữ tư liệu về phong trào Tây Sơn mà còn có trưng bày về di tích sơ kỳ đá cũ An Khê, các hiện vật đá, rìu tay, mảnh thiên thạch và tư liệu khảo cổ ở vùng Rộc Tưng - Gò Đá. Điều này giúp tuyến tham quan có chiều sâu: du khách có thể đi từ câu chuyện thời tiền sử ở thượng du sông Ba đến phong trào Tây Sơn thế kỷ XVIII trong cùng một vùng đất.
+
+5. Kiến trúc, cảnh quan và các khu vực chính
+
+Khu trung tâm hiện nay thường có cổng di tích, quảng trường, điện thờ Tây Sơn Tam Kiệt, khu nhà trưng bày, bảo tàng, hồ nước, cây xanh và các hạng mục được tu bổ. Không gian được tổ chức để vừa có tính trang nghiêm cho lễ dâng hương, vừa thuận lợi cho tham quan, học tập lịch sử, chụp ảnh lưu niệm và tổ chức đoàn. Đường nét kiến trúc mới thường sử dụng biểu tượng văn hóa Tây Nguyên như cồng chiêng, kết hợp ngôn ngữ truyền thống để tạo cảm giác vừa thuộc về Gia Lai, vừa gắn với ký ức Tây Sơn.
+
+Các điểm thành phần bên ngoài trung tâm có đặc điểm khác: nhiều nơi là dấu tích địa hình, gò đồi, cây cổ thụ, miếu, lũy, khu dân cư hoặc không gian cảnh quan hơn là công trình kiến trúc lớn. Với du khách đi lần đầu, điều này rất quan trọng. Nếu chỉ đến khu trung tâm, du khách sẽ thấy một điểm tham quan gọn và dễ đi. Nếu đi theo tuyến di tích đầy đủ, cần chuẩn bị như một hành trình lịch sử - địa lý, có thể mất nhiều thời gian hơn, phải di chuyển qua nhiều xã, nhiều loại đường và có thể cần người hướng dẫn.
+
+6. Điểm nổi bật giúp nhận diện địa điểm
+
+Các dấu hiệu nhận diện quan trọng của địa điểm gồm tên gọi Tây Sơn Thượng đạo hoặc Tây Sơn Thượng Đạo, cổng khu di tích, điện thờ Tây Sơn Tam Kiệt, An Khê đình, An Khê trường, Bảo tàng Tây Sơn Thượng Đạo, các gò - hòn - miếu - cây cổ thụ gắn với truyền thuyết phất cờ và luyện quân. Trong câu hỏi của du khách, địa điểm này cũng có thể xuất hiện dưới các cách gọi như khu di tích Tây Sơn Thượng đạo An Khê, di tích quốc gia đặc biệt Tây Sơn Thượng đạo, căn cứ địa Tây Sơn ở Gia Lai, thủ phủ nghĩa quân Tây Sơn ở thượng nguồn, hoặc vùng đất khởi phát phong trào Tây Sơn trên cao nguyên.
+
+Các từ khóa mô tả quan trọng gồm: Tây Sơn Thượng đạo, Tây Sơn Thượng Đạo, An Khê, Gia Lai, di tích quốc gia đặc biệt, phong trào Tây Sơn, Tây Sơn Tam Kiệt, Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, An Khê đình, An Khê trường, Bảo tàng Tây Sơn Thượng Đạo, đèo An Khê, sông Ba, văn hóa Bahnar, lễ dâng hương, Ngọc Hồi - Đống Đa, căn cứ địa nghĩa quân Tây Sơn.
+
+Trong dữ liệu nhận diện hình ảnh, mô tả thường gặp có thể là cổng lớn ghi Khu di tích Tây Sơn Thượng Đạo, tượng hoặc biểu tượng người anh hùng Tây Sơn, không gian sân rộng, cổng đá màu xám, phù điêu, điện thờ mái ngói, nội thất thờ tự, bảo tàng hai hoặc nhiều tầng, hàng cây, khuôn viên rộng ở An Khê. Nếu ảnh chỉ có một gò đất, cây cổ thụ hoặc miếu nhỏ, chatbot nên hỏi thêm ngữ cảnh vì đó có thể là điểm thành phần trong quần thể chứ không phải toàn bộ khu trung tâm.
+
+7. Các câu hỏi chatbot có thể trả lời từ file này
+
+Tây Sơn Thượng đạo là gì?
+
+Di tích này nằm ở đâu?
+
+Vì sao Tây Sơn Thượng đạo quan trọng?
+
+Tây Sơn Thượng đạo có phải một điểm tham quan duy nhất không?
+
+Tây Sơn Thượng đạo liên quan gì đến Nguyễn Huệ?
+
+Có những tên gọi nào khác của địa điểm?
+
+Điểm nhận diện của khu di tích qua hình ảnh là gì?
+
+Vì sao có nguồn ghi 17 di tích, có nguồn ghi 23 điểm?
+
+Di tích được xếp hạng quốc gia đặc biệt khi nào?
+
+Khu trung tâm có gì để xem?
+
+8. Nguồn tham khảo
+
+Các nguồn dưới đây được dùng để tổng hợp nội dung. Thông tin về giá vé, giờ mở cửa, quy định tham quan, dịch vụ và tình trạng tu bổ có thể thay đổi theo từng thời điểm; du khách nên kiểm tra lại với cơ quan quản lý di tích, cổng thông tin du lịch địa phương hoặc đơn vị tổ chức tour trước khi đi.
+
+Cục Di sản văn hóa - Quyết định xếp hạng di tích quốc gia đặc biệt (đợt 12), trong đó có Quần thể di tích Tây Sơn Thượng Đạo, ngày 18/01/2022: https://dsvh.gov.vn/quyet-dinh-xep-hang-di-tich-quoc-gia-dac-biet-dot-12-3450
+
+Cổng Thông tin điện tử Chính phủ - Quyết định số 93/QĐ-TTg ngày 18/01/2022 về việc xếp hạng di tích quốc gia đặc biệt: https://vanban.chinhphu.vn/?docid=205168&pageid=27160
+
+Báo Gia Lai - Phát huy giá trị di tích quốc gia đặc biệt Tây Sơn Thượng đạo, thông tin 23 điểm, 8 cụm di tích và các lễ hội liên quan: https://baogialai.com.vn/phat-huy-gia-tri-di-tich-quoc-gia-dac-biet-tay-son-thuong-dao-post19032.html
+
+Báo Gia Lai - Phát huy giá trị di tích Tây Sơn Thượng đạo, thông tin 17 di tích, 6 cụm và các hạng mục trùng tu tại An Khê: https://baogialai.com.vn/phat-huy-gia-tri-di-tich-tay-son-thuong-dao-post213005.html
+
+Bảo tàng Lịch sử Quốc gia - Trưng bày Sơ kỳ Đá cũ An Khê ở Bảo tàng Tây Sơn Thượng Đạo: https://baotanglichsu.vn/vi/Articles/3099/70743/trung-bay-so-ky-dja-cu-an-khe-o-bao-tang-tay-son-thuong-djao.html
+
+Cổng Thông tin điện tử Chính phủ - Quyết định số 235/QĐ-TTg ngày 03/02/2026 phê duyệt nhiệm vụ lập quy hoạch bảo quản, tu bổ, phục hồi và phát huy giá trị di tích: https://vanban.chinhphu.vn/?docid=216872&pageid=27160
+
+VietnamPlus/TTXVN - Phạm vi nghiên cứu quy hoạch gồm phường An Khê, xã Cửu An, xã Ya Hội, xã Kông Bơ La và xã Kông Chro; quy mô 66,55 ha: https://www.vietnamplus.vn/xay-dung-tay-son-thuong-dao-tro-thanh-trung-tam-van-hoa-tin-nguong-cua-gia-lai-post1092432.vnp
+
+Trang thông tin phường An Khê - phường An Khê được thành lập theo Nghị quyết 1664/NQ-UBTVQH15 năm 2025 trên cơ sở sắp xếp các phường/xã cũ, gồm phường Tây Sơn cũ: https://ankhe.gialai.gov.vn/trang-chu/qua-trinh-hinh-thanh-va-phat-trien

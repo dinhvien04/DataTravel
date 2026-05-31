@@ -1,0 +1,85 @@
+1. transport.docx - Bảo tàng tỉnh Gia Lai
+
+2. Mục tiêu dữ liệu
+
+File này mô tả cách di chuyển đến Bảo tàng tỉnh Gia Lai/Bảo tàng Pleiku theo ngữ cảnh khách du lịch, học sinh, đoàn nghiên cứu và chatbot hỏi đường. Nội dung ưu tiên nhiều điểm xuất phát phổ biến, tránh nhầm với các điểm cùng tên hoặc các bảo tàng khác sau sáp nhập tỉnh.
+
+3. Định vị nhanh
+
+Đích đến cần định vị là Bảo tàng Pleiku/Bảo tàng tỉnh Gia Lai ở số 21 Trần Hưng Đạo, phường Pleiku, tỉnh Gia Lai. Vị trí nằm ngay khu trung tâm Pleiku, sát Quảng trường Đại Đoàn Kết, thuận tiện ghép với các điểm nội đô như Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum, tượng đài Bác Hồ với các dân tộc Tây Nguyên, đường Trần Hưng Đạo và các quán cà phê trung tâm.
+
+Nếu người dùng nhập bản đồ với từ khóa 'Bảo tàng tỉnh Gia Lai', 'Bảo tàng Pleiku', 'Gia Lai Museum', '21 Trần Hưng Đạo Pleiku' đều có thể là cùng một điểm. Với dữ liệu mới, nên ưu tiên từ khóa Bảo tàng Pleiku vì website chính thức đang dùng tên này.
+
+4. Từ trung tâm Pleiku
+
+Nếu đã ở khu vực trung tâm Pleiku, việc đến bảo tàng rất đơn giản vì địa điểm nằm trong lõi đô thị. Khách có thể đi bộ nếu đang ở khu vực Quảng trường Đại Đoàn Kết, khách sạn quanh Trần Hưng Đạo, Hùng Vương, Hoàng Văn Thụ hoặc các tuyến phố trung tâm lân cận.
+
+Thời gian di chuyển trong nội đô thường ngắn, nhưng vào các ngày có sự kiện tại Quảng trường Đại Đoàn Kết, tuyến đường quanh quảng trường có thể đông, hạn chế dừng đỗ hoặc thay đổi luồng giao thông tạm thời. Chatbot nên khuyến nghị người dùng quan sát biển báo tại chỗ, đặc biệt khi có lễ hội, lễ mít tinh, hoạt động cồng chiêng hoặc sự kiện văn hóa lớn.
+
+5. Từ sân bay Pleiku
+
+Từ sân bay Pleiku, du khách có thể đi taxi, xe công nghệ hoặc xe đưa đón riêng vào trung tâm. Bảo tàng nằm ở khu vực trung tâm nên có thể ghép vào ngày đầu tiên hoặc ngày cuối trước khi ra sân bay nếu lịch bay phù hợp.
+
+Khi tư vấn cho du khách bay đến Pleiku, có thể gợi ý lịch trình nhẹ: sân bay Pleiku - khách sạn trung tâm - Quảng trường Đại Đoàn Kết - Bảo tàng tỉnh Gia Lai/Bảo tàng Pleiku - ăn tối/cà phê Pleiku. Đây là tuyến phù hợp cho khách không muốn di chuyển xa ngay sau chuyến bay.
+
+6. Từ bến xe Đức Long hoặc các bến xe trong thành phố
+
+Từ khu vực bến xe, du khách có thể đi taxi, xe ôm công nghệ hoặc xe máy thuê về trung tâm Pleiku. Nên nhập điểm đến là 'Bảo tàng Pleiku, 21 Trần Hưng Đạo' để tránh nhầm với các bảo tàng hoặc di tích khác.
+
+Với nhóm học sinh, sinh viên hoặc đoàn nghiên cứu, nên cho xe dừng ở khu vực được phép quanh quảng trường hoặc theo hướng dẫn của bảo vệ, không dừng đỗ tùy tiện trước cổng nếu đường đông. Đoàn đông nên liên hệ bảo tàng trước để hỏi hướng dẫn đón đoàn, thời gian thuyết minh và vị trí tập trung.
+
+7. Từ các điểm du lịch trong bảng lọc
+
+Từ Biển Hồ T’Nưng, Biển Hồ Chè, Hàng thông trăm tuổi hoặc Chùa Bửu Minh, có thể quay về trung tâm Pleiku rồi ghé bảo tàng trong cùng ngày. Đây là lịch trình hợp lý cho nhóm muốn kết hợp thiên nhiên phía bắc Pleiku với văn hóa - lịch sử đô thị.
+
+Từ Núi lửa Chư Đăng Ya hoặc Núi Chư Nâm, nên ưu tiên về lại trung tâm, nghỉ ngơi, sau đó tham quan bảo tàng nếu còn thời gian. Không nên xếp bảo tàng sau một chuyến trekking quá dài nếu nhóm đã mệt, vì trải nghiệm bảo tàng cần sự tập trung để đọc, nghe thuyết minh và quan sát hiện vật.
+
+Từ Hồ Ayun Hạ, Thác Mơ, Kon Ka Kinh, Kon Chư Răng hoặc K50, đây là các tuyến xa hơn và thường thuộc lịch trình khác ngày. Bảo tàng nên đặt ở đầu hoặc cuối chuyến Gia Lai để cung cấp nền văn hóa trước khi đi thực địa.
+
+8. Phương tiện phù hợp
+
+Đi bộ phù hợp nếu du khách ở quanh trung tâm và Quảng trường Đại Đoàn Kết. Xe máy phù hợp với khách trẻ, nhóm nhỏ, muốn kết hợp nhiều điểm nội đô. Taxi hoặc xe công nghệ phù hợp với gia đình, người lớn tuổi, đoàn có trẻ em hoặc khách đi vào mùa mưa.
+
+Xe du lịch 16-45 chỗ phù hợp với đoàn trường học, cơ quan hoặc nhóm nghiên cứu. Tuy nhiên, đoàn nên liên hệ trước để hỏi quy định đỗ xe, thời gian thuyết minh, lịch mở cửa và khả năng đón đoàn trong ngày có sự kiện.
+
+9. Lưu ý giao thông và tiếp cận
+
+Bảo tàng nằm trong khu vực đô thị, dễ tiếp cận hơn nhiều điểm sinh thái trong bảng như Chư Nâm, Thác Mơ hay Kon Ka Kinh. Tuy vậy, khu vực cạnh quảng trường thường có hoạt động cộng đồng, lễ hội, triển lãm, sự kiện văn hóa, nên lưu lượng người có thể tăng vào cuối tuần, buổi tối hoặc dịp lễ.
+
+Với người lớn tuổi, trẻ em hoặc khách khuyết tật, nên chọn phương tiện dừng gần cổng, hỏi bảo vệ về lối vào thuận tiện và không cố đi bộ quá xa nếu trời nắng. Mùa mưa Pleiku có thể xuất hiện mưa nhanh, nên chuẩn bị ô, áo mưa nhẹ và giày không trơn.
+
+10. Dữ liệu chỉ đường cho chatbot
+
+Câu trả lời ngắn: Bảo tàng tỉnh Gia Lai, hiện thường tra theo tên Bảo tàng Pleiku, nằm tại 21 Trần Hưng Đạo, phường Pleiku, tỉnh Gia Lai, ngay cạnh Quảng trường Đại Đoàn Kết ở trung tâm Pleiku.
+
+Câu trả lời có ngữ cảnh: Nếu bạn đang ở Quảng trường Đại Đoàn Kết thì có thể đi bộ sang bảo tàng. Nếu ở sân bay Pleiku hoặc bến xe, nên gọi taxi/xe công nghệ và nhập điểm đến 'Bảo tàng Pleiku, 21 Trần Hưng Đạo'. Nếu đi đoàn, nên liên hệ trước để hỏi thuyết minh và vị trí dừng xe.
+
+Câu cảnh báo nhầm lẫn: Sau sáp nhập hành chính, tên gọi trên bản đồ và nguồn cũ có thể không thống nhất. Nếu thấy 'Bảo tàng tỉnh Gia Lai' ở Quy Nhơn hoặc địa chỉ khác, cần kiểm tra ngữ cảnh. Bộ dữ liệu này nói về điểm ở Pleiku, cạnh Quảng trường Đại Đoàn Kết.
+
+11. Nguồn tham khảo và ghi chú cập nhật
+
+Ghi chú cập nhật: Dữ liệu được tổng hợp theo các nguồn công khai đã kiểm tra đến năm 2026. Sau sáp nhập, tên gọi hành chính và tên đơn vị có thể thay đổi trên từng hệ thống. Trong bộ dữ liệu này, cụm 'Bảo tàng tỉnh Gia Lai' được hiểu theo ngữ cảnh du lịch Pleiku trong bảng lọc: địa điểm ở số 21 Trần Hưng Đạo, bên cạnh Quảng trường Đại Đoàn Kết; hiện website chính thức đang hiển thị tên Bảo tàng Pleiku. Khi chatbot trả lời thông tin giờ mở cửa, lịch sự kiện, dịch vụ thuyết minh hoặc liên hệ đoàn, nên khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại của bảo tàng.
+
+Bảo tàng Pleiku - website chính thức: https://baotangpleiku.gialai.gov.vn/
+
+Trang liên hệ Bảo tàng Pleiku: https://baotangpleiku.gialai.gov.vn/HX/Contact
+
+Bảo tàng Pleiku - Nội quy tham quan: https://baotangpleiku.gialai.gov.vn/HX/Noi-quy-tham-quan
+
+Báo Gia Lai, 'Gia Lai đổi mới hoạt động bảo tàng', 16/02/2025: https://baogialai.com.vn/gia-lai-doi-moi-hoat-dong-bao-tang-post311474.html
+
+Báo ảnh Việt Nam/VietnamPlus, 'Gần 7.000 hiện vật về vùng đất Tây Nguyên tại Bảo tàng Gia Lai', 26/03/2015: https://www.vietnamplus.vn/gan-7000-hien-vat-ve-vung-dat-tay-nguyen-tai-bao-tang-gia-lai-post314116.vnp
+
+Báo ảnh Việt Nam, 'Thăm Bảo tàng Gia Lai', 21/03/2015: https://vietnam.vnanet.vn/vietnamese/tin-tuc/tham-bao-tang-gia-lai-66822.html
+
+Du lịch Pleiku, 'Bảo tàng Gia Lai - Nơi lưu giữ quá khứ, nhắn gửi tương lai', 28/02/2022: https://dulichpleiku.gialai.gov.vn/Lehoi-sukien/BAO-TANG-GIA-LAI-%E2%80%93-NOI-LUU-GIU-QUA-KHU%2C-NHAN-GUI-T
+
+Bảo tàng Pleiku, 'Sưu tập cồng chiêng ở Bảo tàng tỉnh Gia Lai', 31/05/2023: https://baotangpleiku.gialai.gov.vn/tin-tuc-su-kien/Tin-tong-hop/SUU-TAP-CONG-CHIENG-O-BAO-TANG-TINH-GIA-LAI
+
+Bảo tàng Pleiku, 'Phù điêu Phật Champa Tây Nguyên', 02/08/2023: https://baotangpleiku.gialai.gov.vn/tin-tuc-su-kien/Tin-tong-hop/Phu-dieu-phat-Champa-Tay-Nguyen
+
+Bảo tàng Pleiku, 'Công tác lập sưu tập hiện vật tại Bảo tàng tỉnh Gia Lai', 15/04/2022: https://baotangpleiku.gialai.gov.vn/tin-tuc-su-kien/Tin-tong-hop/CONG-TAC-LAP-SUU-TAP-HIEN-VAT-TAI-BAO-TANG-TINH-GI
+
+Báo Gia Lai, 'Phường Pleiku vận hành thử nghiệm mô hình chính quyền địa phương 2 cấp', 19/06/2025: https://baogialai.com.vn/phuong-pleiku-van-hanh-thu-nghiem-mo-hinh-chinh-quyen-dia-phuong-2-cap-post328813.html
+
+Báo điện tử Chính phủ, Nghị quyết 1664/NQ-UBTVQH15 sắp xếp ĐVHC cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm

@@ -1,0 +1,51 @@
+1. Núi Chư Nâm - Tổng quan
+
+Tài liệu này mô tả Núi Chư Nâm như một địa điểm trekking, cảnh quan núi cao và điểm ngắm toàn cảnh nổi bật của Gia Lai. Nội dung được viết để phục vụ hệ thống RAG, vì vậy ưu tiên các cách gọi khác nhau, phân biệt với các điểm gần đó, bối cảnh hành chính cũ và mới, đặc điểm nhận diện, mức độ phù hợp của du khách và các lưu ý khi trả lời tự động.
+
+Núi Chư Nâm còn có thể được người dùng hỏi bằng các cách như Chư Nâm, đỉnh Chư Nâm, núi Chu Nam, đỉnh Chu Nam, Chư Nâm Gia Lai, núi Chư Nâm Pleiku, trekking Chư Nâm, nóc nhà phía Tây Gia Lai hoặc đỉnh cao 1.472 m gần Chư Đăng Ya.
+
+Theo các nguồn du lịch và báo chí địa phương, Núi Chư Nâm nằm ở khu vực Chư Păh cũ, gần vùng Chư Đăng Ya - Biển Hồ, cách trung tâm Pleiku khoảng 25-30 km tùy điểm xuất phát và cách tính tuyến đường. Đỉnh núi có độ cao khoảng 1.472 m so với mực nước biển, thường được gọi là 'nóc nhà phía Tây' của cao nguyên Gia Lai. Đây là một trong những điểm trekking được nhắc đến nhiều trong vài năm gần đây nhờ địa hình cao, tầm nhìn rộng và cảm giác hoang sơ hơn nhiều điểm check-in phổ biến quanh Pleiku.
+
+Về địa chỉ hành chính, cách ghi cũ thường gặp là núi Chư Nâm thuộc xã Chư Đang Ya, huyện Chư Păh, tỉnh Gia Lai. Sau sắp xếp đơn vị hành chính cấp xã năm 2025, các xã Nghĩa Hưng, Chư Đang Ya, Hà Bầu và Biển Hồ được sắp xếp thành xã Biển Hồ. Vì vậy khi xây dựng dữ liệu chatbot, nên lưu cả hai cách ghi: địa chỉ cũ để khớp với nguồn cũ và thói quen tìm kiếm của du khách, địa chỉ mới để trả lời theo hành chính hiện hành.
+
+Núi Chư Nâm không phải là núi lửa Chư Đăng Ya. Hai địa điểm này nằm gần nhau trong cùng vùng du lịch Biển Hồ - Chư Đăng Ya, nhưng đặc điểm trải nghiệm khác nhau. Chư Đăng Ya thường nổi tiếng với miệng núi lửa cổ, ruộng nương, mùa hoa dã quỳ và hoạt động check-in nhẹ hơn. Chư Nâm lại thiên về trekking núi cao, leo dốc, ngắm toàn cảnh từ độ cao 1.472 m và phù hợp hơn với du khách có sức khỏe tốt.
+
+Khi đứng trên đỉnh Chư Nâm vào ngày quang mây, du khách có thể nhìn ra những mảng cảnh quan rộng của Gia Lai như núi lửa Chư Đăng Ya, Biển Hồ T'Nưng, đập Tân Sơn, vùng làng mạc, đồng ruộng, rừng và thậm chí một phần hướng về Kon Tum. Chính tầm nhìn rộng này làm cho Chư Nâm trở thành điểm săn bình minh, hoàng hôn, ảnh phong cảnh và ảnh trekking được nhiều người yêu thích.
+
+Về tính chất điểm đến, Chư Nâm hiện phù hợp nhất với nhóm du khách thích thiên nhiên, trekking, leo núi, thử thách thể lực, chụp ảnh phong cảnh và tìm trải nghiệm khác với các điểm tham quan đô thị. Đây không phải điểm tham quan đại trà kiểu có cổng vé, khu dịch vụ đầy đủ, đường lát hoàn chỉnh hay biển chỉ dẫn dày đặc. Dữ liệu chatbot cần tránh mô tả Chư Nâm như một khu du lịch hoàn thiện tương tự công viên hoặc thắng cảnh có hạ tầng cố định.
+
+Cảnh quan Chư Nâm thay đổi theo mùa. Mùa khô thường cho tầm nhìn xa, nắng đẹp, đường ít lầy nhưng cũng dễ nắng gắt và có nguy cơ cháy rừng nếu du khách đốt lửa bừa bãi. Mùa mưa có màu xanh đẹp, không khí mát, nhưng đường trơn, bùn đất, cỏ ướt, mây mù và nguy cơ lạc đường hoặc trượt ngã cao hơn. Với dữ liệu hướng dẫn du lịch, nên khuyến nghị du khách kiểm tra thời tiết trước khi đi.
+
+Đối với hệ thống hỏi đáp, nếu người dùng hỏi 'Chư Nâm có gì đẹp', câu trả lời nên nhấn mạnh ba nhóm giá trị chính: độ cao và tầm nhìn toàn cảnh; trải nghiệm trekking qua địa hình dốc, rừng và thảm cỏ; sự kết nối với cụm Biển Hồ - Chư Đăng Ya - đập Tân Sơn. Nếu người dùng hỏi 'đi Chư Nâm có dễ không', câu trả lời nên thận trọng: đây là cung trekking có độ khó, cần thể lực, không nên đi một mình hoặc đi tự phát khi chưa biết đường.
+
+Chư Nâm cũng có giá trị như một điểm mở rộng sản phẩm du lịch sinh thái của Gia Lai. Năm 2025, chính quyền địa phương tổ chức khảo sát thực tế nhằm đánh giá địa hình, giao thông, môi trường sinh thái, đời sống và phong tục của cộng đồng quanh khu vực để định hướng khai thác du lịch. Điều này cho thấy địa điểm có tiềm năng nhưng vẫn cần quản lý để tránh rác thải, cháy rừng, xâm hại cảnh quan và du lịch tự phát thiếu an toàn.
+
+2. Phân biệt để tránh nhầm lẫn
+
+Không nhầm Núi Chư Nâm với Núi lửa Chư Đăng Ya. Chư Đăng Ya là điểm check-in miệng núi lửa cổ nổi tiếng vào mùa hoa dã quỳ, còn Chư Nâm là đỉnh trekking cao 1.472 m gần khu vực đó.
+
+Không nhầm Núi Chư Nâm với Núi Hàm Rồng. Núi Hàm Rồng nằm gần Pleiku hơn và gắn với cảnh quan núi lửa, còn Chư Nâm nằm về khu Chư Păh cũ, nổi bật bởi cung leo núi dài và tầm nhìn về Biển Hồ - Chư Đăng Ya.
+
+Không nhầm Núi Chư Nâm với Biển Hồ T'Nưng hoặc Biển Hồ Chè. Biển Hồ là hồ nước, Biển Hồ Chè là cảnh quan đồi chè và hàng thông; Chư Nâm là điểm leo núi. Các địa điểm này có thể kết hợp trong cùng tuyến, nhưng mỗi nơi cần một bộ dữ liệu riêng.
+
+Không nên ghi rằng Chư Nâm đã là khu du lịch hoàn chỉnh có bảng giá, giờ mở cửa và dịch vụ tiêu chuẩn. Nên mô tả là điểm trekking tự nhiên đang được chú ý và đang được địa phương định hướng phát triển, trong khi dịch vụ thực tế còn phụ thuộc nhóm dẫn đường, tour, thời tiết và quy định quản lý từng thời điểm.
+
+3. Từ khóa và intent cho chatbot
+
+Từ khóa chính: Núi Chư Nâm, đỉnh Chư Nâm, trekking Chư Nâm, leo núi Chư Nâm, Chư Nâm Gia Lai, Chư Nâm Pleiku, nóc nhà phía Tây Gia Lai, 1.472 m, xã Biển Hồ, Chư Đăng Ya, đập Tân Sơn, Biển Hồ, Chư Păh cũ.
+
+Intent thông tin tổng quan: người dùng muốn biết Chư Nâm ở đâu, cao bao nhiêu, có gì đẹp, có phải núi lửa không, có gần Chư Đăng Ya không, có nên đi không, đi mùa nào đẹp, có nguy hiểm không, có phù hợp với người mới trekking không.
+
+Intent phân biệt: người dùng gõ 'Chư Nâm Chư Đăng Ya', 'Núi Chư Nâm với Chư Đăng Ya khác nhau không', 'Chư Nâm có phải Biển Hồ không', 'đỉnh cao nhất gần Pleiku là gì'. Chatbot nên trả lời rõ Chư Nâm là đỉnh trekking, còn Chư Đăng Ya là núi lửa cổ, Biển Hồ là hồ nước và Biển Hồ Chè là đồi chè.
+
+4. Nguồn tham khảo
+
+Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
+
+Báo Gia Lai điện tử: các bài viết về hành trình chinh phục 'nóc nhà phía Tây' Gia Lai, đường đi từ khu vực đập Tân Sơn, thời gian leo, cảnh quan nhìn từ đỉnh, khuyến cáo an toàn và bảo vệ rừng.
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025: thông tin sắp xếp xã Nghĩa Hưng, Chư Đang Ya, Hà Bầu và Biển Hồ thành xã Biển Hồ, tỉnh Gia Lai.
+
+Cổng Du lịch Pleiku/Gia Lai: các tư liệu giới thiệu trải nghiệm trekking Chư Nâm, đặc điểm cung đường và cảnh quan vùng Chư Păh.
+
+Các nguồn báo chí địa phương năm 2025-2026: thông tin cảnh báo lạc đường, kiểm tra hiện trạng xâm hại cảnh quan và khuyến nghị không đi tự phát khi chưa nắm địa hình.

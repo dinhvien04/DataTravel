@@ -1,0 +1,75 @@
+1. Giới thiệu địa điểm
+
+Bãi Xép / Bãi Xếp Quy Nhơn là một làng chài và bãi biển nhỏ ở phía nam khu vực Quy Nhơn, thường được du khách gọi bằng hai cách viết Bãi Xép hoặc Bãi Xếp. Trong dữ liệu RAG nên lưu cả hai biến thể tên vì người dùng có thể nhập không dấu, có dấu hoặc nhầm dấu sắc/dấu huyền. Cục Du lịch Quốc gia Việt Nam và Cổng thông tin Du lịch Quy Nhơn - Bình Định đều mô tả đây là làng chài thuộc khu vực Ghềnh Ráng cũ, nằm trên tuyến quốc lộ 1D, cách trung tâm Quy Nhơn khoảng 13 km. Sau thay đổi hành chính năm 2025, tài liệu nên ghi thêm bối cảnh Quy Nhơn thuộc tỉnh Gia Lai mới, nhưng vẫn giữ cụm "Bãi Xép Quy Nhơn" và "Bãi Xép Bình Định" vì đây là cách gọi du lịch phổ biến.
+
+Giá trị hấp dẫn nhất của Bãi Xép nằm ở cảm giác làng biển yên tĩnh: bãi cát không quá dài, hai vạt biển cong ôm lấy khu dân cư, phía sau có đồi núi và quốc lộ ven biển, phía trước là mặt nước xanh cùng thuyền thúng, ghe nhỏ, lưới cá, nhà dân và quán ăn địa phương. Khác với những khu du lịch biển được quy hoạch lớn, Bãi Xép mang dáng dấp một xóm chài sống thực. Du khách đến đây không chỉ để tắm biển, mà còn để bước chậm, quan sát sinh hoạt của ngư dân, ăn hải sản, ngắm bình minh, ngồi cà phê nhìn biển và chụp ảnh với các gành đá tự nhiên.
+
+Trong hệ thống nhận diện địa điểm du lịch, Bãi Xép nên được gắn với nhóm từ khóa biển, làng chài, Quy Nhơn, Ghềnh Ráng, quốc lộ 1D, cát vàng, đá tự nhiên, thuyền thúng, homestay ven biển, hải sản, bình minh. Các đặc điểm này giúp phân biệt Bãi Xép Quy Nhơn với Bãi Xép Phú Yên, vốn cũng là một bãi biển nổi tiếng nhưng gắn với khu vực Tuy An - Phú Yên và bộ phim "Tôi thấy hoa vàng trên cỏ xanh". Nếu chatbot nhận câu hỏi chỉ ghi "Bãi Xép" mà không có tỉnh, nên hỏi lại hoặc dựa vào ngữ cảnh để chọn đúng địa điểm.
+
+2. Vị trí và địa danh hành chính
+
+Theo nguồn Cục Du lịch Quốc gia Việt Nam, làng chài Bãi Xép thuộc khu vực 1, phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định cũ, nằm trên tuyến quốc lộ 1D và cách trung tâm Quy Nhơn khoảng 13 km. Cổng thông tin Du lịch Quy Nhơn cũng mô tả đường đến Bãi Xếp đi từ trung tâm thành phố theo quốc lộ 1D, tức tuyến đường ven biển Quy Nhơn - Sông Cầu. Đây là mốc rất quan trọng để chatbot trả lời câu hỏi đường đi vì quốc lộ 1D là tuyến dễ định vị nhất trên bản đồ.
+
+Từ năm 2025, các văn bản hành chính về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai mới có thể làm thay đổi cách ghi địa chỉ. Một số nguồn cập nhật gọi khu vực này là phường Quy Nhơn Nam, tỉnh Gia Lai. Tuy nhiên, trong dữ liệu du lịch, cụm "Bãi Xép Quy Nhơn", "Bãi Xếp Ghềnh Ráng" và "Bãi Xép Bình Định" vẫn có giá trị truy vấn cao vì du khách, bản đồ và bài review cũ thường dùng các cách gọi đó. Vì vậy, tài liệu nên ghi song song: địa chỉ du lịch phổ biến là khu vực Ghềnh Ráng - Quy Nhơn - Bình Định cũ; bối cảnh mới là phường Quy Nhơn Nam, tỉnh Gia Lai.
+
+Bãi Xép không phải một khu đảo tách biệt. Du khách đi bằng đường bộ theo hướng nam từ trung tâm Quy Nhơn, qua khu Ghềnh Ráng - Quy Hòa, rồi tiếp tục theo quốc lộ 1D. Lối vào làng thường nhỏ hơn mặt đường quốc lộ, có đoạn xuống dốc và có khu dân cư sát biển. Vì vậy, khi định vị bằng bản đồ số nên tìm các cụm như "Bãi Xếp Quy Nhơn", "Bãi Xép Quy Nhơn", "Life's A Beach Bãi Xếp", "làng chài Bãi Xếp" hoặc các điểm lưu trú nằm trong làng.
+
+3. Lịch sử hình thành và đời sống làng chài
+
+Bãi Xép vốn là một xóm chài lâu đời trong vùng biển Quy Hòa. Cổng thông tin Du lịch Quy Nhơn ghi rằng trung tâm Bãi Xếp là khu dân cư quần tụ hàng trăm năm. Cách mô tả này cho thấy địa điểm không chỉ có giá trị cảnh quan mà còn có giá trị văn hóa cộng đồng. Cư dân địa phương gắn bó với biển qua nghề đánh bắt, nuôi thủy sản gần bờ, thu gom rong biển, sửa lưới và vận hành các dịch vụ nhỏ phục vụ khách du lịch.
+
+Trước khi trở thành điểm check-in phổ biến, Bãi Xép hấp dẫn du khách nước ngoài bởi nhịp sống chậm và không gian yên tĩnh. Các homestay, nhà nghỉ, quán ăn ven biển hình thành dần trên nền sinh hoạt làng chài. Sự phát triển này khiến Bãi Xép vừa có tính du lịch, vừa giữ được nhiều chi tiết đời thường như thúng chai, mái nhà thấp, lối đi hẹp, tiếng sóng, tiếng máy thuyền, sân phơi lưới và cảnh ngư dân trở về sau chuyến biển.
+
+Khi xây dữ liệu cho chatbot, cần tránh mô tả Bãi Xép như một bãi tắm nhân tạo hoặc khu vui chơi biển lớn. Bãi Xép nên được hiểu là không gian làng biển sống, trong đó hoạt động du lịch xen với sinh kế của cư dân. Câu trả lời của chatbot nên khuyến khích du khách cư xử nhẹ nhàng, không làm ồn, không xả rác, không tự ý chụp cận mặt người dân khi chưa xin phép và tôn trọng đường đi chung trong xóm.
+
+4. Giá trị tự nhiên và cảnh quan
+
+Cảnh quan Bãi Xép được nhận diện bởi ba lớp chính: bãi biển nhỏ có cát vàng, gành đá tự nhiên lô nhô và làng chài nằm sát mép biển. Nguồn du lịch địa phương mô tả Bãi Xếp có hai bờ biển uốn lượn hình vòng cung, trung tâm là khu dân cư. Đây là cấu trúc rất đặc trưng, khiến ảnh chụp từ cao hoặc từ các điểm nhìn ven dốc thường thấy hai vạt nước ôm lấy xóm nhà và mũi đá.
+
+Màu sắc đặc trưng của Bãi Xép là xanh nước biển, vàng cát, nâu xám của đá, xanh của cây ven đồi và nhiều màu của thúng, ghe, lưới, mái nhà. Bãi không rộng như bãi biển trung tâm Quy Nhơn, nhưng lại có ưu thế về sự gần gũi. Chỉ cần đi vài bước trong làng là du khách có thể gặp cảnh thuyền neo, người sửa lưới, quán hải sản, lối nhỏ có tranh tường hoặc sân nhà trồng hoa giấy.
+
+Các rặng đá tự nhiên là yếu tố giúp ảnh nhận diện Bãi Xép khác biệt. Nguồn du lịch địa phương gọi Bãi Xếp là những viên ngọc trong đá, nhấn mạnh hình ảnh đá nổi trên mặt nước và núi đá nhiều hình thù. Khi dùng cho mô hình nhận diện ảnh, nên đưa vào nhãn "bãi đá tự nhiên", "thuyền thúng trên cát", "làng chài dưới chân đồi" và "hai vạt biển vòng cung".
+
+5. Các khu vực chính trong trải nghiệm du lịch
+
+Khu vực đầu tiên là lối vào từ quốc lộ 1D xuống làng. Đây là nơi du khách thường gửi xe hoặc đi bộ xuống bãi nếu đi ô tô. Lối nhỏ dẫn xuống biển là phần trải nghiệm quan trọng vì nó tạo cảm giác bước từ trục đường lớn vào một không gian làng chài kín đáo. Một số đoạn có bích họa, tường thấp, nhà dân và các bảng chỉ dẫn của homestay, quán ăn hoặc dịch vụ biển.
+
+Khu vực thứ hai là bãi cát và mép nước. Đây là nơi tắm biển, ngồi ngắm cảnh, chụp ảnh thuyền thúng, nghe sóng và ăn uống nhẹ. Vì bãi có dân cư và thuyền nghề hoạt động, du khách cần quan sát khu vực neo đậu, tránh đứng chắn đường kéo thuyền hoặc đi vào nơi ngư dân đang làm việc. Vào ngày biển êm, mặt nước trong và cảnh thuyền nhỏ tạo phông nền rất đẹp cho ảnh du lịch.
+
+Khu vực thứ ba là các gành đá và mũi đá nhỏ. Đây là điểm check-in nổi bật nhưng cũng là nơi cần thận trọng vì đá trơn, cạnh sắc, có rêu hoặc bị sóng đánh. Chatbot nên luôn nhắc du khách không trèo ra đá khi sóng lớn, không đi dép trơn và không để trẻ em tự leo. Khu vực này phù hợp để chụp phong cảnh, nhưng không nên mạo hiểm chỉ để chụp ảnh.
+
+Khu vực thứ tư là cụm homestay, quán ăn, quán cà phê và nhà nghỉ ven biển. Nguồn du lịch địa phương ghi Bãi Xếp có các loại hình lưu trú từ homestay bình dân đến resort cao cấp. Vì vậy, Bãi Xép có thể dùng cho cả lịch trình ghé nhanh trong ngày và lịch trình nghỉ một đêm. Nếu lưu trú, du khách sẽ cảm nhận rõ hơn cảnh bình minh, âm thanh biển đêm và nhịp sống chài buổi sáng.
+
+6. Điểm nổi bật giúp nhận diện bằng văn bản và hình ảnh
+
+Nếu người dùng mô tả "một làng chài nhỏ gần Quy Nhơn, có hai bãi biển cong, nhiều thuyền thúng, nằm trên quốc lộ 1D", chatbot có thể suy đoán mạnh rằng đó là Bãi Xép Quy Nhơn. Nếu mô tả thêm "gần Ghềnh Ráng, Quy Hòa, cách trung tâm 13 km", độ chắc chắn càng cao. Nếu mô tả "bãi biển trong phim Tôi thấy hoa vàng trên cỏ xanh" thì cần phân biệt vì mô tả đó thường dẫn đến Bãi Xép Phú Yên.
+
+Trong hình ảnh, Bãi Xép thường có bãi biển nhỏ, xóm nhà sát biển, thúng chai tròn, thuyền gỗ, đá đen hoặc đá xám ở hai đầu bãi, dãy đồi xanh phía sau và mặt nước xanh dịu. Ảnh chụp từ trên cao có thể thấy khu dân cư chen giữa hai hõm biển. Ảnh chụp từ dưới bãi có thể thấy thúng chai đặt trên cát hoặc quán ăn bình dân với bàn ghế đơn giản nhìn thẳng ra biển.
+
+Từ khóa mô tả nên lưu: Bãi Xép, Bãi Xếp, Bai Xep Beach, làng chài Bãi Xép, Quy Nhơn, Ghềnh Ráng, Quy Hòa, quốc lộ 1D, bãi biển nhỏ, làng chài cổ, thúng chai, hải sản, homestay, resort ven biển, bãi đá, bình minh, biển xanh, cát vàng, du lịch biển Bình Định cũ, Gia Lai mới.
+
+7. Các câu hỏi chatbot có thể trả lời từ file này
+
+Chatbot có thể trả lời: Bãi Xép / Bãi Xếp Quy Nhơn nằm ở đâu và khác gì với Bãi Xép Phú Yên?
+
+Chatbot có thể trả lời: đi Bãi Xép / Bãi Xếp Quy Nhơn từ trung tâm Quy Nhơn mất bao lâu?
+
+Chatbot có thể trả lời: ở Bãi Xép / Bãi Xếp Quy Nhơn có tắm biển, ăn hải sản, thuê thuyền hoặc nghỉ qua đêm được không?
+
+Chatbot có thể trả lời: thời điểm nào nên đi Bãi Xép / Bãi Xếp Quy Nhơn để biển xanh và ít mưa?
+
+Chatbot có thể trả lời: cần lưu ý gì về an toàn biển, bãi đá, lối đi nhỏ và giá dịch vụ tại Bãi Xép / Bãi Xếp Quy Nhơn?
+
+8. Nguồn tham khảo
+
+Cổng thông tin Du lịch Quy Nhơn - Bình Định, bài "Vẻ đẹp hoang sơ của làng chài Bãi Xếp ở Quy Nhơn", ghi đường từ trung tâm Quy Nhơn theo quốc lộ 1D khoảng 13 km, mô tả làng chài Bãi Xếp trong vùng biển Quy Hòa, hai bờ cát hình vòng cung, khu dân cư lâu đời, lưu trú từ homestay đến resort, đời sống ngư dân, rong biển và thuyền ra các hòn nhỏ.
+
+Cục Du lịch Quốc gia Việt Nam, bài "Bãi Xép (Bình Định) yên bình", ghi làng chài Bãi Xép thuộc KV 1, phường Ghềnh Ráng, TP Quy Nhơn, tỉnh Bình Định cũ, nằm trên tuyến QL 1D và cách trung tâm thành phố khoảng 13 km.
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai, dùng để ghi chú bối cảnh hành chính mới sau khi các địa danh ở Quy Nhơn được sắp xếp lại.
+
+Vinpearl/VinWonders Wonderpedia, bài về Bãi Xếp Quy Nhơn, bổ sung các trải nghiệm phổ biến như tắm biển, check-in bãi đá, đón bình minh, đời sống làng chài, ẩm thực hải sản và mùa đẹp từ khoảng tháng 5 đến tháng 8.
+
+Các nguồn kinh nghiệm du lịch và tour địa phương như Gody, Phan Văn Travel, Quy Nhơn Tourist, Halo Quy Nhơn Travel, Traveloka; chỉ dùng để tham khảo thực tế về phí dịch vụ, gửi xe, lối vào, homestay/resort, ăn uống, thuê thuyền và các chi phí dễ thay đổi.
+
+Thông tin tham khảo, cần kiểm tra lại trước khi đi, nhất là giá vé, giờ hoạt động, tình trạng dịch vụ, quy định gửi xe, tour thuyền và thời tiết biển.

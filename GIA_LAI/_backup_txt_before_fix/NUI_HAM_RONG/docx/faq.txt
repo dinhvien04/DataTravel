@@ -1,0 +1,101 @@
+1. faq.docx - Núi Hàm Rồng
+
+2. Mục tiêu dữ liệu FAQ
+
+Tài liệu này cung cấp các cặp hỏi đáp cho chatbot du lịch về Núi Hàm Rồng. Các câu hỏi được viết theo nhiều biến thể ngôn ngữ để hỗ trợ truy xuất RAG và nhận diện ý định người dùng. Câu trả lời ưu tiên sự an toàn dữ liệu, phân biệt địa điểm và ghi chú khi thông tin có thể thay đổi.
+
+3. Núi Hàm Rồng là gì?
+
+Núi Hàm Rồng là một ngọn núi lửa đã tắt ở khu vực phía nam Pleiku, tỉnh Gia Lai. Địa điểm này thường được mô tả là miệng núi lửa dương, cao khoảng 1.028 m và được gọi là “nóc nhà Pleiku”. Đây là điểm ngắm cảnh, chụp ảnh và khám phá không gian sinh thái ngoại ô phố núi.
+
+4. Núi Hàm Rồng ở đâu?
+
+Núi Hàm Rồng nằm ở khu vực phía nam Pleiku, tỉnh Gia Lai, thường được ghi cách trung tâm Pleiku khoảng 11 km. Một số nguồn cũ có thể ghi theo xã Chư HDrông hoặc không gian TP. Pleiku cũ. Sau sắp xếp hành chính năm 2025, khi cần ghi phường/xã cụ thể, nên kiểm tra bản đồ hành chính mới tại thời điểm sử dụng.
+
+5. Núi Hàm Rồng có tên gọi khác không?
+
+Có. Một số cách gọi hoặc biến thể thường gặp gồm Hàm Rồng Gia Lai, núi Hàm Rồng Pleiku, Chư HDrông, Chư Hơ Đông, Chư Hơ Drông và Hòn Rồng. Khi người dùng hỏi Chư HDrông ở Pleiku, hệ thống có thể kiểm tra ngữ cảnh để liên kết với Núi Hàm Rồng.
+
+6. Núi Hàm Rồng cao bao nhiêu?
+
+Các nguồn địa phương và Cục Du lịch Quốc gia Việt Nam thường ghi Núi Hàm Rồng cao khoảng 1.028 m so với mực nước biển. Vì vậy địa điểm này được gọi là nóc nhà của phố núi Pleiku.
+
+7. Núi Hàm Rồng cách trung tâm Pleiku bao xa?
+
+Núi Hàm Rồng thường được ghi cách trung tâm Pleiku khoảng 11 km về phía nam. Thời gian di chuyển khoảng 20-35 phút tùy điểm xuất phát, phương tiện, thời tiết và tình trạng đường.
+
+8. Núi Hàm Rồng có phải núi lửa không?
+
+Có. Núi Hàm Rồng là dấu tích núi lửa đã tắt, thường được mô tả là miệng núi lửa dương. Đây là một phần trong cảnh quan núi lửa của cao nguyên Pleiku.
+
+9. Núi Hàm Rồng khác gì Biển Hồ T’Nưng?
+
+Núi Hàm Rồng là miệng núi lửa dương nổi lên phía nam Pleiku, còn Biển Hồ T’Nưng là miệng núi lửa âm dạng trũng chứa nước ở phía bắc Pleiku. Hai địa điểm này thường được nhắc như cặp cảnh quan núi lửa âm - dương của Pleiku.
+
+10. Núi Hàm Rồng có phải Chư Đăng Ya không?
+
+Không. Núi Hàm Rồng và Chư Đăng Ya là hai địa điểm khác nhau. Hàm Rồng gần trung tâm Pleiku hơn, thường cách khoảng 11 km về phía nam và được gọi là nóc nhà Pleiku. Chư Đăng Ya là núi lửa nổi tiếng ở hướng Chư Păh/xã Biển Hồ mới, nổi bật với ruộng mùa vụ và mùa hoa dã quỳ.
+
+11. Núi Hàm Rồng có phải Núi Chư Nâm không?
+
+Không. Núi Chư Nâm là điểm trekking cao hơn và thường được nhắc với độ cao 1.472 m. Núi Hàm Rồng cao khoảng 1.028 m, gần Pleiku hơn và thiên về ngắm cảnh, chụp ảnh, du lịch sinh thái ngoại ô.
+
+12. Núi Hàm Rồng có gì chơi?
+
+Các trải nghiệm chính gồm ngắm toàn cảnh Pleiku, chụp ảnh núi lửa cổ, cảm nhận rừng thông và vườn cà phê dưới chân núi, chụp hoa dã quỳ vào mùa, đi dạo ngoại ô và tìm hiểu các câu chuyện địa phương như làng Ngol Tả hoặc làng Prông Thoong nếu có người địa phương hướng dẫn.
+
+13. Nên đi Núi Hàm Rồng mùa nào?
+
+Mùa khô thường thuận lợi cho di chuyển và ngắm cảnh. Khoảng tháng 10-12 thường được nhắc đến vì hoa dã quỳ nở dưới chân núi. Tuy nhiên, hoa phụ thuộc thời tiết từng năm, nên nên kiểm tra ảnh hoặc thông tin mới trước khi đi.
+
+14. Nên đi Núi Hàm Rồng lúc mấy giờ?
+
+Sáng sớm và chiều muộn là hai thời điểm đẹp hơn để chụp ảnh và ngắm cảnh. Sáng sớm có thể có sương và không khí mát; chiều muộn ánh sáng dịu. Không nên đi quá muộn nếu không rõ đường.
+
+15. Núi Hàm Rồng có mất vé không?
+
+Chưa nên trả lời chắc chắn rằng toàn bộ Núi Hàm Rồng có vé hoặc miễn phí, vì đây là địa danh tự nhiên với nhiều điểm tiếp cận. Có nơi có thể không thu vé, nhưng các dịch vụ như gửi xe, quán, điểm check-in, hướng dẫn hoặc điểm tư nhân có thể phát sinh chi phí. Nên kiểm tra trước khi đi.
+
+16. Đi Núi Hàm Rồng bằng phương tiện gì?
+
+Có thể đi xe máy, ô tô cá nhân, taxi hoặc xe thuê từ Pleiku. Xe máy linh hoạt nhưng cần chú ý đường dốc và thời tiết. Ô tô hoặc taxi phù hợp với gia đình, nhóm đông hoặc người không quen đường.
+
+17. Có nên đi Núi Hàm Rồng với trẻ em không?
+
+Có thể đi nếu chỉ dừng ở các điểm dễ tiếp cận và không đi sâu vào đường dốc, đường đất. Nên đi sáng hoặc chiều mát, mang nước, mũ, đồ ăn nhẹ và tránh ở lại khi trời tối.
+
+18. Núi Hàm Rồng có phù hợp trekking không?
+
+Núi Hàm Rồng phù hợp đi dạo, ngắm cảnh và khám phá nhẹ hơn là trekking nặng. Nếu muốn trekking nhiều giờ, người dùng có thể cân nhắc Núi Chư Nâm hoặc các tuyến rừng khác, nhưng cần chuẩn bị kỹ.
+
+19. Núi Hàm Rồng có hoa dã quỳ không?
+
+Có. Báo Gia Lai ghi khoảng tháng 10-12 hằng năm, dưới chân Núi Hàm Rồng rực rỡ sắc vàng hoa dã quỳ. Đây là thời điểm được nhiều người chọn để chụp ảnh. Tuy nhiên, mức độ hoa đẹp phụ thuộc thời tiết từng năm.
+
+20. Có thể kết hợp Núi Hàm Rồng với điểm nào?
+
+Có thể kết hợp với Biển Hồ T’Nưng, Biển Hồ Chè, Hàng thông trăm tuổi, Chùa Bửu Minh, Chư Đăng Ya, Quảng trường Đại Đoàn Kết hoặc Bảo tàng tỉnh Gia Lai. Nếu đi trong một ngày, nên tối ưu tuyến vì các điểm nằm ở các hướng khác nhau quanh Pleiku.
+
+21. Núi Hàm Rồng có nguy hiểm không?
+
+Nếu chỉ tham quan các điểm dễ tiếp cận thì không quá khó, nhưng vẫn cần chú ý an toàn đường dốc, đường đất, mưa trơn, thiếu ánh sáng khi trời tối và nguy cơ đi nhầm lối. Không nên đi một mình vào khu vắng hoặc đường phụ khi không rõ đường.
+
+22. Câu trả lời ngắn nhất cho chatbot
+
+Núi Hàm Rồng là núi lửa đã tắt ở phía nam Pleiku, Gia Lai, cách trung tâm khoảng 11 km, cao khoảng 1.028 m và được gọi là nóc nhà Pleiku. Đây là điểm ngắm cảnh, chụp ảnh, khám phá sinh thái ngoại ô và nổi bật vào mùa hoa dã quỳ khoảng tháng 10-12.
+
+23. Nguồn tham khảo và ghi chú kiểm chứng
+
+Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
+
+Cục Du lịch Quốc gia Việt Nam - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://vietnamtourism.gov.vn/post/61858
+
+Báo Gia Lai - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://baogialai.com.vn/kham-pha-du-lich-sinh-thai-duoi-chan-nui-ham-rong-post314298.html
+
+Báo Nhân Dân - Những miệng núi lửa thu hút khách du lịch ở Gia Lai: https://nhandan.vn/nhung-mieng-nui-lua-thu-hut-khach-du-lich-o-gia-lai-post831743.html
+
+Trang thông tin phường Hội Phú, Gia Lai - Tổng quan về phường Hội Phú: https://hoiphu.gialai.gov.vn/trang-chu/tong-quan-ve-phuong-hoi-phu
+
+Báo điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+
+DulichPleiku Gia Lai - thông tin tuyến điểm Hàm Rồng, Chư Hdrông và các điểm ngoại ô Pleiku: https://dulichpleiku.gialai.gov.vn/

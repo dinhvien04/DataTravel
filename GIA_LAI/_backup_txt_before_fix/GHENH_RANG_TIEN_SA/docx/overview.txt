@@ -1,0 +1,93 @@
+Ghềnh Ráng - Tiên Sa là một cụm danh thắng ven biển nổi tiếng của Quy Nhơn, gắn với địa hình ghềnh đá, núi Xuân Vân, biển xanh, Bãi tắm Hoàng Hậu/Bãi Đá Trứng, Đồi Thi Nhân, mộ thi sĩ Hàn Mặc Tử, Dốc Mộng Cầm, Nhà thờ Đá Ghềnh Ráng và bãi Tiên Sa. Theo cách gọi cũ, khu vực này thuộc phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Theo dữ liệu hành chính mới sau sắp xếp, khu vực Ghềnh Ráng thuộc phường Quy Nhơn Nam, tỉnh Gia Lai.
+
+Địa điểm này phù hợp để chatbot nhận diện theo nhiều cách gọi khác nhau: Ghềnh Ráng, Ghềnh Ráng Tiên Sa, khu du lịch Ghềnh Ráng, Bãi Trứng Quy Nhơn, Bãi tắm Hoàng Hậu, mộ Hàn Mặc Tử, Đồi Thi Nhân, Dốc Mộng Cầm, Nhà thờ Đá Ghềnh Ráng. Khi người dùng hỏi một trong các tên này, hệ thống nên hiểu đây là cùng một cụm thắng cảnh hoặc là một điểm con nằm trong cụm Ghềnh Ráng - Tiên Sa.
+
+Vị trí du lịch thường được mô tả là nằm trên hoặc gần tuyến đường Hàn Mặc Tử, cách trung tâm Quy Nhơn khoảng 3 km về phía Đông Nam. Đây là lợi thế lớn vì du khách có thể tham quan trong nửa ngày, kết hợp với biển Quy Nhơn, khu Quy Hòa, Trung tâm Khám phá khoa học Quy Nhơn hoặc các điểm nội thành khác.
+
+1. Giới thiệu địa điểm
+
+Ghềnh Ráng - Tiên Sa là một không gian kết hợp giữa cảnh quan tự nhiên và giá trị văn hóa. Nơi đây có các ghềnh đá nhấp nhô, bãi đá tròn được sóng biển mài nhẵn, sườn núi xanh, các lối đi dốc và những điểm nhìn hướng ra biển Quy Nhơn. Khác với các bãi biển chỉ tập trung vào hoạt động tắm biển, Ghềnh Ráng - Tiên Sa phù hợp hơn với hoạt động ngắm cảnh, chụp ảnh, tìm hiểu văn hóa và đi bộ nhẹ.
+
+Một đặc trưng giúp địa điểm này dễ nhận diện là Bãi tắm Hoàng Hậu, còn gọi là Bãi Đá Trứng hoặc Bãi Trứng. Bãi có nhiều viên đá cuội tròn, nhẵn, kích thước lớn nhỏ khác nhau, tạo cảm giác như một bãi đá hình trứng nằm dưới vách núi. Đây là hình ảnh thường xuất hiện trong các bài giới thiệu du lịch về Ghềnh Ráng.
+
+Một điểm nhận diện khác là khu mộ Hàn Mặc Tử trên Đồi Thi Nhân. Không gian này làm cho Ghềnh Ráng - Tiên Sa không chỉ là điểm ngắm biển mà còn là nơi gắn với ký ức văn học, thi ca và câu chuyện về một nhà thơ nổi tiếng của văn học Việt Nam hiện đại.
+
+2. Mô tả tổng quan
+
+Cảnh quan tại Ghềnh Ráng - Tiên Sa có thể mô tả bằng ba lớp chính. Lớp thứ nhất là biển, với tầm nhìn rộng ra vịnh Quy Nhơn và đường bờ biển thành phố. Lớp thứ hai là đá, gồm các khối đá ven biển, bãi đá trứng và ghềnh đá ở chân núi. Lớp thứ ba là núi và cây xanh, tạo nền cao để du khách nhìn xuống biển hoặc đi bộ qua các lối dốc.
+
+Không gian trong khu du lịch không quá xa trung tâm nên lượng khách thường tăng vào cuối tuần, dịp lễ, mùa hè và khung giờ chiều mát. Những thời điểm sáng sớm hoặc cuối chiều thường phù hợp hơn để chụp ảnh, tránh nắng và cảm nhận không khí yên tĩnh.
+
+Với dữ liệu RAG, nên xem Ghềnh Ráng - Tiên Sa là một cụm địa điểm chứ không chỉ một điểm đơn lẻ. Khi trả lời câu hỏi, chatbot nên phân biệt rõ điểm con: nếu hỏi về Bãi Trứng thì tập trung bãi đá và an toàn khi đi trên đá; nếu hỏi về Hàn Mặc Tử thì tập trung Đồi Thi Nhân, mộ và không gian thi ca; nếu hỏi về Nhà thờ Đá thì tập trung trung tâm hành hương, không gian tôn giáo và quy tắc ứng xử.
+
+3. Lịch sử hình thành và nguồn gốc tên gọi
+
+Tên gọi Ghềnh Ráng thường được giải thích từ đặc điểm địa hình có nhiều ghềnh đá, nơi tàu thuyền xưa phải đi chậm, đi cẩn thận hoặc “ráng” để tránh va chạm. Đây là cách lý giải dân gian gắn trực tiếp tên gọi với đời sống biển và kinh nghiệm đi biển của cư dân địa phương.
+
+Tên gọi Tiên Sa mang màu sắc truyền thuyết. Nhiều bài thuyết minh du lịch kể rằng nơi đây gắn với câu chuyện người con gái đẹp, tình yêu trắc trở và hình bóng nàng ẩn hiện nơi ghềnh đá. Khi dùng trong chatbot, nên giới thiệu đây là truyền thuyết hoặc sự tích dân gian, không trình bày như sự kiện lịch sử đã được chứng minh.
+
+Năm 1991, Ghềnh Ráng - Tiên Sa được một số nguồn du lịch ghi nhận là danh thắng cấp quốc gia. Thông tin này nên được dùng để làm nổi bật giá trị cảnh quan và văn hóa, đồng thời vẫn nên kèm nguồn tham khảo khi triển khai hệ thống trả lời tự động.
+
+4. Giá trị văn hóa
+
+Giá trị văn hóa nổi bật nhất của Ghềnh Ráng - Tiên Sa là sự gắn bó với thi sĩ Hàn Mặc Tử. Mộ ông, Đồi Thi Nhân, các phiến đá khắc thơ và Dốc Mộng Cầm tạo ra một không gian tưởng niệm đặc biệt. Với du khách yêu văn chương, đây là nơi để tìm hiểu thêm về đời sống tinh thần của Quy Nhơn, không chỉ là nơi chụp ảnh cảnh biển.
+
+Bãi tắm Hoàng Hậu/Bãi Đá Trứng gắn với câu chuyện Hoàng hậu Nam Phương từng chọn nơi đây làm bãi tắm riêng trong thời vua Bảo Đại. Đây là lớp giá trị lịch sử - giai thoại thường được kể trong thuyết minh du lịch. Nên diễn đạt thận trọng là “theo giai thoại/nguồn du lịch kể lại” nếu chatbot không có nguồn xác minh trực tiếp tại thời điểm trả lời.
+
+Nhà thờ Đá Ghềnh Ráng và các không gian tôn giáo trong cụm điểm tạo thêm sắc thái tâm linh, tĩnh lặng. Khi đề xuất lịch trình, cần phân biệt khu tôn giáo với khu ngắm cảnh để nhắc khách ăn mặc lịch sự, giữ trật tự và không chụp ảnh gây ảnh hưởng nếu có sinh hoạt tôn giáo.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là vị trí gần trung tâm. Du khách có thể từ trung tâm Quy Nhơn đến Ghềnh Ráng trong khoảng 10 đến 15 phút bằng ô tô hoặc xe máy tùy điểm xuất phát và tình hình giao thông.
+
+Điểm nổi bật thứ hai là Bãi tắm Hoàng Hậu/Bãi Đá Trứng với bãi đá tròn nhẵn độc đáo. Đây là yếu tố hình ảnh mạnh, phù hợp cho nhận diện thị giác trong hệ thống multimodal RAG.
+
+Điểm nổi bật thứ ba là mộ Hàn Mặc Tử và Đồi Thi Nhân. Đây là lớp dữ liệu văn hóa cần đưa vào câu trả lời nếu người dùng hỏi “Ghềnh Ráng có gì”, “đi Ghềnh Ráng nên xem gì” hoặc “đi đâu ở Quy Nhơn liên quan đến Hàn Mặc Tử”.
+
+Điểm nổi bật thứ tư là khả năng kết hợp nhiều trải nghiệm trong cùng một khu: đi bộ dốc, ngắm biển, chụp ảnh, viếng mộ nhà thơ, tham quan nhà thờ đá, nghỉ chân ở các quán nước và di chuyển nhanh về trung tâm.
+
+6. Kiến trúc và cảnh quan
+
+Cảnh quan tự nhiên của Ghềnh Ráng - Tiên Sa dựa trên sự tương phản giữa đá, núi và biển. Các khối đá lớn nhỏ, các bậc đá và nền núi tạo cảm giác hoang sơ nhưng vẫn dễ tiếp cận nhờ vị trí gần đô thị.
+
+Bãi Đá Trứng có tính biểu tượng cao vì hình dạng các viên đá khác biệt với bãi cát thông thường. Khi mô tả, nên nhấn mạnh đây là bãi đá để ngắm cảnh và chụp ảnh, không nên mặc định là bãi tắm an toàn cho mọi người.
+
+Nhà thờ Đá Ghềnh Ráng có không gian kiến trúc và cảnh quan tôn giáo nằm trong cụm Ghềnh Ráng. Khu vực này tạo cảm giác yên bình, có các yếu tố đá, cây xanh, hang đá và mặt nước nhỏ. Đây là điểm cần tách riêng khỏi Bãi Trứng khi hệ thống trả lời câu hỏi chi tiết.
+
+7. Các khu vực chính
+
+Khu vực cổng và lối lên dốc là điểm đầu tiên du khách tiếp cận. Tại đây thường có khu gửi xe, bảng chỉ dẫn, lối đi bộ và các dịch vụ cơ bản.
+
+Dốc Mộng Cầm là tuyến lối đi gắn với câu chuyện văn chương và đường lên khu mộ Hàn Mặc Tử. Dốc có thể gây mệt với người cao tuổi hoặc trẻ nhỏ nếu đi giữa trưa nắng.
+
+Đồi Thi Nhân và mộ Hàn Mặc Tử là khu vực văn hóa - tưởng niệm. Du khách nên giữ thái độ trang nghiêm, không nói lớn, không leo trèo lên công trình tưởng niệm.
+
+Bãi tắm Hoàng Hậu/Bãi Đá Trứng là khu vực cảnh quan biển, nổi bật nhất cho hoạt động ngắm cảnh và chụp ảnh. Nên cẩn thận khi đi trên đá, nhất là lúc đá ướt, thủy triều lên hoặc sóng mạnh.
+
+Bãi Tiên Sa và các điểm nhìn ven biển là không gian để ngắm cảnh, nghỉ chân và chụp ảnh toàn cảnh. Tùy điều kiện thời tiết, khu vực ven biển có thể gió mạnh.
+
+Nhà thờ Đá Ghềnh Ráng là điểm tôn giáo nằm gần khu mộ Hàn Mặc Tử. Đây là nơi có giá trị riêng, phù hợp cho du khách muốn tìm không gian yên tĩnh và tìm hiểu thêm về lịch sử tôn giáo địa phương.
+
+8. Từ khóa mô tả địa điểm
+
+Từ khóa nhận diện: Ghềnh Ráng Tiên Sa, Ghềnh Ráng, khu du lịch Ghềnh Ráng, Quy Nhơn, Quy Nhơn Nam, Gia Lai, Bình Định cũ, Hàn Mặc Tử, Đồi Thi Nhân, Dốc Mộng Cầm, Bãi Trứng, Bãi Đá Trứng, Bãi tắm Hoàng Hậu, Nhà thờ Đá Ghềnh Ráng, Bãi Tiên Sa, núi Xuân Vân, biển Quy Nhơn.
+
+Từ khóa trải nghiệm: ngắm biển, check-in, đi bộ nhẹ, chụp ảnh bãi đá, viếng mộ Hàn Mặc Tử, đọc thơ, ngắm hoàng hôn, ngắm bình minh, tham quan gần trung tâm, địa điểm văn hóa, cảnh quan ven biển.
+
+Từ khóa cảnh báo: đá trơn, sóng mạnh, không phù hợp tắm biển ở Bãi Đá Trứng, cần kiểm tra giờ mở cửa, phí có thể thay đổi, đông khách cuối tuần, nắng gắt buổi trưa, hạn chế xả rác, không leo trèo nguy hiểm.
+
+9. Nguồn tham khảo chính
+
+Ngày tổng hợp dữ liệu: 26/05/2026. Các thông tin về giá vé, giờ mở cửa, phí gửi xe và dịch vụ phụ trợ có thể thay đổi theo thời điểm vận hành thực tế. Khi dùng cho chatbot, nên ưu tiên trả lời kèm câu nhắc kiểm tra lại kênh chính thức hoặc đơn vị quản lý trước ngày đi.
+
+Vietnam Airlines - Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
+
+Vietnam Airlines - Bãi tắm Hoàng Hậu: https://www.vietnamairlines.com/no/vi/plan-book/travel/travel-guide/bai-tam-hoang-hau
+
+Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
+
+Du lịch Quy Nhơn - Bình Định / My Binh Dinh - Ghềnh Ráng: https://mybinhdinh.vn/vi/ghenhrang
+
+Vinpearl - Ghềnh Ráng Tiên Sa: https://vinpearl.com/vi/ghenh-rang-tien-sa-tac-pham-thien-tao-ky-vi-tho-mong
+
+Thư viện Pháp luật - sắp xếp đơn vị hành chính Quy Nhơn sau sáp nhập: https://thuvienphapluat.vn/phap-luat/tp-quy-nhon-cu-binh-dinh-sau-sap-nhap-don-vi-hanh-chinh-co-may-phuong-xa-ten-goi-cac-phuong-xa-cua--233694-224092.html

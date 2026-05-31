@@ -1,0 +1,91 @@
+1. experience.docx - Bảo tàng tỉnh Gia Lai
+
+2. Mục tiêu dữ liệu
+
+File này mô tả trải nghiệm tham quan Bảo tàng tỉnh Gia Lai/Bảo tàng Pleiku theo cách đủ dày để train mô hình: người dùng đi cá nhân, gia đình, nhóm học sinh, khách nghiên cứu hoặc khách muốn ghép tuyến nội đô Pleiku.
+
+3. Trải nghiệm tổng quan
+
+Trải nghiệm tại Bảo tàng tỉnh Gia Lai không phải kiểu check-in nhanh như một điểm cảnh quan, mà là trải nghiệm đọc, quan sát, nghe thuyết minh và liên kết nhiều lớp thông tin về vùng đất Gia Lai. Du khách có thể bắt đầu từ lịch sử tự nhiên - địa lý, chuyển sang khảo cổ, cư dân bản địa, văn hóa cồng chiêng, đời sống Jrai - Bahnar, rồi đến lịch sử đấu tranh và phát triển địa phương.
+
+Điểm đặc biệt của bảo tàng là giúp người xem hiểu vì sao Gia Lai có nhiều địa danh gắn với núi lửa, hồ nước, cao nguyên, rừng, cồng chiêng, nhà rông, nhà mồ, sử thi, Anh hùng Núp và các tuyến di sản như Tây Sơn Thượng đạo, làng Stơr, An Khê, Biển Hồ.
+
+4. Các nội dung nên ưu tiên khi tham quan
+
+Nên ưu tiên khu trưng bày về văn hóa Jrai và Bahnar, vì đây là nhóm nội dung giúp du khách nhận diện bản sắc Gia Lai. Các hiện vật như cồng chiêng, trống lớn, ché cổ, gùi, nông cụ, trang phục, mô hình nhà mồ, nhà sàn và nhạc khí lễ hội có giá trị giải thích đời sống vật chất lẫn tinh thần của cư dân Tây Nguyên.
+
+Nên chú ý phần khảo cổ và lịch sử tiền sử, đặc biệt các hiện vật liên quan đến di chỉ Biển Hồ, văn hóa Biển Hồ, công cụ sơ kỳ Đá cũ An Khê, di tích An Phú và các tư liệu về cư dân sớm trên cao nguyên. Đây là nhóm dữ liệu dễ giúp chatbot trả lời câu hỏi 'Gia Lai có lịch sử lâu đời không' hoặc 'bảo tàng có hiện vật khảo cổ gì'.
+
+Nên xem phần lịch sử cách mạng, Anh hùng Núp, làng kháng chiến Stơr và các tư liệu về hai cuộc kháng chiến. Nhóm này phù hợp với học sinh, sinh viên, đoàn cơ quan, khách quan tâm lịch sử dân tộc và các điểm di tích trong bảng lọc như Nhà lao Pleiku, Di tích Tây Sơn Thượng đạo, Di tích chiến thắng Đăk Pơ.
+
+5. Trải nghiệm cồng chiêng và di sản phi vật thể
+
+Bảo tàng là nơi phù hợp để giới thiệu Không gian văn hóa cồng chiêng Tây Nguyên ở góc độ hiện vật và bối cảnh. Người tham quan có thể tìm hiểu cồng chiêng không chỉ là nhạc cụ, mà còn gắn với nghi lễ, lễ hội, vòng đời, cộng đồng làng, không gian nhà rông, nhà mồ, sinh hoạt nông nghiệp và quan niệm thiêng của các tộc người bản địa.
+
+Nếu có phòng trưng bày hoặc chuyên đề cồng chiêng đang mở, nên dành thời gian nghe thuyết minh vì chỉ nhìn hiện vật thường chưa đủ hiểu vai trò của chiêng trong đời sống. Những câu hỏi chatbot nên xử lý gồm: cồng chiêng Gia Lai có gì đặc biệt, bảo tàng có trưng bày cồng chiêng không, chiêng Jrai và Bahnar khác gì, cồng chiêng có phải di sản UNESCO không.
+
+6. Trải nghiệm ngoài trời và khuôn viên
+
+Theo Báo Gia Lai, bảo tàng đã đầu tư khu vườn tượng chủ đề 'Tượng và hoa' trên diện tích hơn 700 m2, kết nối với mô hình phục dựng làng Stơr, quê hương Anh hùng Núp. Khu vườn có khoảng 70 bức tượng gỗ dân gian Jrai, Bahnar và tạo không gian check-in, thư giãn, trải nghiệm văn hóa ngoài trời.
+
+Khi tham quan ngoài trời, nên đi chậm, quan sát hình dáng tượng, chất liệu gỗ, biểu cảm, mối liên hệ với nhà mồ và quan niệm cộng đồng. Không nên leo trèo, chạm mạnh, ngồi lên tượng hoặc tác động vào cảnh quan.
+
+7. Lịch trình gợi ý 1 giờ
+
+Lịch trình nhanh phù hợp với khách du lịch phổ thông: vào cổng và xác định các phòng trưng bày chính, xem nhanh phần lịch sử - tự nhiên Gia Lai, quan sát nhóm hiện vật cồng chiêng và văn hóa dân tộc, xem một số hiện vật tiêu biểu như trống đồng An Thành, phù điêu Champa, ché cổ, thuyền độc mộc, sau đó ra khuôn viên chụp ảnh và ghép Quảng trường Đại Đoàn Kết.
+
+Lịch trình này phù hợp khi khách còn phải đi Biển Hồ, Chư Đăng Ya, Núi Hàm Rồng hoặc có lịch bay/bến xe. Chatbot nên gợi ý ngắn gọn nếu người dùng hỏi 'đi bảo tàng mất bao lâu'.
+
+8. Lịch trình gợi ý nửa ngày
+
+Lịch trình nửa ngày phù hợp cho học sinh, sinh viên, nhóm nghiên cứu hoặc khách yêu văn hóa. Bắt đầu bằng nghe thuyết minh tổng quan, sau đó dành thời gian cho từng mảng: khảo cổ - tiền sử, Jrai - Bahnar, cồng chiêng, lịch sử đấu tranh, Anh hùng Núp, hiện vật Champa và trưng bày chuyên đề. Kết thúc bằng khuôn viên, vườn tượng, Quảng trường Đại Đoàn Kết và Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum nếu còn thời gian.
+
+Với đoàn học sinh, có thể biến chuyến đi thành bài học liên môn: lịch sử địa phương, địa lý cao nguyên, âm nhạc cồng chiêng, mỹ thuật tượng gỗ, giáo dục công dân về bảo tồn di sản và kỹ năng tham quan bảo tàng.
+
+9. Đối tượng phù hợp
+
+Phù hợp với gia đình có trẻ em vì địa điểm ở trung tâm, dễ di chuyển, không cần thể lực cao. Phù hợp với người lớn tuổi vì có thể tham quan trong nhà và gần các điểm nghỉ chân trung tâm. Phù hợp với học sinh, sinh viên, giáo viên lịch sử - địa lý - văn hóa vì có nhiều lớp tư liệu. Phù hợp với khách đi một mình muốn hiểu Pleiku trước khi đi các điểm tự nhiên.
+
+Không phải lựa chọn tối ưu nếu du khách chỉ muốn tắm thác, trekking, chụp ảnh thiên nhiên hoặc đi phượt ngoài trời. Tuy nhiên, bảo tàng có thể là điểm cân bằng lịch trình: buổi sáng đi bảo tàng, chiều đi Biển Hồ/Chư Đăng Ya; hoặc ngày mưa chuyển từ điểm ngoài trời sang bảo tàng.
+
+10. Câu hỏi gợi ý cho thuyết minh hoặc học tập
+
+Bảo tàng Gia Lai hình thành từ khi nào và vì sao cần có bảo tàng ở Pleiku?
+
+Cồng chiêng trong đời sống Jrai và Bahnar có vai trò gì?
+
+Văn hóa Biển Hồ và các di chỉ khảo cổ ở Gia Lai nói gì về cư dân tiền sử trên cao nguyên?
+
+Anh hùng Núp và làng Stơr có ý nghĩa như thế nào trong lịch sử Gia Lai?
+
+Phù điêu Phật Champa Tây Nguyên cho thấy mối liên hệ văn hóa nào giữa cao nguyên và các vùng khác?
+
+Tại sao Bảo tàng tỉnh Gia Lai cần phân biệt với Quảng trường Đại Đoàn Kết và Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum?
+
+11. Nguồn tham khảo và ghi chú cập nhật
+
+Ghi chú cập nhật: Dữ liệu được tổng hợp theo các nguồn công khai đã kiểm tra đến năm 2026. Sau sáp nhập, tên gọi hành chính và tên đơn vị có thể thay đổi trên từng hệ thống. Trong bộ dữ liệu này, cụm 'Bảo tàng tỉnh Gia Lai' được hiểu theo ngữ cảnh du lịch Pleiku trong bảng lọc: địa điểm ở số 21 Trần Hưng Đạo, bên cạnh Quảng trường Đại Đoàn Kết; hiện website chính thức đang hiển thị tên Bảo tàng Pleiku. Khi chatbot trả lời thông tin giờ mở cửa, lịch sự kiện, dịch vụ thuyết minh hoặc liên hệ đoàn, nên khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại của bảo tàng.
+
+Bảo tàng Pleiku - website chính thức: https://baotangpleiku.gialai.gov.vn/
+
+Trang liên hệ Bảo tàng Pleiku: https://baotangpleiku.gialai.gov.vn/HX/Contact
+
+Bảo tàng Pleiku - Nội quy tham quan: https://baotangpleiku.gialai.gov.vn/HX/Noi-quy-tham-quan
+
+Báo Gia Lai, 'Gia Lai đổi mới hoạt động bảo tàng', 16/02/2025: https://baogialai.com.vn/gia-lai-doi-moi-hoat-dong-bao-tang-post311474.html
+
+Báo ảnh Việt Nam/VietnamPlus, 'Gần 7.000 hiện vật về vùng đất Tây Nguyên tại Bảo tàng Gia Lai', 26/03/2015: https://www.vietnamplus.vn/gan-7000-hien-vat-ve-vung-dat-tay-nguyen-tai-bao-tang-gia-lai-post314116.vnp
+
+Báo ảnh Việt Nam, 'Thăm Bảo tàng Gia Lai', 21/03/2015: https://vietnam.vnanet.vn/vietnamese/tin-tuc/tham-bao-tang-gia-lai-66822.html
+
+Du lịch Pleiku, 'Bảo tàng Gia Lai - Nơi lưu giữ quá khứ, nhắn gửi tương lai', 28/02/2022: https://dulichpleiku.gialai.gov.vn/Lehoi-sukien/BAO-TANG-GIA-LAI-%E2%80%93-NOI-LUU-GIU-QUA-KHU%2C-NHAN-GUI-T
+
+Bảo tàng Pleiku, 'Sưu tập cồng chiêng ở Bảo tàng tỉnh Gia Lai', 31/05/2023: https://baotangpleiku.gialai.gov.vn/tin-tuc-su-kien/Tin-tong-hop/SUU-TAP-CONG-CHIENG-O-BAO-TANG-TINH-GIA-LAI
+
+Bảo tàng Pleiku, 'Phù điêu Phật Champa Tây Nguyên', 02/08/2023: https://baotangpleiku.gialai.gov.vn/tin-tuc-su-kien/Tin-tong-hop/Phu-dieu-phat-Champa-Tay-Nguyen
+
+Bảo tàng Pleiku, 'Công tác lập sưu tập hiện vật tại Bảo tàng tỉnh Gia Lai', 15/04/2022: https://baotangpleiku.gialai.gov.vn/tin-tuc-su-kien/Tin-tong-hop/CONG-TAC-LAP-SUU-TAP-HIEN-VAT-TAI-BAO-TANG-TINH-GI
+
+Báo Gia Lai, 'Phường Pleiku vận hành thử nghiệm mô hình chính quyền địa phương 2 cấp', 19/06/2025: https://baogialai.com.vn/phuong-pleiku-van-hanh-thu-nghiem-mo-hinh-chinh-quyen-dia-phuong-2-cap-post328813.html
+
+Báo điện tử Chính phủ, Nghị quyết 1664/NQ-UBTVQH15 sắp xếp ĐVHC cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm

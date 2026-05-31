@@ -1,0 +1,93 @@
+1. Hòn Khô - Dữ liệu dịch vụ hỗ trợ
+
+Ghi chú sử dụng: dữ liệu được viết để đưa vào huấn luyện, embedding hoặc chatbot RAG. Các thông tin giá, lịch tàu, dịch vụ và điều kiện tham quan cần được xác minh lại trước khi trả lời người dùng ở thời điểm thực tế.
+
+2. Mục tiêu
+
+Thông tin về các dịch vụ phục vụ du khách khi đi Hòn Khô, gồm phương tiện ra đảo, ăn uống, đặc sản địa phương, lưu trú, tiện ích cơ bản và các lưu ý khi sử dụng dịch vụ. Nội dung ưu tiên cách viết rõ ràng để chatbot có thể trả lời các câu hỏi thực tế của người đi du lịch.
+
+3. Dịch vụ tại địa điểm
+
+Dịch vụ quan trọng nhất khi đi Hòn Khô là tàu/thuyền/cano từ làng chài Nhơn Hải ra đảo. Du khách có thể đi ghép hoặc thuê riêng tùy số lượng người, ngân sách và thời gian. Đi ghép tiết kiệm hơn nhưng có thể phải chờ đủ khách. Thuê riêng chủ động hơn nhưng chi phí cao hơn.
+
+Dịch vụ lặn ngắm san hô thường đi kèm áo phao, kính lặn hoặc hướng dẫn cơ bản. Tùy đơn vị, dịch vụ có thể gồm cano đưa ra điểm lặn, người hỗ trợ trên biển và thời gian lặn nhất định. Du khách nên hỏi rõ có hướng dẫn viên đi kèm không, trang bị có sạch không và có phù hợp trẻ em/người không biết bơi không.
+
+Một số thời điểm có dịch vụ chụp ảnh, cano tham quan, thuyền thúng, phao chuối, mô tô nước, SUP hoặc kayak. Không phải dịch vụ nào cũng hoạt động quanh năm. Các dịch vụ thể thao biển nên được dùng khi thời tiết an toàn, có áo phao và có người hướng dẫn.
+
+Dịch vụ tắm nước ngọt, gửi xe, thay đồ và vệ sinh thường tập trung ở khu vực Nhơn Hải hoặc các quán/nhà hàng, không nên mặc định trên đảo lúc nào cũng có tiện ích đầy đủ. Nếu người dùng cần tiện nghi tốt, nên dùng dịch vụ của nhà hàng hoặc tour có cam kết rõ.
+
+4. Ăn uống
+
+Ăn uống khi đi Hòn Khô thường gắn với làng chài Nhơn Hải. Du khách có thể ăn tại các quán hải sản ven biển, nhà hàng địa phương hoặc dịch vụ đi kèm tour. Hải sản ở khu vực này thường được quảng bá là tươi vì gắn với hoạt động đánh bắt của ngư dân.
+
+Các món dễ gặp gồm cá nướng, mực hấp hoặc mực nướng, ốc, tôm, nhum biển, cháo hải sản, bánh xèo mực, bánh xèo tôm nhảy và chả cá. Tùy mùa, không phải món nào cũng có đủ hoặc giá giống nhau. Các món theo kg như tôm, cua, ghẹ, nhum, cá lớn nên hỏi giá trước khi gọi.
+
+Nếu đi theo tour, bữa ăn có thể được thiết kế thành thực đơn cố định. Nếu đi tự túc, du khách nên hỏi rõ giá theo món, theo phần hay theo kg, có tính công chế biến không và khẩu phần phù hợp bao nhiêu người.
+
+Với khách ăn chay hoặc dị ứng hải sản, nên chuẩn bị đồ ăn riêng hoặc hỏi trước quán vì lựa chọn tại làng chài có thể hạn chế. Với trẻ em, nên chọn món nấu chín kỹ, ít cay và dễ ăn.
+
+5. Đặc sản địa phương
+
+Nhum biển là món thường được nhắc khi nói về du lịch biển Quy Nhơn và Hòn Khô. Nhum có thể chế biến nướng mỡ hành, nấu cháo hoặc ăn tái tùy nơi. Người có bụng yếu nên ưu tiên món chín.
+
+Bánh xèo mực là món phù hợp để giới thiệu cho người muốn ăn đặc sản làng chài. Bánh có nhân mực tươi, thường ăn kèm rau sống, xoài xanh, dưa leo và nước mắm chua ngọt. Đây là món dễ kết hợp sau khi đi biển vì không quá cầu kỳ nhưng tạo cảm giác địa phương rõ.
+
+Chả cá Quy Nhơn, cá nướng, mực hấp, ốc và các loại hải sản theo mùa cũng là nhóm món nên nhắc trong chatbot. Khi trả lời, nên dùng cách diễn đạt “có thể thử” thay vì khẳng định “nhất định có” vì nguồn hải sản phụ thuộc ngày đánh bắt.
+
+6. Lưu trú
+
+Phần lớn du khách đi Hòn Khô trong ngày và lưu trú tại trung tâm Quy Nhơn. Đây là lựa chọn thuận tiện vì có nhiều khách sạn, homestay, nhà hàng, phương tiện di chuyển và dễ kết hợp các điểm như biển Quy Nhơn, Ghềnh Ráng, Tháp Đôi, Eo Gió hoặc Kỳ Co.
+
+Nếu muốn trải nghiệm làng chài, du khách có thể tìm homestay hoặc điểm lưu trú gần Nhơn Hải nếu có dịch vụ phù hợp tại thời điểm đi. Lưu trú gần Nhơn Hải giúp đi Hòn Khô sớm, dễ ngắm bình minh và cảm nhận đời sống địa phương, nhưng tiện nghi có thể đơn giản hơn trung tâm Quy Nhơn.
+
+Không nên mặc định có resort hoặc khách sạn lớn ngay trên đảo Hòn Khô. Đảo chủ yếu phục vụ tham quan ngắn ngày. Nếu người dùng hỏi ở lại qua đêm trên đảo, chatbot nên khuyến nghị kiểm tra kỹ dịch vụ hợp pháp, an toàn, điện nước, nhà vệ sinh, thời tiết và phương tiện quay về.
+
+7. Tiện ích hỗ trợ
+
+Gửi xe thường có thể thực hiện ở khu vực Nhơn Hải hoặc điểm dịch vụ gần bến. Du khách nên hỏi giá gửi xe và vị trí lấy xe trước khi ra đảo.
+
+Nhà vệ sinh và chỗ thay đồ có thể có tại nhà hàng, quán ven biển hoặc điểm dịch vụ. Không nên kỳ vọng tiêu chuẩn như khu du lịch lớn. Nếu đi gia đình hoặc có trẻ nhỏ, nên chọn nhà hàng/tour có thông tin rõ về tiện ích.
+
+Wifi và sóng điện thoại có thể không ổn định ở một số khu vực ven đảo hoặc trên biển. Người dùng nên tải sẵn bản đồ, lưu số điện thoại chủ tàu/tài xế và chuẩn bị pin dự phòng.
+
+Thanh toán điện tử có thể dùng ở một số nơi nhưng tiền mặt vẫn cần thiết cho gửi xe, thuyền nhỏ, đồ uống hoặc chi phí phát sinh. Nên chuẩn bị tiền lẻ để trả phí nhỏ.
+
+Dịch vụ y tế tại đảo và bến không thể so với trung tâm thành phố. Người có bệnh nền, dễ say sóng, dị ứng hải sản hoặc cần thuốc đặc biệt nên chuẩn bị trước. Nếu có tình huống khẩn cấp, nên quay về đất liền sớm và liên hệ cơ sở y tế ở Quy Nhơn.
+
+8. Dịch vụ tour
+
+Tour Hòn Khô thường được thiết kế dạng nửa ngày hoặc một ngày. Tour nửa ngày phù hợp với khách muốn đi nhanh, lặn san hô, tắm biển và ăn nhẹ hoặc ăn trưa. Tour một ngày có thể kết hợp Nhơn Hải, Hòn Khô, Eo Gió, Kỳ Co hoặc các điểm trên bán đảo Phương Mai tùy đơn vị.
+
+Ưu điểm của đi tour là có người sắp phương tiện, áo phao, điểm lặn, giờ giấc và bữa ăn. Nhược điểm là ít linh hoạt, đi theo nhóm ghép và có thể phải theo lịch trình cố định. Người thích tự do chụp ảnh hoặc đi chậm nên hỏi lịch trình chi tiết trước khi đặt.
+
+Khi chọn tour, nên hỏi rõ đón ở đâu, trả ở đâu, có phụ thu cuối tuần không, có hoàn tiền khi biển động không, bữa ăn gồm món gì, lặn san hô kéo dài bao lâu và có bảo hiểm du lịch không.
+
+9. Gợi ý câu trả lời dịch vụ cho chatbot
+
+Nếu người dùng hỏi Hòn Khô có gì ăn, chatbot có thể trả lời: Hòn Khô gắn với làng chài Nhơn Hải nên món nên thử là hải sản tươi, nhum biển, mực, cá nướng, bánh xèo mực và chả cá. Bạn nên hỏi giá trước khi gọi món theo kg.
+
+Nếu người dùng hỏi có nhà vệ sinh không, chatbot có thể trả lời: tiện ích như WC, thay đồ, tắm nước ngọt thường nằm ở khu dịch vụ hoặc quán/nhà hàng tại Nhơn Hải, không nên mặc định trên đảo lúc nào cũng đầy đủ.
+
+Nếu người dùng hỏi đi tự túc được không, chatbot có thể trả lời: có thể đi tự túc bằng cách tới Nhơn Hải rồi thuê thuyền/cano ra đảo, nhưng cần hỏi trước thời tiết, giá khứ hồi và giờ quay về.
+
+10. Nguồn tham khảo chính
+
+Du lịch Quy Nhơn - Bình Định, "Hòn Khô - Du lịch Quy Nhơn - Bình Định": https://dulichquynhon.binhdinh.gov.vn/vi/dryisland
+
+Cục Du lịch Quốc gia Việt Nam, "Đến Bình Định khám phá Hòn Khô": https://vietnamtourism.gov.vn/post/18832
+
+Cục Du lịch Quốc gia Việt Nam, "Đảo Hòn Khô: Điểm đến cho du khách thích san hô và tắm biển": https://vietnamtourism.gov.vn/post/16487
+
+Du lịch Quy Nhơn - Bình Định, "Cánh đồng rong mơ nhuộm vàng đáy biển Quy Nhơn": https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3193
+
+Vietnam Airlines, "Hòn Khô ở đâu? Có những trải nghiệm gì? Lịch trình ra sao?": https://www.vietnamairlines.com/at/vi/plan-book/travel/travel-guide/hon-kho
+
+Bamboo Airways, "Kinh nghiệm du lịch Hòn Khô chi tiết cho người mê khám phá": https://www.bambooairways.com/vn/vi/travel-guide/domestic-travels/quy-nhon/du-lich-hon-kho
+
+Vinpearl, "Hòn Khô Quy Nhơn: Cẩm nang khám phá chi tiết, hữu ích": https://vinpearl.com/vi/review-du-lich-hon-kho-quy-nhon
+
+Thông tấn xã Việt Nam - Chính sách & Cuộc sống, "Lễ hội Cầu Ngư Nhơn Hải": https://chinhsachcuocsong.vnanet.vn/le-hoi-cau-ngu-nhon-hai-nhieu-nghi-thuc-dac-trung-cua-ngu-dan-mien-bien/57133.html
+
+Báo Thanh Niên, "Bảo tàng Bình Định nói gì về tường thành cổ bí ẩn dưới biển?": https://thanhnien.vn/bao-tang-binh-dinh-noi-gi-ve-tuong-thanh-co-bi-an-duoi-bien-185230804103955488.htm
+
+Ngày tạo bộ dữ liệu: 26/05/2026.

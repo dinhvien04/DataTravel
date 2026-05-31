@@ -1,0 +1,75 @@
+Tài liệu này cung cấp dữ liệu tổng quan để hệ thống RAG nhận diện Cù Lao Xanh, hiểu đúng vị trí, tên gọi, đặc trưng cảnh quan, giá trị văn hóa và các điểm nổi bật. Nội dung phù hợp cho các câu hỏi như Cù Lao Xanh ở đâu, Cù Lao Xanh có gì đẹp, đảo Nhơn Châu có phải Cù Lao Xanh không, hoặc vì sao Cù Lao Xanh được gọi là viên ngọc xanh của Quy Nhơn.
+
+Ghi chú cập nhật: Một số nguồn cũ vẫn ghi Cù Lao Xanh thuộc xã Nhơn Châu, thành phố Quy Nhơn, tỉnh Bình Định. Các trang chính quyền địa phương sau năm 2025 đang dùng thông tin xã Nhơn Châu thuộc tỉnh Gia Lai mới, khu vực Quy Nhơn. Khi dùng dữ liệu cho chatbot, nên nhận diện cả hai cách gọi để trả lời được câu hỏi của người dùng theo ngữ cảnh cũ và mới.
+
+1. Giới thiệu địa điểm
+
+Cù Lao Xanh là một đảo nhỏ ngoài khơi khu vực Quy Nhơn, còn được gọi là đảo Nhơn Châu hoặc đảo Vân Phi. Đây là điểm đến biển đảo nổi bật nhờ màu nước xanh trong, bờ cát trắng, các ghềnh đá tự nhiên, nhịp sống làng chài chậm rãi và không gian còn tương đối hoang sơ. Đảo không phải kiểu khu du lịch lớn nhiều công trình nhân tạo, mà hấp dẫn ở cảm giác tách biệt khỏi đất liền, nhiều nắng gió, nhiều góc nhìn biển trời rộng mở.
+
+Theo các nguồn chính quyền địa phương, đảo Nhơn Châu, tức Cù Lao Xanh, cách trung tâm Quy Nhơn khoảng 24 km hoặc khoảng 13 hải lý tùy cách mô tả mốc đo. Đảo có diện tích trên 360 ha, cư dân phân bố tại ba thôn là thôn Tây, thôn Trung và thôn Đông. Đối với người dùng phổ thông, các tên Cù Lao Xanh, đảo Nhơn Châu và đảo Vân Phi thường được hiểu là cùng một không gian du lịch.
+
+Cù Lao Xanh phù hợp với nhóm du khách muốn đi biển đảo trong ngày hoặc nghỉ lại một đêm để cảm nhận nhịp sống đảo. Địa điểm này thường được gắn với các trải nghiệm như đi cano từ bến Hàm Tử, tắm biển, lặn ngắm san hô, tham quan hải đăng cổ, check-in cột cờ Tổ quốc, chụp ảnh ở bãi đá Thảo Nguyên, ngắm bình minh hoặc hoàng hôn và ăn hải sản do người dân địa phương chế biến.
+
+2. Mô tả tổng quan cảnh quan
+
+Cảnh quan Cù Lao Xanh có ba lớp nổi bật. Lớp thứ nhất là biển xanh, bãi cát trắng và vùng nước trong, tạo điều kiện cho tắm biển, lặn ngắm san hô và chụp ảnh phong cảnh. Lớp thứ hai là các cụm đá ven biển, trong đó bãi đá Thảo Nguyên thường được nhắc đến như một không gian đá tự nhiên có hình khối lạ, phù hợp để ngắm sóng, chụp ảnh và cảm nhận vẻ mạnh mẽ của biển đảo. Lớp thứ ba là các công trình biểu tượng như hải đăng Cù Lao Xanh, cột cờ Tổ quốc và cầu cảng Nhơn Châu.
+
+Không gian đảo tương đối nhỏ, vì vậy du khách có thể cảm nhận được sự thay đổi cảnh quan trong cùng một ngày. Từ cầu cảng có thể nhìn thấy mặt biển và thuyền bè; từ khu dân cư thấy nhịp sống làng chài; từ đường lên hải đăng thấy địa hình dốc, đá, cây bụi và biển bao quanh; từ bãi đá hoặc bãi tắm thấy rõ tính hoang sơ của đảo. Sự đan xen giữa làng chài, biển, núi đá và công trình lịch sử là điểm làm Cù Lao Xanh khác với những bãi biển thuần nghỉ dưỡng.
+
+Đảo có thể không phù hợp với du khách muốn tiện nghi cao cấp, trung tâm mua sắm hoặc dịch vụ giải trí đông đúc. Trải nghiệm cốt lõi ở đây là thiên nhiên, sinh hoạt địa phương và cảm giác đi đảo. Khi mô tả cho người dùng, hệ thống nên nhấn mạnh Cù Lao Xanh là điểm đến biển đảo yên bình, còn giữ vẻ nguyên bản, cần chủ động kiểm tra thời tiết và lịch tàu trước khi đi.
+
+3. Lịch sử hình thành và tên gọi
+
+Tên Cù Lao Xanh bắt nguồn từ ấn tượng thị giác về một hòn đảo xanh giữa biển. Trong các tư liệu du lịch, đảo còn được gọi là đảo Vân Phi và xã đảo Nhơn Châu. Một số tư liệu về hải đăng ghi địa danh Poulo Gambir hoặc cách viết gần giống, phản ánh tên gọi từng xuất hiện trong tài liệu hàng hải thời Pháp và phương Tây.
+
+Dấu ấn lịch sử nổi bật nhất của đảo là hải đăng Cù Lao Xanh. Theo tư liệu báo chí, hải đăng được người Pháp xây dựng vào năm 1890, đặt trên điểm cao của đảo để dẫn đường cho tàu thuyền qua lại vùng biển Quy Nhơn. Hải đăng không chỉ là công trình kỹ thuật hàng hải mà còn là biểu tượng lịch sử, gợi nhắc quá trình giao thương, đi biển, định vị và bảo vệ an toàn hàng hải trong khu vực.
+
+Bên cạnh hải đăng, cột cờ Tổ quốc trên đảo là biểu tượng hiện đại gắn với ý thức chủ quyền biển đảo. Khi kết hợp hai biểu tượng này, Cù Lao Xanh vừa có lớp giá trị lịch sử hàng hải, vừa có lớp giá trị tinh thần và giáo dục chủ quyền. Đây là dữ liệu quan trọng để chatbot trả lời các câu hỏi về ý nghĩa văn hóa, lịch sử và biểu tượng của đảo.
+
+4. Giá trị văn hóa và đời sống cộng đồng
+
+Cù Lao Xanh là không gian sinh sống của cộng đồng cư dân biển Nhơn Châu. Người dân gắn bó với nghề khai thác, nuôi trồng thủy sản, chế biến hải sản, buôn bán nhỏ và dịch vụ du lịch. Văn hóa địa phương thể hiện qua nhịp sống bám biển, các bữa ăn gia đình với cá, mực, ốc, tôm, cua, cách đón khách mộc mạc và sự gắn kết giữa dân cư, lực lượng biên phòng, các đơn vị đóng quân trên đảo.
+
+Đối với trải nghiệm du lịch, giá trị văn hóa không nằm ở những chương trình biểu diễn lớn mà nằm ở sự gần gũi của đời sống thường ngày. Du khách có thể nhìn thấy thuyền thúng, tàu cá, cầu cảng, khu dân cư ven biển, các bữa ăn hải sản đơn giản và cách người dân kể chuyện về đảo. Vì vậy khi viết nội dung cho RAG, nên bổ sung các mô tả về làng chài, nhịp sống chậm, sự yên bình và tinh thần bám biển.
+
+Các công trình như mái đình làng biển, hải đăng và cột cờ có thể được xem là điểm neo văn hóa. Chúng giúp chatbot phân biệt Cù Lao Xanh với các đảo thiên về tắm biển đơn thuần. Nếu người dùng hỏi Cù Lao Xanh có gì đặc biệt, câu trả lời nên kết hợp cả yếu tố thiên nhiên, đời sống ngư dân và biểu tượng chủ quyền.
+
+5. Điểm nổi bật cần nhận diện
+
+Hải đăng Cù Lao Xanh là một trong những điểm nổi bật nhất. Công trình được xây dựng cuối thế kỷ XIX, nằm trên vị trí cao, từ đó có thể phóng tầm mắt nhìn toàn cảnh đảo và biển Quy Nhơn. Với người thích lịch sử, hải đăng là điểm kể chuyện về giao thông hàng hải. Với người thích nhiếp ảnh, đây là điểm nhìn toàn cảnh và chụp ảnh biển đảo.
+
+Cột cờ Tổ quốc là điểm check-in mang ý nghĩa biểu tượng. Công trình gợi cảm giác thiêng liêng về biển đảo, đồng thời tạo góc ảnh rộng với nền trời và mặt biển. Với các đoàn học sinh, sinh viên hoặc nhóm du lịch cộng đồng, cột cờ có thể được giới thiệu như điểm giáo dục về chủ quyền biển đảo.
+
+Bãi đá Thảo Nguyên là khu vực đá tự nhiên nổi bật. Các khối đá lớn nhỏ, đường nét gồ ghề, màu sắc tự nhiên và sóng biển tạo nên cảnh quan mạnh, khác với vẻ mềm mại của các bãi cát. Đây là điểm hợp để chụp ảnh, ngắm sóng, ngắm hoàng hôn hoặc cảm nhận vẻ hoang sơ của đảo.
+
+Các bãi tắm và khu vực san hô như Bãi Bắc, Bãi Nhỏ, Bãi Gala, Bãi Nam hoặc Bãi Trước thường được nhắc trong lịch trình du lịch. Tùy điều kiện sóng, gió và lịch tàu, du khách có thể tắm biển, lặn ngắm san hô, chèo SUP, cắm trại hoặc đơn giản là đi dạo ven biển.
+
+6. Kiến trúc và cảnh quan nhân tạo
+
+Kiến trúc đáng chú ý nhất là hải đăng Cù Lao Xanh. Công trình có dáng tháp, được xây dựng phục vụ mục đích hàng hải, có tính nhận diện mạnh khi xuất hiện trong ảnh du lịch. Khi mô tả hải đăng, nên tránh chỉ gọi là điểm chụp ảnh; cần nhấn mạnh vai trò soi đường cho tàu thuyền, giá trị lịch sử và vị trí quan sát biển.
+
+Cầu cảng Nhơn Châu là điểm chuyển tiếp giữa đất liền và đảo. Đây là nơi du khách đặt chân lên đảo, nơi tàu thuyền cập bến, nơi có thể nhìn thấy mặt nước xanh, thuyền cá và hoạt động sinh hoạt của cư dân. Trong mô hình hỏi đáp, cầu cảng thường liên quan tới câu hỏi tàu cập ở đâu, lên đảo như thế nào hoặc điểm đầu tiên khi đến Cù Lao Xanh là gì.
+
+Cột cờ Tổ quốc là công trình có tính biểu tượng, nằm trong nhóm điểm check-in và giáo dục chủ quyền. Khi tạo dữ liệu hình ảnh hoặc mô tả multimodal, nên gắn nhãn cột cờ với các từ khóa: cột cờ, chủ quyền, biển đảo, Nhơn Châu, Cù Lao Xanh, nền trời xanh, lá cờ đỏ sao vàng.
+
+7. Các khu vực chính
+
+Khu cầu cảng và khu dân cư là khu vực đón khách, có nhịp sinh hoạt địa phương rõ nhất. Đây cũng là nơi du khách thường liên hệ xe điện, xe ôm, nhà nghỉ, homestay hoặc điểm ăn uống.
+
+Khu hải đăng và cột cờ là khu vực tham quan biểu tượng, thường được đưa vào lịch trình buổi sáng hoặc đầu giờ chiều. Đường lên có thể dốc, cần giày dép phù hợp và tránh thời điểm nắng gắt nếu đi bộ nhiều.
+
+Khu bãi đá Thảo Nguyên, Giếng Tiên, Bãi Nam, Bãi Trước, Bãi Bắc, Bãi Nhỏ và Bãi Gala là các không gian thiên nhiên dùng cho check-in, tắm biển, ngắm cảnh, lặn san hô, cắm trại hoặc nghỉ ngơi. Mỗi bãi có điều kiện sóng, gió và độ an toàn khác nhau, vì vậy du khách nên nghe hướng dẫn từ người địa phương hoặc đơn vị tour.
+
+8. Từ khóa mô tả địa điểm
+
+Từ khóa nhận diện chính: Cù Lao Xanh, đảo Nhơn Châu, xã đảo Nhơn Châu, đảo Vân Phi, Quy Nhơn, Gia Lai mới, Bình Định cũ, đảo ngoài khơi Quy Nhơn, hòn ngọc xanh, biển xanh, làng chài, hải đăng Cù Lao Xanh, Poulo Gambir, cột cờ Tổ quốc, bãi đá Thảo Nguyên, Giếng Tiên, Bãi Nam, Bãi Trước, Bãi Bắc, Bãi Nhỏ, Bãi Gala, cầu cảng Nhơn Châu.
+
+Từ khóa trải nghiệm: đi cano, tàu gỗ, bến Hàm Tử, tắm biển, lặn ngắm san hô, ăn hải sản, cắm trại, ngắm bình minh, ngắm hoàng hôn, check-in, chụp ảnh, du lịch 1 ngày, du lịch 2 ngày 1 đêm, du lịch tự túc, tour đảo Quy Nhơn.
+
+Từ khóa cảnh báo: biển động, thời tiết xấu, mùa mưa bão, lịch tàu thay đổi, xuất trình giấy tờ, bảo vệ san hô, không xả rác, hạn chế tiện nghi, dịch vụ cơ bản, cần đặt trước, an toàn khi tắm biển.
+
+9. Gợi ý chia chunk cho RAG
+
+Chunk 1 nên bao gồm nhận diện địa điểm, vị trí, tên gọi, lịch sử hải đăng và giá trị văn hóa. Chunk này phù hợp cho các câu hỏi tổng quan như Cù Lao Xanh ở đâu, Cù Lao Xanh thuộc tỉnh nào, đảo Nhơn Châu có phải Cù Lao Xanh không, đảo có gì nổi bật.
+
+Chunk 2 nên bao gồm cảnh quan, các khu vực chính, điểm check-in, từ khóa và gợi ý trải nghiệm. Chunk này phù hợp cho các câu hỏi như Cù Lao Xanh có gì chơi, nên đi đâu trên đảo, điểm chụp ảnh đẹp ở Cù Lao Xanh, nên đi Cù Lao Xanh mấy ngày.

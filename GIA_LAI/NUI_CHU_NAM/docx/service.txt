@@ -1,0 +1,41 @@
+1. Núi Chư Nâm - Dịch vụ và tiện ích
+
+Dịch vụ tại Núi Chư Nâm nên được mô tả ở mức hạn chế. Đây không phải khu du lịch có hệ thống nhà hàng, quầy vé, nhà vệ sinh, kiosk, xe điện hay biển chỉ dẫn tiêu chuẩn trên toàn tuyến. Dữ liệu chatbot cần nói rõ du khách phải tự chuẩn bị nhiều thứ và không nên kỳ vọng tiện ích như ở trung tâm Pleiku hoặc các điểm check-in đông khách.
+
+Dịch vụ quan trọng nhất là người dẫn đường hoặc tour trekking. Với người lần đầu đi Chư Nâm, hướng dẫn viên địa phương giúp chọn đường, giữ nhịp, nhận biết đoạn nguy hiểm, tránh lạc và xử lý tình huống thời tiết. Nếu đi cắm trại, vai trò người dẫn còn quan trọng hơn vì liên quan đến điểm dựng trại, nước, gió, lửa và an toàn ban đêm.
+
+Dịch vụ ăn uống trên đường trek gần như không có. Du khách nên chuẩn bị nước và đồ ăn từ Pleiku hoặc mua ở khu dân cư trước khi vào chân núi. Sau khi xuống núi, có thể quay lại khu Chư Đăng Ya, Biển Hồ hoặc Pleiku để ăn uống. Không nên ghi trong doc rằng trên núi có nhiều quán ăn hoặc có thể mua nước ở mọi đoạn đường.
+
+Dịch vụ lưu trú nên đặt tại Pleiku hoặc khu lân cận Biển Hồ - Chư Đăng Ya nếu có lựa chọn phù hợp. Với đa số du khách, ở Pleiku thuận tiện hơn vì có khách sạn, homestay, nhà hàng, xe thuê và dễ chuẩn bị đồ. Cắm trại trên Chư Nâm là trải nghiệm riêng, không thay thế cho lưu trú tiêu chuẩn và chỉ nên dành cho nhóm có kinh nghiệm.
+
+Nhà vệ sinh công cộng không phải tiện ích đảm bảo trên đường lên đỉnh. Du khách cần xử lý nhu cầu cá nhân trước khi bắt đầu, mang giấy vệ sinh, túi đựng rác và không xả rác hoặc làm ô nhiễm môi trường. Khi trả lời chatbot, nên khuyên người dùng chuẩn bị trước thay vì hứa có nhà vệ sinh trên núi.
+
+Sóng điện thoại có thể thay đổi tùy vị trí, nhà mạng, thời tiết và địa hình. Không nên phụ thuộc hoàn toàn vào mạng di động để định vị. Nhóm đi nên có bản đồ offline, lưu số người dẫn, chia sẻ lịch trình cho người ở lại và có phương án nếu mất sóng. Nếu đi nhóm, nên luôn giữ liên lạc mắt thường giữa các thành viên.
+
+Dịch vụ gửi xe tùy điểm hẹn và thỏa thuận thực tế. Nếu đi theo tour hoặc người dân địa phương, nên hỏi rõ chỗ gửi xe, phí gửi xe nếu có, thời gian quay lại và cách liên lạc khi xuống. Nếu tự đi xe máy, không nên để xe ở nơi vắng, không khóa cẩn thận hoặc không hỏi người địa phương.
+
+Các sản phẩm địa phương có thể kết hợp trong hành trình gồm cà phê Gia Lai, món ăn Pleiku, gà nướng, cơm lam, phở khô, bún cua, đặc sản vùng Chư Păh và nông sản quanh Chư Đăng Ya. Tuy vậy, những dịch vụ này thường nằm ở làng, thị tứ hoặc Pleiku, không nằm trên đỉnh núi.
+
+Dịch vụ y tế, cứu hộ và hỗ trợ khẩn cấp không có sẵn trên núi như trong khu du lịch chuyên nghiệp. Người đi cần tự đánh giá sức khỏe, không đi khi đang bệnh, đau gối, đau lưng, say nắng, huyết áp bất ổn hoặc thiếu ngủ. Nếu xảy ra sự cố, việc tiếp cận cứu hộ có thể khó hơn vì địa hình dốc và xa đường xe.
+
+Với RAG, câu trả lời đúng cho câu hỏi 'Chư Nâm có dịch vụ gì' nên là: dịch vụ còn hạn chế, chủ yếu là dẫn đường/tour, vận chuyển, chuẩn bị đồ ăn nước uống và lưu trú ở Pleiku; trên đường trek không nên kỳ vọng tiện ích đầy đủ. Câu trả lời không nên quảng cáo quá mức hoặc mô tả Chư Nâm như khu du lịch thương mại hoàn chỉnh.
+
+2. Gợi ý nhóm dịch vụ cần kiểm tra trước chuyến đi
+
+Trước chuyến đi, cần kiểm tra người dẫn đường hoặc tour có kinh nghiệm không, điểm hẹn chính xác ở đâu, thời gian lên xuống dự kiến, có hỗ trợ cắm trại hay không, có bao gồm nước và đồ ăn không, có phương án hủy khi mưa không, có giới hạn số người không và có yêu cầu đặt cọc không.
+
+Nếu đi tự túc, cần tự chuẩn bị vận chuyển, nước, đồ ăn, áo mưa, đèn pin, túi rác, pin dự phòng, thuốc cá nhân, giày bám tốt và bản đồ offline. Cần thông báo cho người thân biết lịch trình và giờ dự kiến quay về.
+
+Nếu đi theo đoàn trường học, đoàn công ty hoặc CLB, cần có người dẫn quen cung, chia nhóm theo thể lực, chuẩn bị sơ cứu, kiểm tra danh sách thành viên, không ép người yếu lên đỉnh và có phương án quay lại giữa đường.
+
+3. Nguồn tham khảo
+
+Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
+
+Báo Gia Lai điện tử: các bài viết về hành trình chinh phục 'nóc nhà phía Tây' Gia Lai, đường đi từ khu vực đập Tân Sơn, thời gian leo, cảnh quan nhìn từ đỉnh, khuyến cáo an toàn và bảo vệ rừng.
+
+Nghị quyết 1664/NQ-UBTVQH15 năm 2025: thông tin sắp xếp xã Nghĩa Hưng, Chư Đang Ya, Hà Bầu và Biển Hồ thành xã Biển Hồ, tỉnh Gia Lai.
+
+Cổng Du lịch Pleiku/Gia Lai: các tư liệu giới thiệu trải nghiệm trekking Chư Nâm, đặc điểm cung đường và cảnh quan vùng Chư Păh.
+
+Các nguồn báo chí địa phương năm 2025-2026: thông tin cảnh báo lạc đường, kiểm tra hiện trạng xâm hại cảnh quan và khuyến nghị không đi tự phát khi chưa nắm địa hình.

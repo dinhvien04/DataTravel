@@ -1,0 +1,67 @@
+1. 1. Các địa điểm gần Biển Quy Nhơn
+
+Biển Quy Nhơn rất thuận tiện để kết hợp với các điểm trong thành phố. Khi người dùng ở trung tâm, có thể xây lịch trình ngắn gồm bãi biển, quảng trường, Ghềnh Ráng, Tháp Đôi, chùa Long Khánh, Trại phong Quy Hòa và khu ẩm thực. Nếu người dùng có cả ngày, có thể mở rộng sang Kỳ Co, Eo Gió, Hòn Khô, Bãi Xếp hoặc Đầm Thị Nại.
+
+2. Dữ liệu chi tiết
+
+3. 2. Sự kiện/lễ hội gần khu biển
+
+Quy Nhơn thường có các sự kiện mùa hè, marathon, chương trình âm nhạc, hoạt động thể thao biển và lễ hội du lịch tại khu trung tâm/quảng trường. Nguồn Cục Du lịch Quốc gia Việt Nam ghi Lễ hội du lịch hè Bình Định 2025 diễn ra tại Quảng trường Nguyễn Tất Thành với chủ đề gắn với “Quy Nhơn - Thiên đường biển”. Cổng thông tin Du lịch Quy Nhơn cũng có mục sự kiện cập nhật các hoạt động như VnExpress Marathon Quy Nhơn, chương trình khai mạc du lịch hè, golf, nghệ thuật.
+
+Ngoài sự kiện hiện đại, vùng Bình Định/Quy Nhơn có nền văn hóa “đất võ, trời văn” với võ cổ truyền, bài chòi, hát bội, nhạc võ Tây Sơn và các lễ hội địa phương. Các yếu tố này nên xuất hiện trong dữ liệu xung quanh để khi người dùng hỏi “đi biển Quy Nhơn có gì ngoài tắm biển”, chatbot có thể gợi ý trải nghiệm văn hóa.
+
+4. 3. Hoạt động theo mùa
+
+5. Mùa khô/cao điểm biển
+
+Từ khoảng tháng 3 đến tháng 9, biển thường thuận lợi hơn cho tắm biển, đi đảo, lặn san hô, chèo kayak/cano và chụp ảnh. Đây cũng là giai đoạn nhiều khách nội địa đi du lịch hè, nên khách sạn và tour có thể tăng giá, cần đặt trước.
+
+6. Mùa mưa/cuối năm
+
+Mùa mưa có thể ít đông hơn và chi phí mềm hơn, nhưng các hoạt động tàu/cano và bãi đá phụ thuộc lớn vào sóng gió. Gợi ý phù hợp hơn là nghỉ dưỡng, ẩm thực, tham quan Tháp Đôi, bảo tàng, chùa, quán cà phê, city tour nếu thời tiết không thuận lợi cho biển đảo.
+
+7. Dịp lễ/tết và sự kiện
+
+Dịp lễ 30/4-1/5, hè, Quốc khánh hoặc các tuần có marathon/lễ hội, khu biển trung tâm có thể đông hơn. Chatbot nên khuyên đặt phòng sớm, đi biển sáng sớm để tránh đông, kiểm tra đường cấm/sự kiện quanh quảng trường.
+
+8. 4. Đối tượng phù hợp
+
+9. Dữ liệu chi tiết
+
+Đối tượng: Gia đình có trẻ nhỏ. Mức độ phù hợp: Cao. Lý do: Gần trung tâm, dễ ăn uống, dễ quay về khách sạn. Gợi ý: Chọn đoạn nước nông, đi sáng/chiều.
+
+Đối tượng: Cặp đôi. Mức độ phù hợp: Cao. Lý do: Bình minh/hoàng hôn, cà phê biển, dạo tối. Gợi ý: Kết hợp Ghềnh Ráng hoặc Eo Gió.
+
+Đối tượng: Người lớn tuổi. Mức độ phù hợp: Cao. Lý do: Ít phải di chuyển xa, có nhiều dịch vụ. Gợi ý: Tránh nắng, chọn khách sạn sát biển.
+
+Đối tượng: Nhóm bạn trẻ. Mức độ phù hợp: Cao. Lý do: Dễ check-in, ăn uống, đi tour đảo. Gợi ý: Thêm Kỳ Co, Hòn Khô, bar/cà phê biển.
+
+Đối tượng: Khách thích hoang sơ. Mức độ phù hợp: Trung bình. Lý do: Biển trung tâm có tính đô thị. Gợi ý: Nên thêm Bãi Xếp, Hòn Khô, Cù Lao Xanh.
+
+Đối tượng: Khách đi công tác. Mức độ phù hợp: Cao. Lý do: Có thể tranh thủ sáng/tối. Gợi ý: Ở gần Xuân Diệu/An Dương Vương.
+
+10. 5. Quan hệ giữa Biển Quy Nhơn và các bãi biển khác
+
+Trong truy vấn người dùng, “biển Quy Nhơn” đôi khi được dùng chung để chỉ cả hệ sinh thái biển đảo của Quy Nhơn, nhưng trong dữ liệu này cần phân biệt: Biển Quy Nhơn là bãi biển trung tâm, còn Kỳ Co, Eo Gió, Hòn Khô, Bãi Xếp, Trung Lương, Cù Lao Xanh là các điểm xung quanh hoặc trong vùng du lịch Quy Nhơn - Bình Định/Gia Lai. Nếu người dùng hỏi chung, chatbot nên hỏi lại họ muốn “bãi biển trung tâm” hay “các bãi biển đẹp ở Quy Nhơn”.
+
+Câu phân biệt ngắn cho chatbot: Biển Quy Nhơn trung tâm tiện đi bộ, ăn uống và ngắm bình minh; Kỳ Co/Hòn Khô phù hợp tour cano, biển xanh và san hô; Eo Gió mạnh về vách đá và check-in; Bãi Xếp hợp không gian làng chài yên tĩnh; Trung Lương hợp cắm trại/đi chơi xa hơn.
+
+11. Nguồn tham khảo
+
+Vietnam Airlines - Du lịch Quy Nhơn: kinh nghiệm vui chơi tự túc: https://www.vietnamairlines.com/us/vi/plan-book/travel/travel-guide/du-lich-quy-nhon
+
+Cổng thông tin Du lịch Quy Nhơn - 3 ngày khám phá Quy Nhơn: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Cổng thông tin Du lịch Quy Nhơn - Vẻ đẹp hoang sơ của làng chài Bãi Xếp: https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/
+
+Cổng thông tin Du lịch Quy Nhơn - Sự kiện/Events: https://dulichquynhon.binhdinh.gov.vn/en/events
+
+Cục Du lịch Quốc gia Việt Nam - Khai mạc Lễ hội du lịch hè Bình Định 2025: https://vietnamtourism.gov.vn/post/63366
+
+Cổng thông tin Du lịch Quy Nhơn - Tour Kỳ Co - Eo Gió: https://dulichquynhon.binhdinh.gov.vn/vi/tourdetail/
+
+Cổng thông tin Du lịch Quy Nhơn - Biển Kỳ Co: https://dulichquynhon.binhdinh.gov.vn/vi/baikyco
+
+Cổng thông tin Du lịch Quy Nhơn - Biển Trung Lương: https://dulichquynhon.binhdinh.gov.vn/vi/trungluongbeach
+
+Ghi chú trích xuất: Khi sử dụng cho RAG, nên lưu cả trường source_url, retrieval_date và freshness_note cho từng chunk để chatbot biết dữ liệu nào cần kiểm chứng lại theo thời gian.
