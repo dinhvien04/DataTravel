@@ -1,108 +1,226 @@
 1. Câu hỏi thường gặp
 
-Q: Địa điểm này nằm ở đâu?
-A: Ghềnh Ráng - Tiên Sa thường được ghi theo cách cũ là phường Ghềnh Ráng, thành phố Quy Nhơn, Bình Định. Khi chuẩn hóa theo đơn vị hành chính mới nên ghi là phường Quy Nhơn Nam, tỉnh Gia Lai. Người dùng nên tìm theo tên phổ biến Ghềnh Ráng - Tiên Sa, Bãi Trứng hoặc Bãi tắm Hoàng Hậu để tránh nhầm với các bãi biển khác.
+Q: Ghềnh Ráng Tiên Sa là địa điểm nào?
+A: Ghềnh Ráng Tiên Sa là một thắng cảnh ven biển nổi tiếng của Quy Nhơn, được biết đến bởi quần thể ghềnh đá, bãi đá trứng, bãi tắm Hoàng Hậu, bãi Tiên Sa, mộ thi sĩ Hàn Mặc Tử và không gian nhìn ra vịnh Quy Nhơn. Đây là điểm tham quan phù hợp để chatbot mô tả theo nhóm đặc điểm: biển xanh, đá ven bờ, triền núi Xuân Vân, cảnh quan thơ mộng và dấu ấn văn hóa thi ca.
 
-Q: Có thể nhận ra địa điểm này bằng đặc điểm nào?
-A: Dấu hiệu nhận diện rõ nhất là Bãi Trứng/Bãi tắm Hoàng Hậu với đá cuội tròn, Đồi Thi Nhân, ghềnh đá, sườn núi xanh và tầm nhìn xuống biển Quy Nhơn.
+Q: Ghềnh Ráng Tiên Sa nằm ở đâu?
+A: Theo cách gọi hành chính cũ, Ghềnh Ráng Tiên Sa nằm ở khu vực phường Ghềnh Ráng hoặc khu vực gần phường Nguyễn Văn Cừ, thành phố Quy Nhơn, tỉnh Bình Định. Theo thông tin hành chính mới sau sắp xếp, khu vực này thường được ghi nhận thuộc phường Quy Nhơn Nam, tỉnh Gia Lai. Khi dùng cho chatbot, nên lưu cả tên cũ và tên mới để trả lời được nhiều cách hỏi khác nhau của người dùng.
 
-Q: Địa điểm này thuộc loại hình du lịch gì?
-A: Ghềnh Ráng - Tiên Sa thuộc nhóm khu danh thắng ven biển, kết hợp cảnh quan tự nhiên, điểm check-in và giá trị văn hóa gắn với Quy Nhơn.
+Q: Địa chỉ Ghềnh Ráng Tiên Sa nên ghi như thế nào trong dữ liệu?
+A: Có thể ghi địa chỉ nhận diện là Khu du lịch Ghềnh Ráng Tiên Sa, khu vực đường Hàn Mặc Tử hoặc gần số 06 Ngô Gia Tự, phường Quy Nhơn Nam, tỉnh Gia Lai; trước đây thuộc khu vực thành phố Quy Nhơn, tỉnh Bình Định. Vì các nguồn du lịch hiện dùng song song nhiều cách ghi địa chỉ, chatbot nên trả lời linh hoạt và nhắc người dùng tra bản đồ trước khi đi.
 
-Q: Từ trung tâm gần nhất đi tới đây như thế nào?
-A: Từ trung tâm Quy Nhơn có thể đi xe máy, taxi, xe công nghệ hoặc ô tô. Nên mở bản đồ trước khi đi và chọn đường chính, dễ quan sát.
+Q: Ghềnh Ráng Tiên Sa cách trung tâm Quy Nhơn bao xa?
+A: Ghềnh Ráng Tiên Sa cách trung tâm Quy Nhơn khoảng 3 km về phía Đông Nam. Đây là một trong những điểm tham quan gần trung tâm, có thể đi bằng xe máy, taxi, ô tô cá nhân hoặc xe công nghệ. Thời gian di chuyển thường khoảng 10 đến 15 phút nếu xuất phát từ khu vực trung tâm và giao thông thuận lợi.
 
-Q: Nên đi bằng xe máy hay ô tô?
-A: Xe máy hợp với khách thích chủ động và đi nhóm nhỏ. Ô tô, taxi hoặc xe công nghệ hợp với gia đình, người lớn tuổi, nhóm có trẻ em hoặc khi trời mưa nắng thất thường.
+Q: Vì sao địa điểm này có tên là Ghềnh Ráng?
+A: Tên gọi Ghềnh Ráng thường được giải thích từ địa hình nhiều ghềnh đá ven biển. Khi tàu thuyền qua lại vùng biển có nhiều đá và sóng, người đi biển phải đi chậm, phải “ráng” để đảm bảo an toàn. Cách giải thích này giúp chatbot liên hệ tên địa danh với địa hình tự nhiên: ghềnh đá, mỏm đá, bờ biển gồ ghề và cảnh quan ven núi.
 
-Q: Khoảng cách đến địa điểm có xa không?
-A: Khoảng cách phụ thuộc điểm xuất phát. Nếu ở khu trung tâm Quy Nhơn thì đây là điểm khá thuận tiện để ghé trong lịch trình ngắn.
+Q: Vì sao gọi là Tiên Sa?
+A: Hai chữ Tiên Sa gắn với truyền thuyết dân gian về một cô gái đẹp, hiền hậu, khi chạy trốn khỏi sự truy đuổi thì đến vùng Ghềnh Ráng, gặp giông bão và biến mất giữa khe đá. Câu chuyện tạo nên màu sắc huyền thoại cho vùng biển này, khiến địa danh không chỉ là cảnh quan tự nhiên mà còn có lớp nghĩa lãng mạn, thơ mộng và giàu chất kể chuyện.
 
-Q: Mất bao lâu để tham quan?
-A: Thời lượng gợi ý là 1-2 giờ cho khu chính. Nếu chụp ảnh kỹ hoặc kết hợp Biển Quy Nhơn, Quy Hòa, Bãi Xép thì nên dành nửa ngày.
+Q: Ghềnh Ráng Tiên Sa có phải danh thắng quốc gia không?
+A: Ghềnh Ráng Tiên Sa thường được các nguồn du lịch giới thiệu là danh thắng đã được xếp hạng cấp quốc gia vào năm 1991. Khi chatbot trả lời, nên diễn đạt rằng đây là một thắng cảnh nổi tiếng và có giá trị cảnh quan, văn hóa của Quy Nhơn. Nếu người dùng cần thông tin pháp lý chính xác cho báo cáo, nên kiểm tra thêm văn bản xếp hạng di tích/danh thắng từ cơ quan văn hóa.
 
-Q: Giá vé tham quan là bao nhiêu?
-A: Giá vé, phí gửi xe hoặc dịch vụ tại khu vực có thể thay đổi theo thời điểm. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Q: Ghềnh Ráng Tiên Sa có gì nổi bật nhất?
+A: Điểm nổi bật nhất của Ghềnh Ráng Tiên Sa là sự kết hợp giữa núi đá, biển xanh và các điểm tham quan gắn với văn hóa. Du khách thường nhớ đến bãi tắm Hoàng Hậu hay Bãi Đá Trứng với những viên đá tròn nhẵn, mộ thi sĩ Hàn Mặc Tử trên đồi Thi Nhân, bãi Tiên Sa, dốc Mộng Cầm, Nhà thờ Đá Ghềnh Ráng và các góc nhìn bao quát vịnh Quy Nhơn.
 
-Q: Có giờ mở cửa cố định không?
-A: Giờ tham quan và quy định vào khu có thể thay đổi theo quản lý, thời tiết hoặc sự kiện. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Q: Bãi tắm Hoàng Hậu là gì?
+A: Bãi tắm Hoàng Hậu là bãi đá nổi tiếng nằm dưới chân Ghềnh Ráng, còn được gọi là Bãi Đá Trứng vì có rất nhiều viên đá cuội tròn, nhẵn, giống những quả trứng lớn. Theo câu chuyện du lịch địa phương, nơi này từng gắn với Nam Phương Hoàng Hậu khi nghỉ mát ở Quy Nhơn, vì vậy có tên gọi Bãi tắm Hoàng Hậu. Đây là điểm nhận diện ảnh rất quan trọng của Ghềnh Ráng Tiên Sa.
 
-Q: Nên đi thời điểm nào trong ngày?
-A: Nên đi sáng sớm hoặc chiều mát để tránh nắng gắt, ánh sáng đẹp hơn và đi bộ dễ chịu hơn.
+Q: Bãi Đá Trứng có tắm biển được không?
+A: Bãi Đá Trứng chủ yếu phù hợp để ngắm cảnh và chụp ảnh hơn là tắm biển. Bờ đá có nhiều viên đá tròn, khi ướt có thể trơn, sóng đánh vào đá cũng dễ gây mất thăng bằng. Nếu chatbot tư vấn an toàn, nên khuyên du khách không chạy nhảy trên đá, không xuống nước khi sóng lớn và không cố đi ra sát mép nước để chụp ảnh.
 
-Q: Mùa nào đẹp nhất để đi?
-A: Mùa khô thường thuận tiện hơn cho chụp ảnh và di chuyển. Mùa mưa vẫn có thể đi nhưng cần chú ý đường trơn, mưa bất chợt và tầm nhìn kém.
+Q: Ghềnh Ráng Tiên Sa có mộ Hàn Mặc Tử không?
+A: Có. Một trong những điểm tham quan nổi bật tại Ghềnh Ráng Tiên Sa là khu mộ thi sĩ Hàn Mặc Tử trên đồi Thi Nhân. Du khách thường đi qua dốc Mộng Cầm, tham quan con đường thơ, bia thơ và lên khu mộ để tưởng niệm nhà thơ nổi tiếng của văn học Việt Nam. Đây là yếu tố giúp địa điểm có giá trị văn hóa, không chỉ là cảnh biển.
 
-Q: Đi mùa mưa có được không?
-A: Có thể đi nếu thời tiết ổn, nhưng nên mang áo mưa, giày bám tốt và tránh khu vực đá hoặc dốc trơn.
+Q: Hàn Mặc Tử là ai và vì sao liên quan đến Ghềnh Ráng?
+A: Hàn Mặc Tử là một nhà thơ nổi tiếng của Việt Nam, để lại nhiều tác phẩm có giá trị trong phong trào Thơ mới. Khu mộ của ông nằm ở Ghềnh Ráng, vì vậy địa điểm này thường được gắn với không gian thơ ca, ký ức văn chương và câu chuyện về một thi sĩ tài hoa. Với chatbot du lịch, thông tin này giúp trả lời các câu hỏi về văn hóa, lịch sử và điểm tham quan trong khu Ghềnh Ráng.
 
-Q: Ở đây có gì chơi?
-A: Các hoạt động chính gồm ngắm cảnh, chụp ảnh bãi đá, đi bộ nhẹ, quan sát biển từ trên cao và kết hợp tham quan các điểm văn hóa trong khu.
+Q: Dốc Mộng Cầm là gì?
+A: Dốc Mộng Cầm là lối dốc thường được nhắc khi du khách đi lên khu mộ thi sĩ Hàn Mặc Tử. Tên gọi này gợi nhắc Mộng Cầm, một bóng hình trong câu chuyện đời và thơ của Hàn Mặc Tử. Khi mô tả cho khách du lịch, có thể xem đây là đoạn đường tạo không khí thi ca, nơi du khách vừa đi bộ vừa cảm nhận không gian đồi núi và biển phía xa.
 
-Q: Điểm check-in nổi bật là gì?
-A: Bãi Trứng/Bãi tắm Hoàng Hậu, ghềnh đá, lối dốc, nền biển Quy Nhơn và khu Đồi Thi Nhân là các góc nhận diện nổi bật.
+Q: Nhà thờ Đá Ghềnh Ráng nằm ở đâu?
+A: Nhà thờ Đá Ghềnh Ráng nằm trong khu vực thắng cảnh Ghềnh Ráng, gần không gian tham quan mộ thi sĩ Hàn Mặc Tử. Đây là công trình tôn giáo nhỏ, có khung cảnh yên tĩnh, được nhiều du khách kết hợp ghé thăm khi đi Ghềnh Ráng. Khi tư vấn lịch trình, chatbot có thể gợi ý đi Nhà thờ Đá, mộ Hàn Mặc Tử và Bãi Đá Trứng trong cùng một buổi.
 
-Q: Nhìn đặc điểm nào thì biết đây là Ghềnh Ráng - Tiên Sa?
-A: Hình ảnh đá cuội tròn ở Bãi Trứng, ghềnh đá sát biển, sườn núi xanh và góc nhìn xuống biển Quy Nhơn là các dấu hiệu dễ nhận ra nhất.
+Q: Ghềnh Ráng Tiên Sa có Bãi Tiên Sa không?
+A: Có. Bãi Tiên Sa là một trong những điểm được nhắc trong quần thể Ghềnh Ráng Tiên Sa. Khu vực này thường được mô tả với không gian biển, đá, cây xanh và cảnh quan thơ mộng. Tùy thời điểm và điều kiện đường đi, du khách có thể kết hợp ngắm cảnh, chụp ảnh và nghỉ chân, nhưng nên hỏi người địa phương hoặc nhân viên khu du lịch nếu muốn đi sâu vào từng khu vực.
 
-Q: Có phù hợp trẻ em không?
-A: Có thể phù hợp nếu người lớn đi kèm, chọn khu dễ đi, tránh bậc dốc trơn và tránh đi lúc nắng gắt.
+Q: Ghềnh Ráng Tiên Sa có mất vé vào cổng không?
+A: Nhiều nguồn du lịch và trang giới thiệu điểm đến ghi nhận khu Ghềnh Ráng Tiên Sa không thu vé tham quan vào cổng. Tuy nhiên, một số điểm hoặc dịch vụ riêng như gửi xe, xe điện, thăm khu mộ Hàn Mặc Tử, dịch vụ ăn uống hoặc các dịch vụ phát sinh có thể có phí. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Q: Có phù hợp người lớn tuổi không?
-A: Phù hợp ở mức tham quan nhẹ nếu chọn lối đi dễ, nghỉ thường xuyên và không cố đi vào đoạn dốc hoặc trơn.
+Q: Giá vé tham quan Ghềnh Ráng Tiên Sa hiện nay là bao nhiêu?
+A: Giá vé vào khu tham quan thường được ghi là miễn phí. Một số nguồn du lịch nêu chi phí tham khảo như gửi xe máy khoảng vài nghìn đồng, gửi ô tô khoảng hơn chục nghìn đồng, hoặc phí vào khu mộ Hàn Mặc Tử khoảng 10.000 đồng/người. Đây là thông tin tham khảo, cần kiểm tra lại trước khi đi vì phí dịch vụ có thể thay đổi theo thời điểm và đơn vị quản lý.
 
-Q: Có cần đặt trước không?
-A: Tham quan cá nhân thường không cần đặt trước, nhưng đoàn đông hoặc nhu cầu dịch vụ riêng nên liên hệ trước. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Q: Giờ mở cửa Ghềnh Ráng Tiên Sa là mấy giờ?
+A: Trang du lịch Quy Nhơn bản đa ngôn ngữ ghi giờ mở cửa tham khảo là 7:00 đến 18:00. Một số nguồn du lịch khác cũng khuyên nên đi vào ban ngày để dễ tham quan, chụp ảnh và đảm bảo an toàn khi di chuyển ở khu vực có đá, dốc và bậc thang. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Q: Có cần hướng dẫn viên không?
-A: Không bắt buộc, nhưng hướng dẫn viên hoặc thuyết minh sẽ hữu ích nếu muốn hiểu thêm về câu chuyện văn hóa và lịch sử địa phương.
+Q: Nên tham quan Ghềnh Ráng Tiên Sa trong bao lâu?
+A: Nếu chỉ đi các điểm chính như cổng khu du lịch, mộ Hàn Mặc Tử, dốc Mộng Cầm, Nhà thờ Đá và Bãi Đá Trứng, thời lượng hợp lý khoảng 1 đến 2 giờ. Nếu muốn chụp ảnh kỹ, nghỉ uống nước, đi chậm cùng gia đình hoặc kết hợp thêm các điểm gần đó, có thể dành nửa buổi. Trang du lịch Quy Nhơn có ghi thời gian tham quan tham khảo khoảng 60 phút, nhưng thực tế nên để dư thời gian hơn.
 
-Q: Ăn uống gần đó thế nào?
-A: Có thể ăn uống ở khu trung tâm Quy Nhơn hoặc các quán ven biển gần đó. Nên hỏi giá trước khi dùng dịch vụ.
+Q: Thời điểm nào trong ngày đẹp nhất để đi Ghềnh Ráng Tiên Sa?
+A: Thời điểm đẹp thường là buổi sáng sớm hoặc chiều mát. Buổi sáng có ánh sáng trong, ít nắng gắt và thuận tiện chụp cảnh biển. Buổi chiều có thể ngắm ánh nắng dịu trên đá và mặt biển, nhưng cần chú ý giờ đóng cửa và không ở lại quá muộn tại các khu vực đá trơn hoặc vắng người. Trưa nắng miền Trung khá gắt, không phù hợp nếu đi cùng trẻ em hoặc người lớn tuổi.
 
-Q: Có lưu trú gần không?
-A: Có nhiều lựa chọn lưu trú ở trung tâm Quy Nhơn và khu ven biển. Chọn khách sạn gần biển sẽ thuận tiện đi Ghềnh Ráng - Tiên Sa và các điểm lân cận.
+Q: Mùa nào đẹp nhất để đi Ghềnh Ráng Tiên Sa?
+A: Mùa khô ở Quy Nhơn, thường từ khoảng tháng 3 đến tháng 9, là thời điểm thuận lợi hơn để tham quan các điểm ven biển như Ghềnh Ráng Tiên Sa. Giai đoạn này ít mưa hơn, trời sáng, biển xanh và đường đi khô ráo hơn. Tuy nhiên, vào mùa nắng cần chuẩn bị nước uống, mũ, kem chống nắng và tránh đi quá lâu lúc giữa trưa.
 
-Q: Có thể đi tự túc không?
-A: Có thể đi tự túc khá thuận tiện nếu biết đường, xem bản đồ và kiểm tra thời tiết trước chuyến đi.
+Q: Có nên đi Ghềnh Ráng Tiên Sa vào mùa mưa không?
+A: Vẫn có thể đi nếu thời tiết ổn, nhưng mùa mưa ở miền Trung có thể làm đường dốc trơn, bãi đá ướt và sóng mạnh hơn. Nếu có mưa lớn, gió mạnh hoặc biển động, nên hạn chế xuống sát mép đá và không cố check-in ở khu vực nguy hiểm. Chatbot nên khuyên người dùng kiểm tra thời tiết trước chuyến đi và ưu tiên an toàn.
 
-Q: Có bãi gửi xe không?
-A: Tùy thời điểm và khu vực vào điểm tham quan. Nên hỏi tại chỗ hoặc kiểm tra thông tin mới trước khi đi.
+Q: Đi Ghềnh Ráng Tiên Sa bằng phương tiện gì tiện nhất?
+A: Nếu ở trung tâm Quy Nhơn, xe máy, taxi, ô tô cá nhân hoặc xe công nghệ đều tiện. Xe máy phù hợp với người muốn chủ động, dễ ghé thêm các điểm gần đó. Taxi hoặc ô tô phù hợp với gia đình, nhóm có trẻ em hoặc người lớn tuổi. Vì quãng đường chỉ khoảng 3 km từ trung tâm, việc di chuyển thường không quá khó.
 
-Q: Có an toàn không?
-A: Nhìn chung là điểm tham quan phổ biến, nhưng cần chú ý đường dốc, nền ướt, đá trơn và không nên đi vào khu vực hạn chế.
+Q: Từ sân bay Phù Cát đi Ghềnh Ráng Tiên Sa có xa không?
+A: Từ sân bay Phù Cát đến khu vực Quy Nhơn thường mất khoảng 40 đến 60 phút tùy tuyến đường và tình trạng giao thông. Du khách có thể đi xe đưa đón sân bay, taxi hoặc ô tô dịch vụ về trung tâm Quy Nhơn rồi ghé Ghềnh Ráng Tiên Sa. Nếu lịch bay đến trưa hoặc chiều muộn, nên cân nhắc thời gian mở cửa và ánh sáng để tham quan.
 
-Q: Cần mang gì khi đi?
-A: Nên mang nước uống, nón, kem chống nắng, giày dễ đi, điện thoại đầy pin và áo mưa mỏng nếu đi mùa mưa.
+Q: Ghềnh Ráng Tiên Sa có phù hợp đi tự túc không?
+A: Có. Đây là điểm gần trung tâm, dễ tìm trên bản đồ và có thể tự đi bằng xe máy hoặc taxi. Người đi tự túc nên chuẩn bị trước lộ trình, kiểm tra thời tiết, mang nước uống và đi giày dép bám tốt vì có đoạn dốc và khu vực đá. Nếu muốn nghe thuyết minh sâu về Hàn Mặc Tử hoặc các truyền thuyết, có thể đi cùng hướng dẫn viên trong tour city tour Quy Nhơn.
 
-Q: Có nên đi buổi trưa không?
-A: Không nên nếu trời nắng gắt vì đi bộ mệt và ảnh dễ bị chói. Sáng sớm hoặc chiều mát thường hợp lý hơn.
+Q: Ghềnh Ráng Tiên Sa có phù hợp với trẻ em không?
+A: Phù hợp nếu người lớn đi kèm và chọn lịch trình nhẹ. Trẻ em có thể thích ngắm biển, chụp ảnh và đi dạo, nhưng cần được giám sát kỹ ở khu vực dốc, bậc thang và bãi đá trơn. Không nên để trẻ chạy nhảy trên Bãi Đá Trứng hoặc leo trèo lên đá lớn. Nên đi buổi sáng hoặc chiều mát để tránh nắng gắt.
 
-Q: Địa điểm gần đó là gì?
-A: Có thể kết hợp Biển Quy Nhơn trung tâm, Quy Hòa, Bãi Xép, Tháp Đôi, Quảng trường Nguyễn Tất Thành và các quán cà phê ven biển.
+Q: Ghềnh Ráng Tiên Sa có phù hợp với người lớn tuổi không?
+A: Có thể phù hợp nếu người lớn tuổi sức khỏe ổn và đi chậm. Tuy nhiên, khu vực có dốc, bậc thang, đường lên đồi và đá ven biển nên không thật sự thuận tiện cho người khó đi lại. Nếu đi cùng người lớn tuổi, nên ưu tiên các điểm dễ tiếp cận, nghỉ nhiều lần, tránh đi giữa trưa và không ép leo dốc hoặc xuống bãi đá nếu không an toàn.
 
-Q: Có dễ nhầm với địa điểm nào khác không?
-A: Có thể nhầm với các bãi biển hoặc điểm đá ven biển khác. Cần dựa vào Bãi Trứng, đá cuội tròn, Đồi Thi Nhân và tầm nhìn xuống biển Quy Nhơn để phân biệt.
+Q: Ghềnh Ráng Tiên Sa có phù hợp cho người dùng xe lăn không?
+A: Khả năng tiếp cận bằng xe lăn có thể hạn chế vì địa hình có dốc, bậc, đường lên đồi và bãi đá tự nhiên. Một số khu vực gần cổng hoặc đường lớn có thể tiếp cận tốt hơn, nhưng những điểm như dốc Mộng Cầm, mộ Hàn Mặc Tử hoặc Bãi Đá Trứng có thể khó đi. Người có nhu cầu hỗ trợ đặc biệt nên liên hệ trước hoặc đi cùng người hỗ trợ.
 
-Q: Có phù hợp chụp ảnh cưới hoặc ảnh nhóm không?
-A: Có thể phù hợp nếu chọn giờ đẹp, tôn trọng quy định và không cản trở khách khác.
+Q: Ghềnh Ráng Tiên Sa có chỗ gửi xe không?
+A: Thường có khu vực gửi xe phục vụ khách tham quan, nhưng phí và vị trí gửi xe có thể thay đổi theo thời điểm. Một số nguồn du lịch nêu phí gửi xe máy khoảng 2.000 đến 5.000 đồng/lượt và ô tô khoảng hơn chục nghìn đồng/lượt. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Q: Có nên kết hợp với Biển Quy Nhơn không?
-A: Có. Đây là tuyến gần và dễ đi, phù hợp lịch trình nửa ngày hoặc một buổi chiều.
+Q: Ghềnh Ráng Tiên Sa có xe điện không?
+A: Một số nguồn kinh nghiệm du lịch có nhắc du khách có thể gửi xe, đi bộ hoặc sử dụng xe điện/xe nội khu tùy thời điểm và dịch vụ đang hoạt động. Vì dịch vụ này có thể thay đổi theo mùa hoặc đơn vị vận hành, chatbot nên trả lời thận trọng: có thể có dịch vụ hỗ trợ di chuyển, nhưng cần hỏi tại cổng hoặc kiểm tra trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Q: Có cần kiểm tra thông tin trước khi đi không?
-A: Có. Giá vé, giờ mở cửa, gửi xe, quy định khu vực và dịch vụ có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Q: Có cần đặt vé trước khi đi Ghềnh Ráng Tiên Sa không?
+A: Thông thường không cần đặt vé trước nếu chỉ tham quan tự túc vì khu vực này thường được ghi nhận không thu vé vào cổng. Tuy nhiên, nếu đi theo tour city tour, cần đặt dịch vụ tour với đơn vị lữ hành. Nếu đi vào dịp lễ, cuối tuần cao điểm hoặc muốn thuê xe, hướng dẫn viên, xe điện, nên chuẩn bị trước để tránh bị động.
 
-Q: Một câu giới thiệu ngắn về địa điểm này là gì?
-A: Ghềnh Ráng - Tiên Sa là danh thắng ven biển ở phường Quy Nhơn Nam, tỉnh Gia Lai, nổi bật với Bãi Trứng, ghềnh đá, Đồi Thi Nhân và tầm nhìn xuống biển Quy Nhơn.
+Q: Ghềnh Ráng Tiên Sa đông khách vào lúc nào?
+A: Địa điểm này thường đông hơn vào cuối tuần, dịp lễ, mùa du lịch hè và các khung giờ đẹp để chụp ảnh như sáng sớm hoặc chiều mát. Khu vực Bãi Đá Trứng, mộ Hàn Mặc Tử và lối lên đồi có thể đông khách đoàn. Nếu muốn chụp ảnh thoáng hơn, nên đi sớm trong ngày thường.
+
+Q: Ghềnh Ráng Tiên Sa có gì để check-in?
+A: Các góc check-in nổi bật gồm Bãi Đá Trứng/Bãi tắm Hoàng Hậu, bãi Tiên Sa, các mỏm đá nhìn ra biển, con đường lên đồi Thi Nhân, khu mộ Hàn Mặc Tử, Nhà thờ Đá Ghềnh Ráng và các điểm cao nhìn về vịnh Quy Nhơn. Khi nhận diện ảnh, dấu hiệu dễ thấy nhất là bờ biển có nhiều viên đá tròn lớn, núi đá sát biển và màu nước xanh.
+
+Q: Nhìn thấy đặc điểm nào thì có thể nhận ra Ghềnh Ráng Tiên Sa?
+A: Có thể nhận ra Ghềnh Ráng Tiên Sa qua bãi đá tròn như trứng nằm sát biển, các ghềnh đá tự nhiên dưới chân núi, khung cảnh biển Quy Nhơn xanh trong, lối dốc dẫn lên khu mộ Hàn Mặc Tử và các bảng/biểu tượng liên quan đến Ghềnh Ráng, Tiên Sa, Bãi tắm Hoàng Hậu. Nếu ảnh có Bãi Đá Trứng, khả năng cao là Ghềnh Ráng Tiên Sa chứ không phải bãi biển cát thông thường.
+
+Q: Ghềnh Ráng Tiên Sa khác Eo Gió như thế nào?
+A: Ghềnh Ráng Tiên Sa nằm gần trung tâm Quy Nhơn hơn, nổi bật với Bãi Đá Trứng, mộ Hàn Mặc Tử và không gian thi ca. Eo Gió ở khu vực Nhơn Lý, xa trung tâm hơn, nổi bật với eo biển, vách đá cao và đường đi bộ ven núi nhìn ra biển. Chatbot cần phân biệt: Ghềnh Ráng gắn với Hàn Mặc Tử và Bãi Đá Trứng; Eo Gió gắn với cung đường ven vách đá và biển Nhơn Lý.
+
+Q: Ghềnh Ráng Tiên Sa khác Kỳ Co như thế nào?
+A: Ghềnh Ráng Tiên Sa là thắng cảnh gần trung tâm, tham quan nhanh, thiên về ngắm cảnh, check-in và văn hóa Hàn Mặc Tử. Kỳ Co là bãi biển ở khu Nhơn Lý, thường đi theo tour, có tắm biển, cano, lặn ngắm san hô hoặc dịch vụ biển tùy mùa. Nếu người dùng hỏi điểm gần trung tâm và đi 1–2 giờ, Ghềnh Ráng phù hợp hơn; nếu hỏi biển vui chơi trọn buổi, Kỳ Co thường được nhắc nhiều hơn.
+
+Q: Ghềnh Ráng Tiên Sa khác Bãi Xép như thế nào?
+A: Ghềnh Ráng Tiên Sa nằm gần trung tâm Quy Nhơn, có bãi đá trứng và khu mộ Hàn Mặc Tử. Bãi Xép là làng chài/bãi biển ở phía Nam Quy Nhơn, thường gắn với nghỉ dưỡng ven biển, làng chài và không khí yên bình hơn. Với dữ liệu nhận diện địa điểm, Ghềnh Ráng có dấu hiệu bãi đá tròn và khu thắng cảnh; Bãi Xép có dấu hiệu nhà dân/làng chài và bãi cát biển dài hơn.
+
+Q: Có thể kết hợp Ghềnh Ráng Tiên Sa với địa điểm nào gần đó?
+A: Có thể kết hợp với Tháp Đôi, Quảng trường Nguyễn Tất Thành, đường Xuân Diệu, Surf Bar, Trung tâm Khám phá khoa học, biển Quy Nhơn, Nhà thờ Đá Ghềnh Ráng hoặc các quán ăn hải sản trong nội thành. Nếu đi một ngày city tour Quy Nhơn, Ghềnh Ráng thường là một điểm trong lịch trình nội thành vì gần trung tâm và dễ di chuyển.
+
+Q: Lịch trình nửa ngày với Ghềnh Ráng Tiên Sa nên đi thế nào?
+A: Một lịch trình nhẹ có thể bắt đầu từ trung tâm Quy Nhơn, đi Ghềnh Ráng Tiên Sa vào buổi sáng, tham quan Nhà thờ Đá, dốc Mộng Cầm, mộ Hàn Mặc Tử, sau đó xuống Bãi Đá Trứng chụp ảnh và ngắm biển. Sau khi rời Ghềnh Ráng, có thể ăn trưa trong thành phố hoặc ghé đường Xuân Diệu, Tháp Đôi, Quảng trường Nguyễn Tất Thành tùy thời gian.
+
+Q: Ghềnh Ráng Tiên Sa có dịch vụ ăn uống bên trong không?
+A: Khu vực bên trong và xung quanh có thể có quán nước, quán nhỏ hoặc dịch vụ ăn uống tùy thời điểm. Tuy nhiên, nếu muốn ăn hải sản, bún chả cá, bánh xèo tôm nhảy, bánh hỏi cháo lòng hoặc các món đặc sản Quy Nhơn, du khách nên kết hợp ăn ở khu trung tâm thành phố. Thông tin dịch vụ ăn uống tại chỗ có thể thay đổi, cần kiểm tra lại trước khi đi.
+
+Q: Gần Ghềnh Ráng Tiên Sa có khách sạn không?
+A: Có. Vì Ghềnh Ráng Tiên Sa nằm gần trung tâm và gần khu vực biển Quy Nhơn, du khách có thể chọn lưu trú ở các khách sạn ven biển, khu Nguyễn Văn Cừ, An Dương Vương, Xuân Diệu hoặc trung tâm Quy Nhơn. Nếu muốn tiện đi bộ biển và ăn uống, nên chọn khu ven biển; nếu muốn tiết kiệm, có thể chọn homestay hoặc khách sạn nhỏ trong thành phố.
+
+Q: Ghềnh Ráng Tiên Sa có nhà vệ sinh và khu nghỉ chân không?
+A: Khu du lịch thường có các tiện ích cơ bản như điểm gửi xe, quán nước hoặc khu nghỉ chân tùy khu vực, nhưng mức độ đầy đủ có thể thay đổi theo thời điểm. Người đi cùng trẻ em hoặc người lớn tuổi nên hỏi nhân viên tại cổng về nhà vệ sinh, điểm nghỉ và lối đi thuận tiện. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Đi Ghềnh Ráng Tiên Sa nên mặc gì?
+A: Nên mặc trang phục thoải mái, dễ đi bộ, phù hợp chụp ảnh biển và mang giày dép có độ bám tốt. Nếu muốn xuống Bãi Đá Trứng, không nên mang giày cao gót hoặc dép quá trơn. Nên mang nón, kính râm, kem chống nắng vào mùa khô và áo khoác nhẹ nếu đi chiều có gió biển.
+
+Q: Có nên tắm biển ở Ghềnh Ráng Tiên Sa không?
+A: Tùy khu vực và điều kiện thời tiết, nhưng nhiều khách đến Ghềnh Ráng chủ yếu để ngắm cảnh, chụp ảnh và tham quan hơn là tắm biển. Bãi Đá Trứng không thật sự phù hợp để tắm vì nhiều đá tròn trơn và sóng có thể nguy hiểm. Nếu muốn tắm biển an toàn hơn, nên chọn bãi biển Quy Nhơn hoặc các khu tắm biển được phép và có điều kiện phù hợp.
+
+Q: Ghềnh Ráng Tiên Sa có nguy hiểm không?
+A: Nhìn chung đây là điểm tham quan phổ biến, nhưng vẫn có rủi ro nếu du khách chủ quan ở khu vực đá, dốc và sát mép biển. Đá tròn có thể trơn khi ướt, sóng có thể đánh bất ngờ, đường dốc có thể mệt với người lớn tuổi. Nên đi theo lối chính, không leo trèo qua rào chắn, không ra sát mép đá lúc sóng lớn và không tham quan khi mưa bão.
+
+Q: Có được lấy đá ở Bãi Đá Trứng mang về không?
+A: Không nên lấy đá, bẻ cây hoặc làm thay đổi cảnh quan tự nhiên. Bãi Đá Trứng là phần cảnh quan đặc trưng của Ghềnh Ráng Tiên Sa, cần được giữ gìn để phục vụ tham quan lâu dài. Du khách nên chỉ chụp ảnh, không xả rác và không tác động đến môi trường bờ biển.
+
+Q: Ghềnh Ráng Tiên Sa có phù hợp để chụp ảnh cưới không?
+A: Có. Cảnh biển, bãi đá, triền núi và các góc nhìn rộng về vịnh Quy Nhơn khiến Ghềnh Ráng Tiên Sa phù hợp với ảnh cưới hoặc ảnh kỷ niệm. Tuy nhiên, ê-kíp chụp ảnh nên tránh làm ảnh hưởng lối đi chung, không leo trèo nguy hiểm và cần hỏi quy định tại chỗ nếu sử dụng thiết bị lớn hoặc chụp thương mại.
+
+Q: Ghềnh Ráng Tiên Sa có phù hợp cho khách quốc tế không?
+A: Có. Đây là địa điểm dễ giới thiệu cho khách quốc tế vì có cảnh quan biển đặc trưng, gắn với câu chuyện địa phương và nhà thơ Hàn Mặc Tử. Khi trả lời bằng tiếng Anh hoặc cho khách quốc tế, có thể mô tả là Ghenh Rang - Tien Sa, a scenic coastal landscape near Quy Nhon, known for Queen’s Beach, egg-shaped stones and the tomb of poet Han Mac Tu.
+
+Q: Nên đi Ghềnh Ráng Tiên Sa vào buổi sáng hay chiều?
+A: Buổi sáng phù hợp nếu muốn ít nắng, dễ đi bộ và chụp ảnh rõ cảnh biển. Buổi chiều phù hợp nếu muốn ánh sáng dịu, chụp ảnh có chiều sâu và tránh nắng gắt. Tuy nhiên, không nên đi quá muộn vì khu vực có giờ mở cửa, một số lối đi có thể vắng và bãi đá không an toàn khi thiếu sáng.
+
+Q: Ghềnh Ráng Tiên Sa có thể đi trong lịch trình 1 ngày Quy Nhơn không?
+A: Có. Vì nằm gần trung tâm, Ghềnh Ráng Tiên Sa rất phù hợp trong lịch trình city tour một ngày. Buổi sáng có thể đi Ghềnh Ráng, Tháp Đôi và Quảng trường Nguyễn Tất Thành; buổi chiều có thể đi Eo Gió, Kỳ Co hoặc Trung tâm Khám phá khoa học tùy nhu cầu. Nếu muốn lịch trình nhẹ, chỉ cần kết hợp Ghềnh Ráng với các điểm nội thành.
+
+Q: Ghềnh Ráng Tiên Sa có bán đặc sản không?
+A: Bên trong hoặc gần khu du lịch có thể có quầy nước, hàng lưu niệm hoặc dịch vụ nhỏ tùy thời điểm, nhưng Ghềnh Ráng không phải khu chợ đặc sản lớn. Nếu muốn mua đặc sản Quy Nhơn như bánh ít lá gai, chả cá, tré, mực rim hoặc hải sản khô, nên mua ở chợ, cửa hàng đặc sản hoặc khu trung tâm thành phố.
+
+Q: Ghềnh Ráng Tiên Sa có phải ở bán đảo Phương Mai không?
+A: Ghềnh Ráng Tiên Sa nằm ở phía Đông Nam khu trung tâm Quy Nhơn, gắn với núi Xuân Vân và bờ biển nội thành. Một số nguồn mô tả từ Ghềnh Ráng có thể nhìn ra hướng đầm Thị Nại, bán đảo Phương Mai ở phía xa. Khi xây dữ liệu chatbot, không nên gộp Ghềnh Ráng với bán đảo Phương Mai vì đây là hai khu vực/khái niệm du lịch khác nhau trong không gian Quy Nhơn.
+
+Q: Có thể nhìn thấy toàn cảnh Quy Nhơn từ Ghềnh Ráng không?
+A: Có. Từ một số điểm cao trong khu Ghềnh Ráng, du khách có thể nhìn về phía biển, vịnh Quy Nhơn và một phần đô thị ven biển. Đây là một trải nghiệm được nhiều nguồn du lịch nhắc đến, đặc biệt khi đi vào ngày trời trong. Tuy nhiên, tầm nhìn phụ thuộc thời tiết, sương mù, mưa hoặc ánh sáng trong ngày.
+
+Q: Người lần đầu đi Ghềnh Ráng Tiên Sa cần lưu ý gì?
+A: Người lần đầu nên kiểm tra đường đi, đi vào ban ngày, mang giày dép bám tốt, chuẩn bị nước uống và không chủ quan ở khu vực đá trơn. Nên dành ít nhất 1 đến 2 giờ, đi chậm qua các điểm chính và kết hợp thêm khu mộ Hàn Mặc Tử để hiểu giá trị văn hóa. Giá vé, phí gửi xe và giờ hoạt động là thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Ghềnh Ráng Tiên Sa có phù hợp để đưa vào dataset nhận diện địa điểm không?
+A: Rất phù hợp. Địa điểm có nhiều đặc trưng hình ảnh rõ ràng như Bãi Đá Trứng, ghềnh đá sát biển, đường dốc lên mộ Hàn Mặc Tử, cảnh quan nhìn ra vịnh Quy Nhơn và bảng tên khu du lịch. Khi thu thập ảnh, nên ưu tiên ảnh Bãi Đá Trứng, toàn cảnh ghềnh đá, khu mộ Hàn Mặc Tử và biển nhìn từ điểm cao. Cần tránh nhầm với Eo Gió, Kỳ Co, Bãi Xép hoặc các bãi đá ven biển khác.
+
+Q: Những từ khóa nào nên dùng để tìm kiếm và nhận diện Ghềnh Ráng Tiên Sa?
+A: Có thể dùng các từ khóa: Ghềnh Ráng Tiên Sa, Ghenh Rang Tien Sa, Khu du lịch Ghềnh Ráng, Bãi Đá Trứng Quy Nhơn, Bãi tắm Hoàng Hậu, mộ Hàn Mặc Tử, dốc Mộng Cầm, Nhà thờ Đá Ghềnh Ráng, phường Ghềnh Ráng, phường Quy Nhơn Nam, Quy Nhơn, Bình Định cũ, Gia Lai mới. Các từ khóa này giúp chatbot liên kết giữa tên địa danh, điểm phụ trong khu và thay đổi hành chính.
+
+Q: Nếu người dùng hỏi “Bãi Đá Trứng ở đâu?” thì có trả lời là Ghềnh Ráng Tiên Sa không?
+A: Có. Bãi Đá Trứng, còn gọi là Bãi tắm Hoàng Hậu, là một điểm nổi bật trong khu Ghềnh Ráng Tiên Sa. Chatbot nên trả lời rằng Bãi Đá Trứng nằm tại khu du lịch Ghềnh Ráng Tiên Sa ở Quy Nhơn, nổi tiếng với những viên đá tròn nhẵn như trứng chim lớn, phù hợp để ngắm cảnh và chụp ảnh hơn là tắm biển.
+
+Q: Nếu người dùng hỏi “mộ Hàn Mặc Tử ở đâu?” thì có liên quan đến Ghềnh Ráng Tiên Sa không?
+A: Có. Mộ thi sĩ Hàn Mặc Tử nằm trong khu thắng cảnh Ghềnh Ráng Tiên Sa, trên đồi Thi Nhân. Đây là điểm tham quan quan trọng trong hành trình đến Ghềnh Ráng. Chatbot nên liên kết câu hỏi về Hàn Mặc Tử với các điểm phụ như dốc Mộng Cầm, con đường thơ, bia thơ và cảnh nhìn ra biển Quy Nhơn.
+
+Q: Có nên đưa Ghềnh Ráng Tiên Sa vào lịch trình cùng Trung tâm Khám phá khoa học không?
+A: Có thể. Hai địa điểm đều nằm trong không gian du lịch Quy Nhơn và có thể kết hợp nếu du khách đi bằng xe máy, taxi hoặc ô tô. Ghềnh Ráng thiên về cảnh quan biển, văn hóa và check-in; Trung tâm Khám phá khoa học thiên về trải nghiệm giáo dục, khoa học, STEM và thiên văn. Kết hợp hai điểm giúp lịch trình cân bằng giữa thiên nhiên và trải nghiệm học tập.
+
+Q: Chatbot nên cảnh báo gì khi trả lời về giá vé và giờ mở cửa Ghềnh Ráng Tiên Sa?
+A: Chatbot nên nói rằng giá vé vào cổng thường được ghi nhận là miễn phí và giờ tham quan tham khảo thường là 7:00 đến 18:00, nhưng phí gửi xe, phí khu mộ Hàn Mặc Tử, xe điện hoặc dịch vụ riêng có thể thay đổi. Cần thêm câu: “Thông tin tham khảo, cần kiểm tra lại trước khi đi.” Cách trả lời này tránh khẳng định cứng các chi phí dễ thay đổi.
 
 2. Thông tin cập nhật mới
 
-Thông tin về giá vé, giờ mở cửa, bãi gửi xe, dịch vụ, lối vào và quy định tham quan có thể thay đổi theo thời điểm. Khi trả lời người dùng, cần ghi rõ: Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Ghềnh Ráng Tiên Sa hiện vẫn được nhắc như một điểm du lịch nổi bật trong không gian Quy Nhơn, gắn với các tên gọi quen thuộc như Khu du lịch Ghềnh Ráng, Bãi tắm Hoàng Hậu, Bãi Đá Trứng, đồi Thi Nhân, mộ thi sĩ Hàn Mặc Tử và bãi Tiên Sa. Khi xây dữ liệu cho chatbot, nên lưu đồng thời tên tiếng Việt có dấu, tên không dấu và tên tiếng Anh/không dấu như Ghenh Rang - Tien Sa để tăng khả năng truy xuất.
+
+Về hành chính, nhiều nguồn cũ vẫn ghi địa chỉ thuộc phường Ghềnh Ráng hoặc thành phố Quy Nhơn, tỉnh Bình Định. Một số nguồn mới sau sắp xếp hành chính ghi khu vực này thuộc phường Quy Nhơn Nam, tỉnh Gia Lai. Vì vậy, trong dữ liệu RAG nên ghi rõ “Bình Định cũ, nay thuộc tỉnh Gia Lai” hoặc “Quy Nhơn cũ, nay thuộc khu vực phường Quy Nhơn Nam” để chatbot không bị mâu thuẫn khi người dùng hỏi theo tên cũ hoặc tên mới.
+
+Về giá vé và giờ hoạt động, thông tin phổ biến hiện nay là khu Ghềnh Ráng Tiên Sa không thu vé vào cổng, thời gian tham quan tham khảo khoảng 7:00 đến 18:00. Một số dịch vụ riêng như gửi xe, xe điện nội khu, thăm mộ Hàn Mặc Tử, ăn uống hoặc các dịch vụ phát sinh có thể tính phí. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Về trải nghiệm, cần ưu tiên mô tả Ghềnh Ráng Tiên Sa như một điểm tham quan ngắn trong city tour Quy Nhơn, phù hợp với du khách muốn ngắm cảnh biển, chụp ảnh, tìm hiểu Hàn Mặc Tử và tham quan Bãi Đá Trứng. Không nên mô tả nơi này như một khu vui chơi biển quy mô lớn hay bãi tắm chính, vì đặc điểm nổi bật nhất vẫn là thắng cảnh đá ven biển và không gian văn hóa.
+
+Về an toàn, chatbot cần lưu ý rằng Bãi Đá Trứng có đá tròn, bề mặt có thể trơn, không phù hợp để chạy nhảy hoặc xuống nước khi sóng mạnh. Vào mùa mưa, ngày biển động hoặc sau mưa, nên hạn chế đi sát mép đá. Người lớn tuổi, trẻ nhỏ và người khó di chuyển cần được hỗ trợ khi lên dốc hoặc xuống khu vực bãi đá.
 
 3. Nguồn tham khảo
 
-- https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng
-- https://vietnamtourism.gov.vn/
-- https://quynhon.gov.vn/
-- https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
+Cổng du lịch Quy Nhơn - Bình Định, trang Ghềnh Ráng - Tiên Sa:
+https://dulichquynhon.binhdinh.gov.vn/vi/ghenhrang
+Thông tin chính dùng để xác nhận đặc điểm tự nhiên của Ghềnh Ráng Tiên Sa: quần thể sơn thạch sát biển, bãi cát, mặt biển xanh, cảnh quan nguyên sơ và vị trí phía Đông Nam Quy Nhơn.
+
+Cổng du lịch Quy Nhơn - Bình Định, bản đa ngôn ngữ trang Ghenh Rang - Tien Sa:
+https://dulichquynhon.binhdinh.gov.vn/zh/ghenhrang
+Thông tin dùng để tham khảo giá vé miễn phí, số điện thoại, thời lượng tham quan tham khảo 60 phút, giờ mở cửa 7:00 đến 18:00 và địa chỉ theo cách ghi cũ. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Cổng du lịch Gia Lai, bài “Một ngày citytour ở trung tâm thành phố Quy Nhơn”:
+https://dulichgialai.gialai.gov.vn/zh/detailnews/?id=news_1184&t=mot-ngay-citytour-o-trung-tam-thanh-pho-quy-nhon
+Thông tin dùng để bổ sung dữ liệu về vua Bảo Đại chọn Ghềnh Ráng làm nơi nghỉ mát từ năm 1927, Bãi tắm Hoàng Hậu với đá cuội được sóng biển mài nhẵn và mộ nhà thơ Hàn Mặc Tử.
+
+Vietnam Airlines, bài “Trọn bộ kinh nghiệm & trải nghiệm khám phá Ghềnh Ráng Tiên Sa”:
+https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
+Thông tin dùng để tham khảo vị trí cách trung tâm khoảng 3 km, đường Hàn Mặc Tử, chi phí tham khảo, cách di chuyển 10 đến 15 phút và các điểm tham quan như mộ Hàn Mặc Tử, bãi tắm Hoàng Hậu, bãi Tiên Sa.
+
+Vinpearl, bài “Ghềnh Ráng Tiên Sa - tác phẩm thiên tạo kỳ vĩ, thơ mộng”:
+https://vinpearl.com/vi/ghenh-rang-tien-sa-tac-pham-thien-tao-ky-vi-tho-mong
+Thông tin dùng để bổ sung nội dung về xếp hạng danh thắng quốc gia năm 1991, mùa khô khoảng tháng 3 đến tháng 9, các trải nghiệm tại Bãi tắm Hoàng Hậu, mộ Hàn Mặc Tử, Nhà thờ Đá Ghềnh Ráng và góc nhìn vịnh Quy Nhơn.
+
+VinWonders, bài “Ghềnh Ráng Tiên Sa: Chiêm ngưỡng vẻ đẹp tuyệt tác, độc đáo thiên tạo”:
+https://vinwonders.com/vi/wonderpedia/news/ghenh-rang-tien-sa/
+Thông tin dùng để tham khảo cách ghi địa chỉ mới sau sáp nhập và tên hành chính phường Quy Nhơn Nam, Gia Lai.
+
+Thư viện Pháp luật, bài về phường Quy Nhơn Nam mới từ ngày 01/7/2025 theo Nghị quyết 1664:
+https://thuvienphapluat.vn/phap-luat/phuong-quy-nhon-nam-moi-tinh-gia-lai-tu-ngay-0172025-duoc-sap-nhap-tu-nhung-phuong-nao-theo-nghi-qu-238591.html
+Thông tin dùng để đối chiếu việc phường Quy Nhơn Nam mới được sắp xếp từ các phường Ngô Mây, Nguyễn Văn Cừ, Quang Trung và Ghềnh Ráng. Thông tin hành chính cần đối chiếu thêm khi dùng trong hệ thống chính thức.
+
+Ghi chú sử dụng dữ liệu:
+Các thông tin về giá vé, phí gửi xe, giờ mở cửa, dịch vụ nội khu và tên hành chính có thể thay đổi theo thời điểm, đơn vị quản lý và cập nhật sau sắp xếp hành chính. Khi đưa vào chatbot, nên gắn nhãn “Thông tin tham khảo, cần kiểm tra lại trước khi đi.” cho các câu trả lời liên quan đến chi phí, giờ hoạt động và dịch vụ.
