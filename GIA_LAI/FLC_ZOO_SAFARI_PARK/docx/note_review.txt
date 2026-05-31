@@ -1,5 +1,3 @@
-Document này tổng hợp lưu ý khi tham quan, quy định, điều cấm/hạn chế, mức độ đông khách, độ an toàn, khả năng tiếp cận và review tổng hợp về FLC Zoo Safari Park Quy Nhơn. Đây là nhóm dữ liệu quan trọng để chatbot không chỉ giới thiệu điểm đến mà còn tư vấn an toàn, thực tế và có trách nhiệm.
-
 1. Lưu ý khi tham quan
 
 Nên đi vào buổi sáng để tránh nắng và có nhiều thời gian quan sát động vật. Khu Nhơn Lý - Cát Tiến nhiều nắng, gió và không phải toàn bộ khu vực đều có mái che. Du khách nên mang mũ, kính mát, kem chống nắng, nước uống, khăn giấy và giày thoải mái.
@@ -7,6 +5,8 @@ Nên đi vào buổi sáng để tránh nắng và có nhiều thời gian quan 
 Nên kiểm tra giờ mở cửa, giá vé và dịch vụ phụ trước khi đi, đặc biệt vào dịp lễ, cuối tuần hoặc mùa mưa. Dù nguồn FLC ghi giờ 08:00 - 17:30 và vé 100.000 đồng/người lớn, 80.000 đồng/trẻ em, thông tin vận hành có thể thay đổi theo chính sách hoặc bảo trì.
 
 Nếu đi với trẻ em, cần có người lớn đi kèm liên tục. Không nên để trẻ tự chạy vào khu vực gần rào chắn, hồ nước, xe điện hoặc khu thú dữ. Nên giải thích trước cho trẻ về việc không la hét, không ném đồ, không chọc phá và không tự ý cho thú ăn.
+
+Nguồn FLC nên được ưu tiên cho giờ mở cửa, giá vé cơ bản, địa chỉ, hotline và mô tả phân khu. Nguồn Bamboo Airways và các blog du lịch hữu ích cho kinh nghiệm tham quan, khoảng cách và dịch vụ tham khảo. Nguồn review như Tripadvisor hữu ích để nhận diện kỳ vọng thực tế nhưng không nên dùng làm nguồn duy nhất cho giá hoặc giờ mở cửa.
 
 2. Quy định tại địa điểm
 
@@ -16,7 +16,7 @@ Việc cho thú ăn chỉ nên thực hiện khi công viên cho phép và với
 
 Chụp ảnh cần giữ khoảng cách và không dùng đèn flash trực tiếp vào mắt động vật nếu khu vực có quy định. Không tạo tiếng động lớn để ép động vật nhìn vào máy ảnh. Với trẻ nhỏ, người lớn cần hướng dẫn cách quan sát yên tĩnh và tôn trọng động vật.
 
-3. Điều cấm và hạn chế
+3. Điều cấm / hạn chế
 
 Không tự ý cho động vật ăn bằng đồ ăn mang từ ngoài vào. Không ném vật lạ vào khu nuôi thú. Không gõ kính, gõ rào, la hét hoặc chọc que vào chuồng. Không trèo rào hoặc đứng lên lan can để chụp ảnh. Không thò tay vào khu thú dữ hoặc khu cá sấu.
 
@@ -58,9 +58,9 @@ Phù hợp gia đình có trẻ em, có nhiều động vật để quan sát, c
 
 Nắng nóng nếu đi sai thời điểm, có thể cần đi bộ nhiều, dịch vụ phụ phát sinh phí, một số thông tin giá và giờ trên mạng không đồng nhất, trải nghiệm phụ thuộc vào bảo trì và điều kiện vận hành thực tế, không phải lựa chọn tốt nhất nếu người dùng chỉ muốn cảnh biển hoặc check-in thiên nhiên hoang sơ.
 
-10. Ghi chú nguồn và độ tin cậy
+10. Kinh nghiệm tránh rủi ro
 
-Nguồn FLC nên được ưu tiên cho giờ mở cửa, giá vé cơ bản, địa chỉ, hotline và mô tả phân khu. Nguồn Bamboo Airways và các blog du lịch hữu ích cho kinh nghiệm tham quan, khoảng cách và dịch vụ tham khảo. Nguồn review như Tripadvisor hữu ích để nhận diện kỳ vọng thực tế nhưng không nên dùng làm nguồn duy nhất cho giá hoặc giờ mở cửa.
+Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. FLC Zoo Safari Park là điểm tham quan phù hợp gia đình nếu tuân thủ quy định an toàn. Rủi ro chính không phải từ hoạt động mạo hiểm mà từ hành vi không đúng gần động vật, nắng nóng, trẻ em chạy xa người lớn, trượt ngã hoặc mệt khi đi bộ nhiều. Với khu thú dữ và cá sấu, an toàn phụ thuộc vào việc giữ đúng khoảng cách, không vượt rào và chỉ tham gia dịch vụ tương tác khi có nhân viên hướng dẫn.
 
 11. Nguồn tham khảo
 

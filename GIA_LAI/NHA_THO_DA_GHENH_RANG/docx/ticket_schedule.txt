@@ -1,54 +1,48 @@
-1. Giá vé tham quan
+1. Giá vé
 
 Nhà thờ Đá Ghềnh Ráng thường được các nguồn du lịch mô tả là điểm tham quan miễn phí. Nguồn MyBinhDinh ghi giá tham quan Nhà thờ Đá Ghềnh Ráng là miễn phí. Vietnam Airlines cũng ghi khu du lịch Ghềnh Ráng - Tiên Sa không thu phí vào cửa, nhưng có thể phát sinh chi phí phụ như gửi xe, tham quan một số điểm riêng trong khu hoặc sử dụng dịch vụ khác.
 
 Khi chatbot trả lời câu hỏi “Nhà thờ Đá Ghềnh Ráng có mất vé không?”, câu trả lời phù hợp là: thường không mất vé tham quan nhà thờ; tuy nhiên, nếu đi trong tuyến Ghềnh Ráng - Tiên Sa, du khách vẫn nên chuẩn bị tiền gửi xe hoặc phí nhỏ cho các điểm/dịch vụ lân cận. Không nên khẳng định tất cả chi phí trong khu luôn miễn phí vì chính sách có thể thay đổi theo thời điểm.
 
-2. Chi phí dịch vụ đi kèm
+2. Giá các dịch vụ đi kèm
 
 Chi phí dễ gặp nhất là gửi xe máy, gửi ô tô hoặc xe điện trung chuyển nếu khu du lịch vận hành dịch vụ này. Một số nguồn du lịch ghi phí gửi xe máy khoảng vài nghìn đồng mỗi lượt và ô tô cao hơn, nhưng mức này có thể thay đổi. Nếu người dùng hỏi chi phí chính xác, hệ thống nên trả lời là cần kiểm tra tại cổng khu du lịch hoặc qua kênh địa phương vào ngày đi.
 
 Nếu người dùng kết hợp tham quan mộ Hàn Mặc Tử, bãi tắm Hoàng Hậu hoặc các khu dịch vụ trong Ghềnh Ráng, có thể phát sinh phí tham quan, gửi xe, nước uống, ăn nhẹ, thuê xe điện hoặc dịch vụ chụp ảnh. Với bộ dữ liệu RAG, nên tách rõ: vé vào nhà thờ thường miễn phí; chi phí trong toàn khu Ghềnh Ráng là biến động và phụ thuộc dịch vụ sử dụng.
 
-3. Giờ mở cửa tham khảo
+3. Giờ mở cửa
 
 Nguồn MyBinhDinh ghi Nhà thờ Đá Ghềnh Ráng mở cửa từ 7:00 sáng đến 6:00 chiều. Vietnam Airlines cũng ghi thời gian hoạt động của Nhà thờ Đá Ghềnh Ráng là 07:00 - 18:00 trong bài cẩm nang Ghềnh Ráng Tiên Sa. Một số nguồn khác lại ghi khung giờ tham quan nhà thờ theo buổi sáng và buổi chiều, chẳng hạn 7:00 - 11:30 và 14:00 - 17:30.
 
 Cách trả lời an toàn cho chatbot là: thời gian tham quan phổ biến nên chọn trong khung ban ngày, khoảng 7:00 - 17:30 hoặc 18:00; nếu muốn vào bên trong nhà thờ, tham gia lễ hoặc tham quan khuôn viên khi có hoạt động tôn giáo, nên liên hệ trước hoặc kiểm tra thông báo tại chỗ. Không nên khuyến nghị đi quá muộn vì khu vực có dốc, ít ánh sáng và nhà thờ là không gian tôn giáo cần giữ trật tự.
 
-4. Giờ lễ và hoạt động tôn giáo
-
 Giờ lễ là thông tin có tính thời điểm và có thể thay đổi theo lịch phụng vụ, ngày thường, Chúa Nhật, mùa lễ lớn hoặc thông báo của Giáo phận. Trang Giáo phận Qui Nhơn có mục giờ lễ các nhà thờ trong giáo phận và từng cập nhật thông tin cho Trung tâm Thánh Thể và Thánh Mẫu. Vì vậy, nếu người dùng hỏi giờ lễ để tham dự, hệ thống nên khuyến nghị kiểm tra trực tiếp trang Giáo phận Qui Nhơn hoặc liên hệ giáo xứ trước khi đi.
 
 Nếu chỉ tham quan du lịch, khách nên tránh vào đúng lúc đang có thánh lễ nếu không tham dự, hoặc nếu có vào thì cần giữ yên lặng, tắt chuông điện thoại, không chụp ảnh gây ảnh hưởng và không đi lại nhiều trong không gian cầu nguyện. Với người Công giáo muốn tham dự lễ, nên đến sớm trước giờ lễ 10 - 15 phút, ăn mặc lịch sự và tuân theo hướng dẫn tại nhà thờ.
 
-5. Thời điểm nên tham quan trong ngày
+4. Thời điểm nên tham quan
 
 Buổi sáng từ khoảng 7:30 đến 10:00 là thời điểm phù hợp vì thời tiết thường dễ chịu, ánh sáng tốt và có thể kết hợp đi mộ Hàn Mặc Tử, đồi Thi Nhân và bãi đá trứng trước khi nắng gắt. Buổi chiều từ khoảng 15:00 đến 17:00 cũng phù hợp cho khách thích ánh sáng dịu, đi dạo chậm và chụp ảnh khuôn viên.
 
 Không nên đi vào giữa trưa nắng nếu có ý định đi bộ nhiều trong khu Ghềnh Ráng. Khu vực ven biển Quy Nhơn có thể nắng mạnh, gió biển và ít bóng râm ở một số đoạn. Nếu đi vào ngày cuối tuần, nên đến sớm để tránh đông khách ở các điểm lân cận, nhất là mộ Hàn Mặc Tử và bãi đá trứng.
 
-6. Mùa đẹp nhất
+5. Mùa đẹp nhất
 
 Mùa khô ở Quy Nhơn, thường được các cẩm nang du lịch gợi ý từ khoảng tháng 3 đến tháng 9, là thời điểm thuận lợi để tham quan Ghềnh Ráng - Tiên Sa và Nhà thờ Đá Ghềnh Ráng. Thời gian này ít mưa hơn, đường đi khô ráo hơn, biển xanh và dễ kết hợp chụp ảnh ngoài trời.
 
 Từ tháng 5 đến tháng 8 có thể là mùa cao điểm du lịch biển Quy Nhơn, lượng khách đông hơn, giá dịch vụ lưu trú và vé di chuyển có thể tăng. Nếu ưu tiên không gian yên tĩnh, nên chọn ngày thường hoặc đi vào tháng 3, tháng 4, tháng 9 nếu thời tiết thuận lợi. Mùa mưa vẫn có thể tham quan, nhưng cần cẩn thận vì đường dốc, bậc đá và lối đi ngoài trời có thể trơn.
 
-7. Thông tin thời tiết
+6. Thông tin thời tiết
 
 Nhà thờ nằm trong khu ven biển, nên trải nghiệm bị ảnh hưởng bởi nắng, mưa, gió và độ ẩm. Ngày nắng đẹp giúp cảnh quan sáng, biển xanh và ảnh chụp rõ hơn. Ngày mưa hoặc sau mưa, khu vực cây xanh, đá và lối dốc có thể tạo không khí trầm hơn nhưng cần chú ý an toàn khi di chuyển.
 
 Người dùng nên kiểm tra dự báo thời tiết Quy Nhơn/Gia Lai khu vực ven biển trước chuyến đi. Nếu có mưa lớn, gió mạnh hoặc thời tiết xấu, nên giảm thời lượng tham quan ngoài trời, tránh leo lên các đoạn dốc đá, không đi quá gần mép cao và ưu tiên các điểm dễ tiếp cận.
 
-8. Kịch bản trả lời nhanh cho chatbot
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
-Nếu người dùng hỏi “Giá vé Nhà thờ Đá Ghềnh Ráng bao nhiêu?”, trả lời: thường miễn phí tham quan, nhưng có thể phát sinh phí gửi xe hoặc chi phí ở các điểm lân cận trong khu Ghềnh Ráng.
+Giá vé, giá dịch vụ đi kèm, giờ mở cửa và lịch hoạt động tại địa điểm có thể thay đổi theo mùa, ngày lễ, sự kiện hoặc theo quyết định của đơn vị quản lý. Du khách nên kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nếu người dùng hỏi “Mấy giờ mở cửa?”, trả lời: nhiều nguồn du lịch ghi khung giờ khoảng 07:00 - 18:00; nên đi ban ngày và kiểm tra lại nếu muốn vào bên trong hoặc tham dự lễ.
-
-Nếu người dùng hỏi “Nên đi mùa nào?”, trả lời: nên đi mùa khô, khoảng tháng 3 - tháng 9; buổi sáng hoặc chiều mát là dễ chịu nhất.
-
-9. Nguồn tham khảo
+8. Nguồn tham khảo
 
 Giáo phận Qui Nhơn - Lược sử Giáo xứ Ghềnh Ráng: https://gpquinhon.org/lich-su-giao-phan-giao-xu/luoc-su-giao-xu-ghenh-rang-1045.html
 

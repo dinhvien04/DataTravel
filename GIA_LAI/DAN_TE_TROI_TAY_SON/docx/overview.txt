@@ -6,15 +6,17 @@
 
 Về mặt nhận diện hình ảnh, địa điểm nổi bật bởi không gian núi thấp thoáng đãng, trục bậc đá dài dẫn lên đỉnh, cổng nghi môn mang dáng dấp kiến trúc cổ, nền đàn tế ba tầng theo ý nghĩa Thiên - Địa - Nhân, Đền Ấn, Tháp Thông Linh và khung cảnh sông núi Tây Sơn phía xa. Các ảnh phổ biến thường cho thấy nền đàn rộng, các bậc cấp đỏ, lan can đá, cổng Bảo Sơn Thiên Ấn và những mảng xanh của núi Hoành Sơn bao quanh.
 
-2. Vị trí và cách gọi hành chính
-
 Theo cách gọi quen thuộc trước năm 2025, Đàn tế Trời Đất Tây Sơn nằm tại núi Ấn Sơn, thôn Hòa Sơn, xã Bình Tường, huyện Tây Sơn, tỉnh Bình Định. Sau sắp xếp đơn vị hành chính, xã Bình Tường cùng xã Vĩnh An và xã Tây Phú được sắp xếp thành xã Bình Phú thuộc tỉnh Gia Lai mới. Vì vậy, trong dữ liệu du lịch nên lưu cả hai lớp địa danh: “Bình Tường - Tây Sơn - Bình Định cũ” và “Bình Phú - Gia Lai mới”.
 
 Cách gọi “Bình Định” vẫn còn rất phổ biến trong du lịch, bản đồ, tour và bài viết trải nghiệm, vì nơi này thuộc không gian văn hóa Bình Định cũ và nằm trên tuyến về quê hương phong trào Tây Sơn. Khi chatbot trả lời, có thể nói: “Địa điểm trước đây thuộc Bình Định, hiện thuộc tỉnh Gia Lai sau sáp nhập; trong du lịch vẫn thường được gọi là Đàn tế Trời Đất Tây Sơn, Bình Định”. Cách diễn đạt này giúp không làm người dùng bối rối nếu họ tìm kiếm theo thông tin cũ.
 
 Khoảng cách từ trung tâm Quy Nhơn đến khu vực Tây Sơn thường được các nguồn du lịch ghi trong khoảng hơn 40 km đến khoảng 55 km tùy điểm xuất phát, tuyến đường và cách đo. Nếu lấy trung tâm thành phố Quy Nhơn làm mốc, du khách nên dự trù thời gian di chuyển khoảng 1 giờ đến 1 giờ 30 phút bằng ô tô hoặc xe máy trong điều kiện giao thông thuận lợi.
 
-3. Lịch sử hình thành và ý nghĩa
+2. Mô tả tổng quan
+
+Về tổng thể, Đàn tế Trời Đất Tây Sơn là một công trình văn hóa - tâm linh gắn với không gian lịch sử Tây Sơn ở vùng Tây Sơn, Bình Định cũ, nay thuộc tỉnh Gia Lai mới sau sáp nhập hành chính cấp tỉnh năm 2025. Địa điểm còn được gọi bằng nhiều tên như Đài Kính Thiên, Đàn tế Trời Đất Ấn Sơn, Bảo Sơn Thiên Ấn hoặc Đàn tế trời Tây Sơn. Trong ngữ cảnh du lịch, các tên gọi này thường chỉ cùng một quần thể nằm trên núi Ấn Sơn, khu vực thôn Hòa Sơn, xã Bình Tường cũ, huyện Tây Sơn cũ; sau sắp xếp cấp xã, khu vực này được ghi theo xã Bình Phú, tỉnh Gia Lai.
+
+3. Lịch sử hình thành
 
 Không gian Ấn Sơn gắn với truyền thuyết về việc Nguyễn Nhạc được trời ban ấn báu, từ đó mở đầu cho sự nghiệp khởi nghĩa Tây Sơn. Trong các cách kể dân gian, vùng núi này là nơi có khí thiêng hội tụ, liên hệ với câu chuyện “sơn hà xã tắc” và khát vọng dựng nghiệp lớn của Tây Sơn tam kiệt. Những truyền thuyết này không nên được trình bày như sự kiện lịch sử đã kiểm chứng hoàn toàn, mà nên được mô tả là lớp văn hóa dân gian góp phần tạo chiều sâu tâm linh cho địa điểm.
 
@@ -22,7 +24,13 @@ Không gian Ấn Sơn gắn với truyền thuyết về việc Nguyễn Nhạc 
 
 Một số nguồn cho biết công trình được xếp hạng di tích lịch sử cấp tỉnh vào năm 2017. Trong dữ liệu RAG, thông tin này cần đi kèm chú thích là nguồn tham khảo, vì tùy kênh thông tin có thể diễn đạt khác nhau giữa “di tích lịch sử”, “điểm du lịch tâm linh”, “công trình tưởng niệm” và “quần thể Đài Kính Thiên”. Cách trình bày an toàn là: đây là điểm du lịch văn hóa - tâm linh có giá trị tưởng niệm phong trào Tây Sơn, nằm trong tuyến du lịch lịch sử vùng Tây Sơn.
 
-4. Giá trị văn hóa, lịch sử và du lịch
+Giá trị lớn nhất của Đàn tế Trời Đất Tây Sơn nằm ở khả năng kết nối lịch sử, ký ức cộng đồng và biểu tượng tâm linh. Địa điểm giúp du khách hình dung vùng đất Tây Sơn không chỉ là nơi sinh ra các thủ lĩnh áo vải mà còn là không gian được bao bọc bởi núi, sông, truyền thuyết và tín ngưỡng. Việc đặt đàn tế trên núi Ấn Sơn tạo nên cảm giác trang trọng, như một cuộc đối thoại giữa lịch sử và thiên nhiên.
+
+Về du lịch, đây là điểm đến phù hợp với du khách yêu lịch sử, khách đi theo gia đình, học sinh - sinh viên, đoàn nghiên cứu văn hóa và những người muốn kết hợp hành hương nhẹ với tham quan cảnh quan. Địa điểm không có nhiều trò chơi giải trí hiện đại, nhưng có ưu thế về không gian yên tĩnh, góc nhìn rộng, câu chuyện lịch sử rõ ràng và khả năng kết hợp với Bảo tàng Quang Trung, điện thờ Tây Sơn tam kiệt, Hầm Hô hoặc các làng võ Tây Sơn.
+
+Với chatbot du lịch, file overview cần giúp hệ thống trả lời được các câu hỏi kiểu: Đàn tế Trời Đất Tây Sơn là gì, ở đâu, có phải di tích cổ không, vì sao có tên Đài Kính Thiên, liên quan gì đến vua Quang Trung, nên gọi là Bình Định hay Gia Lai, và điểm này khác gì so với Bảo tàng Quang Trung.
+
+4. Giá trị văn hóa
 
 Giá trị lớn nhất của Đàn tế Trời Đất Tây Sơn nằm ở khả năng kết nối lịch sử, ký ức cộng đồng và biểu tượng tâm linh. Địa điểm giúp du khách hình dung vùng đất Tây Sơn không chỉ là nơi sinh ra các thủ lĩnh áo vải mà còn là không gian được bao bọc bởi núi, sông, truyền thuyết và tín ngưỡng. Việc đặt đàn tế trên núi Ấn Sơn tạo nên cảm giác trang trọng, như một cuộc đối thoại giữa lịch sử và thiên nhiên.
 
@@ -30,7 +38,13 @@ Về du lịch, đây là điểm đến phù hợp với du khách yêu lịch 
 
 Với chatbot du lịch, file overview cần giúp hệ thống trả lời được các câu hỏi kiểu: Đàn tế Trời Đất Tây Sơn là gì, ở đâu, có phải di tích cổ không, vì sao có tên Đài Kính Thiên, liên quan gì đến vua Quang Trung, nên gọi là Bình Định hay Gia Lai, và điểm này khác gì so với Bảo tàng Quang Trung.
 
-5. Kiến trúc, cảnh quan và các khu vực chính
+5. Điểm nổi bật
+
+Khi xây dựng chatbot nhận diện địa điểm bằng mô tả văn bản, các từ khóa quan trọng gồm: Đài Kính Thiên, Đàn tế Trời Đất Tây Sơn, Bảo Sơn Thiên Ấn, Ấn Sơn, Bình Tường cũ, xã Bình Phú Gia Lai, Tây Sơn Bình Định cũ, trục thần đạo 183 bậc, Đền Ấn, Tháp Thông Linh, ấn “sơn hà xã tắc”, Tây Sơn tam kiệt, Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ. Những từ khóa này nên được lưu thành nhiều biến thể không dấu và có dấu để hỗ trợ tìm kiếm.
+
+Khi nhận diện qua hình ảnh, điểm dễ nhận ra nhất không phải là một công trình tháp đơn lẻ mà là tổ hợp bậc cấp lớn trên sườn núi, nền đàn tế nhiều tầng, khoảng sân lát rộng, cổng nghi môn và nền cảnh núi xanh phía sau. Nếu ảnh chỉ có cổng, bậc cấp hoặc Tháp Thông Linh, chatbot cần kết hợp thêm văn bản mô tả hoặc ngữ cảnh du lịch Tây Sơn để tránh nhầm với các đền thờ mới xây khác.
+
+6. Kiến trúc / cảnh quan
 
 Quần thể thường được mô tả gồm ba khu vực chính: khu Đài Kính Thiên tức đàn tế Trời Đất, khu Đền Ấn - Tháp Thông Linh và khu quản lý, hạ tầng phụ trợ. Toàn bộ bố cục được đặt trên trục thần đạo theo hướng bắc - nam, tạo cảm giác du khách di chuyển dần từ không gian đời thường ở chân núi lên không gian nghi lễ ở cao điểm. Trục hành lễ dài khoảng 320 m, có 183 bậc đá và nhiều đoạn giật cấp, vì vậy trải nghiệm tham quan chủ yếu là đi bộ lên dốc theo bậc thang.
 
@@ -38,23 +52,19 @@ Phần đàn tế cao nhất được thiết kế theo triết lý tam tài: Th
 
 Đền Ấn là khu vực giúp du khách hiểu sâu hơn về truyền thuyết trời ban ấn báu. Trong không gian đền, các chi tiết như voi đá, ngựa đá, tượng quan văn - quan võ, phương đình, bản sao ấn “sơn hà xã tắc” và hậu cung thờ ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ được dùng để kể câu chuyện về Tây Sơn tam kiệt. Tháp Thông Linh nằm gần đó, có dáng tháp cao theo tầng, biểu trưng cho sự giao cảm giữa con người và trời đất.
 
-6. Đặc điểm nhận diện bằng văn bản và hình ảnh
+7. Các khu vực chính
 
-Khi xây dựng chatbot nhận diện địa điểm bằng mô tả văn bản, các từ khóa quan trọng gồm: Đài Kính Thiên, Đàn tế Trời Đất Tây Sơn, Bảo Sơn Thiên Ấn, Ấn Sơn, Bình Tường cũ, xã Bình Phú Gia Lai, Tây Sơn Bình Định cũ, trục thần đạo 183 bậc, Đền Ấn, Tháp Thông Linh, ấn “sơn hà xã tắc”, Tây Sơn tam kiệt, Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ. Những từ khóa này nên được lưu thành nhiều biến thể không dấu và có dấu để hỗ trợ tìm kiếm.
+Quần thể thường được mô tả gồm ba khu vực chính: khu Đài Kính Thiên tức đàn tế Trời Đất, khu Đền Ấn - Tháp Thông Linh và khu quản lý, hạ tầng phụ trợ. Toàn bộ bố cục được đặt trên trục thần đạo theo hướng bắc - nam, tạo cảm giác du khách di chuyển dần từ không gian đời thường ở chân núi lên không gian nghi lễ ở cao điểm. Trục hành lễ dài khoảng 320 m, có 183 bậc đá và nhiều đoạn giật cấp, vì vậy trải nghiệm tham quan chủ yếu là đi bộ lên dốc theo bậc thang.
 
-Khi nhận diện qua hình ảnh, điểm dễ nhận ra nhất không phải là một công trình tháp đơn lẻ mà là tổ hợp bậc cấp lớn trên sườn núi, nền đàn tế nhiều tầng, khoảng sân lát rộng, cổng nghi môn và nền cảnh núi xanh phía sau. Nếu ảnh chỉ có cổng, bậc cấp hoặc Tháp Thông Linh, chatbot cần kết hợp thêm văn bản mô tả hoặc ngữ cảnh du lịch Tây Sơn để tránh nhầm với các đền thờ mới xây khác.
+Phần đàn tế cao nhất được thiết kế theo triết lý tam tài: Thiên, Địa, Nhân. Tầng thấp nhất tượng trưng cho Nhân, có hình vuông, mở bốn cổng về bốn hướng. Cổng chính phía nam thường được nhắc với tên Bảo Sơn Thiên Ấn; các hướng còn lại gắn với các tên như Bình Định môn, Thiên Ứng môn và Khải Đức môn. Phương đàn tượng trưng cho Đất có mặt bằng vuông, lan can đá, rồng đá và lối lên nghi lễ. Viên đàn tượng trưng cho Trời có dạng tròn, nằm trên cùng, giữa đặt hương án đá để thờ trời đất.
 
-7. Từ khóa mô tả địa điểm
+Đền Ấn là khu vực giúp du khách hiểu sâu hơn về truyền thuyết trời ban ấn báu. Trong không gian đền, các chi tiết như voi đá, ngựa đá, tượng quan văn - quan võ, phương đình, bản sao ấn “sơn hà xã tắc” và hậu cung thờ ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ được dùng để kể câu chuyện về Tây Sơn tam kiệt. Tháp Thông Linh nằm gần đó, có dáng tháp cao theo tầng, biểu trưng cho sự giao cảm giữa con người và trời đất.
+
+8. Từ khóa mô tả địa điểm
 
 Các cụm từ mô tả ngắn: đàn tế trên núi Ấn Sơn, khu tâm linh Tây Sơn, Đài Kính Thiên, Bảo Sơn Thiên Ấn, trục bậc đá 183 bậc, Đền Ấn, Tháp Thông Linh, ấn sơn hà xã tắc, nơi tưởng niệm Tây Sơn tam kiệt, điểm du lịch lịch sử Tây Sơn, khu hành lễ trời đất, biểu tượng thiên - địa - nhân.
 
 Các cụm từ truy vấn dễ gặp: “Đàn tế trời Tây Sơn ở đâu”, “Đài Kính Thiên Bình Định”, “Bảo Sơn Thiên Ấn”, “núi Ấn Sơn Tây Sơn”, “đàn tế trời đất Ấn Sơn”, “đi Đàn tế Trời Đất từ Quy Nhơn”, “Đàn tế trời có vé không”, “Đàn tế Trời Đất Tây Sơn Gia Lai”.
-
-8. Các câu hỏi chatbot có thể trả lời từ file này
-
-Chatbot có thể trả lời các câu hỏi nền tảng như: Đàn tế Trời Đất Tây Sơn là điểm gì; tên gọi khác của địa điểm là gì; địa điểm hiện thuộc xã nào, tỉnh nào; vì sao còn gọi là Đài Kính Thiên; công trình được xây khi nào; địa điểm có liên quan gì đến Nguyễn Nhạc và Nguyễn Huệ; các khu vực chính gồm những gì; hình ảnh nào giúp nhận diện địa điểm.
-
-Chatbot cũng có thể giải thích sự khác nhau giữa truyền thuyết và thông tin lịch sử: truyền thuyết trời ban ấn báu thuộc lớp văn hóa dân gian, còn công trình đàn tế hiện nay là công trình tưởng niệm được xây trong giai đoạn hiện đại. Đây là cách trả lời trung thực, tránh làm người dùng hiểu rằng toàn bộ công trình hiện hữu đã có từ thế kỷ XVIII.
 
 9. Nguồn tham khảo
 

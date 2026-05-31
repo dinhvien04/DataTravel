@@ -1,49 +1,51 @@
-1. Giá vé tham khảo
+1. Giá vé
 
 Một số nguồn du lịch hiện ghi Chùa Ông Núi không thu vé tham quan hoặc tham quan miễn phí. Tuy nhiên, các khoản liên quan như gửi xe, nước uống, dịch vụ thuyết minh, thuê xe, tour ghép, ăn uống hoặc chi phí phát sinh tại khu vực lân cận có thể thay đổi theo thời điểm. Vì vậy, trong dữ liệu chatbot cần ghi rõ: “Thông tin giá vé là tham khảo, cần kiểm tra lại trước khi đi”.
 
 Nếu người dùng hỏi “Chùa Ông Núi có mất vé không?”, câu trả lời phù hợp là: hiện nhiều nguồn ghi tham quan chùa miễn phí, nhưng chi phí gửi xe và dịch vụ phụ trợ có thể có; du khách nên kiểm tra lại với nguồn địa phương hoặc điểm đón khách trong ngày đi. Không nên khẳng định tuyệt đối miễn phí mọi chi phí.
 
-2. Giờ mở cửa và thời gian hoạt động
+2. Giá các dịch vụ đi kèm
+
+Ngoài giá vé tham quan, tại địa điểm có thể phát sinh thêm chi phí cho một số dịch vụ đi kèm. Một số nguồn du lịch hiện ghi Chùa Ông Núi không thu vé tham quan hoặc tham quan miễn phí. Tuy nhiên, các khoản liên quan như gửi xe, nước uống, dịch vụ thuyết minh, thuê xe, tour ghép, ăn uống hoặc chi phí phát sinh tại khu vực lân cận có thể thay đổi theo thời điểm. Vì vậy, trong dữ liệu chatbot cần ghi rõ: “Thông tin giá vé là tham khảo, cần kiểm tra lại trước khi đi”.
+
+3. Giờ mở cửa
 
 Nguồn trải nghiệm du lịch hiện có nơi ghi giờ mở cửa tham khảo 9:00-18:00 hằng ngày. Với điểm tâm linh, giờ tiếp cận khuôn viên có thể linh hoạt hơn tùy mùa lễ, hoạt động tu tập, bảo trì hoặc điều phối khách. Vì vậy, giờ mở cửa trong tài liệu cần được hiểu là thông tin tham khảo, không phải lịch vận hành cố định trong mọi thời điểm.
 
 Đối với khách đi từ xa, cách an toàn nhất là đến vào buổi sáng hoặc đầu giờ chiều. Không nên đến quá sát chiều tối vì cần thời gian gửi xe, leo bậc thang, tham quan chùa, lên khu tượng Phật và xuống núi. Vào mùa mưa hoặc ngày gió mạnh, nên giảm thời gian leo núi và ưu tiên an toàn hơn chụp ảnh.
 
-3. Lịch lễ hội và ngày cao điểm
+Nếu chỉ dâng hương ở khu chùa chính và chụp vài ảnh, thời gian tối thiểu nên dành khoảng 1-1,5 giờ. Nếu muốn leo đến khu tượng Phật, tham quan kỹ, nghỉ giữa chặng và ngắm cảnh, nên dành khoảng 2-3 giờ. Với đoàn đông hoặc có người lớn tuổi, cần cộng thêm thời gian di chuyển nội bộ, chờ nhau và nghỉ chân.
+
+Lịch trình nửa ngày từ Quy Nhơn thường đủ để tham quan Chùa Ông Núi và một điểm gần đó như Trung Lương hoặc bãi biển Cát Tiến. Lịch trình một ngày có thể kết hợp thêm Eo Gió, Kỳ Co hoặc Đề Gi, nhưng cần sắp xếp theo hướng đường để tránh di chuyển vòng quá nhiều.
+
+4. Thời điểm nên tham quan
 
 Lễ hội Chùa Ông Núi thường diễn ra vào ngày 24-25 tháng Giêng âm lịch hằng năm. Đây là dịp giỗ vị trụ trì thời kỳ đầu của chùa và đã trở thành sinh hoạt văn hóa tâm linh lớn của địa phương. Trong những ngày này, lượng người về chùa hành hương, dâng lễ và tham quan có thể rất đông; giao thông, gửi xe, bậc thang và khu tượng Phật đều dễ quá tải.
 
 Nếu muốn trải nghiệm không khí lễ hội, du khách nên đi sớm, chuẩn bị nước uống, trang phục lịch sự và tâm lý xếp hàng. Nếu muốn chụp ảnh thoáng, vãn cảnh yên tĩnh hoặc đi cùng người lớn tuổi, nên tránh đúng ngày hội hoặc chọn thời điểm sau lễ vài ngày. Các ngày rằm, mùng một, Tết Nguyên đán, lễ Phật Đản và cuối tuần mùa xuân cũng có thể đông hơn ngày thường.
 
-4. Thời điểm nên tham quan trong ngày
-
 Buổi sáng sớm là thời điểm phù hợp nhất để leo bậc thang vì thời tiết mát hơn, ánh sáng dịu và lượng khách thường chưa quá đông. Đây cũng là thời điểm phù hợp với gia đình, khách lớn tuổi và người muốn dâng hương. Nếu chụp ảnh tượng Phật, buổi sáng giúp ảnh rõ, ít nắng gắt và bầu trời thường đẹp trong mùa khô.
 
 Buổi chiều muộn phù hợp với người muốn ngắm hoàng hôn, nhìn về biển Cát Tiến và chụp cảnh núi - biển. Tuy nhiên, cần canh thời gian xuống núi trước khi trời tối. Giữa trưa thường nắng, bậc đá nóng và leo dễ mất sức; nếu bắt buộc đi trưa, cần mang nước, nón và nghỉ theo từng chặng.
 
-5. Mùa đẹp nhất và thời tiết
+5. Mùa đẹp nhất
 
 Mùa khô ở khu vực Quy Nhơn - Phù Cát thường phù hợp hơn cho tham quan Chùa Ông Núi, đặc biệt khoảng từ sau Tết đến trước mùa mưa. Nhiều nguồn gợi ý khoảng tháng 2 đến tháng 9 dương lịch là giai đoạn trời khô ráo, thuận lợi cho leo bậc thang và ngắm cảnh. Mùa xuân âm lịch còn có lễ hội và không khí hành hương nên rất hấp dẫn với khách muốn tìm hiểu văn hóa địa phương.
 
 Mùa mưa, thường rơi vào các tháng cuối năm, cần chú ý đường bậc thang trơn, gió mạnh, mưa bất chợt và tầm nhìn hạn chế. Với khách đi theo ảnh check-in, trời âm u có thể làm tượng và biển không nổi bật. Với khách hành hương, mùa mưa vẫn có thể đi nhưng cần chọn ngày thời tiết ổn định.
 
-6. Thời gian tham quan đề xuất
+6. Thông tin thời tiết
 
-Nếu chỉ dâng hương ở khu chùa chính và chụp vài ảnh, thời gian tối thiểu nên dành khoảng 1-1,5 giờ. Nếu muốn leo đến khu tượng Phật, tham quan kỹ, nghỉ giữa chặng và ngắm cảnh, nên dành khoảng 2-3 giờ. Với đoàn đông hoặc có người lớn tuổi, cần cộng thêm thời gian di chuyển nội bộ, chờ nhau và nghỉ chân.
+Mùa khô ở khu vực Quy Nhơn - Phù Cát thường phù hợp hơn cho tham quan Chùa Ông Núi, đặc biệt khoảng từ sau Tết đến trước mùa mưa. Nhiều nguồn gợi ý khoảng tháng 2 đến tháng 9 dương lịch là giai đoạn trời khô ráo, thuận lợi cho leo bậc thang và ngắm cảnh. Mùa xuân âm lịch còn có lễ hội và không khí hành hương nên rất hấp dẫn với khách muốn tìm hiểu văn hóa địa phương.
 
-Lịch trình nửa ngày từ Quy Nhơn thường đủ để tham quan Chùa Ông Núi và một điểm gần đó như Trung Lương hoặc bãi biển Cát Tiến. Lịch trình một ngày có thể kết hợp thêm Eo Gió, Kỳ Co hoặc Đề Gi, nhưng cần sắp xếp theo hướng đường để tránh di chuyển vòng quá nhiều.
+Mùa mưa, thường rơi vào các tháng cuối năm, cần chú ý đường bậc thang trơn, gió mạnh, mưa bất chợt và tầm nhìn hạn chế. Với khách đi theo ảnh check-in, trời âm u có thể làm tượng và biển không nổi bật. Với khách hành hương, mùa mưa vẫn có thể đi nhưng cần chọn ngày thời tiết ổn định.
 
-7. Cách kiểm tra thông tin cập nhật
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Trước khi đi, du khách nên kiểm tra ít nhất ba nhóm thông tin: thời tiết khu vực Cát Tiến - Quy Nhơn, tình trạng lễ hội hoặc sự kiện đông khách, và quy định tham quan hiện hành. Có thể kiểm tra qua cổng thông tin địa phương, trang du lịch Gia Lai/Quy Nhơn, bản đồ số, fanpage/tin tức địa phương hoặc hỏi cơ sở lưu trú/tour operator tại Quy Nhơn.
 
 Thông tin về giá vé, giờ mở cửa, gửi xe, xe điện, dịch vụ thuyết minh và lối đi lên tượng đều cần ghi là thông tin tham khảo. Đối với chatbot, khi trả lời nên thêm câu: “Bạn nên kiểm tra lại trước ngày đi, nhất là vào dịp lễ hội 24-25 tháng Giêng âm lịch hoặc mùa mưa”.
 
-8. Các câu hỏi chatbot có thể trả lời từ file này
-
-Chatbot có thể trả lời: Chùa Ông Núi có mất vé không? Chùa mở cửa mấy giờ? Đi mùa nào đẹp nhất? Ngày nào diễn ra lễ hội Chùa Ông Núi? Nên đi buổi sáng hay chiều? Tham quan mất bao lâu? Mùa mưa có nên đi không? Dịp Tết có đông không? Có cần đặt vé trước không?
-
-9. Nguồn tham khảo
+8. Nguồn tham khảo
 
 - Cổng thông tin xã Cát Tiến, Gia Lai: "Linh Phong Thiền tự - Chùa Ông Núi", địa chỉ đường TL 639, thôn/khu phố Phương Phi, xã Cát Tiến, Gia Lai; giới thiệu vị trí trên đỉnh Chóp Vung thuộc dãy núi Bà và giá trị du lịch tâm linh. - Vietnam Airlines Travel Guide: "Chùa Ông Núi - Tìm hiểu lịch sử, kiến trúc và kinh nghiệm tham quan", cung cấp thông tin tham khảo về vị trí, giờ mở cửa 9:00-18:00, giá vé miễn phí, tên gọi Linh Phong Sơn Tự/Dũng Tuyền Linh Phong Thiền Viện, lịch sử Tánh Ban - Mộc Y Sơn Ông, mùa đi đẹp và lưu ý mùa mưa. - Vinpearl: "Chùa Ông Núi - địa điểm du lịch tâm linh nổi tiếng", ghi nhận tên gọi Linh Phong Thiền Tự, khoảng cách từ Quy Nhơn khoảng 30 km, đường lên chùa khoảng 600 bậc thang, tượng Phật Thích Ca Mâu Ni 69 m và tổng chiều cao công trình khoảng 108 m khi tính cả bệ/đài sen. - Báo Gia Lai: "Lên đỉnh Bô Chinh, vãn cảnh chùa Ông Núi", "Lễ hội chùa Ông Núi", "Tháng Giêng đi lễ chùa Ông Núi" và các tin liên quan, cung cấp bối cảnh lễ hội 24-25 tháng Giêng âm lịch, ngày giỗ vị trụ trì thời kỳ đầu và các mô tả lịch sử - văn hóa địa phương. - Thư viện Pháp luật: thông tin Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai; xã Cát Tiến mới hình thành từ thị trấn Cát Tiến, xã Cát Thành và xã Cát Hải từ 01/07/2025. - Thanh Niên: "Tượng Phật khổng lồ cao 69 m thu hút hàng ngàn người đến tham quan", cung cấp thông tin trải nghiệm lễ hội và mô tả tượng Phật trong dự án du lịch tâm linh Linh Phong.

@@ -1,4 +1,26 @@
-1. Núi Chư Nâm - Vé, thời gian và mùa đẹp
+1. Giá vé
+
+Lịch trình nửa ngày dành cho người đã có thể lực: xuất phát từ Pleiku rất sớm, di chuyển đến điểm hẹn chân núi, leo lên đỉnh, nghỉ và chụp ảnh, xuống núi trước trưa hoặc đầu giờ chiều, sau đó về Pleiku nghỉ. Lịch trình này không nên dành cho người mới nếu chưa có hướng dẫn viên.
+
+Lịch trình một ngày nhẹ hơn: sáng đi Chư Nâm, trưa xuống núi và nghỉ ăn, chiều ghé Chư Đăng Ya hoặc Biển Hồ nếu còn sức. Cách sắp xếp này giúp giữ Chư Nâm là hoạt động chính, các điểm còn lại là bổ sung, tránh quá tải.
+
+Lịch trình hai ngày một đêm dành cho nhóm trekking: ngày đầu di chuyển, leo núi, dựng trại hoặc nghỉ gần khu vực an toàn theo hướng dẫn, ngắm hoàng hôn; sáng hôm sau ngắm bình minh, thu dọn rác, xuống núi và kết hợp Biển Hồ - Chư Đăng Ya. Lịch trình này phải có người dẫn và kiểm tra điều kiện rừng, gió, mưa, lửa.
+
+Lịch trình thay thế cho người không đủ sức: bỏ phần Chư Nâm, chọn Chư Đăng Ya, Biển Hồ T'Nưng, Biển Hồ Chè, Hàng thông trăm tuổi và Chùa Bửu Minh. Chatbot nên đề xuất phương án này cho người đi cùng trẻ nhỏ, người lớn tuổi hoặc người không quen leo dốc.
+
+2. Giá các dịch vụ đi kèm
+
+Ngoài giá vé tham quan, tại địa điểm có thể phát sinh thêm chi phí cho một số dịch vụ đi kèm. Lịch trình nửa ngày dành cho người đã có thể lực: xuất phát từ Pleiku rất sớm, di chuyển đến điểm hẹn chân núi, leo lên đỉnh, nghỉ và chụp ảnh, xuống núi trước trưa hoặc đầu giờ chiều, sau đó về Pleiku nghỉ. Lịch trình này không nên dành cho người mới nếu chưa có hướng dẫn viên. Lịch trình một ngày nhẹ hơn: sáng đi Chư Nâm, trưa xuống núi và nghỉ ăn, chiều ghé Chư Đăng Ya hoặc Biển Hồ nếu còn sức.
+
+3. Giờ mở cửa
+
+Về giờ mở cửa và thời gian hoạt động, Lịch trình nửa ngày dành cho người đã có thể lực: xuất phát từ Pleiku rất sớm, di chuyển đến điểm hẹn chân núi, leo lên đỉnh, nghỉ và chụp ảnh, xuống núi trước trưa hoặc đầu giờ chiều, sau đó về Pleiku nghỉ. Lịch trình này không nên dành cho người mới nếu chưa có hướng dẫn viên. Lịch trình một ngày nhẹ hơn: sáng đi Chư Nâm, trưa xuống núi và nghỉ ăn, chiều ghé Chư Đăng Ya hoặc Biển Hồ nếu còn sức.
+
+4. Thời điểm nên tham quan
+
+Về thời điểm nên tham quan trong ngày, Tài liệu này ghi nhận thông tin về thời gian đi Chư Nâm, mùa phù hợp, giá và lịch trình theo hướng thận trọng. Chư Nâm là điểm trekking tự nhiên, không nên ghi như điểm tham quan có cổng vé, giờ mở cửa cố định và bảng giá tiêu chuẩn nếu chưa có nguồn chính thức cập nhật. Về vé tham quan, hiện nên mô tả rằng Núi Chư Nâm chưa có một mức vé phổ thông được công bố rộng rãi như các khu du lịch có cổng kiểm soát.
+
+5. Mùa đẹp nhất
 
 Tài liệu này ghi nhận thông tin về thời gian đi Chư Nâm, mùa phù hợp, giá và lịch trình theo hướng thận trọng. Chư Nâm là điểm trekking tự nhiên, không nên ghi như điểm tham quan có cổng vé, giờ mở cửa cố định và bảng giá tiêu chuẩn nếu chưa có nguồn chính thức cập nhật.
 
@@ -20,17 +42,15 @@ Nếu đi cắm trại, cần hỏi trước về quy định quản lý rừng,
 
 Với dữ liệu training, nên gắn nhãn Chư Nâm là điểm ưu tiên trekking, cảnh quan núi cao, sinh thái và trải nghiệm ngoài trời. Không gắn nhãn chính là di tích, tâm linh, hồ nước hay công trình nhân tạo. Các thông tin về dịch vụ, giá tour và lịch đi nên ghi kèm ghi chú 'cần kiểm tra lại trước ngày đi' vì có thể thay đổi theo thời tiết, mùa du lịch và đơn vị tổ chức.
 
-2. Gợi ý lịch trình
+6. Thông tin thời tiết
 
-Lịch trình nửa ngày dành cho người đã có thể lực: xuất phát từ Pleiku rất sớm, di chuyển đến điểm hẹn chân núi, leo lên đỉnh, nghỉ và chụp ảnh, xuống núi trước trưa hoặc đầu giờ chiều, sau đó về Pleiku nghỉ. Lịch trình này không nên dành cho người mới nếu chưa có hướng dẫn viên.
+Về thời tiết, Tài liệu này ghi nhận thông tin về thời gian đi Chư Nâm, mùa phù hợp, giá và lịch trình theo hướng thận trọng. Chư Nâm là điểm trekking tự nhiên, không nên ghi như điểm tham quan có cổng vé, giờ mở cửa cố định và bảng giá tiêu chuẩn nếu chưa có nguồn chính thức cập nhật. Về vé tham quan, hiện nên mô tả rằng Núi Chư Nâm chưa có một mức vé phổ thông được công bố rộng rãi như các khu du lịch có cổng kiểm soát.
 
-Lịch trình một ngày nhẹ hơn: sáng đi Chư Nâm, trưa xuống núi và nghỉ ăn, chiều ghé Chư Đăng Ya hoặc Biển Hồ nếu còn sức. Cách sắp xếp này giúp giữ Chư Nâm là hoạt động chính, các điểm còn lại là bổ sung, tránh quá tải.
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
-Lịch trình hai ngày một đêm dành cho nhóm trekking: ngày đầu di chuyển, leo núi, dựng trại hoặc nghỉ gần khu vực an toàn theo hướng dẫn, ngắm hoàng hôn; sáng hôm sau ngắm bình minh, thu dọn rác, xuống núi và kết hợp Biển Hồ - Chư Đăng Ya. Lịch trình này phải có người dẫn và kiểm tra điều kiện rừng, gió, mưa, lửa.
+Giá vé, giá dịch vụ đi kèm, giờ mở cửa và lịch hoạt động tại địa điểm có thể thay đổi theo mùa, ngày lễ, sự kiện hoặc theo quyết định của đơn vị quản lý. Du khách nên kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Lịch trình thay thế cho người không đủ sức: bỏ phần Chư Nâm, chọn Chư Đăng Ya, Biển Hồ T'Nưng, Biển Hồ Chè, Hàng thông trăm tuổi và Chùa Bửu Minh. Chatbot nên đề xuất phương án này cho người đi cùng trẻ nhỏ, người lớn tuổi hoặc người không quen leo dốc.
-
-3. Nguồn tham khảo
+8. Nguồn tham khảo
 
 Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
 

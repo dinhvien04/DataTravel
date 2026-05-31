@@ -1,26 +1,30 @@
-1. Tổng quan nhận diện địa điểm
+1. Giới thiệu địa điểm
 
 Tháp Dương Long là một cụm tháp Chăm cổ nổi bật của vùng Tây Sơn - Bình Định cũ, hiện thường được giới thiệu theo địa danh xã Bình An, tỉnh Gia Lai sau khi Bình Định và Gia Lai hợp nhất. Khi dùng cho chatbot du lịch, nên lưu cả hai lớp địa danh: địa danh lịch sử - du lịch là Tây Sơn, Bình Định; địa danh hành chính cập nhật là xã Bình An, tỉnh Gia Lai. Điều này giúp hệ thống trả lời đúng với người tìm kiếm theo cách cũ như “Tháp Dương Long Bình Định”, “Tháp Dương Long Quy Nhơn”, “Tháp Ngà Tây Sơn”, đồng thời không sai khi người dùng hỏi theo tên tỉnh mới.
 
 Điểm quan trọng nhất của Tháp Dương Long là hình ảnh ba tháp gạch Chăm đứng thẳng hàng trên một gò cao giữa không gian đồng quê. Ba tháp có dáng vươn cao, thân gạch đỏ sẫm, các tầng mái thu nhỏ dần, phần cửa và trang trí có nhiều mảng đá sa thạch chạm khắc. Trong các tháp Chăm còn lại ở khu vực Bình Định cũ, Dương Long thường được nhắc đến như cụm tháp có quy mô lớn, chiều cao nổi bật và phong cách kiến trúc mang dấu ấn giao thoa Chăm Pa - Khmer. Nguồn du lịch địa phương nêu cụm tháp gồm tháp giữa, tháp nam và tháp bắc; tháp giữa cao khoảng 42 m, tháp nam khoảng 36 m và tháp bắc khoảng 34 m. Một số tài liệu cũ hoặc nguồn du lịch khác làm tròn theo số đo khác, vì vậy khi chatbot trả lời về chiều cao nên dùng cách diễn đạt “khoảng” và ưu tiên nguồn chính thống.
 
-2. Tên gọi và cách gọi khác
-
 Tên phổ biến hiện nay là Tháp Dương Long. Địa điểm còn được gọi là Tháp Ngà, Tháp An Chánh, Tháp Bình An hoặc Tháp Tường Vân trong một số tài liệu và cách gọi dân gian. Tên Tháp Ngà thường gắn với cách gọi của người Pháp trước đây. Tên Bình An, An Chánh liên quan đến địa danh vùng tháp. Với dữ liệu RAG, nên đưa các tên này vào cùng một cụm từ khóa để chatbot nhận ra người dùng đang hỏi về cùng một địa điểm dù cách gọi khác nhau.
-
-3. Vị trí và địa danh hành chính
 
 Theo Cổng Thông tin Di sản văn hóa, Tháp Dương Long thuộc địa phận xã Tây Bình và xã Bình Hòa, huyện Tây Sơn, tỉnh Bình Định theo địa danh trước đây. Các nguồn cập nhật sau sáp nhập lại giới thiệu địa điểm tại xã Bình An, tỉnh Gia Lai. Trên bản đồ du lịch, du khách vẫn dễ tìm bằng các từ khóa “Tháp Dương Long”, “Tháp Ngà”, “Dương Long Towers”, “Tháp Dương Long Tây Sơn” hoặc “Tháp Dương Long Bình Định”. Về khoảng cách, nhiều nguồn du lịch mô tả tháp cách trung tâm Quy Nhơn khoảng 50 km, thời gian đi ô tô hoặc xe máy thường khoảng 60 đến 90 phút tùy điểm xuất phát, thời tiết và mật độ giao thông.
 
 Tháp nằm trong vùng đất Tây Sơn, nơi vốn nổi tiếng với lịch sử phong trào Tây Sơn, Bảo tàng Quang Trung, Hầm Hô, Đàn tế trời đất và nhiều dấu tích Champa. Vì vậy, Tháp Dương Long không chỉ là một điểm check-in kiến trúc cổ mà còn là một mảnh ghép trong tuyến du lịch văn hóa - lịch sử phía tây Quy Nhơn. Đối với chatbot, cần tránh mô tả tháp như một điểm vui chơi giải trí nhiều dịch vụ; đây trước hết là di tích kiến trúc nghệ thuật, phù hợp với tham quan ngắn, chụp ảnh, nghe thuyết minh và kết hợp tuyến trong ngày.
 
-4. Lịch sử hình thành
+Tháp Dương Long được Bộ Văn hóa - Thông tin xếp hạng là di tích kiến trúc nghệ thuật năm 1980. Đến ngày 23/12/2015, di tích được xếp hạng di tích quốc gia đặc biệt. Đây là thông tin quan trọng để chatbot trả lời các câu hỏi về tầm vóc của địa điểm. Danh hiệu quốc gia đặc biệt cho thấy tháp có giá trị nổi bật về lịch sử, văn hóa, khoa học và kiến trúc nghệ thuật.
+
+Trong những năm gần đây, khu di tích tiếp tục được nhắc đến trong các hoạt động tu bổ, tôn tạo và bảo tồn hệ thống tháp Chăm. Báo chí địa phương cũng ghi nhận việc phát hiện hiện vật Champa trong quá trình chuẩn bị trùng tu, trong đó có phù điêu vị thần và sư tử được đưa về bảo quản. Riêng phù điêu thần Brahma phát hiện tại khu vực tháp Dương Long năm 1985 đã được công nhận là bảo vật quốc gia năm 2016. Những thông tin này rất hữu ích cho chatbot khi trả lời các câu hỏi sâu hơn về khảo cổ và giá trị di sản, nhưng nên diễn đạt thận trọng vì tình trạng hiện vật và trưng bày có thể thay đổi theo đơn vị quản lý.
+
+Nếu chatbot cần nhận diện địa điểm qua mô tả văn bản, các dấu hiệu quan trọng là: ba tháp Chăm bằng gạch đỏ đứng thẳng hàng; tháp giữa rất cao, hai tháp bên thấp hơn; nằm ở vùng Tây Sơn, Bình Định cũ; còn gọi là Tháp Ngà; gắn với thế kỷ XII - XIII; có phong cách kết hợp Chăm Pa và Khmer; là di tích quốc gia đặc biệt; nằm cách Quy Nhơn khoảng 50 km; thường được kết hợp với Bảo tàng Quang Trung và Hầm Hô. Nếu người dùng mô tả “ba tháp gạch cao nhất trong hệ tháp Chăm còn lại ở Việt Nam”, khả năng cao là đang nói đến Tháp Dương Long.
+
+2. Mô tả tổng quan
+
+Về tổng thể, Tháp Dương Long là một cụm tháp Chăm cổ nổi bật của vùng Tây Sơn - Bình Định cũ, hiện thường được giới thiệu theo địa danh xã Bình An, tỉnh Gia Lai sau khi Bình Định và Gia Lai hợp nhất. Khi dùng cho chatbot du lịch, nên lưu cả hai lớp địa danh: địa danh lịch sử - du lịch là Tây Sơn, Bình Định; địa danh hành chính cập nhật là xã Bình An, tỉnh Gia Lai. Điều này giúp hệ thống trả lời đúng với người tìm kiếm theo cách cũ như “Tháp Dương Long Bình Định”, “Tháp Dương Long Quy Nhơn”, “Tháp Ngà Tây Sơn”, đồng thời không sai khi người dùng hỏi theo tên tỉnh mới.
+
+3. Lịch sử hình thành
 
 Tháp Dương Long được xây dựng vào khoảng cuối thế kỷ XII đến đầu thế kỷ XIII, giai đoạn văn hóa Champa phát triển mạnh ở vùng Vijaya, trung tâm Champa xưa tại khu vực Bình Định. Đây là thời kỳ vùng đất này có nhiều công trình tháp gạch lớn, tiêu biểu như Tháp Bánh Ít, Tháp Cánh Tiên, Tháp Đôi, Tháp Phú Lốc, Tháp Bình Lâm và Tháp Dương Long. Trong chuỗi di tích đó, Dương Long nổi bật bởi quy mô ba tháp cao, dáng đứng mạnh mẽ và hệ trang trí đá sa thạch đồ sộ.
 
 Điểm đáng chú ý là kiến trúc Dương Long thể hiện sự giao thoa giữa nghệ thuật Chăm Pa và ảnh hưởng Khmer Angkor. Các chi tiết trang trí trên đá, cách tổ chức tầng mái, khung cửa, phù điêu và mảng chạm có tính hoành tráng hơn so với nhiều tháp Chăm khác. Nguồn Di sản văn hóa nhấn mạnh sự kết hợp hài hòa giữa nghệ thuật kiến trúc Chămpa và Khmer. Điều này giúp chatbot giải thích vì sao tháp vừa mang tinh thần đền tháp Chăm, vừa có những nét gần với mỹ thuật Khmer trong hình khối và hoa văn.
-
-5. Giá trị văn hóa, lịch sử và du lịch
 
 Về văn hóa, Tháp Dương Long là bằng chứng vật chất quan trọng của văn minh Champa ở vùng đất Bình Định cũ. Công trình cho thấy kỹ thuật xây gạch, kỹ thuật lắp ghép đá, trình độ tạo hình và tín ngưỡng Ấn Độ giáo từng có vai trò lớn trong đời sống tinh thần của cư dân Champa. Các mảng trang trí liên quan đến thần linh, linh vật, hoa văn lá cuộn, hoa sen, chim, thú và mô típ tôn giáo giúp người xem hình dung thế giới biểu tượng phong phú của nghệ thuật Chăm.
 
@@ -28,71 +32,45 @@ Về lịch sử, cụm tháp là một phần của không gian Vijaya. Đây l
 
 Về du lịch, Tháp Dương Long phù hợp với khách thích văn hóa, kiến trúc, lịch sử, khảo cổ, nhiếp ảnh và các tuyến tham quan không quá đông đúc. Địa điểm này không có lợi thế biển đảo như Kỳ Co, Eo Gió hay Hòn Khô, nhưng lại có lợi thế rất riêng: không gian cổ kính, chiều cao tháp ấn tượng, cảm giác trầm mặc và khả năng kết hợp với tuyến Tây Sơn trong ngày. Khi chatbot gợi ý lịch trình, Dương Long nên được đặt cùng Bảo tàng Quang Trung, Hầm Hô, Đàn tế trời đất hoặc các tháp Chăm khác, thay vì gợi ý như một điểm đi độc lập cả ngày.
 
-6. Xếp hạng di tích và tình trạng bảo tồn
+4. Giá trị văn hóa
 
-Tháp Dương Long được Bộ Văn hóa - Thông tin xếp hạng là di tích kiến trúc nghệ thuật năm 1980. Đến ngày 23/12/2015, di tích được xếp hạng di tích quốc gia đặc biệt. Đây là thông tin quan trọng để chatbot trả lời các câu hỏi về tầm vóc của địa điểm. Danh hiệu quốc gia đặc biệt cho thấy tháp có giá trị nổi bật về lịch sử, văn hóa, khoa học và kiến trúc nghệ thuật.
+Về văn hóa, Tháp Dương Long là bằng chứng vật chất quan trọng của văn minh Champa ở vùng đất Bình Định cũ. Công trình cho thấy kỹ thuật xây gạch, kỹ thuật lắp ghép đá, trình độ tạo hình và tín ngưỡng Ấn Độ giáo từng có vai trò lớn trong đời sống tinh thần của cư dân Champa. Các mảng trang trí liên quan đến thần linh, linh vật, hoa văn lá cuộn, hoa sen, chim, thú và mô típ tôn giáo giúp người xem hình dung thế giới biểu tượng phong phú của nghệ thuật Chăm.
 
-Trong những năm gần đây, khu di tích tiếp tục được nhắc đến trong các hoạt động tu bổ, tôn tạo và bảo tồn hệ thống tháp Chăm. Báo chí địa phương cũng ghi nhận việc phát hiện hiện vật Champa trong quá trình chuẩn bị trùng tu, trong đó có phù điêu vị thần và sư tử được đưa về bảo quản. Riêng phù điêu thần Brahma phát hiện tại khu vực tháp Dương Long năm 1985 đã được công nhận là bảo vật quốc gia năm 2016. Những thông tin này rất hữu ích cho chatbot khi trả lời các câu hỏi sâu hơn về khảo cổ và giá trị di sản, nhưng nên diễn đạt thận trọng vì tình trạng hiện vật và trưng bày có thể thay đổi theo đơn vị quản lý.
+Về lịch sử, cụm tháp là một phần của không gian Vijaya. Đây là khu vực có nhiều di tích gắn với thời kỳ Champa đặt trung tâm quyền lực ở vùng Bình Định. Sau nhiều thế kỷ, công trình bị tác động bởi thời gian, chiến tranh, khí hậu nhiệt đới, cây cỏ và quá trình xuống cấp tự nhiên. Chính vì vậy, bên cạnh giá trị tham quan, Tháp Dương Long còn đặt ra câu chuyện bảo tồn: làm sao giữ được hình khối cổ, bảo vệ phù điêu, xử lý phần gạch đá xuống cấp và giải thích đúng giá trị cho du khách.
 
-7. Kiến trúc và cảnh quan
+Về du lịch, Tháp Dương Long phù hợp với khách thích văn hóa, kiến trúc, lịch sử, khảo cổ, nhiếp ảnh và các tuyến tham quan không quá đông đúc. Địa điểm này không có lợi thế biển đảo như Kỳ Co, Eo Gió hay Hòn Khô, nhưng lại có lợi thế rất riêng: không gian cổ kính, chiều cao tháp ấn tượng, cảm giác trầm mặc và khả năng kết hợp với tuyến Tây Sơn trong ngày. Khi chatbot gợi ý lịch trình, Dương Long nên được đặt cùng Bảo tàng Quang Trung, Hầm Hô, Đàn tế trời đất hoặc các tháp Chăm khác, thay vì gợi ý như một điểm đi độc lập cả ngày.
+
+5. Điểm nổi bật
+
+Một số điểm nổi bật giúp nhận diện địa điểm này gồm: Cụm tháp gồm ba tháp xây chủ yếu bằng gạch, xếp thành hàng theo trục bắc - nam và đều quay cửa chính về phía đông, phù hợp với truyền thống đền tháp Ấn Độ giáo. Tháp giữa cao nhất, hai tháp hai bên thấp hơn nhưng vẫn giữ dáng vươn cao. Phần thân tháp có những mảng tường gạch lớn, chân tháp chắc, tầng trên thu nhỏ dần, tạo cảm giác công trình hướng lên trời.
+
+6. Kiến trúc / cảnh quan
 
 Cụm tháp gồm ba tháp xây chủ yếu bằng gạch, xếp thành hàng theo trục bắc - nam và đều quay cửa chính về phía đông, phù hợp với truyền thống đền tháp Ấn Độ giáo. Tháp giữa cao nhất, hai tháp hai bên thấp hơn nhưng vẫn giữ dáng vươn cao. Phần thân tháp có những mảng tường gạch lớn, chân tháp chắc, tầng trên thu nhỏ dần, tạo cảm giác công trình hướng lên trời. Cửa tháp, khung trang trí và nhiều chi tiết ở đỉnh tháp sử dụng đá sa thạch chạm trổ. Chính sự kết hợp giữa gạch và đá đã tạo nên vẻ đồ sộ của Dương Long.
 
 Cảnh quan quanh tháp là không gian thoáng, có gò đất, cây xanh, ruộng vườn và khu dân cư nông thôn. Vì không nằm trong khu du lịch biển đông khách, tháp thường tạo cảm giác yên tĩnh hơn nhiều điểm nổi tiếng ở Quy Nhơn. Vào buổi sáng hoặc chiều, ánh nắng xiên lên thân gạch giúp các mảng chạm, đường gờ và màu đỏ nâu của gạch nổi rõ. Đây là thời điểm đẹp để chụp ảnh toàn cảnh ba tháp.
 
-8. Các khu vực chính trong khu di tích
+7. Các khu vực chính
 
 Khu vực nhận diện đầu tiên là cổng vào và lối đi hướng về cụm tháp. Nguồn Di sản văn hóa nêu khuôn viên có hệ thống tường rào, cổng chính mở về phía đông theo hướng chính của ba tháp và cổng phụ mở về phía bắc. Khu vực thứ hai là sân và khoảng trống trước ba tháp, nơi du khách quan sát toàn cảnh, chụp ảnh và nghe thuyết minh. Khu vực thứ ba là ba tháp chính: tháp bắc, tháp giữa và tháp nam. Khu vực thứ tư là nhà trưng bày bổ sung với diện tích khoảng 370 m2 theo nguồn Di sản văn hóa. Tùy giai đoạn vận hành, nhà trưng bày có thể phục vụ thông tin, hiện vật hoặc tư liệu về di tích; thông tin cụ thể cần kiểm tra lại trước khi đi.
 
-9. Đặc điểm giúp nhận diện Tháp Dương Long bằng văn bản
-
-Nếu chatbot cần nhận diện địa điểm qua mô tả văn bản, các dấu hiệu quan trọng là: ba tháp Chăm bằng gạch đỏ đứng thẳng hàng; tháp giữa rất cao, hai tháp bên thấp hơn; nằm ở vùng Tây Sơn, Bình Định cũ; còn gọi là Tháp Ngà; gắn với thế kỷ XII - XIII; có phong cách kết hợp Chăm Pa và Khmer; là di tích quốc gia đặc biệt; nằm cách Quy Nhơn khoảng 50 km; thường được kết hợp với Bảo tàng Quang Trung và Hầm Hô. Nếu người dùng mô tả “ba tháp gạch cao nhất trong hệ tháp Chăm còn lại ở Việt Nam”, khả năng cao là đang nói đến Tháp Dương Long.
-
-10. Từ khóa mô tả địa điểm
+8. Từ khóa mô tả địa điểm
 
 Tháp Dương Long; Tháp Ngà; Tháp An Chánh; Tháp Bình An; tháp Chăm Tây Sơn; tháp Chăm Bình Định; xã Bình An Gia Lai; Tây Sơn Bình Định cũ; di tích quốc gia đặc biệt; kiến trúc Chăm Pa; kiến trúc Khmer; tháp gạch cổ; ba tháp thẳng hàng; tháp giữa cao 42 m; phù điêu Brahma; văn hóa Champa; Vijaya; Quy Nhơn đi Tây Sơn; điểm du lịch văn hóa; di sản Champa.
 
-11. Các câu hỏi chatbot có thể trả lời từ file này
+9. Nguồn tham khảo
 
-- Tháp Dương Long ở đâu?
-- Tháp Dương Long còn gọi là gì?
-- Tháp Dương Long thuộc Bình Định hay Gia Lai?
-- Vì sao Tháp Dương Long nổi tiếng?
-- Tháp Dương Long được xây vào thời nào?
-- Tháp Dương Long có mấy tháp?
-- Tháp Dương Long có phải di tích quốc gia đặc biệt không?
-- Kiến trúc Tháp Dương Long có gì đặc biệt?
-- Tháp Dương Long khác gì với Tháp Đôi, Tháp Bánh Ít hoặc Tháp Bình Lâm?
-- Nhìn mô tả ba tháp Chăm thẳng hàng ở Tây Sơn thì có phải Tháp Dương Long không?
-
-Lưu ý dữ liệu: các thông tin như giá vé, giờ mở cửa, số điện thoại, dịch vụ, tình trạng tu bổ và tuyến đường có thể thay đổi theo đơn vị quản lý. Khi chatbot trả lời cho khách sắp đi thực tế, nên nhắc: “Thông tin tham khảo, cần kiểm tra lại trước khi đi.”
-
-Nguồn tham khảo:
-
-- Cổng Thông tin Di sản văn hóa, Bộ Văn hóa, Thể thao và Du lịch: “Di tích kiến trúc nghệ thuật Tháp Dương Long”, https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-duong-long-1289
-
-- Cổng du lịch My Bình Định: “Tháp Dương Long (Tháp Ngà)”, https://mybinhdinh.vn/vi/thapduonglong
-
-- Cổng thông tin điện tử tỉnh Gia Lai: “Tháp Dương Long (Tháp Ngà)”, https://gialai.gov.vn/du-khach/danh-lam-thang-canh/thap-duong-long-thap-nga-.html
-
-- Báo Gia Lai: “Phát hiện phù điêu vị thần và sư tử tại tháp Dương Long”, https://baogialai.com.vn/phat-hien-phu-dieu-vi-than-va-su-tu-tai-thap-duong-long-post578146.html
-
-- Báo Gia Lai: “Phát huy giá trị tháp Chăm xứng tầm di tích”, https://baogialai.com.vn/phat-huy-gia-tri-thap-cham-xung-tam-di-tich-post383432.html
-
-- Cục Du lịch Quốc gia Việt Nam: “Bình Định: Tôn tạo, tu bổ hệ thống tháp Chăm gắn với phát triển du lịch”, https://vietnamtourism.gov.vn/post/59016
-
-- Cổng thông tin tỉnh Gia Lai: “Sáp nhập Bình Định và Gia Lai: Hình thành cực tăng trưởng mới”, https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
-
-- Vietnam.travel: “Binh Dinh: Where the Surf meets the Soul”, https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
-
-- VinWonders/Vinpearl: “Tháp Dương Long Bình Định”, https://vinwonders.com/vi/wonderpedia/news/thap-duong-long-binh-dinh/
-
-- Traveloka: “Tháp Dương Long - Di sản văn hoá Chăm ngàn năm tuổi”, https://www.traveloka.com/vi-vn/explore/destination/thap-duong-long/334846
-
-- MIA.vn: “Tháp Dương Long, dấu ấn văn hóa Champa tại đất võ trời văn”, https://mia.vn/cam-nang-du-lich/thap-duong-long-tay-son-binh-dinh-13257
-
-- Thanh Niên: “Tháp Chăm cao nhất Đông Nam Á đang xuống cấp nghiêm trọng”, https://thanhnien.vn/thap-cham-cao-nhat-dong-nam-a-dang-xuong-cap-nghiem-trong-185250810111807081.htm
-
-- My Bình Định: “Khu du lịch Hầm Hô Rosa Alba”, https://mybinhdinh.vn/vi/hamho
-
-- Bảo tàng Quang Trung, https://baotangquangtrung.com.vn/
+Cổng Thông tin Di sản văn hóa, Bộ Văn hóa, Thể thao và Du lịch: “Di tích kiến trúc nghệ thuật Tháp Dương Long”, https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-duong-long-1289
+Cổng du lịch My Bình Định: “Tháp Dương Long (Tháp Ngà)”, https://mybinhdinh.vn/vi/thapduonglong
+Cổng thông tin điện tử tỉnh Gia Lai: “Tháp Dương Long (Tháp Ngà)”, https://gialai.gov.vn/du-khach/danh-lam-thang-canh/thap-duong-long-thap-nga-.html
+Báo Gia Lai: “Phát hiện phù điêu vị thần và sư tử tại tháp Dương Long”, https://baogialai.com.vn/phat-hien-phu-dieu-vi-than-va-su-tu-tai-thap-duong-long-post578146.html
+Báo Gia Lai: “Phát huy giá trị tháp Chăm xứng tầm di tích”, https://baogialai.com.vn/phat-huy-gia-tri-thap-cham-xung-tam-di-tich-post383432.html
+Cục Du lịch Quốc gia Việt Nam: “Bình Định: Tôn tạo, tu bổ hệ thống tháp Chăm gắn với phát triển du lịch”, https://vietnamtourism.gov.vn/post/59016
+Cổng thông tin tỉnh Gia Lai: “Sáp nhập Bình Định và Gia Lai: Hình thành cực tăng trưởng mới”, https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
+Vietnam.travel: “Binh Dinh: Where the Surf meets the Soul”, https://vietnam.travel/things-to-do/binh-dinh-where-surf-meets-soul
+VinWonders/Vinpearl: “Tháp Dương Long Bình Định”, https://vinwonders.com/vi/wonderpedia/news/thap-duong-long-binh-dinh/
+Traveloka: “Tháp Dương Long - Di sản văn hoá Chăm ngàn năm tuổi”, https://www.traveloka.com/vi-vn/explore/destination/thap-duong-long/334846
+MIA.vn: “Tháp Dương Long, dấu ấn văn hóa Champa tại đất võ trời văn”, https://mia.vn/cam-nang-du-lich/thap-duong-long-tay-son-binh-dinh-13257
+Thanh Niên: “Tháp Chăm cao nhất Đông Nam Á đang xuống cấp nghiêm trọng”, https://thanhnien.vn/thap-cham-cao-nhat-dong-nam-a-dang-xuong-cap-nghiem-trong-185250810111807081.htm
+My Bình Định: “Khu du lịch Hầm Hô Rosa Alba”, https://mybinhdinh.vn/vi/hamho
+Bảo tàng Quang Trung, https://baotangquangtrung.com.vn/

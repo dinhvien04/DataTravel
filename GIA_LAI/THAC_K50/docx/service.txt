@@ -1,4 +1,4 @@
-1. Tổng quan dịch vụ
+1. Dịch vụ tại địa điểm
 
 Dịch vụ tại Thác K50/Thác Hang Én không phát triển theo kiểu khu du lịch thương mại hoàn chỉnh. Phần lớn dịch vụ nằm ở ba lớp: dịch vụ tại đô thị hoặc điểm lưu trú trước khi vào thác, dịch vụ của đơn vị tour/hướng dẫn viên, và hỗ trợ tại khu vực quản lý rừng. Ngay tại chân thác thường không có nhà hàng, khách sạn, cửa hàng lớn, wifi, trạm y tế đầy đủ hay tiện nghi cố định. Vì vậy, du khách cần chuẩn bị như đi vào rừng: mang đủ nước, đồ ăn, thuốc cá nhân, đồ chống mưa và thiết bị liên lạc.
 
@@ -14,7 +14,7 @@ Nếu đi trong ngày, bữa ăn thường là ăn sáng trước khi vào rừn
 
 Đặc sản gắn với vùng Gia Lai và Tây Nguyên có thể bổ sung cho trải nghiệm K50. Phở khô Gia Lai là món dễ tìm ở Pleiku, phù hợp bữa sáng trước hành trình nếu không quá vội. Gà nướng cơm lam phù hợp bữa tối hoặc ăn theo tour nếu được chuẩn bị đúng cách. Cà phê Gia Lai là trải nghiệm nên thử, nhưng không nên uống quá nhiều cà phê ngay trước đoạn trekking nếu dễ hồi hộp hoặc mất nước. Một số món của cộng đồng Bahnar hoặc vùng đệm có thể xuất hiện trong tour cộng đồng, nhưng cần tôn trọng phong tục và hỏi trước khi chụp ảnh hoặc tham gia nghi lễ.
 
-4. Lưu trú
+4. Lưu trú / khách sạn
 
 Lưu trú gần K50 không dày đặc như các đô thị du lịch. Phương án phổ biến là ở Pleiku, Măng Đen hoặc khu vực có homestay/nhà nghỉ trước khi vào rừng. Pleiku thuận tiện cho sân bay, xe khách, mua sắm và dịch vụ y tế. Măng Đen thuận tiện cho người kết hợp tour Kon Tum cũ, khí hậu mát và nhiều homestay. Khu vực K’Bang/Sơn Lang gần hơn về không gian rừng nhưng ít lựa chọn hơn, cần đặt trước và hỏi điều kiện cụ thể.
 
@@ -36,33 +36,15 @@ Dịch vụ dành cho trẻ em và người lớn tuổi
 
 K50 không có nhiều dịch vụ riêng cho trẻ em hoặc người lớn tuổi. Không có xe điện tham quan nhẹ nhàng đến tận chân thác như một số khu du lịch. Nếu đi cùng trẻ em hoặc người lớn tuổi, cần chọn tour riêng, hỏi kỹ độ khó và có phương án dừng lại nếu mệt. Trẻ nhỏ, người lớn tuổi yếu chân hoặc người có bệnh nền nên cân nhắc điểm khác an toàn hơn. Nếu vẫn muốn đi, nên hạn chế mục tiêu xuống sâu và ưu tiên trải nghiệm rìa rừng, cảnh quan và văn hóa địa phương.
 
-6. Chi phí dịch vụ
+6. Lưu ý về chi phí dịch vụ
 
 Chi phí lớn nhất thường là xe, hướng dẫn viên/tour và trung chuyển. Các chi phí nhỏ hơn gồm ăn uống, lưu trú, đồ trekking, thuốc chống côn trùng, gửi xe và bảo hiểm nếu có. Giá tour có thể tính theo nhóm, người càng ít giá càng cao. Giá có thể khác nhau giữa điểm đón Pleiku, Măng Đen hoặc nơi khác. Thông tin giá trên trang tour là tham khảo, cần kiểm tra lại trước khi đi, nhất là dịp lễ Tết, mùa cao điểm hoặc khi đường xấu.
 
-7. Thanh toán và đặt trước
-
 Nên đặt trước tour hoặc người dẫn, không nên đến sát nơi mới tìm dịch vụ. Khi đặt, nên hỏi rõ cách thanh toán, đặt cọc, hoàn hủy, chi phí phát sinh, số điện thoại khẩn cấp, thời gian xuất phát và danh sách đồ cần mang. Nếu thanh toán online, nên dùng đơn vị có thông tin rõ ràng, địa chỉ, số điện thoại và chính sách minh bạch. Không chuyển toàn bộ tiền cho tài khoản không xác minh nếu chưa rõ uy tín.
-
-8. Lưu ý cho dữ liệu RAG
 
 Với chatbot, nhóm thông tin dịch vụ phải được gắn nhãn “không ổn định”. Không nên để chatbot trả lời như thể có nhà hàng tại chân thác, có nhà vệ sinh đầy đủ, có xe điện hoặc có giá vé cố định. Câu trả lời nên hướng người dùng hỏi lại đơn vị tổ chức, đặc biệt về tour, ăn uống, trung chuyển, cắm trại, bảo hiểm và điều kiện tiếp nhận khách.
 
-9. Các câu hỏi chatbot có thể trả lời từ file này
-
-Câu hỏi gợi ý: Gần Thác K50 có nhà hàng không?
-
-Câu hỏi gợi ý: Đi K50 nên ở Pleiku hay Măng Đen?
-
-Câu hỏi gợi ý: Tour K50 thường bao gồm dịch vụ gì?
-
-Câu hỏi gợi ý: Trong rừng có sóng điện thoại hoặc wifi không?
-
-Câu hỏi gợi ý: Có cần thuê hướng dẫn viên khi đi K50 không?
-
-Câu hỏi gợi ý: Dịch vụ ở K50 có phù hợp người lớn tuổi không?
-
-10. Nguồn tham khảo
+7. Nguồn tham khảo
 
 Nguồn 1: Cục Du lịch Quốc gia Việt Nam, bài “Thác K50, nàng thơ giữa đại ngàn Tây Nguyên”, vietnamtourism.gov.vn/post/33530.
 

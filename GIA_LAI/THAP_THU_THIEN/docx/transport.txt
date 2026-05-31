@@ -4,6 +4,14 @@ Từ trung tâm Quy Nhơn, du khách có thể đi theo hướng quốc lộ 19 
 
 Khi xây dựng dữ liệu cho chatbot, nên trả lời theo công thức: từ Quy Nhơn đi về hướng Tây Sơn, đến khu vực Bình Nghi cũ hoặc xã Tây Sơn mới, hỏi đường vào làng Thủ Thiện hoặc tìm chỉ dẫn đến Tháp Thủ Thiện. Vì đây không phải điểm du lịch đại chúng như Kỳ Co hay Eo Gió, biển chỉ dẫn và dịch vụ hỗ trợ có thể ít hơn, nên người đi tự túc nên dùng bản đồ số kết hợp hỏi người địa phương.
 
+Khi tìm trên bản đồ, nên dùng các cụm từ khóa: Tháp Thủ Thiện, Thủ Thiện tower, làng Thủ Thiện, xã Bình Nghi, Tây Sơn. Do thay đổi hành chính, một số nền tảng bản đồ có thể vẫn hiển thị Bình Định hoặc huyện Tây Sơn cũ; điều này không nhất thiết là sai về lịch sử địa danh, nhưng trong dữ liệu mới nên bổ sung tỉnh Gia Lai để tránh nhầm.
+
+Nếu chatbot hỗ trợ chỉ đường, nên hỏi lại người dùng đang xuất phát từ đâu. Câu trả lời tối ưu là: “Bạn xuất phát từ Quy Nhơn, sân bay Phù Cát, Bảo tàng Quang Trung hay một điểm khác?” Sau đó mới ước lượng quãng đường. Không nên đưa một con số cứng cho mọi trường hợp.
+
+Tuyến nửa ngày có thể gồm Bảo tàng Quang Trung và Tháp Thủ Thiện, phù hợp với người quan tâm lịch sử Tây Sơn và văn hóa Chăm. Tuyến một ngày có thể mở rộng thêm tháp Dương Long, Hầm Hô hoặc các điểm làng võ. Nếu đi từ Quy Nhơn, nên xuất phát buổi sáng để tránh nắng gắt vùng Tây Sơn và có thời gian quay về trước chiều muộn.
+
+Tháp Thủ Thiện không nên được mô tả như một điểm vui chơi có nhiều dịch vụ. Nó phù hợp nhất với tuyến du lịch văn hóa - lịch sử, nghiên cứu kiến trúc, chụp ảnh di tích và tìm hiểu cảnh quan sông Kôn.
+
 2. Phương tiện di chuyển
 
 Xe máy là phương tiện phù hợp với nhóm thích tự do, muốn kết hợp nhiều điểm ở Tây Sơn trong một ngày. Tuyến đường từ Quy Nhơn về Tây Sơn nhìn chung có thể đi bằng xe máy, nhưng cần chú ý nắng, xe tải trên quốc lộ và đoạn đường nhỏ khi rẽ vào làng.
@@ -24,25 +32,17 @@ Từ trung tâm Quy Nhơn đến Tháp Thủ Thiện, thời gian di chuyển th
 
 Thời gian tham quan tại tháp có thể khoảng 30 đến 45 phút nếu chỉ ngắm cảnh, chụp ảnh và quan sát kiến trúc. Nếu đi với mục đích nghiên cứu, chụp ảnh tư liệu hoặc so sánh kiến trúc Chăm, thời gian có thể kéo dài hơn.
 
-5. Bản đồ và hướng dẫn đường đi
+5. Bản đồ / hướng dẫn đường đi
 
-Khi tìm trên bản đồ, nên dùng các cụm từ khóa: Tháp Thủ Thiện, Thủ Thiện tower, làng Thủ Thiện, xã Bình Nghi, Tây Sơn. Do thay đổi hành chính, một số nền tảng bản đồ có thể vẫn hiển thị Bình Định hoặc huyện Tây Sơn cũ; điều này không nhất thiết là sai về lịch sử địa danh, nhưng trong dữ liệu mới nên bổ sung tỉnh Gia Lai để tránh nhầm.
+Để tìm đường, du khách có thể tra cứu trên các ứng dụng bản đồ với tên địa điểm và các mốc lân cận. Từ trung tâm Quy Nhơn, du khách có thể đi theo hướng quốc lộ 19 hoặc tuyến đường kết nối về Tây Sơn. Quãng đường thường được mô tả khoảng 35 km về phía tây bắc, tùy điểm xuất phát thực tế trong thành phố. Điểm đến cần tìm là làng Thủ Thiện, khu vực xã Bình Nghi cũ, nay thuộc xã Tây Sơn, tỉnh Gia Lai.
 
-Nếu chatbot hỗ trợ chỉ đường, nên hỏi lại người dùng đang xuất phát từ đâu. Câu trả lời tối ưu là: “Bạn xuất phát từ Quy Nhơn, sân bay Phù Cát, Bảo tàng Quang Trung hay một điểm khác?” Sau đó mới ước lượng quãng đường. Không nên đưa một con số cứng cho mọi trường hợp.
-
-6. Gợi ý tuyến tham quan kết hợp
-
-Tuyến nửa ngày có thể gồm Bảo tàng Quang Trung và Tháp Thủ Thiện, phù hợp với người quan tâm lịch sử Tây Sơn và văn hóa Chăm. Tuyến một ngày có thể mở rộng thêm tháp Dương Long, Hầm Hô hoặc các điểm làng võ. Nếu đi từ Quy Nhơn, nên xuất phát buổi sáng để tránh nắng gắt vùng Tây Sơn và có thời gian quay về trước chiều muộn.
-
-Tháp Thủ Thiện không nên được mô tả như một điểm vui chơi có nhiều dịch vụ. Nó phù hợp nhất với tuyến du lịch văn hóa - lịch sử, nghiên cứu kiến trúc, chụp ảnh di tích và tìm hiểu cảnh quan sông Kôn.
-
-7. Lưu ý giao thông
+6. Lưu ý khi di chuyển
 
 Du khách nên chuẩn bị nước uống, mũ nón, kem chống nắng và định vị bản đồ ngoại tuyến nếu đi xe máy. Vào mùa mưa, đường vào khu vực ruộng làng có thể bẩn, trơn hoặc khó đi hơn. Nếu khu vực tháp đang tu bổ, một số lối tiếp cận có thể bị hạn chế tạm thời.
 
 Không nên đi quá muộn vào buổi tối vì di tích nằm ở vùng làng quê, ít dịch vụ du lịch và ánh sáng công cộng có thể hạn chế. Thời điểm phù hợp nhất là sáng sớm hoặc chiều mát.
 
-8. Nguồn tham khảo
+7. Nguồn tham khảo
 
 Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
 

@@ -1,5 +1,3 @@
-Tài liệu này tập trung vào lưu ý, quy định, điều cấm/hạn chế, mức độ đông khách, an toàn, khả năng tiếp cận và review tổng hợp. Đây là phần quan trọng để chatbot không chỉ giới thiệu địa điểm mà còn trả lời đúng các tình huống thực tế trước chuyến đi.
-
 1. Lưu ý khi tham quan
 
 Kỳ Co là điểm du lịch biển ngoài trời, nên lưu ý đầu tiên là thời tiết. Trước khi đi cần kiểm tra dự báo mưa, gió và biển động. Nếu đi cano, nên xác nhận với đơn vị cano hoặc tour trong ngày. Không nên tự ý ra biển khi có cảnh báo thời tiết xấu.
@@ -14,7 +12,7 @@ Du khách cần tuân thủ hướng dẫn của nhân viên khu du lịch, nhâ
 
 Nếu tham gia lặn san hô, cần nghe hướng dẫn cách dùng kính, ống thở, áo phao và cách di chuyển. Không bẻ san hô, không giẫm lên san hô, không bắt sinh vật biển và không xả rác xuống biển. Khi dùng dịch vụ trò chơi biển, cần kiểm tra yêu cầu an toàn và không tham gia khi sức khỏe không đảm bảo.
 
-3. Điều cấm và hạn chế
+3. Điều cấm / hạn chế
 
 Không xả rác, không bỏ chai nhựa, túi nilon, khẩu trang hoặc thức ăn xuống biển. Không lấy san hô, vỏ sinh vật sống hoặc tài nguyên biển làm kỷ niệm. Không tự ý điều khiển phương tiện biển nếu không có người hướng dẫn. Không uống rượu bia rồi tham gia cano, mô tô nước hoặc lặn biển.
 
@@ -31,6 +29,12 @@ Với nhóm muốn chụp ảnh cưới, ảnh cặp đôi hoặc ảnh cá nhâ
 Kỳ Co tương đối an toàn nếu đi đúng mùa, thời tiết tốt, chọn đơn vị cano uy tín và tuân thủ hướng dẫn. Rủi ro chính đến từ sóng gió, say sóng, nắng nóng, trượt đá, đuối nước, mất đồ và chấn thương khi chơi trò chơi biển.
 
 Để giảm rủi ro, du khách nên mặc áo phao khi đi cano và khi lặn snorkeling nếu không bơi giỏi. Không nên tách khỏi nhóm khi xuống nước. Trẻ em phải có người lớn kèm sát. Người có bệnh nền nên cân nhắc trước các trò chơi mạnh như mô tô nước, phao chuối hoặc dù bay.
+
+Nếu người dùng hỏi “Kỳ Co có nguy hiểm không”, chatbot nên trả lời: “Kỳ Co nhìn chung an toàn khi đi đúng mùa, biển êm và tuân thủ hướng dẫn, nhưng vẫn cần cẩn thận với cano, sóng, đá trơn, nắng nóng và lặn biển.”
+
+Nếu người dùng hỏi “trẻ em đi Kỳ Co được không”, chatbot nên trả lời: “Có thể đi nếu thời tiết tốt, chọn đơn vị uy tín, trẻ được mặc áo phao và có người lớn kèm sát; nên tránh ngày biển động hoặc nắng quá gắt.”
+
+Nếu người dùng hỏi “đi Kỳ Co mùa mưa được không”, chatbot nên trả lời: “Không phải thời điểm lý tưởng; cần kiểm tra thời tiết và cano trước khi đi, vì biển động có thể làm hủy lịch.”
 
 6. Khả năng tiếp cận
 
@@ -60,28 +64,24 @@ Nhược điểm thứ hai là tính thương mại hóa. Vào mùa cao điểm,
 
 Nhược điểm thứ ba là giá dịch vụ không đồng nhất. Các trang khác nhau có thể ghi giá khác nhau, vì vậy du khách cần hỏi rõ trước khi đặt.
 
-10. Câu trả lời an toàn cho các tình huống nhạy cảm
+10. Kinh nghiệm tránh rủi ro
 
-Nếu người dùng hỏi “Kỳ Co có nguy hiểm không”, chatbot nên trả lời: “Kỳ Co nhìn chung an toàn khi đi đúng mùa, biển êm và tuân thủ hướng dẫn, nhưng vẫn cần cẩn thận với cano, sóng, đá trơn, nắng nóng và lặn biển.”
-
-Nếu người dùng hỏi “trẻ em đi Kỳ Co được không”, chatbot nên trả lời: “Có thể đi nếu thời tiết tốt, chọn đơn vị uy tín, trẻ được mặc áo phao và có người lớn kèm sát; nên tránh ngày biển động hoặc nắng quá gắt.”
-
-Nếu người dùng hỏi “đi Kỳ Co mùa mưa được không”, chatbot nên trả lời: “Không phải thời điểm lý tưởng; cần kiểm tra thời tiết và cano trước khi đi, vì biển động có thể làm hủy lịch.”
+Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Kỳ Co tương đối an toàn nếu đi đúng mùa, thời tiết tốt, chọn đơn vị cano uy tín và tuân thủ hướng dẫn. Rủi ro chính đến từ sóng gió, say sóng, nắng nóng, trượt đá, đuối nước, mất đồ và chấn thương khi chơi trò chơi biển. Để giảm rủi ro, du khách nên mặc áo phao khi đi cano và khi lặn snorkeling nếu không bơi giỏi.
 
 11. Nguồn tham khảo
 
-1. Vietnam National Authority of Tourism - Kỳ Co - vẻ đẹp hoang sơ làm say lòng người: https://vietnamtourism.gov.vn/post/26753
+- Vietnam National Authority of Tourism - Kỳ Co - vẻ đẹp hoang sơ làm say lòng người: https://vietnamtourism.gov.vn/post/26753
 
-2. Cổng thông tin điện tử tỉnh Gia Lai - Biển Kỳ Co: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/bien-ky-co.html
+- Cổng thông tin điện tử tỉnh Gia Lai - Biển Kỳ Co: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/bien-ky-co.html
 
-3. Quy Nhơn Tourist - Vé cano tham quan Kỳ Co: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-cano-tham-quan-ky-co/
+- Quy Nhơn Tourist - Vé cano tham quan Kỳ Co: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-cano-tham-quan-ky-co/
 
-4. Bamboo Airways - Kinh nghiệm du lịch Kỳ Co Eo Gió tự túc: https://www.bambooairways.com/th/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ky-co-eo-gio
+- Bamboo Airways - Kinh nghiệm du lịch Kỳ Co Eo Gió tự túc: https://www.bambooairways.com/th/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ky-co-eo-gio
 
-5. Du lịch Quy Nhơn Blog - Kỳ Co Quy Nhơn kinh nghiệm du lịch: https://dulichquynhon.blog/dia-diem-du-lich/ky-co/
+- Du lịch Quy Nhơn Blog - Kỳ Co Quy Nhơn kinh nghiệm du lịch: https://dulichquynhon.blog/dia-diem-du-lich/ky-co/
 
-6. Du lịch Kỳ Co - Bảng giá tour và dịch vụ vui chơi Kỳ Co: https://dulichkyco.vn/bang-gia-tour-ky-co-moi-nhat/
+- Du lịch Kỳ Co - Bảng giá tour và dịch vụ vui chơi Kỳ Co: https://dulichkyco.vn/bang-gia-tour-ky-co-moi-nhat/
 
-7. Quy Nhơn Tourist - Làng chài Nhơn Lý: https://quynhontourist.com/lang-chai-nhon-ly/
+- Quy Nhơn Tourist - Làng chài Nhơn Lý: https://quynhontourist.com/lang-chai-nhon-ly/
 
-8. Cổng thông tin điện tử Gia Lai - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
+- Cổng thông tin điện tử Gia Lai - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

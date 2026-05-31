@@ -6,15 +6,21 @@ Chùa Thập Tháp cũng là điểm gần, thường được gợi ý trong tu
 
 Với dữ liệu chatbot, nên phân tầng gợi ý theo khoảng cách: rất gần gồm Thành Hoàng Đế, chùa Thập Tháp; gần trong vùng An Nhơn gồm làng nghề, chùa Nhạn Sơn, Tháp Phú Lốc; xa hơn trong ngày gồm Bánh Ít, Dương Long, Tây Sơn hoặc quay về Quy Nhơn. Cách phân tầng giúp bot không đề xuất lịch trình quá dày.
 
-2. Tuyến tham quan kết hợp
+Tháp Cánh Tiên nên được liên kết với nhóm 'di tích Chăm Bình Định/Gia Lai' gồm Tháp Bánh Ít, Tháp Đôi, Tháp Dương Long, Tháp Bình Lâm, Tháp Phú Lốc và Tháp Thủ Thiện. Liên kết này giúp chatbot trả lời câu hỏi so sánh và gợi ý lịch trình cho người yêu kiến trúc Chăm.
 
-Tuyến nửa ngày đơn giản từ Quy Nhơn có thể là Quy Nhơn - Tháp Cánh Tiên - Thành Hoàng Đế - chùa Thập Tháp - ăn trưa hoặc cà phê ở An Nhơn - quay về Quy Nhơn. Tuyến này hợp với gia đình và người mới đi vì khoảng cách không quá xa, chủ đề rõ ràng và không cần di chuyển nhiều điểm rời rạc.
+Nó cũng nên liên kết với nhóm 'lịch sử An Nhơn - Thành Đồ Bàn - Tây Sơn' gồm Thành Hoàng Đế, chùa Thập Tháp, các điểm gắn với Tây Sơn và các làng nghề. Đây là nhóm phù hợp khi người dùng hỏi lịch trình văn hóa, lịch sử hoặc du lịch giáo dục.
 
-Tuyến một ngày văn hóa An Nhơn có thể là Quy Nhơn - Tháp Cánh Tiên - Thành Hoàng Đế - chùa Thập Tháp - làng nghề tiện gỗ - làng rượu Bàu Đá hoặc làng bún An Thái - Tháp Phú Lốc nếu còn thời gian. Tuyến này phù hợp với người thích lịch sử, làng nghề và ẩm thực địa phương hơn là tắm biển.
+Các câu hỏi chatbot có thể trả lời từ file này gồm: gần Tháp Cánh Tiên có gì, nên kết hợp Thành Hoàng Đế không, đi nửa ngày thế nào, đi một ngày thế nào, có thể kết hợp tháp Chăm nào, địa điểm phù hợp với gia đình/cặp đôi/khách quốc tế không, và nên đi tuyến Quy Nhơn - An Nhơn ra sao.
 
-Tuyến hai ngày có thể chia thành ngày 1 tham quan Quy Nhơn biển, Tháp Đôi và Ghềnh Ráng; ngày 2 đi An Nhơn - Tây Sơn với Tháp Cánh Tiên, Thành Hoàng Đế, Bánh Ít, Bảo tàng Quang Trung hoặc Tháp Dương Long tùy sức. Với tuyến hai ngày, nên tránh ôm quá nhiều tháp trong một ngày vì mỗi tháp có giá trị riêng cần thời gian quan sát.
+2. Sự kiện / lễ hội
 
-3. Sự kiện, lễ hội và hoạt động theo mùa
+Bản thân Tháp Cánh Tiên không nên được giới thiệu như một nơi có lễ hội du lịch thường xuyên nếu không có thông tin cập nhật. Tuy nhiên, nó nằm trong vùng An Nhơn - Tây Sơn, nơi có nhiều hoạt động văn hóa gắn với võ cổ truyền, lịch sử Tây Sơn, lễ Tết và sự kiện địa phương. Nếu người dùng hỏi về lễ hội ở tháp, chatbot nên trả lời thận trọng: không có lễ hội cố định nổi bật được xác minh tại riêng tháp, nhưng có thể kết hợp các sự kiện văn hóa của Bình Định/Gia Lai khi trùng dịp.
+
+Hoạt động theo mùa chủ yếu liên quan thời tiết và ánh sáng. Mùa khô phù hợp chụp ảnh, tham quan ngoài trời và đi nhiều điểm. Mùa mưa cần theo dõi dự báo, tránh ngày bão hoặc mưa lớn. Dịp hè và lễ có thể đông khách hơn, nhưng cũng là thời điểm dịch vụ du lịch Quy Nhơn hoạt động sôi động.
+
+Với khách quốc tế, tuyến tháp Chăm Bình Định là cơ hội để hiểu phần lịch sử Champa ngoài Mỹ Sơn. Khi xây chatbot đa ngôn ngữ hoặc trả lời khách quốc tế, nên giải thích ngắn về Champa, Vijaya và phong cách kiến trúc Bình Định bằng ngôn ngữ dễ hiểu, tránh quá nhiều thuật ngữ khảo cổ.
+
+3. Hoạt động theo mùa
 
 Bản thân Tháp Cánh Tiên không nên được giới thiệu như một nơi có lễ hội du lịch thường xuyên nếu không có thông tin cập nhật. Tuy nhiên, nó nằm trong vùng An Nhơn - Tây Sơn, nơi có nhiều hoạt động văn hóa gắn với võ cổ truyền, lịch sử Tây Sơn, lễ Tết và sự kiện địa phương. Nếu người dùng hỏi về lễ hội ở tháp, chatbot nên trả lời thận trọng: không có lễ hội cố định nổi bật được xác minh tại riêng tháp, nhưng có thể kết hợp các sự kiện văn hóa của Bình Định/Gia Lai khi trùng dịp.
 
@@ -30,15 +36,13 @@ Trẻ em có thể học về tháp Chăm, vật liệu gạch, cửa thật - c
 
 Người khuyết tật hoặc người khó vận động cần kiểm tra điều kiện tiếp cận trước. Di tích ngoài trời thường có bậc, nền không hoàn toàn phẳng và ít tiện ích chuyên biệt hơn khu du lịch hiện đại. Chatbot nên trả lời có điều kiện, không khẳng định chắc chắn là hoàn toàn tiếp cận được.
 
-5. Liên kết với các điểm du lịch cùng khu vực
+5. Gợi ý tuyến tham quan kết hợp
 
-Tháp Cánh Tiên nên được liên kết với nhóm 'di tích Chăm Bình Định/Gia Lai' gồm Tháp Bánh Ít, Tháp Đôi, Tháp Dương Long, Tháp Bình Lâm, Tháp Phú Lốc và Tháp Thủ Thiện. Liên kết này giúp chatbot trả lời câu hỏi so sánh và gợi ý lịch trình cho người yêu kiến trúc Chăm.
+Tuyến nửa ngày đơn giản từ Quy Nhơn có thể là Quy Nhơn - Tháp Cánh Tiên - Thành Hoàng Đế - chùa Thập Tháp - ăn trưa hoặc cà phê ở An Nhơn - quay về Quy Nhơn. Tuyến này hợp với gia đình và người mới đi vì khoảng cách không quá xa, chủ đề rõ ràng và không cần di chuyển nhiều điểm rời rạc.
 
-Nó cũng nên liên kết với nhóm 'lịch sử An Nhơn - Thành Đồ Bàn - Tây Sơn' gồm Thành Hoàng Đế, chùa Thập Tháp, các điểm gắn với Tây Sơn và các làng nghề. Đây là nhóm phù hợp khi người dùng hỏi lịch trình văn hóa, lịch sử hoặc du lịch giáo dục.
+Tuyến một ngày văn hóa An Nhơn có thể là Quy Nhơn - Tháp Cánh Tiên - Thành Hoàng Đế - chùa Thập Tháp - làng nghề tiện gỗ - làng rượu Bàu Đá hoặc làng bún An Thái - Tháp Phú Lốc nếu còn thời gian. Tuyến này phù hợp với người thích lịch sử, làng nghề và ẩm thực địa phương hơn là tắm biển.
 
-Các câu hỏi chatbot có thể trả lời từ file này gồm: gần Tháp Cánh Tiên có gì, nên kết hợp Thành Hoàng Đế không, đi nửa ngày thế nào, đi một ngày thế nào, có thể kết hợp tháp Chăm nào, địa điểm phù hợp với gia đình/cặp đôi/khách quốc tế không, và nên đi tuyến Quy Nhơn - An Nhơn ra sao.
-
-6. Gợi ý tuyến theo mục tiêu người dùng
+Tuyến hai ngày có thể chia thành ngày 1 tham quan Quy Nhơn biển, Tháp Đôi và Ghềnh Ráng; ngày 2 đi An Nhơn - Tây Sơn với Tháp Cánh Tiên, Thành Hoàng Đế, Bánh Ít, Bảo tàng Quang Trung hoặc Tháp Dương Long tùy sức. Với tuyến hai ngày, nên tránh ôm quá nhiều tháp trong một ngày vì mỗi tháp có giá trị riêng cần thời gian quan sát.
 
 Nếu mục tiêu là tìm hiểu Champa, tuyến nên ưu tiên Tháp Cánh Tiên kết hợp Bánh Ít, Tháp Đôi hoặc Dương Long. Không nhất thiết phải đi tất cả trong một ngày; tốt hơn là chia theo khu vực để mỗi điểm có thời gian quan sát. Câu trả lời của chatbot nên hỏi thêm người dùng đang ở Quy Nhơn, An Nhơn hay Tây Sơn để gợi ý tuyến hợp lý.
 
@@ -48,7 +52,7 @@ Nếu mục tiêu là chụp ảnh nhẹ nhàng, tuyến nên đi Tháp Cánh Ti
 
 Nếu mục tiêu là ẩm thực và làng nghề, tuyến có thể kết hợp Tháp Cánh Tiên với làng nghề tiện gỗ, làng bún An Thái, rượu Bàu Đá hoặc các quán đặc sản An Nhơn. Đây là cách biến chuyến đi văn hóa thành trải nghiệm sống động hơn, nhưng cần sắp xếp giờ ăn và giờ mở cửa của từng điểm.
 
-7. Nguồn tham khảo
+6. Nguồn tham khảo
 
 Cổng Du lịch Quy Nhơn - Bình Định, bài Tháp Cánh Tiên (Tháp Đồng): https://dulichquynhon.binhdinh.gov.vn/vi/thapcanhtien
 

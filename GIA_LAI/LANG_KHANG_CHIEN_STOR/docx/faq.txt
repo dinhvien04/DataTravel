@@ -138,7 +138,7 @@ A: Có thể có. Một số nguồn ghi huyện Kbang, xã Tơ Tung theo cách 
 Q: Tóm lại, có nên đi Làng kháng chiến Stơr không?
 A: Nên đi nếu bạn quan tâm lịch sử, văn hóa Tây Nguyên, du lịch nông thôn và các địa chỉ đỏ của Gia Lai. Đây không phải điểm vui chơi ồn ào mà là nơi để hiểu thêm về Anh hùng Núp, người Bahnar và tinh thần bám làng giữ đất.
 
-2. Thông tin cập nhật mới cần lưu ý
+2. Thông tin cập nhật mới
 
 Thông tin hành chính cần cập nhật: sau Nghị quyết 1664/NQ-UBTVQH15 năm 2025, xã Kông Lơng Khơng và xã Tơ Tung được sắp xếp thành xã Tơ Tung mới. Vì vậy, dữ liệu chatbot nên lưu cả huyện Kbang/xã Tơ Tung cũ và xã Tơ Tung mới thuộc tỉnh Gia Lai để tránh nhầm khi người dùng tra cứu bản đồ.
 

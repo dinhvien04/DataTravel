@@ -1,30 +1,30 @@
-Document này tập trung vào giá vé, giờ mở cửa, thời điểm nên tham quan, mùa đẹp, thông tin thời tiết và lưu ý cập nhật. Đây là nhóm dữ liệu có tính thay đổi cao, nên khi dùng cho chatbot cần ưu tiên trả lời theo dạng "tham khảo" và khuyến nghị kiểm tra trang chính thức hoặc hotline trước khi đi.
-
-1. Giờ mở cửa
-
-Trang FLC Hotels & Resorts bản tiếng Anh ghi giờ mở cửa của Zoo Safari Park là 08:00 - 17:30. Bamboo Airways cũng ghi Safari Quy Nhơn mở cửa từ 08:00 đến 17:30 hằng ngày. Một số trang đánh giá hoặc bài viết cũ có thể ghi 08:00 - 17:00 hoặc 09:00 - 17:00, vì vậy nên dùng nguồn FLC mới hơn làm tham chiếu chính và thêm lưu ý kiểm tra lại nếu đi sát giờ đóng cửa.
-
-Khung giờ tham quan phù hợp nhất thường là buổi sáng, khoảng 08:00 - 10:30. Lúc này thời tiết mát hơn, ánh sáng dễ chụp ảnh và trẻ em ít bị mệt do nắng. Buổi chiều vẫn có thể tham quan, nhưng nên vào sớm trước 15:30 để còn đủ thời gian đi các phân khu, mua vé dịch vụ và nghỉ chân.
-
-2. Giá vé vào cổng
+1. Giá vé
 
 Nguồn FLC Hotels & Resorts ghi vé tham quan là 100.000 đồng/người lớn và 80.000 đồng/trẻ em. Bamboo Airways cũng ghi mức tham khảo tương tự và nêu trẻ em dưới 0,9 m được miễn phí. Một số bài viết hoặc đại lý có thể ghi giá cũ thấp hơn hoặc có gói combo khác, vì vậy chatbot nên ưu tiên trả lời: giá vé tham khảo hiện thường là 100.000 đồng/người lớn và 80.000 đồng/trẻ em, vui lòng kiểm tra lại trước ngày đi.
 
 Nếu người dùng hỏi "giá vé hiện tại bao nhiêu", câu trả lời an toàn là: theo nguồn FLC và các bài hướng dẫn du lịch gần đây, vé vào cổng thường được niêm yết 100.000 đồng cho người lớn và 80.000 đồng cho trẻ em, nhưng giá có thể thay đổi theo chương trình, ngày lễ, combo khách sạn hoặc kênh bán vé. Người dùng nên liên hệ hotline hoặc trang FLC để xác nhận.
 
-3. Giá dịch vụ đi kèm
+Trang FLC Safari Quy Nhơn ghi khách muốn đặt vé có thể liên hệ hotline (+84) 256 370 1195 hoặc email sfr.sales@flcquynhon.com.vn. Trang FLC Hotels & Resorts của quần thể FLC Quy Nhơn cũng ghi liên hệ tổng quát của khu FLC như (+84) 256 628 8888 và email resa@flcquynhon.com.vn hoặc fitbooking@flc.vn cho khách lẻ.
+
+Khi người dùng hỏi đặt vé ở đâu, chatbot có thể gợi ý mua trực tiếp tại cổng, hỏi lễ tân FLC nếu đang lưu trú hoặc liên hệ số hotline/email trên trang chính thức. Với đoàn trường, đoàn gia đình đông người hoặc đoàn công ty, nên hỏi trước để xác nhận thời gian, giá đoàn và dịch vụ hướng dẫn.
+
+Thời lượng tối thiểu để ghé nhanh là khoảng 1,5-2 giờ nếu chỉ xem các khu chính và chụp ảnh. Thời lượng hợp lý cho gia đình có trẻ em là 2,5-3,5 giờ, bao gồm quan sát thú, khu thú cưng, hồ thiên nga, nghỉ uống nước và sử dụng một số dịch vụ phụ. Nếu đi đoàn hoặc kết hợp ăn uống, có thể dành nửa ngày.
+
+Tripadvisor gợi ý thời lượng hơn 3 giờ cho điểm tham quan này. Dữ liệu này hữu ích khi chatbot tư vấn lịch trình, nhưng nên tùy chỉnh theo nhóm khách: người trẻ đi nhanh có thể 2 giờ, gia đình có trẻ nhỏ nên dành nhiều thời gian hơn và nghỉ giữa chặng.
+
+2. Giá các dịch vụ đi kèm
 
 Ngoài vé vào cổng, một số dịch vụ có thể tính phí riêng như xe điện, xe ngựa, xe đạp đôi, chèo thuyền, đạp vịt, thức ăn cho thú, dịch vụ chụp hình hoặc các trò chơi bổ sung. Bamboo Airways có nêu các mức tham khảo như xe điện 50.000 đồng/lượt/người, xe ngựa 70.000 đồng/lượt/người, thức ăn cho thú hoặc dê bú bình 10.000 đồng, câu cá 20.000 đồng/1 cần/60 phút, đạp vịt 40.000 đồng/thuyền/15 phút. Một số blog du lịch ghi thêm nhiều mức giá khác như xe điện theo lượt hoặc nguyên xe, thuyền 2 chỗ/4 chỗ và thuê lều.
 
 Vì đây là nhóm giá dễ thay đổi, không nên đưa vào chatbot như dữ liệu cố định tuyệt đối. Cách trả lời tốt là: dịch vụ phụ có thể phát sinh phí riêng, thường gồm xe điện, xe ngựa, xe đạp đôi, chèo thuyền/đạp vịt, thức ăn cho thú và chụp ảnh; mức giá tùy thời điểm, nên kiểm tra bảng giá tại cổng hoặc liên hệ FLC trước khi đi.
 
-4. Thông tin đặt vé và liên hệ
+3. Giờ mở cửa
 
-Trang FLC Safari Quy Nhơn ghi khách muốn đặt vé có thể liên hệ hotline (+84) 256 370 1195 hoặc email sfr.sales@flcquynhon.com.vn. Trang FLC Hotels & Resorts của quần thể FLC Quy Nhơn cũng ghi liên hệ tổng quát của khu FLC như (+84) 256 628 8888 và email resa@flcquynhon.com.vn hoặc fitbooking@flc.vn cho khách lẻ.
+Trang FLC Hotels & Resorts bản tiếng Anh ghi giờ mở cửa của Zoo Safari Park là 08:00 - 17:30. Bamboo Airways cũng ghi Safari Quy Nhơn mở cửa từ 08:00 đến 17:30 hằng ngày. Một số trang đánh giá hoặc bài viết cũ có thể ghi 08:00 - 17:00 hoặc 09:00 - 17:00, vì vậy nên dùng nguồn FLC mới hơn làm tham chiếu chính và thêm lưu ý kiểm tra lại nếu đi sát giờ đóng cửa.
 
-Khi người dùng hỏi đặt vé ở đâu, chatbot có thể gợi ý mua trực tiếp tại cổng, hỏi lễ tân FLC nếu đang lưu trú hoặc liên hệ số hotline/email trên trang chính thức. Với đoàn trường, đoàn gia đình đông người hoặc đoàn công ty, nên hỏi trước để xác nhận thời gian, giá đoàn và dịch vụ hướng dẫn.
+Khung giờ tham quan phù hợp nhất thường là buổi sáng, khoảng 08:00 - 10:30. Lúc này thời tiết mát hơn, ánh sáng dễ chụp ảnh và trẻ em ít bị mệt do nắng. Buổi chiều vẫn có thể tham quan, nhưng nên vào sớm trước 15:30 để còn đủ thời gian đi các phân khu, mua vé dịch vụ và nghỉ chân.
 
-5. Thời điểm nên tham quan trong ngày
+4. Thời điểm nên tham quan
 
 Buổi sáng là lựa chọn phù hợp nhất vì thời tiết Nhơn Lý nhiều nắng, công viên có nhiều không gian ngoài trời và trẻ em dễ mệt nếu đi giữa trưa. Nếu muốn quan sát thú hoạt động, buổi sáng cũng thường tốt hơn so với giờ nắng gắt. Nên mang mũ, nước uống, kem chống nắng và giày thể thao.
 
@@ -32,29 +32,25 @@ Buổi trưa không phải thời điểm lý tưởng vì nhiệt độ cao, á
 
 Buổi chiều phù hợp với khách muốn kết hợp lịch trình sau khi đi Kỳ Co hoặc Eo Gió, nhưng cần vào sớm để không bị gấp thời gian. Không nên đến quá sát giờ đóng cửa vì có thể không đủ thời gian đi hết các khu hoặc một số dịch vụ phụ đã ngưng nhận khách.
 
-6. Mùa đẹp nhất
+5. Mùa đẹp nhất
 
 Mùa khô ở Quy Nhơn thường là thời điểm thuận lợi để kết hợp tham quan Safari với các điểm biển Nhơn Lý như Eo Gió, Kỳ Co và đồi cát Phương Mai. Giai đoạn khoảng tháng 3 đến tháng 9 thường được nhiều người chọn vì trời nắng, ít mưa hơn và lịch trình ngoài trời ít bị gián đoạn.
 
 Tuy nhiên, đi Safari không phụ thuộc vào biển như đi cano Kỳ Co hoặc Hòn Khô. Nếu trời chỉ nắng nhẹ hoặc âm u, công viên vẫn có thể tham quan được. Điều cần tránh hơn là mưa lớn, gió mạnh, thời tiết quá nóng giữa trưa hoặc các ngày sau bão khi một số khu có thể bảo trì.
 
-7. Thông tin thời tiết cần lưu ý
+6. Thông tin thời tiết
+
+Về thời tiết, Mùa khô ở Quy Nhơn thường là thời điểm thuận lợi để kết hợp tham quan Safari với các điểm biển Nhơn Lý như Eo Gió, Kỳ Co và đồi cát Phương Mai. Giai đoạn khoảng tháng 3 đến tháng 9 thường được nhiều người chọn vì trời nắng, ít mưa hơn và lịch trình ngoài trời ít bị gián đoạn. Tuy nhiên, đi Safari không phụ thuộc vào biển như đi cano Kỳ Co hoặc Hòn Khô.
+
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Khu Nhơn Lý - Phương Mai có đặc điểm nắng, gió và ít bóng râm hơn khu trung tâm. Du khách nên chuẩn bị mũ rộng vành, kính mát, áo khoác nhẹ, kem chống nắng, nước uống và giày dễ đi. Với trẻ nhỏ, nên có xe đẩy gọn nhẹ nếu bé còn nhỏ, nhưng cần kiểm tra độ thuận tiện của lối đi trong công viên.
 
 Vào mùa mưa hoặc khi có áp thấp, nên kiểm tra thông báo vận hành trước khi đến. Nếu mưa kéo dài, trải nghiệm ngoài trời, hồ thiên nga, xe điện hoặc các hoạt động tương tác có thể bị ảnh hưởng. Với chatbot, nên thêm câu: "Bạn nên gọi trước cho FLC Zoo Safari Park nếu đi vào ngày mưa hoặc dịp sau bão".
 
-8. Thời lượng tham quan đề xuất
-
-Thời lượng tối thiểu để ghé nhanh là khoảng 1,5-2 giờ nếu chỉ xem các khu chính và chụp ảnh. Thời lượng hợp lý cho gia đình có trẻ em là 2,5-3,5 giờ, bao gồm quan sát thú, khu thú cưng, hồ thiên nga, nghỉ uống nước và sử dụng một số dịch vụ phụ. Nếu đi đoàn hoặc kết hợp ăn uống, có thể dành nửa ngày.
-
-Tripadvisor gợi ý thời lượng hơn 3 giờ cho điểm tham quan này. Dữ liệu này hữu ích khi chatbot tư vấn lịch trình, nhưng nên tùy chỉnh theo nhóm khách: người trẻ đi nhanh có thể 2 giờ, gia đình có trẻ nhỏ nên dành nhiều thời gian hơn và nghỉ giữa chặng.
-
-9. Ghi chú cập nhật dữ liệu
-
 Giá vé, giờ mở cửa và dịch vụ phụ là dữ liệu có thể thay đổi. Không nên huấn luyện mô hình trả lời tuyệt đối nếu không có cơ chế cập nhật định kỳ. Nên gắn nhãn freshness: "cần kiểm tra lại trước khi đi" cho tất cả câu hỏi liên quan giá, vé combo, lịch xe điện, dịch vụ cho thú ăn, câu cá sấu, thuê lều, đạp vịt hoặc lịch hoạt động ngày lễ.
 
-10. Nguồn tham khảo
+8. Nguồn tham khảo
 
 FLC Hotels & Resorts - Zoo Safari Park: https://flchotelsresorts.com/dich-vu/zoo-safari-park-1
 

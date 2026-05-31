@@ -1,4 +1,4 @@
-1. Hỏi đáp thường gặp
+1. Câu hỏi thường gặp
 
 Q: Thác Mơ ở đâu?
 A: Thác Mơ trong bộ dữ liệu này là Thác Mơ Ia Khai ở Gia Lai, khu vực làng Ếch, xã Ia Khai cũ, huyện Ia Grai cũ. Sau sắp xếp đơn vị hành chính cấp xã năm 2025, khu vực Ia Khai thuộc xã Ia Krái mới. Khi tìm bản đồ nên nhập kèm Gia Lai, Ia Khai, Ia Krái hoặc Ia Grai để tránh nhầm với các Thác Mơ ở tỉnh khác.
@@ -129,7 +129,7 @@ A: Có. Cần kiểm tra thời tiết, đường vào, dịch vụ thuyền/tou
 Q: Thác Mơ có phù hợp cho chatbot RAG du lịch không?
 A: Rất phù hợp vì địa điểm có nhiều ngữ cảnh: tên gọi trùng/đồng nghĩa, địa danh hành chính cũ và mới, đường đi từ Pleiku, mùa nước, an toàn thác, tour lòng hồ, làng chài, bến đò A Sanh và lưu ý môi trường.
 
-2. Thông tin cập nhật và cách dùng cho chatbot
+2. Thông tin cập nhật mới
 
 Khi dùng FAQ này cho chatbot, cần lưu nhiều biến thể tên gọi: Thác Mơ, Thác Mơ Ia Khai, thác Ia Khai, thác Mơ Gia Lai, thác ở làng Ếch, thác ở Ia Grai, thác gần sông Pô Cô, điểm trong tour lòng hồ Sê San. Nếu người dùng chỉ hỏi “Thác Mơ” mà không nói tỉnh, chatbot nên hỏi lại hoặc gợi ý: “Bạn đang muốn hỏi Thác Mơ Ia Khai ở Gia Lai phải không?”
 

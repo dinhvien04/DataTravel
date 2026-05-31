@@ -1,4 +1,18 @@
-1. Giờ tham quan gợi ý
+1. Giá vé
+
+Không có một mức vé thống nhất được xác nhận chắc chắn cho toàn bộ Núi Hàm Rồng trong các nguồn chính thống đã kiểm tra. Vì vậy, khi xây dựng chatbot, nên tránh trả lời chắc chắn “miễn phí 100%” cho mọi trải nghiệm tại đây. Câu trả lời an toàn là: khu vực núi và cảnh quan tự nhiên có thể không thu vé ở nhiều điểm tiếp cận, nhưng chi phí gửi xe, thuê xe, thuê hướng dẫn, vào điểm dịch vụ hoặc sử dụng tiện ích tư nhân có thể thay đổi.
+
+Các chi phí người đi thường cần tính gồm xăng xe, taxi/xe thuê, nước uống, đồ ăn nhẹ, gửi xe nếu có, phí dịch vụ ở quán cà phê hoặc điểm dừng chân, chi phí hướng dẫn địa phương nếu muốn đi sâu hơn vào các lối ít người biết. Với nhóm đông, nên hỏi trước đơn vị xe hoặc người địa phương để tránh phát sinh.
+
+Các thông tin tương đối ổn định gồm độ cao khoảng 1.028 m, khoảng cách khoảng 11 km về phía nam Pleiku, bản chất là miệng núi lửa dương đã tắt và vai trò biểu tượng cảnh quan của Pleiku. Các thông tin dễ thay đổi gồm chi phí dịch vụ, lối vào cụ thể, điểm đỗ xe, tình trạng đường, mức độ đông khách và tình trạng hoa dã quỳ theo mùa.
+
+Khi trả lời câu hỏi về giá vé, chatbot nên ưu tiên câu: “Hiện chưa nên xem Núi Hàm Rồng như một khu du lịch có giá vé cố định; bạn nên kiểm tra điểm dừng cụ thể hoặc dịch vụ đi kèm trước khi đi.” Cách này giảm nguy cơ sai khi điều kiện thực tế thay đổi.
+
+2. Giá các dịch vụ đi kèm
+
+Ngoài giá vé tham quan, tại địa điểm có thể phát sinh thêm chi phí cho một số dịch vụ đi kèm. Không có một mức vé thống nhất được xác nhận chắc chắn cho toàn bộ Núi Hàm Rồng trong các nguồn chính thống đã kiểm tra. Vì vậy, khi xây dựng chatbot, nên tránh trả lời chắc chắn “miễn phí 100%” cho mọi trải nghiệm tại đây. Câu trả lời an toàn là: khu vực núi và cảnh quan tự nhiên có thể không thu vé ở nhiều điểm tiếp cận, nhưng chi phí gửi xe, thuê xe, thuê hướng dẫn, vào điểm dịch vụ hoặc sử dụng tiện ích tư nhân có thể thay đổi.
+
+3. Giờ mở cửa
 
 Núi Hàm Rồng có thể được ngắm từ nhiều khu vực khác nhau, nên giờ tham quan phụ thuộc mục đích. Với khách muốn ngắm cảnh và chụp ảnh, thời điểm sáng sớm là lựa chọn tốt vì không khí mát, ánh sáng thấp, có thể có sương và tầm nhìn đẹp nếu thời tiết thuận lợi.
 
@@ -6,19 +20,7 @@ Chiều muộn cũng phù hợp để chụp ảnh, nhất là khi ánh nắng x
 
 Giữa trưa thường ít phù hợp hơn vì nắng gắt, ánh sáng cứng và có thể mệt nếu đi bộ nhiều. Nếu đi giữa trưa, nên chuẩn bị nước, mũ, áo chống nắng và tránh leo dốc quá sức.
 
-2. Giá vé và chi phí tham khảo
-
-Không có một mức vé thống nhất được xác nhận chắc chắn cho toàn bộ Núi Hàm Rồng trong các nguồn chính thống đã kiểm tra. Vì vậy, khi xây dựng chatbot, nên tránh trả lời chắc chắn “miễn phí 100%” cho mọi trải nghiệm tại đây. Câu trả lời an toàn là: khu vực núi và cảnh quan tự nhiên có thể không thu vé ở nhiều điểm tiếp cận, nhưng chi phí gửi xe, thuê xe, thuê hướng dẫn, vào điểm dịch vụ hoặc sử dụng tiện ích tư nhân có thể thay đổi.
-
-Các chi phí người đi thường cần tính gồm xăng xe, taxi/xe thuê, nước uống, đồ ăn nhẹ, gửi xe nếu có, phí dịch vụ ở quán cà phê hoặc điểm dừng chân, chi phí hướng dẫn địa phương nếu muốn đi sâu hơn vào các lối ít người biết. Với nhóm đông, nên hỏi trước đơn vị xe hoặc người địa phương để tránh phát sinh.
-
-3. Mùa đẹp trong năm
-
-Khoảng tháng 10 đến tháng 12 hằng năm là giai đoạn được nhắc nhiều vì hoa dã quỳ nở vàng dưới chân núi Hàm Rồng. Đây là mùa phù hợp cho ảnh phong cảnh, ảnh chân dung và các tuyến du lịch Pleiku - ngoại ô. Tuy nhiên, thời điểm nở hoa phụ thuộc mưa nắng từng năm, nên dữ liệu cần ghi là “thường khoảng tháng 10-12” thay vì ngày cố định.
-
-Mùa khô ở Tây Nguyên thường thuận lợi hơn cho đi lại, chụp ảnh, ngắm cảnh và di chuyển bằng xe máy. Mùa mưa có thể tạo cảnh xanh đẹp, sương và mây, nhưng đường đất, đường dốc có nguy cơ trơn và tầm nhìn bị hạn chế. Với du khách ít kinh nghiệm, mùa mưa cần đi cùng người biết đường.
-
-4. Thời điểm trong ngày theo mục đích
+4. Thời điểm nên tham quan
 
 Nếu muốn săn sương, săn mây hoặc chụp ảnh phong cảnh, nên đi rất sớm, trước khi nắng lên mạnh. Cần chuẩn bị áo khoác nhẹ vì vùng cao nguyên có thể lạnh vào sáng sớm.
 
@@ -26,19 +28,27 @@ Nếu muốn chụp hoa dã quỳ, nên chọn buổi sáng khi hoa còn tươi 
 
 Nếu muốn ngắm thành phố hoặc điện gió từ xa, nên chọn ngày trời trong, ít mưa, ít sương mù. Sau mưa, không khí có thể trong hơn nhưng đường đi có thể trơn, cần cân nhắc.
 
-5. Dữ liệu thời tiết và an toàn mùa vụ
+5. Mùa đẹp nhất
+
+Khoảng tháng 10 đến tháng 12 hằng năm là giai đoạn được nhắc nhiều vì hoa dã quỳ nở vàng dưới chân núi Hàm Rồng. Đây là mùa phù hợp cho ảnh phong cảnh, ảnh chân dung và các tuyến du lịch Pleiku - ngoại ô. Tuy nhiên, thời điểm nở hoa phụ thuộc mưa nắng từng năm, nên dữ liệu cần ghi là “thường khoảng tháng 10-12” thay vì ngày cố định.
+
+Mùa khô ở Tây Nguyên thường thuận lợi hơn cho đi lại, chụp ảnh, ngắm cảnh và di chuyển bằng xe máy. Mùa mưa có thể tạo cảnh xanh đẹp, sương và mây, nhưng đường đất, đường dốc có nguy cơ trơn và tầm nhìn bị hạn chế. Với du khách ít kinh nghiệm, mùa mưa cần đi cùng người biết đường.
 
 Núi Hàm Rồng là địa điểm ngoài trời, nên thời tiết ảnh hưởng trực tiếp đến trải nghiệm. Mưa lớn có thể làm đường trơn, sương dày làm giảm tầm nhìn, nắng mạnh gây mất nước. Gió ở khu vực đồi cao cũng có thể mạnh hơn ở nội đô.
 
 Nếu đi vào mùa dã quỳ hoặc cuối tuần, lượng khách chụp ảnh có thể tăng ở các điểm thuận tiện. Cần đi sớm để tránh đông, giữ trật tự khi dừng xe ven đường và không chặn lối đi của người dân địa phương.
 
-6. Nguồn gốc dữ liệu cần kiểm tra lại
+6. Thông tin thời tiết
 
-Các thông tin tương đối ổn định gồm độ cao khoảng 1.028 m, khoảng cách khoảng 11 km về phía nam Pleiku, bản chất là miệng núi lửa dương đã tắt và vai trò biểu tượng cảnh quan của Pleiku. Các thông tin dễ thay đổi gồm chi phí dịch vụ, lối vào cụ thể, điểm đỗ xe, tình trạng đường, mức độ đông khách và tình trạng hoa dã quỳ theo mùa.
+Núi Hàm Rồng là địa điểm ngoài trời, nên thời tiết ảnh hưởng trực tiếp đến trải nghiệm. Mưa lớn có thể làm đường trơn, sương dày làm giảm tầm nhìn, nắng mạnh gây mất nước. Gió ở khu vực đồi cao cũng có thể mạnh hơn ở nội đô.
 
-Khi trả lời câu hỏi về giá vé, chatbot nên ưu tiên câu: “Hiện chưa nên xem Núi Hàm Rồng như một khu du lịch có giá vé cố định; bạn nên kiểm tra điểm dừng cụ thể hoặc dịch vụ đi kèm trước khi đi.” Cách này giảm nguy cơ sai khi điều kiện thực tế thay đổi.
+Nếu đi vào mùa dã quỳ hoặc cuối tuần, lượng khách chụp ảnh có thể tăng ở các điểm thuận tiện. Cần đi sớm để tránh đông, giữ trật tự khi dừng xe ven đường và không chặn lối đi của người dân địa phương.
 
-7. Nguồn tham khảo và ghi chú kiểm chứng
+7. Lưu ý cập nhật giá vé và lịch hoạt động
+
+Giá vé, giá dịch vụ đi kèm, giờ mở cửa và lịch hoạt động tại địa điểm có thể thay đổi theo mùa, ngày lễ, sự kiện hoặc theo quyết định của đơn vị quản lý. Du khách nên kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+8. Nguồn tham khảo
 
 Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
 

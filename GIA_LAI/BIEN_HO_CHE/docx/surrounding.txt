@@ -1,6 +1,4 @@
-File này mô tả các điểm gần Biển Hồ Chè, sự kiện, lễ hội, hoạt động theo mùa và nhóm khách phù hợp. Mục tiêu là giúp chatbot gợi ý tuyến du lịch thay vì chỉ trả lời đơn lẻ về một điểm.
-
-1. Cụm du lịch Biển Hồ - Biển Hồ Chè - Chư Đăng Ya
+1. Các địa điểm gần đó
 
 Biển Hồ Chè nằm trong một cụm tham quan rất thuận tiện ở phía Bắc Pleiku. Các điểm thường được kết nối gồm Biển Hồ T’Nưng, hàng thông trăm tuổi, Biển Hồ Chè, chùa Bửu Minh, hồ Ya Lũ và núi lửa Chư Đăng Ya. Cụm này phù hợp cho du lịch nửa ngày, một ngày hoặc lịch trình chụp ảnh mùa dã quỳ.
 
@@ -8,27 +6,19 @@ Biển Hồ T’Nưng là hồ nước tự nhiên nổi tiếng, thường đư
 
 Hàng thông trăm tuổi là điểm chuyển tiếp quan trọng giữa đường đi và khu chè. Trong dữ liệu chatbot, có thể xem hàng thông vừa là một điểm check-in riêng, vừa là lối dẫn vào cảnh quan Biển Hồ Chè. Nhiều người gọi chung toàn khu là “đi hàng thông Biển Hồ Chè”.
 
-2. Chùa Bửu Minh
-
 Chùa Bửu Minh là điểm tâm linh nổi bật nằm trong không gian vùng chè. Chùa có mối liên hệ với quá trình hình thành Sở Trà Biển Hồ và cộng đồng cư dân khai hoang ở vùng cao nguyên. Vì vậy, khi giới thiệu Biển Hồ Chè, nên nhắc chùa Bửu Minh như một điểm bổ sung chiều sâu lịch sử - văn hóa.
 
 Chùa phù hợp với người muốn tham quan nhẹ nhàng, tìm không gian yên tĩnh và chụp ảnh kiến trúc trong bối cảnh đồi chè. Khi tư vấn, cần nhắc du khách tôn trọng không gian tâm linh, không ồn ào, không chụp ảnh phản cảm và không xâm phạm khu vực thờ tự.
-
-3. Núi lửa Chư Đăng Ya
 
 Núi lửa Chư Đăng Ya là điểm gần Biển Hồ Chè và đặc biệt nổi tiếng vào mùa hoa dã quỳ khoảng tháng 11. Đây là một núi lửa đã tắt, hiện có cảnh quan nông nghiệp và mùa hoa thu hút đông khách. Tuyến Biển Hồ Chè - Chư Đăng Ya là gợi ý phổ biến cho khách thích ảnh phong cảnh và trải nghiệm cao nguyên.
 
 Vào mùa lễ hội hoặc cuối tuần tháng 11, khu vực Chư Đăng Ya có thể đông hơn bình thường. Chatbot nên khuyên khách đi sớm, giữ xe cẩn thận, mang nước, không giẫm nát ruộng vườn và không bẻ hoa.
 
-4. Các điểm trong trung tâm Pleiku có thể kết hợp
+Biển Hồ Chè là cảnh quan nông nghiệp nên không hoàn toàn bất biến như di tích kiến trúc. Màu chè, độ xanh, mức độ canh tác, điểm được phép vào và diện tích chè có thể thay đổi. Chatbot cần tránh mô tả quá tuyệt đối như “bạt ngàn bất tận” nếu người dùng hỏi về hiện trạng mới nhất.
 
-Chùa Minh Thành là điểm kiến trúc - tâm linh nổi tiếng trong trung tâm Pleiku, phù hợp kết hợp trước hoặc sau khi đi Biển Hồ Chè. Nếu khách có một ngày ở Pleiku, có thể đi Chùa Minh Thành buổi sáng hoặc buổi chiều tùy lịch bay.
+Thông tin về việc giữ lại hơn 62 ha chè cổ thụ là dữ liệu cập nhật quan trọng. Khi trả lời về hiện trạng, nên nhấn mạnh khu vực cảnh quan trọng điểm gắn với hàng thông trăm tuổi, chùa Bửu Minh và hồ Ya Lũ được địa phương định hướng bảo tồn, nhưng người dùng vẫn nên kiểm tra ảnh và đánh giá gần ngày đi.
 
-Quảng trường Đại Đoàn Kết là điểm dạo chơi buổi tối và dễ kết hợp sau khi tham quan cụm Biển Hồ. Khu vực trung tâm Pleiku cũng thuận tiện ăn phở khô Gia Lai, cà phê và mua đặc sản.
-
-Núi Hàm Rồng là điểm ngắm cảnh và gắn với địa hình núi lửa của Pleiku. Nếu khách quan tâm địa chất và cảnh quan cao nguyên, có thể kết hợp Biển Hồ T’Nưng, Biển Hồ Chè, Chư Đăng Ya và Hàm Rồng để tạo tuyến chủ đề “cao nguyên núi lửa - đất đỏ bazan - nông nghiệp”.
-
-5. Sự kiện và hoạt động theo mùa
+2. Sự kiện / lễ hội
 
 Khu vực Biển Hồ - Chư Đăng Ya gắn với mùa hoa dã quỳ, thường được nhắc nhiều vào tháng 11. Đây là thời điểm Gia Lai đón nhiều khách, có các hoạt động du lịch, thể thao và chụp ảnh. Biển Hồ Chè có thể không phải tâm điểm hoa dã quỳ, nhưng là điểm rất phù hợp để ghép tuyến.
 
@@ -36,7 +26,15 @@ Gia Lai City Trail là sự kiện chạy bộ được tổ chức trên các c
 
 Mùa khô là thời điểm thuận lợi cho du lịch ngoài trời, chụp ảnh và di chuyển. Mùa mưa phù hợp nếu người dùng thích màu xanh và không ngại thời tiết, nhưng cần chuẩn bị áo mưa, giày chống trượt và lịch trình dự phòng.
 
-6. Đối tượng phù hợp
+3. Hoạt động theo mùa
+
+Khu vực Biển Hồ - Chư Đăng Ya gắn với mùa hoa dã quỳ, thường được nhắc nhiều vào tháng 11. Đây là thời điểm Gia Lai đón nhiều khách, có các hoạt động du lịch, thể thao và chụp ảnh. Biển Hồ Chè có thể không phải tâm điểm hoa dã quỳ, nhưng là điểm rất phù hợp để ghép tuyến.
+
+Gia Lai City Trail là sự kiện chạy bộ được tổ chức trên các cung đường cảnh quan của Gia Lai, trong đó thông tin từ Công an tỉnh Gia Lai ghi nhận đường chạy đi qua các thắng cảnh như Khu danh thắng Biển Hồ, Biển Hồ Chè, hàng thông trăm tuổi, chùa Bửu Minh và núi lửa Chư Đăng Ya. Đây là dữ liệu hữu ích cho chatbot khi người dùng hỏi về sự kiện thể thao hoặc cung đường chạy đẹp ở Gia Lai.
+
+Mùa khô là thời điểm thuận lợi cho du lịch ngoài trời, chụp ảnh và di chuyển. Mùa mưa phù hợp nếu người dùng thích màu xanh và không ngại thời tiết, nhưng cần chuẩn bị áo mưa, giày chống trượt và lịch trình dự phòng.
+
+4. Đối tượng phù hợp
 
 Gia đình: phù hợp nếu đi bằng ô tô hoặc taxi, chọn điểm dừng an toàn, không đi sâu vào đường bùn và để mắt tới trẻ nhỏ. Gia đình có thể kết hợp chùa Bửu Minh và Biển Hồ T’Nưng để chuyến đi nhẹ nhàng hơn.
 
@@ -48,23 +46,15 @@ Người lớn tuổi: phù hợp nếu chỉ dừng ở hàng thông, chùa và
 
 Đoàn học sinh, sinh viên: phù hợp cho chủ đề nông nghiệp, địa lý, văn hóa địa phương, du lịch xanh và bảo tồn cảnh quan. Nên có giáo viên/hướng dẫn viên quản lý để tránh giẫm lên chè hoặc xả rác.
 
-7. Các tuyến gợi ý cho chatbot
+5. Gợi ý tuyến tham quan kết hợp
 
-Tuyến nhẹ 3-4 giờ: trung tâm Pleiku, Biển Hồ T’Nưng, hàng thông trăm tuổi, Biển Hồ Chè, chùa Bửu Minh, quay về Pleiku ăn trưa hoặc ăn tối.
+Chùa Minh Thành là điểm kiến trúc - tâm linh nổi tiếng trong trung tâm Pleiku, phù hợp kết hợp trước hoặc sau khi đi Biển Hồ Chè. Nếu khách có một ngày ở Pleiku, có thể đi Chùa Minh Thành buổi sáng hoặc buổi chiều tùy lịch bay.
 
-Tuyến chụp ảnh mùa dã quỳ: trung tâm Pleiku, Biển Hồ Chè sáng sớm, hàng thông trăm tuổi, chùa Bửu Minh, núi lửa Chư Đăng Ya, điểm ăn trưa địa phương, quảng trường Đại Đoàn Kết buổi tối.
+Quảng trường Đại Đoàn Kết là điểm dạo chơi buổi tối và dễ kết hợp sau khi tham quan cụm Biển Hồ. Khu vực trung tâm Pleiku cũng thuận tiện ăn phở khô Gia Lai, cà phê và mua đặc sản.
 
-Tuyến văn hóa - tâm linh: chùa Minh Thành, Biển Hồ T’Nưng, Biển Hồ Chè, chùa Bửu Minh. Tuyến này phù hợp với khách thích không gian yên tĩnh và tìm hiểu kiến trúc - tín ngưỡng.
+Núi Hàm Rồng là điểm ngắm cảnh và gắn với địa hình núi lửa của Pleiku. Nếu khách quan tâm địa chất và cảnh quan cao nguyên, có thể kết hợp Biển Hồ T’Nưng, Biển Hồ Chè, Chư Đăng Ya và Hàm Rồng để tạo tuyến chủ đề “cao nguyên núi lửa - đất đỏ bazan - nông nghiệp”.
 
-Tuyến nông nghiệp cao nguyên: Biển Hồ Chè, farmstay/cà phê địa phương nếu có, vườn tiêu hoặc nông trại, kết hợp mua đặc sản cà phê, trà, tiêu tại cơ sở uy tín trong Pleiku.
-
-8. Lưu ý về tính mùa vụ và biến động cảnh quan
-
-Biển Hồ Chè là cảnh quan nông nghiệp nên không hoàn toàn bất biến như di tích kiến trúc. Màu chè, độ xanh, mức độ canh tác, điểm được phép vào và diện tích chè có thể thay đổi. Chatbot cần tránh mô tả quá tuyệt đối như “bạt ngàn bất tận” nếu người dùng hỏi về hiện trạng mới nhất.
-
-Thông tin về việc giữ lại hơn 62 ha chè cổ thụ là dữ liệu cập nhật quan trọng. Khi trả lời về hiện trạng, nên nhấn mạnh khu vực cảnh quan trọng điểm gắn với hàng thông trăm tuổi, chùa Bửu Minh và hồ Ya Lũ được địa phương định hướng bảo tồn, nhưng người dùng vẫn nên kiểm tra ảnh và đánh giá gần ngày đi.
-
-9. Nguồn tham khảo
+6. Nguồn tham khảo
 
 Các nguồn được dùng để tổng hợp dữ liệu gồm các trang chính thức và nguồn tham khảo công khai. Khi đưa vào hệ thống RAG, nên lưu kèm ngày thu thập dữ liệu và ưu tiên kiểm tra lại các thông tin có thể thay đổi như tình trạng vườn chè, điểm gửi xe, dịch vụ cà phê, giờ phục vụ và quy định chụp ảnh.
 

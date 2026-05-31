@@ -1,26 +1,4 @@
-1. Sự kiện và hoạt động theo mùa
-
-Quảng trường là nơi tổ chức nhiều sự kiện lớn của tỉnh Gia Lai. Các hoạt động có thể bao gồm lễ kỷ niệm, chương trình văn hóa, lễ hội, trưng bày, hoạt động giáo dục, ngày hội du lịch, sự kiện cà phê, hoặc các chương trình cộng đồng. Tuy nhiên, lịch sự kiện thay đổi theo năm nên không nên đóng cứng trong dữ liệu.
-
-Vào các dịp lễ, Tết, ngày kỷ niệm lớn, quảng trường thường có không khí đông vui hơn. Đây là thời điểm phù hợp cho khách muốn trải nghiệm đời sống cộng đồng, nhưng không phù hợp nếu khách cần không gian vắng để chụp ảnh riêng.
-
-Mùa khô ở Pleiku thuận lợi cho việc đi dạo ngoài trời, chụp ảnh và kết hợp các điểm thiên nhiên. Mùa mưa vẫn có thể đi quảng trường nhưng nên tránh lúc mưa lớn vì sân rộng, mặt nền có thể trơn và ảnh chụp ngoài trời kém thuận lợi.
-
-Nếu có chương trình cồng chiêng hoặc trình diễn văn hóa ở khu vực quảng trường, đây là trải nghiệm rất đáng chú ý vì phù hợp với nhóm khách muốn hiểu văn hóa Tây Nguyên. Tuy nhiên, chatbot cần nói rõ 'nếu đúng lịch tổ chức' hoặc 'nên kiểm tra lịch mới nhất'.
-
-2. Đối tượng phù hợp
-
-Khách gia đình: phù hợp vì dễ đi, không cần leo núi, không cần chuẩn bị dụng cụ đặc biệt, có không gian rộng và gần dịch vụ trung tâm.
-
-Khách học sinh - sinh viên: phù hợp để tham quan học tập, chụp ảnh tập thể, tìm hiểu chủ đề đại đoàn kết dân tộc, Bác Hồ với Tây Nguyên và văn hóa Gia Lai.
-
-Khách lớn tuổi: phù hợp nếu đi vào giờ mát, có xe đưa đón gần điểm dừng. Cần tránh đi quá lâu dưới nắng hoặc khi quảng trường quá đông.
-
-Khách thích ảnh: phù hợp để chụp ảnh tượng đài, sân rộng, cồng chiêng, cây xanh và không khí đô thị Pleiku. Nên chọn sáng sớm, chiều muộn hoặc tối.
-
-Khách nghiên cứu văn hóa - đô thị: phù hợp để phân tích không gian công cộng, biểu tượng chính trị - văn hóa, cách kiến trúc hiện đại gắn với chất liệu Tây Nguyên như cồng chiêng, đá bazan, mô hình núi Hàm Rồng và cây xanh.
-
-3. Phân biệt với các địa điểm trong bảng Gia Lai
+1. Các địa điểm gần đó
 
 Không nhầm với Bảo tàng tỉnh Gia Lai: Bảo tàng là công trình trưng bày trong nhà, có hiện vật, tư liệu và chủ đề văn hóa - lịch sử. Quảng trường là không gian ngoài trời, có tượng đài, sân rộng và các hạng mục biểu tượng.
 
@@ -32,7 +10,43 @@ Không nhầm với Núi Hàm Rồng: Núi Hàm Rồng là núi lửa/cảnh qua
 
 Không nhầm với Chư Đăng Ya hay Chư Nâm: hai điểm này thuộc nhóm núi lửa, check-in và trekking. Quảng trường là điểm đô thị dễ đi, không yêu cầu thể lực.
 
-4. Nguồn tham khảo và ghi chú độ mới dữ liệu
+2. Sự kiện / lễ hội
+
+Quảng trường là nơi tổ chức nhiều sự kiện lớn của tỉnh Gia Lai. Các hoạt động có thể bao gồm lễ kỷ niệm, chương trình văn hóa, lễ hội, trưng bày, hoạt động giáo dục, ngày hội du lịch, sự kiện cà phê, hoặc các chương trình cộng đồng. Tuy nhiên, lịch sự kiện thay đổi theo năm nên không nên đóng cứng trong dữ liệu.
+
+Vào các dịp lễ, Tết, ngày kỷ niệm lớn, quảng trường thường có không khí đông vui hơn. Đây là thời điểm phù hợp cho khách muốn trải nghiệm đời sống cộng đồng, nhưng không phù hợp nếu khách cần không gian vắng để chụp ảnh riêng.
+
+Mùa khô ở Pleiku thuận lợi cho việc đi dạo ngoài trời, chụp ảnh và kết hợp các điểm thiên nhiên. Mùa mưa vẫn có thể đi quảng trường nhưng nên tránh lúc mưa lớn vì sân rộng, mặt nền có thể trơn và ảnh chụp ngoài trời kém thuận lợi.
+
+Nếu có chương trình cồng chiêng hoặc trình diễn văn hóa ở khu vực quảng trường, đây là trải nghiệm rất đáng chú ý vì phù hợp với nhóm khách muốn hiểu văn hóa Tây Nguyên. Tuy nhiên, chatbot cần nói rõ 'nếu đúng lịch tổ chức' hoặc 'nên kiểm tra lịch mới nhất'.
+
+3. Hoạt động theo mùa
+
+Quảng trường là nơi tổ chức nhiều sự kiện lớn của tỉnh Gia Lai. Các hoạt động có thể bao gồm lễ kỷ niệm, chương trình văn hóa, lễ hội, trưng bày, hoạt động giáo dục, ngày hội du lịch, sự kiện cà phê, hoặc các chương trình cộng đồng. Tuy nhiên, lịch sự kiện thay đổi theo năm nên không nên đóng cứng trong dữ liệu.
+
+Vào các dịp lễ, Tết, ngày kỷ niệm lớn, quảng trường thường có không khí đông vui hơn. Đây là thời điểm phù hợp cho khách muốn trải nghiệm đời sống cộng đồng, nhưng không phù hợp nếu khách cần không gian vắng để chụp ảnh riêng.
+
+Mùa khô ở Pleiku thuận lợi cho việc đi dạo ngoài trời, chụp ảnh và kết hợp các điểm thiên nhiên. Mùa mưa vẫn có thể đi quảng trường nhưng nên tránh lúc mưa lớn vì sân rộng, mặt nền có thể trơn và ảnh chụp ngoài trời kém thuận lợi.
+
+Nếu có chương trình cồng chiêng hoặc trình diễn văn hóa ở khu vực quảng trường, đây là trải nghiệm rất đáng chú ý vì phù hợp với nhóm khách muốn hiểu văn hóa Tây Nguyên. Tuy nhiên, chatbot cần nói rõ 'nếu đúng lịch tổ chức' hoặc 'nên kiểm tra lịch mới nhất'.
+
+4. Đối tượng phù hợp
+
+Khách gia đình: phù hợp vì dễ đi, không cần leo núi, không cần chuẩn bị dụng cụ đặc biệt, có không gian rộng và gần dịch vụ trung tâm.
+
+Khách học sinh - sinh viên: phù hợp để tham quan học tập, chụp ảnh tập thể, tìm hiểu chủ đề đại đoàn kết dân tộc, Bác Hồ với Tây Nguyên và văn hóa Gia Lai.
+
+Khách lớn tuổi: phù hợp nếu đi vào giờ mát, có xe đưa đón gần điểm dừng. Cần tránh đi quá lâu dưới nắng hoặc khi quảng trường quá đông.
+
+Khách thích ảnh: phù hợp để chụp ảnh tượng đài, sân rộng, cồng chiêng, cây xanh và không khí đô thị Pleiku. Nên chọn sáng sớm, chiều muộn hoặc tối.
+
+Khách nghiên cứu văn hóa - đô thị: phù hợp để phân tích không gian công cộng, biểu tượng chính trị - văn hóa, cách kiến trúc hiện đại gắn với chất liệu Tây Nguyên như cồng chiêng, đá bazan, mô hình núi Hàm Rồng và cây xanh.
+
+5. Gợi ý tuyến tham quan kết hợp
+
+Gợi ý tuyến tham quan kết hợp. Không nhầm với Bảo tàng tỉnh Gia Lai: Bảo tàng là công trình trưng bày trong nhà, có hiện vật, tư liệu và chủ đề văn hóa - lịch sử. Quảng trường là không gian ngoài trời, có tượng đài, sân rộng và các hạng mục biểu tượng. Không nhầm với Nhà lao Pleiku: Nhà lao Pleiku là di tích lịch sử gắn với chiến tranh và nhà tù, trải nghiệm nghiêng về lịch sử cách mạng.
+
+6. Nguồn tham khảo
 
 Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
 
