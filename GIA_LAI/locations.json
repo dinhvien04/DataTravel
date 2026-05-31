@@ -1,0 +1,765 @@
+[
+  {
+    "location_id": "LOC_001",
+    "location_key": "BAI_TAM_HOANG_HAU",
+    "location_name": "Bãi tắm Hoàng Hậu",
+    "province": "Gia Lai",
+    "description": "Bãi tắm Hoàng Hậu nằm trong quần thể Ghềnh Ráng - Tiên Sa, nổi bật với bãi đá tròn tự nhiên xếp dày sát mép nước nên thường được gọi là bãi Đá Trứng. Địa điểm này phù hợp để ngắm biển, chụp ảnh và nhận diện cảnh quan ven biển đặc trưng của Quy Nhơn.",
+    "tags": [
+      "biển",
+      "bãi đá trứng",
+      "Ghềnh Ráng",
+      "Quy Nhơn",
+      "cảnh quan"
+    ]
+  },
+  {
+    "location_id": "LOC_002",
+    "location_key": "BAI_XEP",
+    "location_name": "Bãi Xép",
+    "province": "Gia Lai",
+    "description": "Bãi Xép là làng biển nhỏ ven Quy Nhơn, nổi bật với bãi cát cong, ghềnh đá hai bên và nhịp sống làng chài còn khá yên bình. Đây là điểm dễ nhận diện nhờ sự kết hợp giữa biển xanh, thuyền thúng, nhà dân sát biển và không khí nghỉ dưỡng mộc mạc.",
+    "tags": [
+      "biển",
+      "làng chài",
+      "bãi cát",
+      "Quy Nhơn",
+      "nghỉ dưỡng"
+    ]
+  },
+  {
+    "location_id": "LOC_003",
+    "location_key": "BAO_TANG_QUANG_TRUNG",
+    "location_name": "Bảo tàng Quang Trung",
+    "province": "Gia Lai",
+    "description": "Bảo tàng Quang Trung là điểm tham quan lịch sử quan trọng gắn với phong trào Tây Sơn và người anh hùng dân tộc Quang Trung - Nguyễn Huệ. Nơi này nổi bật với khu trưng bày hiện vật, điện thờ Tây Sơn tam kiệt, giếng cổ, cây me cổ thụ và các hoạt động biểu diễn trống trận, võ cổ truyền Bình Định.",
+    "tags": [
+      "bảo tàng",
+      "lịch sử",
+      "Tây Sơn",
+      "Quang Trung",
+      "văn hóa",
+      "di tích"
+    ]
+  },
+  {
+    "location_id": "LOC_004",
+    "location_key": "BAO_TANG_TINH_GIA_LAI",
+    "location_name": "Bảo tàng tỉnh Gia Lai",
+    "province": "Gia Lai",
+    "description": "Bảo tàng tỉnh Gia Lai là nơi lưu giữ, trưng bày nhiều tư liệu về lịch sử, văn hóa và đời sống của các cộng đồng dân tộc trên vùng đất Gia Lai. Điểm nổi bật của bảo tàng là hệ thống hiện vật khảo cổ, hình ảnh Tây Nguyên, cồng chiêng, trang phục truyền thống và các dấu ấn lịch sử địa phương.",
+    "tags": [
+      "bảo tàng",
+      "văn hóa",
+      "lịch sử",
+      "Gia Lai",
+      "hiện vật",
+      "dân tộc"
+    ]
+  },
+  {
+    "location_id": "LOC_005",
+    "location_key": "BIEN_HO",
+    "location_name": "Biển Hồ",
+    "province": "Gia Lai",
+    "description": "Biển Hồ, còn gọi là hồ Tơ Nưng, là thắng cảnh nổi tiếng của Pleiku với mặt nước rộng, xanh và không gian thoáng như một vùng biển trên cao nguyên. Địa điểm này dễ nhận diện bởi hồ nước miệng núi lửa, hàng thông ven đường, khung cảnh yên bình và góc nhìn đặc trưng của du lịch Gia Lai.",
+    "tags": [
+      "hồ nước",
+      "Pleiku",
+      "Biển Hồ",
+      "Hồ T'Nưng",
+      "thiên nhiên"
+    ]
+  },
+  {
+    "location_id": "LOC_006",
+    "location_key": "BIEN_HO_CHE",
+    "location_name": "Biển Hồ Chè",
+    "province": "Gia Lai",
+    "description": "Biển Hồ Chè nổi bật với những luống chè xanh trải dài trên vùng cao nguyên, tạo nên cảnh quan rất đặc trưng của Gia Lai. Khu vực này thường được kết hợp tham quan với Biển Hồ và chùa Bửu Minh, phù hợp cho chụp ảnh, ngắm bình minh và nhận diện mảng xanh nông nghiệp cao nguyên.",
+    "tags": [
+      "đồi chè",
+      "cao nguyên",
+      "hàng thông",
+      "Gia Lai",
+      "thiên nhiên"
+    ]
+  },
+  {
+    "location_id": "LOC_007",
+    "location_key": "BIEN_QUY_HOA",
+    "location_name": "Biển Quy Hòa",
+    "province": "Gia Lai",
+    "description": "Biển Quy Hòa là vùng biển yên tĩnh nằm gần khu Ghềnh Ráng, nổi bật với không gian trong lành, bãi biển hiền hòa và dấu ấn gắn với thi sĩ Hàn Mặc Tử. Địa điểm này có nét riêng nhờ sự kết hợp giữa biển, làng phong Quy Hòa, hàng cây ven biển và không khí trầm lắng hơn trung tâm Quy Nhơn.",
+    "tags": [
+      "biển",
+      "bãi cát",
+      "Quy Hòa",
+      "Quy Nhơn",
+      "nghỉ dưỡng",
+      "yên tĩnh"
+    ]
+  },
+  {
+    "location_id": "LOC_008",
+    "location_key": "BIEN_QUY_NHON",
+    "location_name": "Biển Quy Nhơn",
+    "province": "Gia Lai",
+    "description": "Biển Quy Nhơn là bãi biển đô thị nổi tiếng với đường bờ biển dài, cong hình vòng cung và nằm ngay trung tâm thành phố. Điểm nổi bật là không gian biển rộng, dễ tiếp cận, gần quảng trường, khách sạn, nhà hàng và phù hợp cho tắm biển, đi dạo, ngắm bình minh hoặc hoàng hôn.",
+    "tags": [
+      "biển",
+      "Quy Nhơn",
+      "bãi cát",
+      "du lịch biển",
+      "thành phố biển"
+    ]
+  },
+  {
+    "location_id": "LOC_009",
+    "location_key": "CHUA_BUU_MINH",
+    "location_name": "Chùa Bửu Minh",
+    "province": "Gia Lai",
+    "description": "Chùa Bửu Minh là ngôi chùa nổi tiếng nằm giữa vùng chè xanh gần Biển Hồ Chè, tạo nên khung cảnh rất đặc trưng của Gia Lai. Điểm nhận diện nổi bật là kiến trúc chùa cổ kính, tháp chuông, không gian tĩnh lặng và sự hòa quyện giữa văn hóa Phật giáo với cảnh quan cao nguyên.",
+    "tags": [
+      "chùa",
+      "Phật giáo",
+      "Gia Lai",
+      "kiến trúc",
+      "tâm linh",
+      "cao nguyên"
+    ]
+  },
+  {
+    "location_id": "LOC_010",
+    "location_key": "CHUA_ONG_NUI",
+    "location_name": "Chùa Ông Núi",
+    "province": "Gia Lai",
+    "description": "Chùa Ông Núi, còn gọi là Linh Phong Thiền Tự, là điểm hành hương nổi tiếng trên khu vực núi Bà với tượng Phật ngồi lớn nhìn ra không gian biển và đồng bằng. Địa điểm này nổi bật nhờ quy mô tượng Phật, bậc thang lên núi, cảnh quan rộng mở và giá trị tâm linh của vùng Bình Định cũ.",
+    "tags": [
+      "chùa",
+      "tâm linh",
+      "tượng Phật",
+      "núi",
+      "biển",
+      "Bình Định"
+    ]
+  },
+  {
+    "location_id": "LOC_011",
+    "location_key": "CU_LAO_XANH",
+    "location_name": "Cù Lao Xanh",
+    "province": "Gia Lai",
+    "description": "Cù Lao Xanh là đảo tiền tiêu ngoài khơi Quy Nhơn, nổi bật với nước biển trong, bãi đá, làng chài và ngọn hải đăng cổ trên đảo. Đây là điểm du lịch biển đảo dễ nhận diện nhờ cảnh quan hoang sơ, hoạt động lặn ngắm san hô, đi ca nô và trải nghiệm đời sống ngư dân.",
+    "tags": [
+      "đảo",
+      "biển",
+      "hải đăng",
+      "nước biển xanh",
+      "lặn biển",
+      "Quy Nhơn"
+    ]
+  },
+  {
+    "location_id": "LOC_012",
+    "location_key": "DAM_THI_NAI",
+    "location_name": "Đầm Thị Nại",
+    "province": "Gia Lai",
+    "description": "Đầm Thị Nại là đầm nước mặn lớn gắn với hệ sinh thái ven biển và lịch sử vùng Quy Nhơn - Tuy Phước. Điểm nổi bật của nơi này là mặt nước rộng, cầu Thị Nại, rừng ngập mặn, cảnh bình minh hoặc hoàng hôn và không gian quan sát chim, thuyền đánh bắt trên đầm.",
+    "tags": [
+      "đầm",
+      "cầu Thị Nại",
+      "hoàng hôn",
+      "Quy Nhơn",
+      "hệ sinh thái",
+      "cảnh quan"
+    ]
+  },
+  {
+    "location_id": "LOC_013",
+    "location_key": "DAN_TE_TROI_TAY_SON",
+    "location_name": "Đàn tế trời Tây Sơn",
+    "province": "Gia Lai",
+    "description": "Đàn tế trời Tây Sơn là công trình văn hóa - tâm linh gắn với vùng đất phát tích của phong trào Tây Sơn. Địa điểm này nổi bật với không gian nghi lễ trên núi, kiến trúc trang nghiêm, tầm nhìn rộng và ý nghĩa tưởng nhớ tinh thần dựng nghiệp, cầu quốc thái dân an của triều đại Tây Sơn.",
+    "tags": [
+      "Tây Sơn",
+      "tâm linh",
+      "lịch sử",
+      "văn hóa",
+      "di tích",
+      "Bình Định"
+    ]
+  },
+  {
+    "location_id": "LOC_014",
+    "location_key": "DI_TICH_CHIEN_THANG_DAK_PO",
+    "location_name": "Di tích chiến thắng Đak Pơ",
+    "province": "Gia Lai",
+    "description": "Di tích chiến thắng Đak Pơ là địa điểm lịch sử ghi dấu chiến công quan trọng trong kháng chiến chống Pháp trên vùng đất Gia Lai. Nơi đây nổi bật với cụm tượng đài, không gian tưởng niệm và giá trị giáo dục truyền thống, phù hợp để nhận diện nhóm điểm di tích cách mạng của Tây Nguyên.",
+    "tags": [
+      "di tích",
+      "lịch sử",
+      "Đak Pơ",
+      "kháng chiến",
+      "Gia Lai",
+      "giáo dục"
+    ]
+  },
+  {
+    "location_id": "LOC_015",
+    "location_key": "DI_TICH_TAY_SON_THUONG_DAO",
+    "location_name": "Di tích Tây Sơn Thượng Đạo",
+    "province": "Gia Lai",
+    "description": "Di tích Tây Sơn Thượng Đạo gắn với giai đoạn đầu của phong trào Tây Sơn trên vùng An Khê, nơi ba anh em Tây Sơn xây dựng lực lượng và mở rộng ảnh hưởng. Điểm nổi bật là hệ thống dấu tích lịch sử, không gian văn hóa bản địa và vai trò cầu nối giữa Tây Nguyên với vùng hạ đạo Bình Định.",
+    "tags": [
+      "di tích",
+      "Tây Sơn",
+      "lịch sử",
+      "Gia Lai",
+      "văn hóa",
+      "căn cứ"
+    ]
+  },
+  {
+    "location_id": "LOC_016",
+    "location_key": "DOI_CO_HONG_DAK_DOA",
+    "location_name": "Đồi cỏ hồng Đắk Đoa",
+    "province": "Gia Lai",
+    "description": "Đồi cỏ hồng Đắk Đoa là điểm check-in nổi tiếng vào mùa cỏ đổi màu, khi các triền đồi phủ sắc hồng tím nhẹ dưới ánh nắng sớm. Địa điểm này nổi bật với cảnh quan cao nguyên thoáng rộng, hàng thông, đồng cỏ mềm và cảm giác thơ mộng rất khác với các điểm biển ở tỉnh Gia Lai mới.",
+    "tags": [
+      "cỏ hồng",
+      "Đắk Đoa",
+      "cao nguyên",
+      "check-in",
+      "thiên nhiên",
+      "mùa đẹp"
+    ]
+  },
+  {
+    "location_id": "LOC_017",
+    "location_key": "EO_GIO",
+    "location_name": "Eo Gió",
+    "province": "Gia Lai",
+    "description": "Eo Gió là thắng cảnh ven biển nổi tiếng ở Nhơn Lý, được nhận diện bởi các vách đá ôm lấy eo biển và con đường đi bộ ven núi nhìn xuống nước xanh. Điểm nổi bật của nơi này là gió mạnh, đá núi dựng đứng, góc chụp ảnh rộng và cảnh biển hùng vĩ gần Kỳ Co.",
+    "tags": [
+      "biển",
+      "vách đá",
+      "Eo Gió",
+      "Quy Nhơn",
+      "cảnh quan"
+    ]
+  },
+  {
+    "location_id": "LOC_018",
+    "location_key": "FLC_ZOO_SAFARI_PARK",
+    "location_name": "FLC Zoo Safari Park",
+    "province": "Gia Lai",
+    "description": "FLC Zoo Safari Park là khu tham quan động vật theo mô hình bán hoang dã trong quần thể du lịch FLC Quy Nhơn. Địa điểm này nổi bật với không gian phù hợp cho gia đình, trẻ em, các khu nuôi thú, cảnh quan xanh và trải nghiệm vừa giải trí vừa tìm hiểu về động vật.",
+    "tags": [
+      "safari",
+      "vườn thú",
+      "gia đình",
+      "trẻ em",
+      "Quy Nhơn",
+      "tham quan"
+    ]
+  },
+  {
+    "location_id": "LOC_019",
+    "location_key": "GHEHN_RANG_TIEN_SA",
+    "location_name": "Ghềnh Ráng Tiên Sa",
+    "province": "Gia Lai",
+    "description": "Ghềnh Ráng Tiên Sa là quần thể danh thắng nổi tiếng của Quy Nhơn, gồm bãi đá, đồi núi ven biển, mộ thi sĩ Hàn Mặc Tử và bãi tắm Hoàng Hậu. Nơi này nổi bật bởi cảnh quan biển nhìn từ trên cao, đường dạo uốn lượn, không gian văn học - nghệ thuật và nhiều góc chụp ảnh đặc trưng.",
+    "tags": [
+      "Ghềnh Ráng",
+      "Tiên Sa",
+      "biển",
+      "Hàn Mặc Tử",
+      "Quy Nhơn"
+    ]
+  },
+  {
+    "location_id": "LOC_020",
+    "location_key": "HAI_GIANG",
+    "location_name": "Hải Giang",
+    "province": "Gia Lai",
+    "description": "Hải Giang là khu vực biển nằm tách biệt bên bán đảo Phương Mai, nổi bật với bãi cát yên tĩnh, nước biển xanh và địa hình núi sát biển. Địa điểm này phù hợp để nhận diện dạng cảnh quan nghỉ dưỡng ven biển, ít đông đúc hơn trung tâm Quy Nhơn và có nét gần gũi với làng chài địa phương.",
+    "tags": [
+      "biển",
+      "Hải Giang",
+      "bán đảo Phương Mai",
+      "Quy Nhơn",
+      "hoang sơ",
+      "nghỉ dưỡng"
+    ]
+  },
+  {
+    "location_id": "LOC_021",
+    "location_key": "HAM_HO",
+    "location_name": "Hầm Hô",
+    "province": "Gia Lai",
+    "description": "Hầm Hô là khu du lịch sinh thái nổi tiếng ở vùng Tây Sơn, gây ấn tượng với dòng suối, ghềnh đá, rừng cây và cảnh quan tự nhiên mát mẻ. Điểm nổi bật của nơi này là các khối đá nằm giữa lòng nước, hoạt động đi thuyền, tắm suối và không gian gắn với vùng đất võ Bình Định.",
+    "tags": [
+      "sinh thái",
+      "sông suối",
+      "ghềnh đá",
+      "Tây Sơn",
+      "rừng",
+      "thiên nhiên"
+    ]
+  },
+  {
+    "location_id": "LOC_022",
+    "location_key": "HO_AYUN_HA",
+    "location_name": "Hồ Ayun Hạ",
+    "province": "Gia Lai",
+    "description": "Hồ Ayun Hạ là hồ thủy lợi lớn của Gia Lai, nổi bật với mặt nước rộng, cảnh quan đồi núi bao quanh và không gian yên bình của vùng cao nguyên. Địa điểm này phù hợp cho du lịch sinh thái, ngắm cảnh, tìm hiểu đời sống ven hồ và nhận diện nhóm cảnh quan hồ nước nhân tạo ở Gia Lai.",
+    "tags": [
+      "hồ nước",
+      "Ayun Hạ",
+      "Gia Lai",
+      "sinh thái",
+      "cảnh quan",
+      "thủy lợi"
+    ]
+  },
+  {
+    "location_id": "LOC_023",
+    "location_key": "HON_KHO",
+    "location_name": "Hòn Khô",
+    "province": "Gia Lai",
+    "description": "Hòn Khô là đảo nhỏ gần làng chài Nhơn Hải, nổi bật với nước biển trong, bãi đá, cầu gỗ ven biển và hoạt động lặn ngắm san hô. Địa điểm này dễ nhận diện nhờ màu nước xanh, cảnh đảo khô ráo ít cây lớn, thuyền cano và không khí làng biển gần Quy Nhơn.",
+    "tags": [
+      "đảo",
+      "biển",
+      "san hô",
+      "Hòn Khô",
+      "Quy Nhơn",
+      "lặn biển"
+    ]
+  },
+  {
+    "location_id": "LOC_024",
+    "location_key": "KHU_DU_TRU_SINH_QUYEN_CAO_NGUYEN_KON_HA_NUNG",
+    "location_name": "Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng",
+    "province": "Gia Lai",
+    "description": "Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng là vùng sinh thái quan trọng của Gia Lai, được biết đến với rừng tự nhiên, đa dạng sinh học và hai vùng lõi nổi bật là Kon Ka Kinh, Kon Chư Răng. Điểm nổi bật là rừng nguyên sinh, thác nước, động thực vật quý hiếm và giá trị bảo tồn tầm quốc tế.",
+    "tags": [
+      "sinh quyển",
+      "Kon Hà Nừng",
+      "rừng",
+      "đa dạng sinh học",
+      "Gia Lai",
+      "cao nguyên"
+    ]
+  },
+  {
+    "location_id": "LOC_025",
+    "location_key": "KHU_SINH_THAI_CON_CHIM",
+    "location_name": "Khu sinh thái Cồn Chim",
+    "province": "Gia Lai",
+    "description": "Khu sinh thái Cồn Chim nằm trong vùng đầm phá ven biển, nổi bật với rừng ngập mặn, sông nước và đời sống cộng đồng gắn với đánh bắt thủy sản. Địa điểm này phù hợp cho trải nghiệm du lịch sinh thái, đi thuyền, quan sát chim, thưởng thức ẩm thực địa phương và tìm hiểu hệ sinh thái Đầm Thị Nại.",
+    "tags": [
+      "sinh thái",
+      "Cồn Chim",
+      "đầm phá",
+      "rừng ngập mặn",
+      "du lịch cộng đồng",
+      "Bình Định"
+    ]
+  },
+  {
+    "location_id": "LOC_026",
+    "location_key": "KON_CHU_RANG",
+    "location_name": "Kon Chư Răng",
+    "province": "Gia Lai",
+    "description": "Kon Chư Răng là khu bảo tồn thiên nhiên nổi tiếng với hệ sinh thái rừng, thác nước và địa hình trekking còn hoang sơ. Điểm nhận diện nổi bật là rừng xanh dày, các tuyến đi bộ xuyên rừng, thác K50 hùng vĩ và giá trị đa dạng sinh học thuộc vùng Kon Hà Nừng.",
+    "tags": [
+      "khu bảo tồn",
+      "rừng nguyên sinh",
+      "thác nước",
+      "Kon Chư Răng",
+      "Gia Lai",
+      "trekking"
+    ]
+  },
+  {
+    "location_id": "LOC_027",
+    "location_key": "KY_CO",
+    "location_name": "Kỳ Co",
+    "province": "Gia Lai",
+    "description": "Kỳ Co là bãi biển nổi tiếng ở Nhơn Lý, được yêu thích nhờ làn nước xanh trong, bãi cát sáng màu và các dãy đá bao quanh tạo thành cảnh quan rất dễ nhận diện. Đây là điểm du lịch biển nổi bật gần Quy Nhơn, thường kết hợp với Eo Gió, cano, tắm biển và chụp ảnh.",
+    "tags": [
+      "biển",
+      "bãi cát",
+      "nước biển xanh",
+      "Kỳ Co",
+      "Quy Nhơn"
+    ]
+  },
+  {
+    "location_id": "LOC_028",
+    "location_key": "LANG_CHAI_NHON_HAI",
+    "location_name": "Làng chài Nhơn Hải",
+    "province": "Gia Lai",
+    "description": "Làng chài Nhơn Hải là cộng đồng ven biển nằm gần Hòn Khô, nổi bật với thuyền thúng, thuyền cá, bờ biển trong xanh và nhịp sống ngư dân. Địa điểm này phù hợp để nhận diện văn hóa làng biển, trải nghiệm hải sản, đi đảo Hòn Khô và quan sát cảnh sinh hoạt ven bờ.",
+    "tags": [
+      "làng chài",
+      "Nhơn Hải",
+      "biển",
+      "ngư dân",
+      "Quy Nhơn",
+      "du lịch cộng đồng"
+    ]
+  },
+  {
+    "location_id": "LOC_029",
+    "location_key": "LANG_CHAI_NHON_LY",
+    "location_name": "Làng chài Nhơn Lý",
+    "province": "Gia Lai",
+    "description": "Làng chài Nhơn Lý là điểm dân cư ven biển nằm gần các thắng cảnh nổi tiếng như Kỳ Co và Eo Gió. Nơi này nổi bật với đường làng nhỏ, nhà cửa sát biển, hải sản tươi, thuyền đánh cá và không khí làng chài đặc trưng, tạo nền cảnh quan khác với các bãi tắm du lịch thuần túy.",
+    "tags": [
+      "làng chài",
+      "Nhơn Lý",
+      "biển",
+      "Quy Nhơn",
+      "văn hóa địa phương"
+    ]
+  },
+  {
+    "location_id": "LOC_030",
+    "location_key": "LANG_KHANG_CHIEN_STOR",
+    "location_name": "Làng kháng chiến Stơr",
+    "province": "Gia Lai",
+    "description": "Làng kháng chiến Stơr là địa điểm lịch sử - văn hóa gắn với anh hùng Núp và tinh thần đấu tranh của đồng bào Bahnar ở Gia Lai. Điểm nổi bật là không gian làng truyền thống, nhà rông, hiện vật kháng chiến và giá trị kể chuyện về sự gắn kết giữa văn hóa bản địa với lịch sử cách mạng.",
+    "tags": [
+      "làng kháng chiến",
+      "Stơr",
+      "anh hùng Núp",
+      "lịch sử",
+      "Gia Lai",
+      "văn hóa"
+    ]
+  },
+  {
+    "location_id": "LOC_031",
+    "location_key": "MUI_VI_RONG",
+    "location_name": "Mũi Vi Rồng",
+    "province": "Gia Lai",
+    "description": "Mũi Vi Rồng là mũi đá ven biển có hình dáng độc đáo, được ví như đầu rồng vươn ra biển. Địa điểm này nổi bật với ghềnh đá, sóng biển mạnh, hang đá tự nhiên và cảnh quan hoang sơ, phù hợp cho chụp ảnh, ngắm bình minh và nhận diện địa hình đá ven biển Bình Định cũ.",
+    "tags": [
+      "mũi đá",
+      "biển",
+      "ghềnh đá",
+      "Mũi Vi Rồng",
+      "Bình Định"
+    ]
+  },
+  {
+    "location_id": "LOC_032",
+    "location_key": "NHA_LAO_PLEIKU",
+    "location_name": "Nhà lao Pleiku",
+    "province": "Gia Lai",
+    "description": "Nhà lao Pleiku là di tích lịch sử ghi dấu một giai đoạn đấu tranh cách mạng trên vùng đất Gia Lai. Nơi đây nổi bật với không gian nhà giam, tư liệu về các chiến sĩ yêu nước, giá trị tưởng niệm và ý nghĩa giáo dục truyền thống cho học sinh, sinh viên cũng như du khách quan tâm lịch sử.",
+    "tags": [
+      "di tích",
+      "lịch sử",
+      "nhà lao",
+      "Pleiku",
+      "cách mạng",
+      "giáo dục truyền thống"
+    ]
+  },
+  {
+    "location_id": "LOC_033",
+    "location_key": "NHA_THO_DA_GHENH_RANG",
+    "location_name": "Nhà thờ đá Ghềnh Ráng",
+    "province": "Gia Lai",
+    "description": "Nhà thờ đá Ghềnh Ráng là công trình tôn giáo nhỏ nằm trong không gian đồi núi ven biển Ghềnh Ráng, nổi bật với kiến trúc đá mộc mạc và khung cảnh yên tĩnh. Địa điểm này tạo điểm nhấn khác biệt giữa cảnh quan biển Quy Nhơn, phù hợp để nhận diện nhóm công trình kiến trúc - tôn giáo gần danh thắng.",
+    "tags": [
+      "nhà thờ",
+      "kiến trúc đá",
+      "Ghềnh Ráng",
+      "Quy Nhơn",
+      "tôn giáo"
+    ]
+  },
+  {
+    "location_id": "LOC_034",
+    "location_key": "NHA_THO_LANG_SONG",
+    "location_name": "Nhà thờ Làng Sông",
+    "province": "Gia Lai",
+    "description": "Nhà thờ Làng Sông là công trình Công giáo cổ nổi tiếng ở vùng Tuy Phước, gây ấn tượng với kiến trúc kiểu Gothic, khuôn viên nhiều cây xanh và dấu ấn lịch sử truyền giáo. Địa điểm này còn được nhắc đến trong câu chuyện về chữ Quốc ngữ, in ấn và đời sống văn hóa tôn giáo ở Bình Định cũ.",
+    "tags": [
+      "nhà thờ",
+      "Gothic",
+      "Làng Sông",
+      "kiến trúc cổ",
+      "văn hóa",
+      "Bình Định"
+    ]
+  },
+  {
+    "location_id": "LOC_035",
+    "location_key": "NUI_CHU_NAM",
+    "location_name": "Núi Chư Nâm",
+    "province": "Gia Lai",
+    "description": "Núi Chư Nâm là điểm trekking nổi bật gần Pleiku, được yêu thích nhờ cung đường leo núi, đồi cỏ và tầm nhìn rộng xuống vùng cao nguyên. Khi lên cao, du khách có thể quan sát những mảng rừng, ruộng nương, hồ nước và cảnh sắc Gia Lai thay đổi theo mùa.",
+    "tags": [
+      "núi",
+      "trekking",
+      "Chư Nâm",
+      "Pleiku",
+      "cao nguyên",
+      "săn mây"
+    ]
+  },
+  {
+    "location_id": "LOC_036",
+    "location_key": "NUI_HAM_RONG",
+    "location_name": "Núi Hàm Rồng",
+    "province": "Gia Lai",
+    "description": "Núi Hàm Rồng là ngọn núi lửa đã tắt nổi tiếng gần Pleiku, thường được xem như một biểu tượng địa hình của thành phố cao nguyên. Địa điểm này nổi bật với dáng núi lớn, thảm thực vật xanh, không khí mát và khả năng quan sát toàn cảnh Pleiku cùng các vùng nông nghiệp xung quanh.",
+    "tags": [
+      "núi",
+      "núi lửa cổ",
+      "Hàm Rồng",
+      "Pleiku",
+      "cao nguyên",
+      "ngắm cảnh"
+    ]
+  },
+  {
+    "location_id": "LOC_037",
+    "location_key": "NUI_LUA_CHU_DANG_YA",
+    "location_name": "Núi lửa Chư Đăng Ya",
+    "province": "Gia Lai",
+    "description": "Núi lửa Chư Đăng Ya là miệng núi lửa đã tắt, nổi bật với đất bazan màu mỡ, ruộng nương theo triền núi và mùa hoa dã quỳ rực rỡ. Đây là một trong những cảnh quan đặc trưng nhất của Gia Lai, dễ nhận diện bởi địa hình lòng chảo, màu sắc mùa vụ và không gian cao nguyên rộng mở.",
+    "tags": [
+      "núi lửa",
+      "Chư Đăng Ya",
+      "hoa dã quỳ",
+      "Gia Lai",
+      "cao nguyên"
+    ]
+  },
+  {
+    "location_id": "LOC_038",
+    "location_key": "PLEI_OI_VUA_LUA",
+    "location_name": "Plei Ơi - Vua Lửa",
+    "province": "Gia Lai",
+    "description": "Plei Ơi - Vua Lửa là địa điểm văn hóa gắn với truyền thống tín ngưỡng của cộng đồng Jrai và hình tượng Pơtao Apui trong đời sống Tây Nguyên. Điểm nổi bật là không gian làng, dấu tích văn hóa bản địa, câu chuyện về quyền lực tinh thần và giá trị nghiên cứu phong tục của người Gia Lai.",
+    "tags": [
+      "Plei Ơi",
+      "Vua Lửa",
+      "Jrai",
+      "văn hóa",
+      "Tây Nguyên",
+      "làng bản"
+    ]
+  },
+  {
+    "location_id": "LOC_039",
+    "location_key": "QUANG_TRUONG_DAI_DOAN_KET",
+    "location_name": "Quảng trường Đại Đoàn Kết",
+    "province": "Gia Lai",
+    "description": "Quảng trường Đại Đoàn Kết là không gian công cộng trung tâm của Pleiku, nổi bật với tượng Chủ tịch Hồ Chí Minh, phù điêu và khu vực tổ chức sự kiện lớn. Đây là điểm nhận diện đô thị quan trọng của Gia Lai, thường gắn với lễ hội, sinh hoạt cộng đồng và các hoạt động văn hóa ngoài trời.",
+    "tags": [
+      "quảng trường",
+      "Pleiku",
+      "Đại Đoàn Kết",
+      "tượng Bác Hồ",
+      "trung tâm",
+      "văn hóa"
+    ]
+  },
+  {
+    "location_id": "LOC_040",
+    "location_key": "SUOI_KHOANG_NONG_HOI_VAN",
+    "location_name": "Suối khoáng nóng Hội Vân",
+    "province": "Gia Lai",
+    "description": "Suối khoáng nóng Hội Vân là điểm du lịch nghỉ dưỡng và chăm sóc sức khỏe nổi tiếng nhờ nguồn nước khoáng nóng tự nhiên. Địa điểm này nổi bật với trải nghiệm tắm khoáng, luộc trứng bằng nước nóng, không gian thư giãn và giá trị địa chất - sinh thái khác biệt so với các điểm biển hoặc di tích.",
+    "tags": [
+      "suối khoáng nóng",
+      "Hội Vân",
+      "nghỉ dưỡng",
+      "thư giãn",
+      "sức khỏe",
+      "Bình Định"
+    ]
+  },
+  {
+    "location_id": "LOC_041",
+    "location_key": "THAC_K50",
+    "location_name": "Thác K50",
+    "province": "Gia Lai",
+    "description": "Thác K50, còn gọi là thác Hang Én, là một trong những thác nước ấn tượng nhất trong vùng Kon Chư Răng. Thác nổi bật với dòng nước đổ từ vách cao, màn nước rộng, rừng nguyên sinh bao quanh và cung trekking nhiều thử thách, rất phù hợp để nhận diện du lịch mạo hiểm ở Gia Lai.",
+    "tags": [
+      "thác",
+      "Thác K50",
+      "Kon Chư Răng",
+      "trekking",
+      "rừng",
+      "hoang sơ"
+    ]
+  },
+  {
+    "location_id": "LOC_042",
+    "location_key": "THAC_MO",
+    "location_name": "Thác Mơ",
+    "province": "Gia Lai",
+    "description": "Thác Mơ là điểm cảnh quan tự nhiên nổi bật với dòng nước đổ qua ghềnh đá, không gian rừng xanh và bầu không khí mát mẻ. Địa điểm này phù hợp cho tham quan sinh thái, chụp ảnh, nghỉ ngơi ngắn ngày và bổ sung nhóm dữ liệu về thác nước, suối rừng trong hệ thống địa danh Gia Lai.",
+    "tags": [
+      "thác",
+      "Thác Mơ",
+      "thiên nhiên",
+      "rừng",
+      "dã ngoại"
+    ]
+  },
+  {
+    "location_id": "LOC_043",
+    "location_key": "THANH_HOANG_DE",
+    "location_name": "Thành Hoàng Đế",
+    "province": "Gia Lai",
+    "description": "Thành Hoàng Đế là di tích lịch sử quan trọng ở An Nhơn, gắn với kinh đô Đồ Bàn của vương quốc Chăm Pa và sau đó là triều đại Tây Sơn. Điểm nổi bật là lớp trầm tích văn hóa Chăm - Việt, cổng thành, dấu tích thành cổ và ý nghĩa nghiên cứu lịch sử vùng đất Bình Định cũ.",
+    "tags": [
+      "thành cổ",
+      "di tích",
+      "Tây Sơn",
+      "lịch sử",
+      "Bình Định",
+      "văn hóa"
+    ]
+  },
+  {
+    "location_id": "LOC_044",
+    "location_key": "THAP_BANH_IT",
+    "location_name": "Tháp Bánh Ít",
+    "province": "Gia Lai",
+    "description": "Tháp Bánh Ít là cụm tháp Chăm nổi tiếng nằm trên đồi, gồm nhiều công trình gạch cổ với dáng tháp vươn cao rất dễ nhận diện. Địa điểm này nổi bật bởi kiến trúc Chăm Pa, hoa văn trang trí, vị trí nhìn ra đồng bằng và giá trị di sản văn hóa đặc sắc của Bình Định cũ.",
+    "tags": [
+      "tháp Chăm",
+      "Bánh Ít",
+      "kiến trúc",
+      "di tích",
+      "Tuy Phước"
+    ]
+  },
+  {
+    "location_id": "LOC_045",
+    "location_key": "THAP_BINH_LAM",
+    "location_name": "Tháp Bình Lâm",
+    "province": "Gia Lai",
+    "description": "Tháp Bình Lâm là một trong những tháp Chăm cổ ở Bình Định cũ, nổi bật bởi vị trí nằm giữa vùng dân cư và dáng kiến trúc gạch trầm mặc. Địa điểm này có giá trị nhận diện lịch sử Chăm Pa, phù hợp để phân biệt với các cụm tháp lớn như Bánh Ít, Dương Long hay Tháp Đôi.",
+    "tags": [
+      "tháp Chăm",
+      "Bình Lâm",
+      "Champa",
+      "kiến trúc gạch",
+      "di tích"
+    ]
+  },
+  {
+    "location_id": "LOC_046",
+    "location_key": "THAP_CANH_TIEN",
+    "location_name": "Tháp Cánh Tiên",
+    "province": "Gia Lai",
+    "description": "Tháp Cánh Tiên là tháp Chăm nằm trong khu vực An Nhơn, gần không gian thành cổ Đồ Bàn - Hoàng Đế. Công trình nổi bật với dáng tháp thanh thoát, các chi tiết trang trí đặc trưng và ý nghĩa gắn với lớp di sản Chăm Pa trên vùng đất từng là trung tâm chính trị - văn hóa xưa.",
+    "tags": [
+      "tháp Chăm",
+      "Cánh Tiên",
+      "Champa",
+      "kiến trúc",
+      "di tích",
+      "An Nhơn"
+    ]
+  },
+  {
+    "location_id": "LOC_047",
+    "location_key": "THAP_DOI",
+    "location_name": "Tháp Đôi",
+    "province": "Gia Lai",
+    "description": "Tháp Đôi là cụm hai tháp Chăm nằm ngay trong thành phố Quy Nhơn, nổi bật vì hình thức song tháp hiếm gặp và vị trí đô thị dễ tiếp cận. Điểm nhận diện chính là hai khối tháp gạch đứng cạnh nhau, kiến trúc Chăm Pa độc đáo và không gian tham quan gọn, phù hợp cho du khách ngắn ngày.",
+    "tags": [
+      "tháp Chăm",
+      "Tháp Đôi",
+      "Quy Nhơn",
+      "kiến trúc",
+      "di tích"
+    ]
+  },
+  {
+    "location_id": "LOC_048",
+    "location_key": "THAP_DUONG_LONG",
+    "location_name": "Tháp Dương Long",
+    "province": "Gia Lai",
+    "description": "Tháp Dương Long là cụm ba tháp Chăm quy mô lớn, nổi bật với chiều cao ấn tượng và kỹ thuật xây dựng gạch - đá đặc sắc. Địa điểm này được xem là một trong những cụm tháp Chăm tiêu biểu của Bình Định cũ, dễ nhận diện nhờ ba tháp đứng thẳng hàng giữa không gian đồng quê.",
+    "tags": [
+      "tháp Chăm",
+      "Dương Long",
+      "kiến trúc",
+      "sa thạch",
+      "di tích",
+      "Tây Sơn"
+    ]
+  },
+  {
+    "location_id": "LOC_049",
+    "location_key": "THAP_PHU_LOC",
+    "location_name": "Tháp Phú Lốc",
+    "province": "Gia Lai",
+    "description": "Tháp Phú Lốc là tháp Chăm nằm trên đồi cao, nổi bật với tầm nhìn rộng xuống vùng đồng bằng và dáng vẻ cổ kính giữa không gian thoáng. Địa điểm này phù hợp để nhận diện nhóm di tích Chăm Pa ít đông khách hơn, có nét hoang sơ và khác biệt so với các cụm tháp nằm gần đô thị.",
+    "tags": [
+      "tháp Chăm",
+      "Phú Lốc",
+      "Champa",
+      "di tích",
+      "đồi cao",
+      "kiến trúc"
+    ]
+  },
+  {
+    "location_id": "LOC_050",
+    "location_key": "THAP_THU_THIEN",
+    "location_name": "Tháp Thủ Thiện",
+    "province": "Gia Lai",
+    "description": "Tháp Thủ Thiện là di tích tháp Chăm cổ nằm trong không gian làng quê, mang vẻ trầm lắng và ít thương mại hóa. Điểm nổi bật của tháp là kiến trúc gạch Chăm Pa, vị trí gần sông và giá trị bổ sung cho hệ thống tháp cổ Bình Định cũ khi xây dựng dữ liệu nhận diện địa danh.",
+    "tags": [
+      "tháp Chăm",
+      "Thủ Thiện",
+      "Champa",
+      "di tích",
+      "kiến trúc gạch"
+    ]
+  },
+  {
+    "location_id": "LOC_051",
+    "location_key": "TRUNG_TAM_KHAM_PHA_KHOA_HOC",
+    "location_name": "Trung tâm Khám phá khoa học",
+    "province": "Gia Lai",
+    "description": "Trung tâm Khám phá khoa học Quy Nhơn là điểm tham quan giáo dục nổi bật, hướng đến trải nghiệm khoa học, thiên văn học và sáng tạo cho học sinh, sinh viên, gia đình. Địa điểm này dễ nhận diện bởi không gian triển lãm, đài thiên văn, các khu trải nghiệm tương tác và vị trí trên Đại lộ Khoa học.",
+    "tags": [
+      "khoa học",
+      "ExploraScience",
+      "Quy Nhơn",
+      "giáo dục",
+      "trải nghiệm",
+      "gia đình"
+    ]
+  },
+  {
+    "location_id": "LOC_052",
+    "location_key": "VUON_QUOC_GIA_KON_KA_KINH",
+    "location_name": "Vườn quốc gia Kon Ka Kinh",
+    "province": "Gia Lai",
+    "description": "Vườn quốc gia Kon Ka Kinh là vùng lõi quan trọng của khu dự trữ sinh quyển Kon Hà Nừng, nổi bật với rừng nguyên sinh, núi cao và đa dạng sinh học đặc trưng Tây Nguyên. Địa điểm này có giá trị lớn cho du lịch sinh thái, nghiên cứu thiên nhiên, trekking và bảo tồn các loài động thực vật quý hiếm.",
+    "tags": [
+      "vườn quốc gia",
+      "Kon Ka Kinh",
+      "rừng nguyên sinh",
+      "đa dạng sinh học",
+      "Gia Lai",
+      "sinh thái"
+    ]
+  }
+]
