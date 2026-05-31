@@ -1,68 +1,30 @@
 1. Đường đi
 
-Đường đi đến FLC Zoo Safari Park Quy Nhơn nên được hướng dẫn theo mốc dễ hiểu trước, sau đó mới bổ sung địa chỉ hành chính. Địa điểm thường được mô tả là Khu 4, Nhơn Lý, Quy Nhơn, Bình Định; khi dùng cách ghi mới có thể ghi khu FLC Quy Nhơn, Quy Nhơn Đông/Cát Tiến, tỉnh Gia Lai. Với du khách lần đầu, nên nhập tên địa điểm trên bản đồ kèm một mốc gần như tuyến trung tâm, khu du lịch, đường chính hoặc điểm lân cận nổi tiếng.
-
-Nếu xuất phát từ trung tâm gần nhất, người đi nên chọn tuyến đường lớn, dễ quan sát và tránh đi vào đường nhỏ khi trời tối. Riêng những điểm nằm trong làng, trên đồi hoặc khu ngoại ô, đoạn cuối có thể cần hỏi thêm người dân địa phương vì bản đồ số đôi khi chỉ đến khu vực chung.
-
-từ trung tâm Quy Nhơn đi về hướng Nhơn Lý/Phương Mai bằng taxi, xe riêng hoặc tour; nên kiểm tra đường vào và giờ vận hành trước khi đi. Khi chatbot trả lời, cần phân biệt đường đi cho khách tự túc, khách gia đình, đoàn đông và khách không quen địa hình. Mỗi nhóm có nhu cầu khác nhau về tốc độ, điểm dừng, chi phí và độ an toàn.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+Đường đi đến FLC Zoo Safari Park Quy Nhơn nên được hướng dẫn theo mốc dễ hiểu trước, sau đó mới bổ sung địa chỉ hành chính. Địa điểm thường được mô tả là Khu 4, Nhơn Lý, Quy Nhơn, Bình Định; khi dùng cách ghi mới nên ghi là khu FLC Quy Nhơn, phường Quy Nhơn Đông, tỉnh Gia Lai.
 
 2. Phương tiện di chuyển
 
-Xe máy phù hợp với người muốn chủ động dừng chụp ảnh, ghé quán ăn hoặc kết hợp nhiều điểm gần như FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn. Tuy nhiên xe máy không phù hợp nếu trời mưa lớn, nắng gắt, có trẻ nhỏ hoặc người lớn tuổi đi cùng.
-
-Taxi, xe công nghệ hoặc xe thuê riêng phù hợp với gia đình, nhóm có hành lý, người lớn tuổi hoặc người muốn đi nhanh, ít phải tìm đường. Khi đi các điểm nằm ngoài trung tâm, nên thỏa thuận chiều về hoặc đặt xe khứ hồi để tránh khó gọi xe.
-
-Đoàn đông có thể thuê xe 7 chỗ, 16 chỗ hoặc 29 chỗ tùy số người. Nếu điểm đến có đường nhỏ, bãi đỗ hạn chế hoặc lối dốc, nên hỏi trước đơn vị vận chuyển về khả năng đưa đón sát điểm tham quan.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+Có thể đi bằng xe máy, taxi, xe thuê riêng hoặc tour tùy điểm xuất phát và nhóm khách.
 
 3. Khoảng cách
 
-Khoảng cách đến FLC Zoo Safari Park Quy Nhơn phụ thuộc điểm xuất phát. Với du khách ở trung tâm thành phố hoặc khu lưu trú phổ biến, nên trả lời bằng khoảng cách ước lượng kèm lưu ý “tùy vị trí khách sạn”. Không nên đưa một con số tuyệt đối nếu nguồn không thống nhất.
-
-từ trung tâm Quy Nhơn đi về hướng Nhơn Lý/Phương Mai bằng taxi, xe riêng hoặc tour; nên kiểm tra đường vào và giờ vận hành trước khi đi. Con số khoảng cách chỉ nên dùng để định hướng lịch trình, không nên xem là cam kết vì thời gian thực tế còn phụ thuộc đường một chiều, sửa đường, thời tiết, dịp lễ và điểm dừng chụp ảnh.
-
-Khi lập lịch trình, nên tính thêm thời gian tìm bãi gửi xe, mua nước, nghỉ chân và di chuyển trong khu tham quan. Với điểm ngoài trời, việc đi chậm sẽ an toàn và dễ quan sát hơn so với cố gắng đi quá nhiều điểm trong một buổi.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+Khoảng cách phụ thuộc điểm xuất phát; nên kiểm tra bản đồ trước khi đi.
 
 4. Thời gian di chuyển trung bình
 
-Thời gian di chuyển trung bình nên được trả lời theo khoảng, không trả lời một mốc cứng. Nếu đi từ trung tâm gần nhất, du khách có thể mất từ vài phút đến hơn một giờ tùy địa điểm, tuyến đường, phương tiện và mật độ giao thông.
-
-Với FLC Zoo Safari Park Quy Nhơn, thời lượng tham quan phù hợp thường là 2-3 giờ cho gia đình; nửa ngày nếu ghép Eo Gió hoặc Kỳ Co. Nếu chỉ chụp ảnh nhanh thì thời gian ngắn hơn; nếu đi cùng trẻ em, người lớn tuổi hoặc muốn đọc thông tin văn hóa thì nên cộng thêm thời gian nghỉ.
-
-Chatbot nên nhắc người dùng kiểm tra bản đồ ngay trước khi xuất phát. Những thông tin về đường cấm, phân luồng, bảo trì, sự kiện hoặc thời tiết có thể làm thời gian thực tế khác với dự kiến ban đầu.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+Thời gian di chuyển chỉ mang tính tham khảo và có thể thay đổi theo giao thông, thời tiết, điểm đón và giờ hoạt động.
 
 5. Bản đồ / hướng dẫn đường đi
 
-Khi dùng bản đồ, nên tìm bằng tên “FLC Zoo Safari Park Quy Nhơn” và đối chiếu với các mốc khu quan sát động vật, hồ nước, khu vui chơi gia đình, khu dịch vụ vé, tuyến xe điện, khu nghỉ dưỡng FLC lân cận. Nếu có nhiều kết quả trùng tên, hãy chọn kết quả nằm đúng vùng Khu 4, Nhơn Lý, Quy Nhơn, Bình Định hoặc khu FLC Quy Nhơn, Quy Nhơn Đông/Cát Tiến, tỉnh Gia Lai, tránh nhầm với điểm cùng tên ở tỉnh khác.
-
-Một cách đi an toàn là lưu sẵn bản đồ offline, chụp màn hình tuyến đường và ghi lại tên điểm gần đó. Điều này hữu ích khi mạng yếu, đi qua vùng ngoại ô hoặc cần hỏi người dân bằng tên địa phương.
-
-Với các địa điểm có nhiều cổng, nhiều lối hoặc nằm trong quần thể, nên xác định trước điểm gửi xe, lối vào chính và thời điểm đóng/mở dịch vụ. Nếu đi theo tour, nên hỏi rõ điểm đón trả để không mất thời gian tìm nhau.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+Nên nhập “FLC Zoo Safari Park Quy Nhơn” hoặc “FLC Quy Nhơn” trên bản đồ, sau đó đối chiếu với mốc Nhơn Lý, Eo Gió và khu FLC.
 
 6. Lưu ý khi di chuyển
 
-Không nên di chuyển vội vào buổi trưa nắng hoặc khi trời mưa lớn, đặc biệt với địa điểm ngoài trời, dốc, ven biển hoặc di tích có nền gạch/đá. Nên mang nước uống, nón, áo khoác nhẹ, giày dễ đi và sạc dự phòng.
-
-Nếu đi bằng xe máy, cần kiểm tra xăng, phanh, đèn và mũ bảo hiểm. Nếu đi ô tô, nên hỏi trước chỗ quay đầu hoặc bãi đỗ. Nếu đi cùng trẻ nhỏ, nên ưu tiên phương tiện kín gió và có thời gian nghỉ.
-
-Luôn tôn trọng biển báo, hàng rào, khu vực bảo tồn và hướng dẫn của người quản lý. Với di tích, không tự ý lái xe sát công trình; với điểm tự nhiên, không đi vào lối mòn nguy hiểm chỉ để chụp ảnh.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+Nên kiểm tra thời tiết, giờ vận hành, tình trạng dịch vụ và đường vào trước khi xuất phát. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 7. Nguồn tham khảo
 
 - https://flc.vn/
 - https://www.flchotelsresorts.com/
-- https://www.flchotelsresorts.com/quan-the/flc-quy-nhon/
-- https://dulichquynhon.com.vn/
-
-Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.
+- https://quynhon.gov.vn/
+- https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
