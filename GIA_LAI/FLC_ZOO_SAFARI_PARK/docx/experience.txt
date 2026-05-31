@@ -1,73 +1,104 @@
 1. Hoạt động du lịch chính
 
-Hoạt động chính tại FLC Zoo Safari Park là tham quan và quan sát động vật trong các phân khu. Du khách có thể đi bộ hoặc sử dụng phương tiện nội khu nếu dịch vụ hoạt động. Trải nghiệm phù hợp với người thích chụp ảnh, gia đình có trẻ em và nhóm muốn có hoạt động nhẹ nhàng hơn so với các điểm biển phải đi cano hoặc leo bậc thang nhiều.
+Hoạt động chính tại FLC Zoo Safari Park Quy Nhơn gồm xem động vật, đi xe điện, chụp ảnh gia đình, cho trẻ nhận biết loài thú, chèo thuyền/đạp vịt hoặc dịch vụ giải trí tùy mùa. Đây là các trải nghiệm dễ giới thiệu cho khách lần đầu vì gắn trực tiếp với đặc điểm nhận diện của địa điểm.
 
-Khu thú cưng là trải nghiệm dễ tiếp cận nhất. Trẻ em thường thích quan sát và tương tác với những loài hiền như cừu, dê lùn, ngựa, thỏ, đà điểu hoặc chuột túi. Dữ liệu chatbot cần nhấn mạnh rằng việc cho thú ăn phải theo hướng dẫn, không dùng đồ ăn tự mang từ ngoài vào, không kéo lông, chọc mắt hoặc làm thú hoảng sợ.
+Nếu người dùng hỏi “có gì chơi”, chatbot nên trả lời theo kiểu lựa chọn: trải nghiệm nhẹ cho gia đình, trải nghiệm chụp ảnh, trải nghiệm tìm hiểu văn hóa và trải nghiệm kết hợp tuyến gần. Không nên chỉ đưa một danh sách ngắn thiếu bối cảnh.
 
-Khu thú dữ phù hợp với du khách muốn nhìn thấy các loài như gấu, hổ, sư tử trắng, cá sấu. Đây là khu cần giữ khoảng cách và tuân thủ rào chắn. Nếu có dịch vụ câu cá sấu hoặc cho cá sấu ăn, chỉ tham gia khi có nhân viên hướng dẫn. Không tự ý đưa tay qua hàng rào hoặc cố thu hút thú để chụp ảnh.
+Điểm cần nhấn mạnh là không phải hoạt động nào cũng phù hợp mọi mùa. Một số hoạt động phụ thuộc thời tiết, ánh sáng, lượng khách hoặc quy định quản lý. Vì vậy nên kèm lời khuyên kiểm tra trước khi đi.
 
-Khu vườn chim và hồ thiên nga tạo cảm giác thư giãn hơn. Hồ thiên nga có thể kết hợp quan sát thiên nga, mua thức ăn cho cá/thiên nga nếu được phép, chèo thuyền hoặc đạp vịt tùy hoạt động thực tế. Đây là điểm dễ chụp ảnh gia đình vì cảnh quan có mặt nước và không gian mở.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Các câu hỏi phổ biến liên quan trải nghiệm gồm: FLC Zoo Safari có gì chơi, có nhiều thú không, trẻ em có thích không, đi mấy tiếng là đủ, có nên đi vào buổi trưa không, có cho thú ăn được không, có xe điện không, có chỗ ăn uống không, có phù hợp người lớn tuổi không, đi Safari rồi có kịp đi Eo Gió không.
-
-Khi chatbot trả lời các câu này, nên dùng ngôn ngữ thực tế: công viên rộng, nhiều nắng, phù hợp gia đình, nên đi sáng, giá và dịch vụ phụ cần kiểm tra lại, không tự ý cho thú ăn, và không nên so sánh trực tiếp với các điểm biển vì loại trải nghiệm khác nhau.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Điểm check-in nổi bật
 
-Cổng vào và bảng tên FLC Zoo Safari Park là điểm chụp ảnh nhận diện tốt nhất cho dữ liệu hình ảnh. Khi xây dựng dữ liệu multimodal, các ảnh có biển tên, cổng, bản đồ phân khu hoặc biểu tượng động vật giúp mô hình nhận dạng địa điểm tốt hơn ảnh chụp động vật riêng lẻ.
+Điểm check-in nổi bật nhất là các góc thể hiện rõ khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành. Ảnh nên lấy đủ bối cảnh để người xem nhận ra địa điểm chứ không chỉ chụp cận một chi tiết khó phân biệt.
 
-Khu thú cưng là điểm check-in phù hợp với trẻ em. Ảnh trẻ em đứng gần cừu, dê, thỏ hoặc đà điểu có thể đại diện cho trải nghiệm gia đình tại Safari, nhưng cần lưu ý về quyền riêng tư nếu dùng ảnh người thật trong bộ dữ liệu huấn luyện.
+Góc ảnh rộng giúp thấy không gian rộng, nhiều cây xanh, hồ nước, khu chuồng trại/bán tự nhiên, đường dạo, xe điện và nền cảnh quan bán đảo Phương Mai. Góc ảnh cận giúp nhấn mạnh vật liệu, đường nét, màu sắc, cây xanh, đá, nước hoặc công trình biểu tượng. Với dữ liệu nhận diện ảnh, nên ưu tiên ảnh sáng rõ, ít người che khuất và không chỉnh màu quá mạnh.
 
-Hồ thiên nga là điểm check-in có yếu tố cảnh quan rõ: mặt nước, thiên nga, lối dạo và cây xanh. Ảnh khu này giúp phân biệt FLC Zoo Safari Park với các điểm biển quanh Nhơn Lý, vì nó không có cảnh biển chính mà thiên về hồ nước và động vật.
+Khi đông khách, nên chọn góc chụp lệch, chờ khoảng trống hoặc đi sớm. Không nên leo rào, trèo lên di tích, bước vào khu cấm hoặc làm ảnh hưởng người khác chỉ để có ảnh đẹp.
 
-Khu thú dữ tạo điểm nhấn mạnh cho nội dung trải nghiệm, nhưng ảnh cần chụp từ khoảng cách an toàn. Không nên dùng ảnh hoặc mô tả khuyến khích hành vi chọc phá động vật để tạo dáng.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Trải nghiệm theo từng khu vực
 
-Trải nghiệm tại địa điểm có thể chia theo từng khu vực khác nhau. Hoạt động chính tại FLC Zoo Safari Park là tham quan và quan sát động vật trong các phân khu. Du khách có thể đi bộ hoặc sử dụng phương tiện nội khu nếu dịch vụ hoạt động. Trải nghiệm phù hợp với người thích chụp ảnh, gia đình có trẻ em và nhóm muốn có hoạt động nhẹ nhàng hơn so với các điểm biển phải đi cano hoặc leo bậc thang nhiều.
+Khu vực chính của FLC Zoo Safari Park Quy Nhơn gồm khu quan sát động vật, hồ nước, khu vui chơi gia đình, khu dịch vụ vé, tuyến xe điện, khu nghỉ dưỡng FLC lân cận. Mỗi khu có vai trò khác nhau: có nơi để nhận diện, có nơi để nghỉ chân, có nơi để tìm hiểu văn hóa, có nơi để chụp toàn cảnh hoặc quan sát đời sống địa phương.
+
+Du khách nên đi theo trình tự từ dễ tiếp cận đến sâu hơn. Đi nhanh quá dễ bỏ qua các chi tiết quan trọng, còn ở quá lâu tại một điểm phụ có thể làm lỡ khung giờ đẹp của điểm chính.
+
+Nếu đi cùng trẻ em hoặc người lớn tuổi, nên ưu tiên khu bằng phẳng, gần lối ra, gần dịch vụ và có bóng mát. Những khu dốc, đá, bậc thang hoặc xa điểm gửi xe nên cân nhắc sức khỏe trước khi vào.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Những thứ nên thử
 
-Khi đến đây, du khách nên thử một số trải nghiệm tiêu biểu. Hoạt động chính tại FLC Zoo Safari Park là tham quan và quan sát động vật trong các phân khu. Du khách có thể đi bộ hoặc sử dụng phương tiện nội khu nếu dịch vụ hoạt động. Trải nghiệm phù hợp với người thích chụp ảnh, gia đình có trẻ em và nhóm muốn có hoạt động nhẹ nhàng hơn so với các điểm biển phải đi cano hoặc leo bậc thang nhiều.
+Nên thử quan sát địa điểm ở hai khoảng cách: nhìn tổng thể để hiểu bố cục và nhìn gần để nhận ra chi tiết. Cách này đặc biệt hữu ích với công viên động vật bán hoang dã, vì giá trị của địa điểm thường nằm ở cả không gian chung và những dấu hiệu nhỏ.
+
+Nên thử kết hợp trải nghiệm tại chỗ với ẩm thực hoặc điểm gần đó. Sau khi tham quan FLC Zoo Safari Park Quy Nhơn, du khách có thể tìm các món như nhà hàng/quầy dịch vụ trong khu FLC hoặc khu Nhơn Lý; có thể kết hợp hải sản ở làng chài Nhơn Lý hoặc ghé tuyến FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn nếu còn thời gian.
+
+Nên thử hỏi người dân địa phương, nhân viên điểm đến hoặc hướng dẫn viên về thời điểm đẹp, góc ảnh tốt và câu chuyện ít được ghi trong bài review. Tuy nhiên thông tin truyền miệng nên được ghi nhận ở mức tham khảo.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Những điều không nên bỏ lỡ
 
-Có những điều bạn không nên bỏ lỡ khi tham quan. Cổng vào và bảng tên FLC Zoo Safari Park là điểm chụp ảnh nhận diện tốt nhất cho dữ liệu hình ảnh. Khi xây dựng dữ liệu multimodal, các ảnh có biển tên, cổng, bản đồ phân khu hoặc biểu tượng động vật giúp mô hình nhận dạng địa điểm tốt hơn ảnh chụp động vật riêng lẻ. Khu thú cưng là điểm check-in phù hợp với trẻ em.
+Không nên bỏ lỡ chi tiết nhận diện chính: khu safari trong quần thể FLC Quy Nhơn, diện tích lớn khoảng 130 ha, nhiều loài động vật như hươu, nai, đà điểu, cừu, dê, chim, gấu, hổ, sư tử trắng tùy thời điểm vận hành. Đây là phần giúp chuyến đi có điểm nhấn và giúp ảnh chụp sau này không bị lẫn với địa điểm khác.
+
+Không nên bỏ lỡ bối cảnh vùng xung quanh. FLC Zoo Safari Park Quy Nhơn có liên hệ với FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn, vì vậy một lịch trình tốt thường không chỉ dừng ở một điểm mà sắp xếp các điểm theo tuyến hợp lý.
+
+Không nên bỏ lỡ các lưu ý ứng xử. Dù là điểm thiên nhiên, di tích, chùa, quảng trường hay khu dịch vụ, du khách đều nên giữ vệ sinh, không gây ồn quá mức, không xâm phạm khu cấm và tôn trọng cộng đồng địa phương.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Thời lượng tham quan đề xuất
 
-Nếu chỉ ghé nhanh để biết địa điểm, thời lượng 1,5-2 giờ là đủ cho các khu chính. Lịch này phù hợp người đi một ngày dày lịch, đã đi Kỳ Co hoặc Eo Gió và chỉ muốn thêm một điểm nhẹ trước khi về trung tâm.
+Thời lượng tham quan đề xuất cho FLC Zoo Safari Park Quy Nhơn là 2-3 giờ cho gia đình; nửa ngày nếu ghép Eo Gió hoặc Kỳ Co. Khoảng này phù hợp với khách đi tự túc muốn quan sát, chụp ảnh và nghỉ ngắn.
 
-Đối với gia đình có trẻ em, nên dành khoảng 2,5-3,5 giờ. Trẻ thường muốn dừng lâu ở khu thú cưng, hồ thiên nga và các dịch vụ nhỏ. Gia đình cũng cần thời gian nghỉ, uống nước và tránh đi liên tục dưới nắng.
+Nếu chỉ ghé nhanh, có thể rút ngắn thời gian nhưng nên ưu tiên khu nhận diện chính. Nếu muốn quay video, chụp bộ ảnh, tìm hiểu lịch sử hoặc đi cùng gia đình, nên cộng thêm thời gian nghỉ và di chuyển nội khu.
 
-Nếu đi đoàn học sinh, đoàn team building hoặc đoàn khách lưu trú FLC, có thể bố trí nửa ngày. Lịch nửa ngày cho phép có hướng dẫn, hoạt động giáo dục, chụp ảnh, ăn nhẹ và tham gia thêm xe điện hoặc một số trò chơi tùy vận hành.
+Không nên xếp quá nhiều điểm xa nhau trong một buổi. Lịch trình tốt là lịch trình có thời gian dự phòng cho thời tiết, giao thông, ăn uống và thay đổi kế hoạch.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Lịch trình tham quan gợi ý
 
-Buổi sáng, gia đình nên đến khoảng 08:00-08:30 để mua vé, chụp ảnh cổng và xem sơ đồ công viên. Từ 08:30-09:30 nên ưu tiên khu thú cưng vì trẻ em còn khỏe, thời tiết chưa quá nóng và hoạt động tương tác dễ tạo hứng thú. Từ 09:30-10:30 có thể chuyển sang khu vườn chim, hồ thiên nga hoặc các khu động vật khác.
+Lịch trình ngắn: đến FLC Zoo Safari Park Quy Nhơn, xác định khu nhận diện chính, đi một vòng quan sát, chụp ảnh, nghỉ vài phút rồi di chuyển đến điểm ăn uống hoặc cà phê gần đó. Lịch trình này phù hợp với khách có ít thời gian.
 
-Từ 10:30-11:30 nên nghỉ ở khu nhà hàng hoặc quầy nước, tránh nắng gắt. Nếu trẻ còn hứng thú, gia đình có thể đi thêm xe điện hoặc một dịch vụ nhẹ trước khi ra về. Không nên ép trẻ đi đủ tất cả các khu nếu trời nóng hoặc trẻ mệt, vì trải nghiệm chính của Safari là quan sát vui vẻ chứ không phải hoàn thành toàn bộ checklist.
+Lịch trình nửa ngày: kết hợp FLC Zoo Safari Park Quy Nhơn với FLC Quy Nhơn Beach & Golf Resort, Eo Gió, Kỳ Co, Nhơn Lý, đồi cát Phương Mai, Hòn Khô, trung tâm Quy Nhơn. Nên sắp xếp điểm ngoài trời vào sáng sớm hoặc chiều mát, còn điểm trong nhà/quán ăn vào lúc nắng hoặc mưa.
 
-Nếu người dùng muốn kết hợp trong một ngày, có thể đi Kỳ Co hoặc Eo Gió buổi sáng sớm, ăn trưa ở khu Nhơn Lý, sau đó ghé FLC Safari vào đầu giờ chiều. Tuy nhiên phương án này dễ mệt, đặc biệt với trẻ nhỏ, vì Kỳ Co/Eo Gió đều nhiều nắng và di chuyển ngoài trời. Lịch trình an toàn hơn là chọn Eo Gió hoặc Kỳ Co làm điểm chính, Safari làm điểm phụ.
+Lịch trình một ngày: chọn một tuyến rõ ràng, không nhảy quá nhiều hướng. Ví dụ đi theo cụm trung tâm, cụm biển đảo, cụm cao nguyên hoặc cụm di tích. Cách này giúp giảm thời gian di chuyển và tăng chất lượng trải nghiệm.
 
-Một phương án khác là đi Safari vào buổi sáng, ăn trưa, nghỉ ngơi rồi ghé Eo Gió lúc chiều muộn để ngắm cảnh. Cách này phù hợp gia đình có trẻ em vì hoạt động quan sát thú nên làm trước khi trời nắng gắt, còn Eo Gió đẹp hơn khi nắng dịu.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Kinh nghiệm tham quan
 
-Nên đi giày thể thao hoặc dép chắc chân vì công viên rộng và có thể phải đi bộ nhiều. Không nên đi giày cao gót hoặc dép quá trơn nếu đi với trẻ em. Nên mang mũ, áo chống nắng, nước uống, khăn giấy, thuốc chống côn trùng nhẹ và sạc dự phòng.
+Kinh nghiệm quan trọng nhất là kiểm tra thời tiết, giờ hoạt động và tình trạng dịch vụ trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Nên chuẩn bị tiền mặt mệnh giá nhỏ vì một số dịch vụ phụ như thức ăn cho thú, đồ uống, xe điện hoặc trò chơi có thể thanh toán nhanh tại chỗ. Dù nhiều nơi đã hỗ trợ chuyển khoản, tiền mặt vẫn hữu ích khi mạng yếu hoặc đi đoàn đông.
+Nên chuẩn bị nước uống, giấy tờ cá nhân, điện thoại đủ pin, giày dễ đi, nón/áo khoác chống nắng hoặc áo mưa mỏng. Với điểm di tích và chùa, nên chọn trang phục lịch sự; với điểm biển hoặc đồi núi, nên ưu tiên an toàn hơn ảnh đẹp.
 
-Nên đọc bảng nội quy và hỏi nhân viên trước khi cho thú ăn, chụp ảnh gần động vật hoặc tham gia các dịch vụ tương tác. Không nên để trẻ tự chạy vào khu gần rào chắn. Người lớn cần đi kèm trẻ trong toàn bộ thời gian tham quan.
+Khi hỏi chatbot, người dùng có thể nêu rõ đi với ai, đi tháng nào, xuất phát từ đâu và có bao nhiêu thời gian. Dữ liệu này giúp hệ thống đưa lịch trình sát hơn thay vì trả lời chung chung.
 
-Không nên kỳ vọng Safari là điểm có cảnh quan biển đẹp như Kỳ Co hoặc Eo Gió. Đây là điểm trải nghiệm động vật và gia đình. Nếu người dùng hỏi "đi FLC Safari có đáng không", câu trả lời nên tùy theo đối tượng: đáng đi nếu có trẻ em hoặc thích động vật, không phải lựa chọn số một nếu chỉ muốn biển xanh, check-in vách đá hoặc lặn ngắm san hô.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-FLC Hotels & Resorts - Safari Quy Nhơn: https://flchotelsresorts.com/safari-quy-nhon
+- https://flc.vn/
+- https://www.flchotelsresorts.com/
+- https://www.flchotelsresorts.com/quan-the/flc-quy-nhon/
+- https://dulichquynhon.com.vn/
 
-Bamboo Airways - Kinh nghiệm đi công viên hoang dã FLC Safari Quy Nhơn: https://www.bambooairways.com/vi/travel-guide/domestic-travels/quy-nhon/kinh-nghiem-di-safari-quy-nhon
-
-Tripadvisor - FLC Zoo Safari Park Quy Nhon: https://www.tripadvisor.com.vn/Attraction_Review-g608528-d12419938-Reviews-FLC_Zoo_Safari_Park_Quy_Nhon-Quy_Nhon_Binh_Dinh_Province.html
-
-Du lịch Quy Nhơn Blog - FLC Zoo Safari Park Quy Nhơn: https://dulichquynhon.blog/dia-diem-du-lich/flc-zoo-safari-park/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

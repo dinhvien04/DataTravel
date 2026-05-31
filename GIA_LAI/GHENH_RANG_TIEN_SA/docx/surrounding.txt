@@ -1,75 +1,58 @@
 1. Các địa điểm gần đó
 
-Bãi tắm Hoàng Hậu/Bãi Đá Trứng là điểm nổi bật nhất trong cụm. Đây là nơi có những viên đá tròn nhẵn, tạo cảnh quan lạ mắt. Phù hợp chụp ảnh, ngắm cảnh và nghe sóng, không nên xem là bãi tắm an toàn như bãi cát thông thường.
+Các địa điểm có thể kết hợp với Ghềnh Ráng - Tiên Sa gồm Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển. Khi gợi ý, nên sắp xếp theo khoảng cách, loại hình và thời gian phù hợp thay vì liệt kê tất cả một cách ngang nhau.
 
-Đồi Thi Nhân và mộ Hàn Mặc Tử là điểm văn hóa quan trọng. Khu này phù hợp với khách yêu văn học, muốn tìm hiểu nhà thơ Hàn Mặc Tử và không gian thi ca ở Quy Nhơn.
+Nếu người dùng chỉ có nửa ngày, nên chọn một đến hai điểm gần nhất. Nếu có một ngày, có thể ghép thành tuyến rõ ràng: tuyến trung tâm, tuyến biển, tuyến cao nguyên, tuyến di tích hoặc tuyến tâm linh.
 
-Dốc Mộng Cầm là lối đi gắn với câu chuyện tình và thi ca. Đây là điểm chuyển tiếp giữa khu cổng và khu mộ Hàn Mặc Tử, có giá trị thuyết minh hơn là điểm vui chơi độc lập.
+Cần phân biệt điểm chính với điểm cùng tên hoặc điểm dễ nhầm. Ví dụ cùng là tháp, cùng là bãi biển hoặc cùng là núi lửa, mỗi địa điểm vẫn có dấu hiệu nhận diện và lịch trình khác nhau.
 
-Nhà thờ Đá Ghềnh Ráng nằm trong không gian gần khu Ghềnh Ráng, có giá trị tôn giáo, kiến trúc và cảnh quan riêng. Nên đưa vào lịch trình nếu du khách muốn tham quan chậm và thích không gian yên tĩnh.
-
-Bãi Tiên Sa là một điểm cảnh quan được nhắc trong cụm Ghềnh Ráng - Tiên Sa. Nên mô tả là bãi biển/không gian ven biển giàu chất thơ, phù hợp đi dạo, ngắm cảnh và chụp ảnh khi thời tiết đẹp.
-
-Biển Quy Nhơn trung tâm nằm không xa Ghềnh Ráng. Du khách có thể kết hợp tắm biển, dạo đường Xuân Diệu, ăn hải sản và ngắm thành phố biển sau khi tham quan Ghềnh Ráng.
-
-Khu Quy Hòa và Bãi Xép nằm về phía Nam, phù hợp với lịch trình tiếp tục khám phá cảnh biển yên tĩnh hơn sau Ghềnh Ráng. Nếu đi Quy Hòa, du khách nên kiểm tra tình trạng mở cửa và tuyến đường thực tế.
-
-Trung tâm Khám phá khoa học Quy Nhơn/ExploraScience nằm trong khu vực Ghềnh Ráng - Quy Nhơn Nam. Đây là điểm phù hợp với gia đình có trẻ em, học sinh, sinh viên và khách thích khoa học, thiên văn, STEM.
-
-Tháp Đôi nằm trong khu vực nội đô Quy Nhơn, có thể kết hợp cùng Ghềnh Ráng trong một city tour nửa ngày hoặc một ngày. Đây là điểm văn hóa Chăm, khác hoàn toàn về chủ đề so với cảnh biển Ghềnh Ráng.
-
-Khu ẩm thực trung tâm, chợ địa phương và các tuyến đường ven biển là điểm tiếp nối phù hợp sau chuyến tham quan. Đây là nơi tìm bún chả cá, bánh xèo tôm nhảy, hải sản và quà đặc sản.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Sự kiện / lễ hội
 
-Ghềnh Ráng - Tiên Sa có yếu tố văn hóa gắn với Hàn Mặc Tử, thơ ca và ký ức văn học. Nếu có sự kiện tưởng niệm, sinh hoạt văn hóa hoặc chương trình thuyết minh đặc biệt, thông tin cần cập nhật từ địa phương trước khi trả lời.
+Sự kiện hoặc lễ hội quanh Ghềnh Ráng - Tiên Sa phụ thuộc lịch địa phương. Có thời điểm khu vực tổ chức chương trình văn hóa, lễ hội, triển lãm, hoạt động du lịch hoặc sự kiện cộng đồng làm lượng khách tăng mạnh.
 
-Không gian tôn giáo như Nhà thờ Đá Ghềnh Ráng có thể có thánh lễ, sinh hoạt tôn giáo hoặc thời điểm không phù hợp để tham quan tự do. Chatbot nên khuyến nghị giữ trật tự và kiểm tra lịch sinh hoạt nếu người dùng muốn vào khu vực tôn giáo.
+Nếu người dùng muốn đi dịp lễ, nên kiểm tra thông báo của địa phương, cổng du lịch hoặc fanpage đơn vị quản lý. Sự kiện có thể tạo trải nghiệm thú vị nhưng cũng làm khó gửi xe, chụp ảnh và di chuyển.
 
-Các lễ hội biển, sự kiện du lịch Quy Nhơn hoặc chương trình hè có thể làm khu vực đông hơn. Vào dịp lễ, cuối tuần và mùa hè, cần dự phòng thời gian gửi xe, di chuyển và chụp ảnh.
+Với điểm tôn giáo hoặc di tích, ngày lễ có thể cần ứng xử trang nghiêm hơn. Với điểm biển/núi/quảng trường, sự kiện có thể kèm phân luồng giao thông hoặc hạn chế một số khu vực.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Hoạt động theo mùa
 
-Mùa khô từ khoảng tháng 3 đến tháng 9 phù hợp cho hoạt động ngoài trời, chụp ảnh, đi bộ và ngắm cảnh. Đây là mùa nên ưu tiên nếu người dùng hỏi “đi Ghềnh Ráng tháng nào đẹp”.
+Hoạt động theo mùa của Ghềnh Ráng - Tiên Sa chịu ảnh hưởng bởi thời tiết và lịch du lịch. Mùa khô thường thuận lợi cho chụp ảnh, di chuyển và hoạt động ngoài trời; mùa mưa cần chuẩn bị kỹ hơn.
 
-Mùa mưa hoặc thời điểm biển động phù hợp hơn với tham quan ngắn, đi các khu trên cao và hạn chế xuống bãi đá. Nếu mưa lớn, nên chuyển sang các điểm trong nhà như bảo tàng, quán cà phê, trung tâm khoa học hoặc nghỉ ngơi tại khách sạn.
+Một số mùa có cảnh quan đẹp hơn: cây xanh mướt, trời trong, biển xanh, hoa nở, ruộng rẫy thay màu hoặc ánh sáng chiều đẹp. Tuy nhiên mùa đẹp cũng có thể đông khách và giá dịch vụ cao hơn.
 
-Mùa hè đông khách hơn vì trùng kỳ nghỉ. Nếu người dùng muốn tránh đông, nên đi ngày thường, sáng sớm hoặc cuối chiều thay vì cuối tuần.
+Khi chatbot trả lời, nên hỏi hoặc suy luận mục tiêu của người dùng: muốn ảnh đẹp, muốn ít đông, muốn tiết kiệm, muốn đi với trẻ nhỏ hay muốn trải nghiệm văn hóa. Mỗi mục tiêu có mùa và khung giờ khác nhau.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Đối tượng phù hợp
 
-Gia đình: phù hợp nếu đi chậm và chọn điểm an toàn. Trẻ nhỏ cần được giám sát sát sao ở bãi đá và khu dốc.
+Ghềnh Ráng - Tiên Sa phù hợp với nhiều nhóm khách nếu chọn đúng thời điểm và cách di chuyển. Khách trẻ có thể chủ động chụp ảnh và ghép nhiều điểm; gia đình nên ưu tiên giờ mát, đường dễ đi và dịch vụ gần; người lớn tuổi cần hạn chế nắng, dốc và đi bộ quá lâu.
 
-Cặp đôi: phù hợp để chụp ảnh, đi dạo, ngắm biển và kết hợp ăn tối ở trung tâm Quy Nhơn.
+Khách yêu văn hóa nên dành thời gian đọc trước thông tin về văn học Việt Nam hiện đại, ký ức Hàn Mặc Tử, văn hóa du lịch biển Quy Nhơn và không gian chiêm nghiệm giữa đá, núi, biển. Khách thích thiên nhiên nên chú ý ghềnh đá, bãi đá trứng, vách đá thấp, đường dốc, cây xanh và những điểm nhìn ra vịnh Quy Nhơn. Khách đi nhanh chỉ cần xác định điểm check-in chính và một tuyến ăn uống gần đó.
 
-Người yêu văn học: rất phù hợp vì có mộ Hàn Mặc Tử, Đồi Thi Nhân và các câu chuyện thi ca.
+Nếu người dùng hỏi “có phù hợp trẻ em/người già không”, chatbot nên trả lời có điều kiện: phù hợp nếu đi giờ mát, chuẩn bị nước, chọn khu dễ đi và tránh khu vực nguy hiểm hoặc quá đông.
 
-Người lớn tuổi: phù hợp một phần, nhưng nên tránh leo dốc nhiều và không xuống bãi đá nếu chân yếu hoặc trời ẩm.
-
-Khách thích tắm biển: không phải lựa chọn tốt nhất nếu mục tiêu chính là tắm. Nên chọn biển Quy Nhơn, Kỳ Co hoặc bãi tắm phù hợp hơn tùy điều kiện.
-
-Nhóm học sinh, sinh viên: phù hợp cho hoạt động ngoại khóa về địa lý, cảnh quan, văn học và văn hóa địa phương.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Gợi ý tuyến tham quan kết hợp
 
-Eo Gió và Kỳ Co nằm ở khu vực Nhơn Lý/Quy Nhơn Đông, xa hơn Ghềnh Ráng nhưng rất phổ biến trong lịch trình Quy Nhơn. Nếu có một ngày đầy đủ, du khách có thể đi Kỳ Co - Eo Gió buổi sáng và Ghềnh Ráng buổi chiều, nhưng lịch này khá dày.
+Tuyến ngắn: Ghềnh Ráng - Tiên Sa kết hợp một điểm gần trong nhóm Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển, sau đó ăn uống với các món như hải sản Quy Nhơn, bún chả cá, bánh xèo tôm nhảy, quán cà phê ven biển, nhà hàng khu trung tâm. Tuyến này phù hợp khách có nửa ngày hoặc muốn đi nhẹ.
 
-Hòn Khô ở Nhơn Hải/Quy Nhơn Đông phù hợp với khách thích biển đảo, cano và lặn ngắm san hô. Ghềnh Ráng có thể để ngày riêng nhẹ nhàng hơn vì chủ yếu là tham quan nội đô.
+Tuyến một ngày: chọn Ghềnh Ráng - Tiên Sa làm điểm chính, sau đó thêm hai đến ba điểm cùng hướng. Không nên ghép các điểm quá xa nhau khiến thời gian di chuyển nhiều hơn thời gian trải nghiệm.
 
-Cù Lao Xanh là đảo xa, không nên ghép cùng Ghềnh Ráng trong cùng một buổi. Nếu khách hỏi lịch trình, nên tách Cù Lao Xanh thành ngày riêng vì phụ thuộc tàu/cano và thời tiết biển.
+Tuyến cho chatbot nên viết linh hoạt: nếu người dùng xuất phát từ trung tâm, ưu tiên điểm gần; nếu xuất phát từ sân bay hoặc khu nghỉ dưỡng, ưu tiên tuyến thuận đường. Luôn cộng thời gian dự phòng cho thời tiết và ăn uống.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Nguồn tham khảo
 
-Ngày tổng hợp dữ liệu: 26/05/2026. Các thông tin về giá vé, giờ mở cửa, phí gửi xe và dịch vụ phụ trợ có thể thay đổi theo thời điểm vận hành thực tế. Khi dùng cho chatbot, nên ưu tiên trả lời kèm câu nhắc kiểm tra lại kênh chính thức hoặc đơn vị quản lý trước ngày đi.
+- https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng
+- https://vietnamtourism.gov.vn/
+- https://dulichquynhon.com.vn/
+- https://baogialai.com.vn/
 
-Vietnam Airlines - Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
-
-Vietnam Airlines - Bãi tắm Hoàng Hậu: https://www.vietnamairlines.com/no/vi/plan-book/travel/travel-guide/bai-tam-hoang-hau
-
-Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
-
-Du lịch Quy Nhơn - Bình Định / My Binh Dinh - Ghềnh Ráng: https://mybinhdinh.vn/vi/ghenhrang
-
-Vinpearl - Ghềnh Ráng Tiên Sa: https://vinpearl.com/vi/ghenh-rang-tien-sa-tac-pham-thien-tao-ky-vi-tho-mong
-
-Thư viện Pháp luật - sắp xếp đơn vị hành chính Quy Nhơn sau sáp nhập: https://thuvienphapluat.vn/phap-luat/tp-quy-nhon-cu-binh-dinh-sau-sap-nhap-don-vi-hanh-chinh-co-may-phuong-xa-ten-goi-cac-phuong-xa-cua--233694-224092.html
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

@@ -1,107 +1,128 @@
 1. Lưu ý khi tham quan
 
-Nên đi giày hoặc dép có độ bám tốt vì khu có dốc, bậc thang và đá tròn. Không nên mang giày cao gót hoặc dép trơn khi xuống Bãi Đá Trứng.
+Khi tham quan Ghềnh Ráng - Tiên Sa, du khách nên chuẩn bị theo loại hình khu danh thắng ven biển. Điểm ngoài trời cần chống nắng/chống mưa; điểm di tích cần tôn trọng bảo tồn; điểm tâm linh cần trang phục lịch sự; điểm dịch vụ cần kiểm tra vé và giờ hoạt động.
 
-Nên mang nước uống, nón, kem chống nắng và áo khoác mỏng nếu đi vào mùa nắng. Khu vực ngoài trời có thể nóng nhanh vào cuối buổi sáng.
+Không nên đi quá sát giờ đóng cửa hoặc quá muộn nếu địa điểm ít người. Nên mang nước, sạc dự phòng, giày phù hợp và xác định trước điểm gửi xe/lối ra.
 
-Nên giữ điện thoại, máy ảnh và đồ cá nhân chắc chắn khi đứng gần mép đá hoặc nơi gió mạnh. Không nên mải chụp ảnh mà lùi sát mép đá.
+Thông tin tham khảo, cần kiểm tra lại trước khi đi. Đặc biệt với thông tin giá vé, giờ mở cửa, số điện thoại, dịch vụ và quy định mới, cần kiểm tra lại trước khi đi.
 
-Nên đi theo nhóm nhỏ hoặc thông báo điểm hẹn nếu đoàn đông vì bên trong có nhiều lối đi và điểm dừng.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Quy định tại địa điểm
 
-Giữ vệ sinh, bỏ rác đúng nơi quy định và không xả rác xuống biển hoặc khe đá. Đây là nguyên tắc quan trọng vì bãi đá và cảnh quan tự nhiên là giá trị chính của địa điểm.
+Quy định thường gặp gồm giữ vệ sinh, không xả rác, không gây ồn, không phá hoại cây xanh/công trình, không tự ý vào khu vực cấm và tuân thủ hướng dẫn của nhân viên hoặc biển báo.
 
-Không viết vẽ lên đá, bia thơ, công trình tưởng niệm, tường nhà thờ hoặc các hạng mục trong khu du lịch.
+Với Ghềnh Ráng - Tiên Sa, cần chú ý quy định ứng xử phù hợp với văn học Việt Nam hiện đại, ký ức Hàn Mặc Tử, văn hóa du lịch biển Quy Nhơn và không gian chiêm nghiệm giữa đá, núi, biển. Nếu là di tích, không leo trèo/chạm khắc lên công trình; nếu là chùa, nói chuyện nhỏ và ăn mặc lịch sự; nếu là điểm tự nhiên, không bẻ cây, ném rác hoặc mạo hiểm.
 
-Tại mộ Hàn Mặc Tử và Đồi Thi Nhân, nên nói nhỏ, không đùa giỡn quá mức và không leo trèo lên công trình tưởng niệm.
+Khi có sự kiện, bảo trì hoặc thời tiết xấu, quy định có thể thay đổi tạm thời. Chatbot nên nhắc người dùng kiểm tra thông báo mới nhất nếu đi vào dịp đặc biệt.
 
-Tại Nhà thờ Đá Ghềnh Ráng, nên ăn mặc lịch sự, giữ trật tự và tôn trọng không gian tôn giáo. Nếu có sinh hoạt tôn giáo, nên hạn chế chụp ảnh, quay phim hoặc đứng chắn lối đi.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Điều cấm / hạn chế
 
-Không nên tắm biển tại Bãi Đá Trứng nếu không có khu vực an toàn, người cứu hộ hoặc điều kiện biển phù hợp. Một số nguồn du lịch nhấn mạnh khu này có sóng mạnh, đá trơn và không phải bãi cát tắm biển thông thường.
+Không leo rào, không đi vào khu vực hạn chế, không vẽ bậy, không tự ý lấy hiện vật/cây/đá, không gây ảnh hưởng đến khách khác hoặc người dân địa phương.
 
-Không leo lên các mỏm đá cao hoặc đá sát mép nước để chụp ảnh. Nguy cơ trượt ngã tăng khi đá ướt, có rêu hoặc sóng bất ngờ đánh vào.
+Không nên dùng flycam, quay chụp thương mại hoặc tổ chức hoạt động nhóm lớn nếu chưa hỏi quy định. Một số khu vực có thể hạn chế thiết bị bay, loa kéo, trang trí, dựng cảnh hoặc quay phim.
 
-Không tự ý bẻ cây, lấy đá, di chuyển hiện vật cảnh quan hoặc làm hư hại các phiến đá khắc thơ.
+Với khu vực dốc, đá, ven nước hoặc công trình cổ, không nên mạo hiểm để chụp ảnh. An toàn và bảo tồn luôn quan trọng hơn việc có góc ảnh lạ.
 
-Không sử dụng flycam nếu khu vực có biển cấm, gần khu tôn giáo, nơi đông người hoặc chưa rõ quy định. Nếu cần quay chuyên nghiệp, nên xin phép đơn vị quản lý.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Mức độ đông khách
 
-Ghềnh Ráng - Tiên Sa thường đông hơn vào cuối tuần, dịp lễ, mùa hè và các khung giờ chiều mát. Những khu dễ đông là cổng vào, Bãi Đá Trứng, khu mộ Hàn Mặc Tử và các điểm nhìn đẹp.
+Mức độ đông khách tại Ghềnh Ráng - Tiên Sa thường tăng vào cuối tuần, ngày lễ, mùa du lịch, khung giờ chiều mát hoặc khi có sự kiện. Ngày thường và sáng sớm thường dễ tham quan hơn.
 
-Nếu muốn có ảnh đẹp và ít người, nên đi vào ngày thường hoặc sáng sớm. Nếu đi chiều, nên đến sớm hơn giờ hoàng hôn để có thời gian gửi xe, đi bộ và chọn góc chụp.
+Nếu muốn ảnh ít người, nên đi sớm hoặc chọn góc phụ. Nếu đi đoàn đông, cần thống nhất điểm hẹn, thời gian tập trung và người phụ trách để tránh lạc nhóm.
 
-Khi đông khách, cần kiên nhẫn ở các góc check-in, không chen lấn và không đứng quá lâu ở vị trí nguy hiểm trên đá.
+Khi quá đông, nên ưu tiên quan sát tổng thể, giữ đồ cá nhân, không chen lấn và tránh dừng lâu ở lối đi chính.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Độ an toàn
 
-Mức độ an toàn tổng thể khá phù hợp cho tham quan ban ngày nếu du khách đi đúng lối, không leo trèo và không xuống bãi đá khi thời tiết xấu. Rủi ro chính nằm ở đá trơn, dốc, nắng nóng, gió mạnh và sóng biển.
+Độ an toàn phụ thuộc thời tiết, nền đường, lượng khách và ý thức cá nhân. Với Ghềnh Ráng - Tiên Sa, du khách nên chú ý các yếu tố như nắng, mưa, dốc, đá, xe cộ, khu vực nước sâu hoặc công trình cần bảo tồn nếu có.
 
-Trẻ em cần có người lớn đi kèm khi xuống khu bãi đá. Không để trẻ chạy nhảy trên đá tròn hoặc chơi gần mép nước.
+Gia đình có trẻ nhỏ nên luôn đi kèm người lớn, tránh để trẻ chạy sát mép nước, mép dốc, bậc cao hoặc khu vực đông xe. Người lớn tuổi nên có thời gian nghỉ và tránh đi lúc nắng gắt.
 
-Người lớn tuổi, người đau chân, phụ nữ mang thai hoặc người khó di chuyển nên cân nhắc lộ trình ngắn, tránh xuống Bãi Đá Trứng và nghỉ nhiều hơn.
+Nếu có biển cảnh báo hoặc nhân viên nhắc nhở, cần tuân thủ. Không nên dựa vào kinh nghiệm cá nhân để bỏ qua cảnh báo tại chỗ.
 
-Nếu trời mưa, nên ưu tiên khu phía trên, nhà thờ hoặc điểm nhìn an toàn; không nên xuống sát biển hoặc đi trên đá ướt.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Khả năng tiếp cận
 
-Khả năng tiếp cận của Ghềnh Ráng - Tiên Sa ở mức trung bình. Điểm mạnh là gần trung tâm và dễ tới bằng xe máy/taxi. Điểm hạn chế là bên trong có dốc, bậc thang và bãi đá tự nhiên.
+Khả năng tiếp cận của Ghềnh Ráng - Tiên Sa cần được mô tả theo từng nhóm: người đi bộ, xe máy, ô tô, gia đình, người lớn tuổi và người hạn chế vận động. Không phải điểm nào cũng có lối bằng phẳng hoặc hỗ trợ xe lăn.
 
-Xe lăn và xe đẩy trẻ em không phù hợp với nhiều đoạn trong khu, đặc biệt là đường xuống bãi đá và các lối dốc. Nếu cần tham quan với xe lăn, nên liên hệ trước hoặc chỉ chọn khu vực bằng phẳng gần cổng/điểm nhìn.
+Những yếu tố cần kiểm tra gồm khoảng cách từ bãi xe đến điểm chính, bậc thang, độ dốc, nền đá/cát, bóng mát, nhà vệ sinh và điểm nghỉ chân. Nếu thiếu thông tin, chatbot nên khuyên hỏi trước đơn vị quản lý hoặc người địa phương.
 
-Khách có sức khỏe bình thường có thể tham quan thoải mái trong 1 đến 2 giờ. Tuy nhiên, nên điều chỉnh tốc độ đi theo điều kiện thời tiết.
+Với người cần hỗ trợ đặc biệt, nên đi cùng người thân, chọn giờ mát và không đặt lịch quá dày. Lịch trình nhẹ thường đem lại trải nghiệm tốt hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Review tổng hợp
 
-Ghềnh Ráng - Tiên Sa được đánh giá cao vì gần trung tâm, cảnh đẹp đa dạng, có cả biển, đá, núi, thơ ca và di tích tưởng niệm. Đây là điểm phù hợp cho khách lần đầu đến Quy Nhơn muốn có cái nhìn nhanh về một không gian biển giàu cảm xúc.
+Review tổng hợp về Ghềnh Ráng - Tiên Sa thường xoay quanh các điểm: dễ nhận diện, có giá trị tham quan, phù hợp chụp ảnh và có thể ghép tuyến với Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển. Điểm đến này không nên được giới thiệu như một khu vui chơi mọi dịch vụ nếu bản chất là di tích, cảnh quan hoặc không gian mở.
 
-Trải nghiệm tốt nhất là đi vào sáng sớm hoặc chiều mát, kết hợp đi chậm, đọc thông tin, chụp ảnh và nghỉ chân. Nếu chỉ đi để “check-in thật nhanh”, du khách vẫn có ảnh đẹp nhưng có thể bỏ lỡ lớp văn hóa Hàn Mặc Tử và câu chuyện tên gọi Tiên Sa.
+Điểm được đánh giá cao là Bãi Trứng/Bãi tắm Hoàng Hậu với đá cuội tròn, mộ Hàn Mặc Tử trên Đồi Thi Nhân, ghềnh đá, sườn núi xanh và tầm nhìn xuống biển Quy Nhơn. Điểm cần cân nhắc là thời tiết, lượng khách, dịch vụ thay đổi và khả năng tiếp cận từng khu.
 
-Một số hạn chế thường gặp là nắng, dốc, đá trơn, khách đông vào mùa cao điểm và thông tin giá/giờ có thể không thống nhất giữa các nguồn. Chatbot nên xử lý các thông tin này bằng cách dùng từ “tham khảo”, “thường”, “nên kiểm tra lại”.
+Khi tổng hợp review, nên ưu tiên nguồn gần đây và nguồn đáng tin. Review cá nhân hữu ích cho trải nghiệm thực tế nhưng không thay thế thông báo chính thức về giá, giờ mở cửa và quy định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Ưu điểm
 
-Gần trung tâm Quy Nhơn, dễ đi, không cần dành nguyên ngày.
+Ưu điểm lớn của Ghềnh Ráng - Tiên Sa là có dấu hiệu nhận diện rõ: Bãi Trứng/Bãi tắm Hoàng Hậu với đá cuội tròn, mộ Hàn Mặc Tử trên Đồi Thi Nhân, ghềnh đá, sườn núi xanh và tầm nhìn xuống biển Quy Nhơn. Điều này giúp du khách dễ nhớ, dễ chụp ảnh và giúp hệ thống nhận diện địa điểm tốt hơn.
 
-Cảnh quan nhận diện mạnh với Bãi Đá Trứng, biển xanh, núi và điểm nhìn cao.
+Ưu điểm thứ hai là khả năng kết hợp tuyến: Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển. Nhờ vậy, địa điểm phù hợp cho cả lịch trình ngắn và lịch trình mở rộng.
 
-Có giá trị văn hóa nhờ mộ Hàn Mặc Tử, Đồi Thi Nhân và không gian thơ ca.
+Ưu điểm thứ ba là giá trị văn hóa/cảnh quan: văn học Việt Nam hiện đại, ký ức Hàn Mặc Tử, văn hóa du lịch biển Quy Nhơn và không gian chiêm nghiệm giữa đá, núi, biển. Đây là phần giúp chuyến đi có chiều sâu hơn việc chỉ check-in.
 
-Có thể kết hợp với Nhà thờ Đá Ghềnh Ráng, Quy Hòa, biển Quy Nhơn và các điểm nội đô khác.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Phù hợp nhiều nhóm khách: gia đình, cặp đôi, nhóm bạn, học sinh, sinh viên, khách yêu văn học.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nhược điểm
 
-Không phải bãi tắm lý tưởng tại khu Bãi Đá Trứng vì nhiều đá, sóng và địa hình không bằng phẳng.
+Nhược điểm có thể gặp là thông tin dịch vụ không ổn định, thời tiết ảnh hưởng mạnh, một số khu có thể nắng, dốc, xa điểm gửi xe hoặc ít tiện ích hơn kỳ vọng.
 
-Có dốc và bậc thang, không thật sự thuận tiện cho người hạn chế vận động.
+Nếu người dùng mong đợi nhiều trò chơi, mua sắm hoặc dịch vụ cố định, Ghềnh Ráng - Tiên Sa có thể không phù hợp trong mọi trường hợp. Cần định hướng đúng bản chất điểm đến là khu danh thắng ven biển.
 
-Dễ nắng nóng vào giữa ngày, ít phù hợp đi bộ lâu nếu không chuẩn bị nước và chống nắng.
+Vào mùa cao điểm hoặc ngày lễ, trải nghiệm có thể giảm do đông khách, khó chụp ảnh, khó gửi xe hoặc giá dịch vụ xung quanh tăng.
 
-Có thể đông vào cuối tuần, lễ Tết và mùa hè.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Thông tin giá vé, phí phụ trợ và giờ hoạt động có thể khác nhau giữa các nguồn, cần cập nhật trước khi trả lời chắc chắn.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 10. Kinh nghiệm tránh rủi ro
 
-Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Mức độ an toàn tổng thể khá phù hợp cho tham quan ban ngày nếu du khách đi đúng lối, không leo trèo và không xuống bãi đá khi thời tiết xấu. Rủi ro chính nằm ở đá trơn, dốc, nắng nóng, gió mạnh và sóng biển. Trẻ em cần có người lớn đi kèm khi xuống khu bãi đá.
+Để tránh rủi ro, nên kiểm tra thời tiết, tuyến đường, giờ hoạt động, giá vé/dịch vụ và thông báo địa phương trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên đi theo nhóm hoặc báo người thân lịch trình nếu đến khu ít người. Không mang quá nhiều đồ giá trị, không để túi xách/điện thoại rời khỏi tầm mắt và luôn chú ý trẻ nhỏ.
+
+Nếu thời tiết xấu, sức khỏe không tốt hoặc khu vực có cảnh báo, nên đổi lịch trình sang điểm trong nhà, quán cà phê, bảo tàng hoặc điểm gần trung tâm.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 11. Nguồn tham khảo
 
-Ngày tổng hợp dữ liệu: 26/05/2026. Các thông tin về giá vé, giờ mở cửa, phí gửi xe và dịch vụ phụ trợ có thể thay đổi theo thời điểm vận hành thực tế. Khi dùng cho chatbot, nên ưu tiên trả lời kèm câu nhắc kiểm tra lại kênh chính thức hoặc đơn vị quản lý trước ngày đi.
+- https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng
+- https://vietnamtourism.gov.vn/
+- https://dulichquynhon.com.vn/
+- https://baogialai.com.vn/
 
-Vietnam Airlines - Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
-
-Vietnam Airlines - Bãi tắm Hoàng Hậu: https://www.vietnamairlines.com/no/vi/plan-book/travel/travel-guide/bai-tam-hoang-hau
-
-Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
-
-Du lịch Quy Nhơn - Bình Định / My Binh Dinh - Ghềnh Ráng: https://mybinhdinh.vn/vi/ghenhrang
-
-Vinpearl - Ghềnh Ráng Tiên Sa: https://vinpearl.com/vi/ghenh-rang-tien-sa-tac-pham-thien-tao-ky-vi-tho-mong
-
-Thư viện Pháp luật - sắp xếp đơn vị hành chính Quy Nhơn sau sáp nhập: https://thuvienphapluat.vn/phap-luat/tp-quy-nhon-cu-binh-dinh-sau-sap-nhap-don-vi-hanh-chinh-co-may-phuong-xa-ten-goi-cac-phuong-xa-cua--233694-224092.html
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

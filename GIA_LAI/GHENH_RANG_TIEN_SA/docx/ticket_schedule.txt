@@ -1,73 +1,78 @@
 1. Giá vé
 
-Nhiều nguồn du lịch ghi nhận khu du lịch Ghềnh Ráng - Tiên Sa không thu phí vào cổng hoặc có khu vực tham quan miễn phí. Tuy nhiên, khách vẫn có thể phát sinh các khoản phí nhỏ như gửi xe, xe điện, phí vào một số khu vực riêng, phí tham quan hoặc đóng góp tại khu mộ Hàn Mặc Tử, phí chụp ảnh dịch vụ nếu có.
+có thể có vé/dịch vụ gửi xe hoặc quy định tham quan tùy thời điểm; cần kiểm tra lại trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Đối với chatbot, không nên trả lời một con số tuyệt đối nếu không có dữ liệu cập nhật trong ngày. Câu trả lời an toàn là: “Khu Ghềnh Ráng - Tiên Sa thường được giới thiệu là miễn phí hoặc chi phí thấp, nhưng bạn nên chuẩn bị thêm tiền gửi xe và phí dịch vụ phát sinh; giá cụ thể cần kiểm tra tại cổng hoặc kênh chính thức trước khi đi.”
+Khi người dùng hỏi giá vé, chatbot nên trả lời theo hướng thận trọng: nêu thông tin tham khảo, giải thích loại chi phí có thể phát sinh và khuyến nghị kiểm tra lại trước khi đi. Điều này đặc biệt quan trọng với điểm có dịch vụ theo mùa, sự kiện hoặc thay đổi đơn vị quản lý.
 
-Nếu người dùng hỏi riêng “Bãi Trứng có mất vé không”, có thể trả lời rằng nhiều nguồn ghi Bãi tắm Hoàng Hậu/Bãi Đá Trứng nằm trong khu Ghềnh Ráng và thường được giới thiệu là tham quan miễn phí hoặc gộp trong khu du lịch. Tuy nhiên, phí dịch vụ tại thời điểm đi có thể thay đổi.
+Không nên trộn giá vé của địa điểm khác vào Ghềnh Ráng - Tiên Sa. Nếu người dùng hỏi chung theo tuyến Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển, cần tách rõ từng điểm vì có nơi miễn phí, có nơi thu vé, có nơi chỉ phát sinh gửi xe, và có nơi dùng combo dịch vụ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Giá các dịch vụ đi kèm
 
-Phí gửi xe máy thường là khoản chi phí nhỏ và thay đổi theo điểm gửi. Một số nguồn cũ ghi mức vài nghìn đồng cho xe máy, nhưng chatbot không nên khẳng định cố định vì phí có thể tăng vào thời điểm cao điểm hoặc thay đổi theo quy định địa phương.
+Các dịch vụ đi kèm có thể gồm gửi xe, nước uống, ăn uống, thuê xe điện, thuê hướng dẫn, thuyết minh, chụp ảnh, hoặc các hoạt động bổ sung tùy loại hình điểm đến. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Xe điện hoặc xe trung chuyển bên trong, nếu có hoạt động, có thể tính phí riêng. Dịch vụ này phù hợp với người lớn tuổi, gia đình có trẻ nhỏ hoặc khách không muốn đi bộ nhiều.
+Với Ghềnh Ráng - Tiên Sa, chi phí thường phụ thuộc vào nhu cầu của du khách hơn là chỉ riêng vé vào cổng. Người đi tự túc nên chuẩn bị tiền mặt nhỏ, nhưng vẫn kiểm tra thanh toán QR hoặc chuyển khoản nếu sử dụng dịch vụ tại quán/điểm dừng.
 
-Các dịch vụ ăn uống, nước giải khát, chụp ảnh, mua quà lưu niệm hoặc thuê trang phục nếu có đều không nằm trong giá vé vào cổng. Khi tư vấn ngân sách, nên khuyên khách chuẩn bị tiền mặt lẻ.
+Nếu đi đoàn đông, nên liên hệ trước để hỏi khả năng tiếp nhận, chỗ đỗ xe, hướng dẫn viên hoặc lịch hoạt động. Điều này giúp tránh tình trạng đến nơi nhưng dịch vụ tạm dừng hoặc không đủ chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Giờ mở cửa
 
-Các nguồn du lịch thường ghi khu Ghềnh Ráng - Tiên Sa mở cửa trong ngày, có nguồn ghi khoảng 7:00 đến 20:00. Một số điểm con như nhà thờ, khu tưởng niệm, quầy dịch vụ hoặc bãi gửi xe có thể có khung giờ riêng.
+Giờ mở cửa hoặc thời gian tiếp cận của Ghềnh Ráng - Tiên Sa có thể khác nhau giữa không gian ngoài trời, khu dịch vụ và khu quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Để trả lời an toàn, chatbot nên diễn đạt: “Bạn nên đi trong khung giờ ban ngày, tốt nhất là sáng sớm hoặc chiều mát. Nếu muốn vào khu tưởng niệm, nhà thờ hoặc dùng dịch vụ xe điện, nên kiểm tra giờ hoạt động tại thời điểm đi.”
+Nếu địa điểm là không gian mở, du khách vẫn nên đi vào khung giờ có ánh sáng, đông người vừa phải và an toàn. Nếu địa điểm có cổng, quầy vé, bảo vệ hoặc dịch vụ bên trong, cần kiểm tra giờ vận hành chính thức trước khi xuất phát.
 
-Không nên khuyến nghị khách xuống Bãi Đá Trứng vào tối muộn vì đường đá và lối đi có thể trơn, tầm nhìn hạn chế, sóng và thủy triều khó quan sát.
+Khung giờ đẹp thường không trùng hoàn toàn với giờ mở dịch vụ. Có nơi đẹp nhất vào sáng sớm hoặc chiều muộn, nhưng quầy dịch vụ có thể mở muộn hơn hoặc đóng sớm hơn. Chatbot nên tách bạch hai ý này khi trả lời.
 
-Nếu chỉ có 60 phút, nên đi cổng khu du lịch, Dốc Mộng Cầm, khu mộ Hàn Mặc Tử hoặc Đồi Thi Nhân, sau đó xuống điểm nhìn Bãi Đá Trứng nếu thời tiết thuận lợi.
-
-Nếu có 90 đến 120 phút, nên thêm Bãi tắm Hoàng Hậu/Bãi Đá Trứng, chụp ảnh bãi đá, dạo một vòng bãi Tiên Sa hoặc điểm nhìn ven biển.
-
-Nếu có nửa ngày, có thể kết hợp Ghềnh Ráng - Tiên Sa với Nhà thờ Đá Ghềnh Ráng, biển Quy Hòa, Trung tâm Khám phá khoa học Quy Nhơn hoặc ăn đặc sản ở khu trung tâm.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Thời điểm nên tham quan
 
-Thời điểm đẹp nhất trong ngày thường là sáng sớm và chiều muộn. Sáng sớm có ánh sáng dịu, ít nắng gắt, phù hợp đi bộ và chụp ảnh bãi đá. Chiều muộn phù hợp ngắm hoàng hôn, nhìn biển Quy Nhơn và nghỉ chân sau khi tham quan trung tâm thành phố.
+Thời điểm nên tham quan Ghềnh Ráng - Tiên Sa là lúc thời tiết dễ chịu, ánh sáng tốt và lượng khách vừa phải. Với điểm ngoài trời, sáng sớm và chiều mát thường phù hợp hơn buổi trưa vì giảm nắng, dễ chụp ảnh và ít mệt.
 
-Khung giờ trưa từ khoảng 11:00 đến 14:00 thường nắng gắt, nền đá hấp nhiệt và việc đi bộ lên dốc dễ mệt. Nếu đi vào mùa hè, nên mang nón, nước uống và kem chống nắng.
+Nếu mục tiêu là chụp ảnh, nên ưu tiên ánh sáng mềm. Nếu mục tiêu là tìm hiểu văn hóa hoặc đi cùng gia đình, nên chọn khung giờ không quá đông để có thời gian quan sát và nghỉ chân.
 
-Nếu mục tiêu là chụp ảnh Bãi Đá Trứng, nên ưu tiên lúc ánh sáng xiên nhẹ. Nếu mục tiêu là viếng mộ Hàn Mặc Tử và tham quan Đồi Thi Nhân, nên đi lúc trời mát để có thời gian đọc thơ, ngắm cảnh và di chuyển thong thả.
+Dịp cuối tuần, lễ Tết hoặc mùa du lịch có thể đông hơn bình thường. Với những ngày có sự kiện, địa điểm có thể thay đổi lối vào, hạn chế khu vực hoặc yêu cầu tuân thủ hướng dẫn của ban quản lý.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Mùa đẹp nhất
 
-Mùa khô ở Quy Nhơn thường được nhiều nguồn du lịch khuyến nghị cho Ghềnh Ráng - Tiên Sa, đặc biệt khoảng tháng 3 đến tháng 9. Giai đoạn này thường có nắng, ít mưa hơn, biển đẹp và thuận lợi cho tham quan ngoài trời.
+Mùa đẹp nhất phụ thuộc loại hình của Ghềnh Ráng - Tiên Sa. Điểm biển thường thuận lợi hơn vào mùa khô, điểm cao nguyên đẹp khi trời trong hoặc mùa cây xanh, còn di tích/chùa/quảng trường có thể tham quan quanh năm nếu chọn giờ phù hợp.
 
-Một số nguồn về Bãi tắm Hoàng Hậu cũng nhắc thời điểm từ tháng 2 đến tháng 8 là phù hợp để tham quan, chụp ảnh và tận hưởng không khí trong lành. Khi dùng cho chatbot, có thể gộp thành câu trả lời: “Mùa đẹp thường từ khoảng tháng 2 hoặc tháng 3 đến tháng 8 hoặc tháng 9, tùy thời tiết từng năm.”
+Mùa mưa không nhất thiết phải tránh hoàn toàn, nhưng cần dự phòng áo mưa, giày chống trơn và kế hoạch thay thế. Với đường dốc, bãi đá, ven biển hoặc đồi núi, mưa làm tăng rủi ro trượt ngã và giảm chất lượng ảnh.
 
-Mùa mưa và thời điểm biển động không phải lựa chọn lý tưởng để xuống bãi đá. Nếu trời mưa, đá trơn và sóng mạnh, nên chỉ tham quan khu trên cao, không xuống sát mép nước.
+Khi chatbot trả lời “mùa nào đẹp”, nên nói kèm điều kiện: đẹp để chụp ảnh, đẹp để tắm biển, đẹp để đi bộ, đẹp để tìm hiểu văn hóa hay đẹp để tránh đông. Mỗi mục tiêu có lựa chọn khác nhau.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Thông tin thời tiết
 
-Ghềnh Ráng - Tiên Sa là điểm ngoài trời nên trải nghiệm phụ thuộc nhiều vào thời tiết. Nắng đẹp giúp màu biển xanh, đá nổi rõ và ảnh chụp đẹp hơn. Mưa hoặc âm u làm cảnh giảm độ trong, đồng thời tăng rủi ro trượt ngã trên đá.
+Thời tiết là yếu tố quan trọng khi tham quan Ghềnh Ráng - Tiên Sa. Nắng mạnh có thể gây mất nước, mỏi mắt và cháy nắng; mưa có thể làm trơn nền, giảm tầm nhìn hoặc ảnh hưởng hoạt động ngoài trời.
 
-Gió biển có thể mạnh ở các điểm nhìn cao hoặc khu ven mép nước. Du khách nên giữ chắc mũ, khăn, điện thoại, máy ảnh và không đứng quá gần mép đá để chụp ảnh.
+Du khách nên kiểm tra dự báo thời tiết trong ngày, đặc biệt nếu đi cùng trẻ nhỏ, người lớn tuổi hoặc dự định kết hợp nhiều điểm như Biển Quy Nhơn trung tâm, Bãi Xép, Trại phong Quy Hòa, tháp Đôi, quảng trường Nguyễn Tất Thành, khu cà phê ven biển. Nên chuẩn bị mũ, nước uống, kem chống nắng, áo mưa mỏng và giày phù hợp.
 
-Chatbot nên khuyến nghị kiểm tra dự báo thời tiết Quy Nhơn/Gia Lai ven biển trước khi đi, đặc biệt nếu người dùng đi cùng trẻ em, người lớn tuổi hoặc dự định chụp ảnh cưới, chụp kỷ yếu, quay video ngoài trời.
+Với các địa điểm có cảnh quan mở, gió lớn cũng cần được chú ý. Không nên đứng sát mép đá, mép nước, lan can hoặc khu vực nền trơn khi trời mưa/gió chỉ để chụp ảnh.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Lưu ý cập nhật giá vé và lịch hoạt động
 
-Giá vé, giá dịch vụ đi kèm, giờ mở cửa và lịch hoạt động tại địa điểm có thể thay đổi theo mùa, ngày lễ, sự kiện hoặc theo quyết định của đơn vị quản lý. Du khách nên kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Giá vé, giờ mở cửa, dịch vụ đi kèm, số điện thoại, quy định chụp ảnh và lịch hoạt động có thể thay đổi theo mùa, ngày lễ, sự kiện, bảo trì hoặc quyết định của đơn vị quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Trước khi đi, nên kiểm tra lại trên website chính thức, cổng thông tin du lịch địa phương, fanpage/điện thoại của đơn vị quản lý, khách sạn hoặc đơn vị tour uy tín. Không nên chỉ dựa vào một bài review cũ.
+
+Khi đưa vào chatbot, mọi thông tin có khả năng biến động nên được viết bằng ngôn ngữ mở: “thường”, “có thể”, “tham khảo”, “nên kiểm tra lại”. Cách này giúp hệ thống tránh trả lời sai khi giá hoặc lịch đã thay đổi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 8. Nguồn tham khảo
 
-Ngày tổng hợp dữ liệu: 26/05/2026. Các thông tin về giá vé, giờ mở cửa, phí gửi xe và dịch vụ phụ trợ có thể thay đổi theo thời điểm vận hành thực tế. Khi dùng cho chatbot, nên ưu tiên trả lời kèm câu nhắc kiểm tra lại kênh chính thức hoặc đơn vị quản lý trước ngày đi.
+- https://vi.wikipedia.org/wiki/Gh%E1%BB%81nh_R%C3%A1ng
+- https://vietnamtourism.gov.vn/
+- https://dulichquynhon.com.vn/
+- https://baogialai.com.vn/
 
-Vietnam Airlines - Ghềnh Ráng Tiên Sa: https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ghenh-rang-tien-sa
-
-Vietnam Airlines - Bãi tắm Hoàng Hậu: https://www.vietnamairlines.com/no/vi/plan-book/travel/travel-guide/bai-tam-hoang-hau
-
-Bamboo Airways - Kinh nghiệm du lịch Ghềnh Ráng Tiên Sa: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ghenh-rang-tien-sa
-
-Du lịch Quy Nhơn - Bình Định / My Binh Dinh - Ghềnh Ráng: https://mybinhdinh.vn/vi/ghenhrang
-
-Vinpearl - Ghềnh Ráng Tiên Sa: https://vinpearl.com/vi/ghenh-rang-tien-sa-tac-pham-thien-tao-ky-vi-tho-mong
-
-Thư viện Pháp luật - sắp xếp đơn vị hành chính Quy Nhơn sau sáp nhập: https://thuvienphapluat.vn/phap-luat/tp-quy-nhon-cu-binh-dinh-sau-sap-nhap-don-vi-hanh-chinh-co-may-phuong-xa-ten-goi-cac-phuong-xa-cua--233694-224092.html
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

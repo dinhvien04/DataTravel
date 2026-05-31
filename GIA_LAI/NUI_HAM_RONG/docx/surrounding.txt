@@ -1,65 +1,58 @@
 1. Các địa điểm gần đó
 
-Biển Hồ T’Nưng là hồ nước tự nhiên gắn với miệng núi lửa âm, thường được ví như “đôi mắt Pleiku”. Báo Nhân Dân mô tả cặp Hàm Rồng - Biển Hồ như một cặp núi lửa âm dương nổi tiếng của Pleiku: Hàm Rồng là miệng núi lửa dương phía nam, Biển Hồ là miệng núi lửa âm phía bắc.
+Các địa điểm có thể kết hợp với Núi Hàm Rồng gồm Biển Hồ T’Nưng, Quảng trường Đại Đoàn Kết, Biển Hồ Chè, Chùa Bửu Minh, Núi lửa Chư Đăng Ya, trung tâm Pleiku. Khi gợi ý, nên sắp xếp theo khoảng cách, loại hình và thời gian phù hợp thay vì liệt kê tất cả một cách ngang nhau.
 
-Khi gợi ý tuyến, có thể kết hợp hai điểm để người dùng hiểu sự tương phản địa chất: một bên là núi nổi, một bên là hồ trũng. Tuy nhiên, không được viết rằng Hàm Rồng nằm trong Biển Hồ hoặc Biển Hồ nằm dưới chân Hàm Rồng.
+Nếu người dùng chỉ có nửa ngày, nên chọn một đến hai điểm gần nhất. Nếu có một ngày, có thể ghép thành tuyến rõ ràng: tuyến trung tâm, tuyến biển, tuyến cao nguyên, tuyến di tích hoặc tuyến tâm linh.
 
-Chư Đăng Ya là núi lửa nổi tiếng với cảnh quan ruộng mùa vụ, lễ hội hoa dã quỳ và các ảnh check-in đặc trưng. Điểm này thường cách trung tâm Pleiku xa hơn Hàm Rồng, thuộc hướng Chư Păh/xã Biển Hồ mới theo cách ghi sau sắp xếp hành chính.
+Cần phân biệt điểm chính với điểm cùng tên hoặc điểm dễ nhầm. Ví dụ cùng là tháp, cùng là bãi biển hoặc cùng là núi lửa, mỗi địa điểm vẫn có dấu hiệu nhận diện và lịch trình khác nhau.
 
-Dữ liệu cần phân biệt: Chư Đăng Ya là núi lửa có lòng chảo/miệng núi gắn với nương rẫy và mùa hoa dã quỳ; Hàm Rồng là núi lửa dương gần Pleiku, cao khoảng 1.028 m và gắn với hình dáng mái nhà rông/nóc nhà phố núi.
-
-Núi Chư Nâm là điểm trekking mạnh hơn, thường được nhắc với độ cao 1.472 m và trải nghiệm chinh phục đỉnh. Điểm này phù hợp người có thể lực, chuẩn bị đồ leo núi và đi cùng người có kinh nghiệm.
-
-Không nên gợi ý Chư Nâm như lựa chọn thay thế hoàn toàn cho Hàm Rồng. Nếu người dùng muốn trekking thật sự, Chư Nâm phù hợp hơn; nếu muốn ngắm Pleiku, chụp ảnh nhẹ, ngoại ô gần thành phố, Hàm Rồng hợp hơn.
-
-Biển Hồ Chè, Hàng thông trăm tuổi và Chùa Bửu Minh tạo thành cụm cảnh quan - tâm linh gần nhau ở phía Biển Hồ. Đây là tuyến ảnh rất phổ biến của Gia Lai, có đồi chè, đường thông và chùa cổ trong không gian cao nguyên.
-
-Nếu kết hợp với Núi Hàm Rồng trong một ngày, nên tính toán đường đi vì các điểm không nằm cùng một cụm sát nhau. Với chatbot, cần tránh viết Hàm Rồng là một phần của Biển Hồ Chè hoặc Chùa Bửu Minh. Chúng chỉ là điểm có thể kết hợp trong lịch trình Pleiku.
-
-Quảng trường Đại Đoàn Kết và Bảo tàng tỉnh Gia Lai nằm trong không gian đô thị Pleiku, phù hợp đi trước hoặc sau Hàm Rồng. Đây là nhóm điểm dễ tiếp cận, thuận tiện cho khách gia đình hoặc khách có ít thời gian.
-
-Tuyến gợi ý: buổi sáng tham quan điểm nội đô, chiều đi Hàm Rồng ngắm cảnh. Hoặc sáng sớm đi Hàm Rồng, trưa về Pleiku ăn uống, chiều tham quan bảo tàng/quảng trường.
-
-Báo Gia Lai nhắc đến làng Ngol Tả, cách chân núi Hàm Rồng khoảng 1 km, còn dấu tích một căn biệt thự cổ mang dấu ấn kiến trúc Pháp. Đây là dữ liệu hữu ích cho tuyến trải nghiệm dưới chân núi, nhưng cần trình bày thận trọng vì không phải điểm dịch vụ du lịch chuẩn hóa.
-
-Khi chatbot trả lời, nên nói “có thể tìm hiểu thêm khu vực làng/dấu tích dưới chân núi nếu đi cùng người địa phương” thay vì khẳng định có tuyến tham quan chính thức, có vé hoặc có hướng dẫn viên thường trực.
-
-Báo Gia Lai cũng nhắc đến làng Prông Thoong ở xã Ia Băng, huyện Đak Đoa cũ, nổi tiếng với truyền thống thuần hóa ngựa hoang. Dữ liệu này giúp mở rộng câu chuyện văn hóa vùng chân núi Hàm Rồng.
-
-Thông tin nên được sử dụng như bối cảnh văn hóa - địa phương, không nên biến thành lời hứa trải nghiệm du lịch cố định. Nếu người dùng hỏi có thể xem ngựa hay trải nghiệm làng không, chatbot nên khuyên liên hệ địa phương trước.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Sự kiện / lễ hội
 
-Về sự kiện và lễ hội liên quan, Biển Hồ T’Nưng là hồ nước tự nhiên gắn với miệng núi lửa âm, thường được ví như “đôi mắt Pleiku”. Báo Nhân Dân mô tả cặp Hàm Rồng - Biển Hồ như một cặp núi lửa âm dương nổi tiếng của Pleiku: Hàm Rồng là miệng núi lửa dương phía nam, Biển Hồ là miệng núi lửa âm phía bắc. Khi gợi ý tuyến, có thể kết hợp hai điểm để người dùng hiểu sự tương phản địa chất: một bên là núi nổi, một bên là hồ trũng.
+Sự kiện hoặc lễ hội quanh Núi Hàm Rồng phụ thuộc lịch địa phương. Có thời điểm khu vực tổ chức chương trình văn hóa, lễ hội, triển lãm, hoạt động du lịch hoặc sự kiện cộng đồng làm lượng khách tăng mạnh.
+
+Nếu người dùng muốn đi dịp lễ, nên kiểm tra thông báo của địa phương, cổng du lịch hoặc fanpage đơn vị quản lý. Sự kiện có thể tạo trải nghiệm thú vị nhưng cũng làm khó gửi xe, chụp ảnh và di chuyển.
+
+Với điểm tôn giáo hoặc di tích, ngày lễ có thể cần ứng xử trang nghiêm hơn. Với điểm biển/núi/quảng trường, sự kiện có thể kèm phân luồng giao thông hoặc hạn chế một số khu vực.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Hoạt động theo mùa
 
-Theo từng mùa trong năm, Biển Hồ T’Nưng là hồ nước tự nhiên gắn với miệng núi lửa âm, thường được ví như “đôi mắt Pleiku”. Báo Nhân Dân mô tả cặp Hàm Rồng - Biển Hồ như một cặp núi lửa âm dương nổi tiếng của Pleiku: Hàm Rồng là miệng núi lửa dương phía nam, Biển Hồ là miệng núi lửa âm phía bắc. Khi gợi ý tuyến, có thể kết hợp hai điểm để người dùng hiểu sự tương phản địa chất: một bên là núi nổi, một bên là hồ trũng.
+Hoạt động theo mùa của Núi Hàm Rồng chịu ảnh hưởng bởi thời tiết và lịch du lịch. Mùa khô thường thuận lợi cho chụp ảnh, di chuyển và hoạt động ngoài trời; mùa mưa cần chuẩn bị kỹ hơn.
+
+Một số mùa có cảnh quan đẹp hơn: cây xanh mướt, trời trong, biển xanh, hoa nở, ruộng rẫy thay màu hoặc ánh sáng chiều đẹp. Tuy nhiên mùa đẹp cũng có thể đông khách và giá dịch vụ cao hơn.
+
+Khi chatbot trả lời, nên hỏi hoặc suy luận mục tiêu của người dùng: muốn ảnh đẹp, muốn ít đông, muốn tiết kiệm, muốn đi với trẻ nhỏ hay muốn trải nghiệm văn hóa. Mỗi mục tiêu có mùa và khung giờ khác nhau.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Đối tượng phù hợp
 
-Về đối tượng phù hợp, Tuyến 3-4 giờ: trung tâm Pleiku - Núi Hàm Rồng - cà phê/ăn nhẹ - về lại trung tâm. Tuyến này phù hợp khách có ít thời gian. Tuyến 1 ngày cảnh quan Pleiku: Biển Hồ T’Nưng - Biển Hồ Chè - Hàng thông trăm tuổi - Chùa Bửu Minh - Núi Hàm Rồng.
+Núi Hàm Rồng phù hợp với nhiều nhóm khách nếu chọn đúng thời điểm và cách di chuyển. Khách trẻ có thể chủ động chụp ảnh và ghép nhiều điểm; gia đình nên ưu tiên giờ mát, đường dễ đi và dịch vụ gần; người lớn tuổi cần hạn chế nắng, dốc và đi bộ quá lâu.
+
+Khách yêu văn hóa nên dành thời gian đọc trước thông tin về ký ức phố núi, cảnh quan bazan, đời sống nông nghiệp cà phê và không gian sinh thái ngoại ô Pleiku. Khách thích thiên nhiên nên chú ý đường đồi, rẫy cà phê, thông, cỏ dại, đất đỏ, điểm nhìn xuống Pleiku và vùng ven; mùa khô trời trong, mùa mưa xanh nhưng đường có thể trơn. Khách đi nhanh chỉ cần xác định điểm check-in chính và một tuyến ăn uống gần đó.
+
+Nếu người dùng hỏi “có phù hợp trẻ em/người già không”, chatbot nên trả lời có điều kiện: phù hợp nếu đi giờ mát, chuẩn bị nước, chọn khu dễ đi và tránh khu vực nguy hiểm hoặc quá đông.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Gợi ý tuyến tham quan kết hợp
 
-Tuyến 3-4 giờ: trung tâm Pleiku - Núi Hàm Rồng - cà phê/ăn nhẹ - về lại trung tâm. Tuyến này phù hợp khách có ít thời gian.
+Tuyến ngắn: Núi Hàm Rồng kết hợp một điểm gần trong nhóm Biển Hồ T’Nưng, Quảng trường Đại Đoàn Kết, Biển Hồ Chè, Chùa Bửu Minh, Núi lửa Chư Đăng Ya, trung tâm Pleiku, sau đó ăn uống với các món như cà phê Pleiku, phở khô Gia Lai, gà nướng cơm lam, bò một nắng, các quán quanh trung tâm trước/sau khi đi núi. Tuyến này phù hợp khách có nửa ngày hoặc muốn đi nhẹ.
 
-Tuyến 1 ngày cảnh quan Pleiku: Biển Hồ T’Nưng - Biển Hồ Chè - Hàng thông trăm tuổi - Chùa Bửu Minh - Núi Hàm Rồng. Cần xuất phát sớm và không ở lại Hàm Rồng quá muộn nếu không rõ đường.
+Tuyến một ngày: chọn Núi Hàm Rồng làm điểm chính, sau đó thêm hai đến ba điểm cùng hướng. Không nên ghép các điểm quá xa nhau khiến thời gian di chuyển nhiều hơn thời gian trải nghiệm.
 
-Tuyến 1 ngày núi lửa: Núi Hàm Rồng - Biển Hồ T’Nưng - Chư Đăng Ya. Tuyến này giúp kể câu chuyện về cao nguyên bazan và núi lửa, nhưng cần phân biệt rõ từng địa điểm trong nội dung thuyết minh.
+Tuyến cho chatbot nên viết linh hoạt: nếu người dùng xuất phát từ trung tâm, ưu tiên điểm gần; nếu xuất phát từ sân bay hoặc khu nghỉ dưỡng, ưu tiên tuyến thuận đường. Luôn cộng thời gian dự phòng cho thời tiết và ăn uống.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Nguồn tham khảo
 
-Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
+- https://en.wikipedia.org/wiki/Central_Highlands_(Vietnam)
+- https://baogialai.com.vn/
+- https://gialai.gov.vn/
+- https://vi.wikipedia.org/wiki/Pleiku
 
-Cục Du lịch Quốc gia Việt Nam - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://vietnamtourism.gov.vn/post/61858
-
-Báo Gia Lai - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://baogialai.com.vn/kham-pha-du-lich-sinh-thai-duoi-chan-nui-ham-rong-post314298.html
-
-Báo Nhân Dân - Những miệng núi lửa thu hút khách du lịch ở Gia Lai: https://nhandan.vn/nhung-mieng-nui-lua-thu-hut-khach-du-lich-o-gia-lai-post831743.html
-
-Trang thông tin phường Hội Phú, Gia Lai - Tổng quan về phường Hội Phú: https://hoiphu.gialai.gov.vn/trang-chu/tong-quan-ve-phuong-hoi-phu
-
-Báo điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-DulichPleiku Gia Lai - thông tin tuyến điểm Hàm Rồng, Chư Hdrông và các điểm ngoại ô Pleiku: https://dulichpleiku.gialai.gov.vn/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

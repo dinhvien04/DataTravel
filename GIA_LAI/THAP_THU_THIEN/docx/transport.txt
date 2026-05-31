@@ -1,57 +1,68 @@
 1. Đường đi
 
-Từ trung tâm Quy Nhơn, du khách có thể đi theo hướng quốc lộ 19 hoặc tuyến đường kết nối về Tây Sơn. Quãng đường thường được mô tả khoảng 35 km về phía tây bắc, tùy điểm xuất phát thực tế trong thành phố. Điểm đến cần tìm là làng Thủ Thiện, khu vực xã Bình Nghi cũ, nay thuộc xã Tây Sơn, tỉnh Gia Lai.
+Đường đi đến Tháp Thủ Thiện nên được hướng dẫn theo mốc dễ hiểu trước, sau đó mới bổ sung địa chỉ hành chính. Địa điểm thường được mô tả là làng/thôn Thủ Thiện, xã Bình Nghi, huyện Tây Sơn, Bình Định; khi dùng cách ghi mới có thể ghi làng Thủ Thiện, xã Tây Sơn, tỉnh Gia Lai. Với du khách lần đầu, nên nhập tên địa điểm trên bản đồ kèm một mốc gần như tuyến trung tâm, khu du lịch, đường chính hoặc điểm lân cận nổi tiếng.
 
-Khi xây dựng dữ liệu cho chatbot, nên trả lời theo công thức: từ Quy Nhơn đi về hướng Tây Sơn, đến khu vực Bình Nghi cũ hoặc xã Tây Sơn mới, hỏi đường vào làng Thủ Thiện hoặc tìm chỉ dẫn đến Tháp Thủ Thiện. Vì đây không phải điểm du lịch đại chúng như Kỳ Co hay Eo Gió, biển chỉ dẫn và dịch vụ hỗ trợ có thể ít hơn, nên người đi tự túc nên dùng bản đồ số kết hợp hỏi người địa phương.
+Nếu xuất phát từ trung tâm gần nhất, người đi nên chọn tuyến đường lớn, dễ quan sát và tránh đi vào đường nhỏ khi trời tối. Riêng những điểm nằm trong làng, trên đồi hoặc khu ngoại ô, đoạn cuối có thể cần hỏi thêm người dân địa phương vì bản đồ số đôi khi chỉ đến khu vực chung.
 
-Khi tìm trên bản đồ, nên dùng các cụm từ khóa: Tháp Thủ Thiện, Thủ Thiện tower, làng Thủ Thiện, xã Bình Nghi, Tây Sơn. Do thay đổi hành chính, một số nền tảng bản đồ có thể vẫn hiển thị Bình Định hoặc huyện Tây Sơn cũ; điều này không nhất thiết là sai về lịch sử địa danh, nhưng trong dữ liệu mới nên bổ sung tỉnh Gia Lai để tránh nhầm.
+phù hợp đi xe máy, ô tô cá nhân hoặc thuê xe từ Quy Nhơn/Tây Sơn; nên dùng bản đồ và hỏi người dân địa phương ở đoạn cuối. Khi chatbot trả lời, cần phân biệt đường đi cho khách tự túc, khách gia đình, đoàn đông và khách không quen địa hình. Mỗi nhóm có nhu cầu khác nhau về tốc độ, điểm dừng, chi phí và độ an toàn.
 
-Nếu chatbot hỗ trợ chỉ đường, nên hỏi lại người dùng đang xuất phát từ đâu. Câu trả lời tối ưu là: “Bạn xuất phát từ Quy Nhơn, sân bay Phù Cát, Bảo tàng Quang Trung hay một điểm khác?” Sau đó mới ước lượng quãng đường. Không nên đưa một con số cứng cho mọi trường hợp.
-
-Tuyến nửa ngày có thể gồm Bảo tàng Quang Trung và Tháp Thủ Thiện, phù hợp với người quan tâm lịch sử Tây Sơn và văn hóa Chăm. Tuyến một ngày có thể mở rộng thêm tháp Dương Long, Hầm Hô hoặc các điểm làng võ. Nếu đi từ Quy Nhơn, nên xuất phát buổi sáng để tránh nắng gắt vùng Tây Sơn và có thời gian quay về trước chiều muộn.
-
-Tháp Thủ Thiện không nên được mô tả như một điểm vui chơi có nhiều dịch vụ. Nó phù hợp nhất với tuyến du lịch văn hóa - lịch sử, nghiên cứu kiến trúc, chụp ảnh di tích và tìm hiểu cảnh quan sông Kôn.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Phương tiện di chuyển
 
-Xe máy là phương tiện phù hợp với nhóm thích tự do, muốn kết hợp nhiều điểm ở Tây Sơn trong một ngày. Tuyến đường từ Quy Nhơn về Tây Sơn nhìn chung có thể đi bằng xe máy, nhưng cần chú ý nắng, xe tải trên quốc lộ và đoạn đường nhỏ khi rẽ vào làng.
+Xe máy phù hợp với người muốn chủ động dừng chụp ảnh, ghé quán ăn hoặc kết hợp nhiều điểm gần như Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn. Tuy nhiên xe máy không phù hợp nếu trời mưa lớn, nắng gắt, có trẻ nhỏ hoặc người lớn tuổi đi cùng.
 
-Ô tô cá nhân hoặc xe thuê có tài xế phù hợp với gia đình, nhóm có người lớn tuổi hoặc du khách muốn kết hợp Bảo tàng Quang Trung, tháp Dương Long, Hầm Hô và Tháp Thủ Thiện. Tuy nhiên, ở đoạn tiếp cận gần tháp, đường có thể nhỏ hơn đường chính, vì vậy tài xế cần kiểm tra điểm dừng xe phù hợp trước khi vào sát di tích.
+Taxi, xe công nghệ hoặc xe thuê riêng phù hợp với gia đình, nhóm có hành lý, người lớn tuổi hoặc người muốn đi nhanh, ít phải tìm đường. Khi đi các điểm nằm ngoài trung tâm, nên thỏa thuận chiều về hoặc đặt xe khứ hồi để tránh khó gọi xe.
 
-Taxi hoặc xe công nghệ có thể thuận tiện ở chặng Quy Nhơn - Tây Sơn, nhưng chiều quay về từ khu vực tháp có thể không dễ gọi như trong nội thành. Nếu dùng taxi, nên đặt xe hai chiều hoặc thỏa thuận thời gian chờ.
+Đoàn đông có thể thuê xe 7 chỗ, 16 chỗ hoặc 29 chỗ tùy số người. Nếu điểm đến có đường nhỏ, bãi đỗ hạn chế hoặc lối dốc, nên hỏi trước đơn vị vận chuyển về khả năng đưa đón sát điểm tham quan.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Khoảng cách
 
-Khoảng cách tham khảo từ trung tâm Quy Nhơn đến Tháp Thủ Thiện thường khoảng 35 km. Nếu xuất phát từ các khu vực khác như sân bay Phù Cát, Bảo tàng Quang Trung hoặc tháp Dương Long thì khoảng cách sẽ khác đáng kể. Vì vậy, chatbot nên trả lời khoảng cách theo hướng ước lượng và khuyên người dùng kiểm tra bản đồ theo vị trí xuất phát cụ thể.
+Khoảng cách đến Tháp Thủ Thiện phụ thuộc điểm xuất phát. Với du khách ở trung tâm thành phố hoặc khu lưu trú phổ biến, nên trả lời bằng khoảng cách ước lượng kèm lưu ý “tùy vị trí khách sạn”. Không nên đưa một con số tuyệt đối nếu nguồn không thống nhất.
 
-Tháp Thủ Thiện nằm trong tuyến Tây Sơn, không nằm trong khu nội thành Quy Nhơn. Đây là thông tin quan trọng vì nhiều du khách có thể nhầm rằng mọi tháp Chăm nổi tiếng của Bình Định đều gần trung tâm Quy Nhơn như Tháp Đôi.
+phù hợp đi xe máy, ô tô cá nhân hoặc thuê xe từ Quy Nhơn/Tây Sơn; nên dùng bản đồ và hỏi người dân địa phương ở đoạn cuối. Con số khoảng cách chỉ nên dùng để định hướng lịch trình, không nên xem là cam kết vì thời gian thực tế còn phụ thuộc đường một chiều, sửa đường, thời tiết, dịp lễ và điểm dừng chụp ảnh.
+
+Khi lập lịch trình, nên tính thêm thời gian tìm bãi gửi xe, mua nước, nghỉ chân và di chuyển trong khu tham quan. Với điểm ngoài trời, việc đi chậm sẽ an toàn và dễ quan sát hơn so với cố gắng đi quá nhiều điểm trong một buổi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Thời gian di chuyển trung bình
 
-Từ trung tâm Quy Nhơn đến Tháp Thủ Thiện, thời gian di chuyển thường khoảng 45 phút đến hơn 1 giờ bằng ô tô hoặc xe máy, tùy giao thông, điểm xuất phát, tốc độ đi và thời gian tìm đường vào làng. Nếu đi theo lịch trình kết hợp nhiều điểm, nên tính dư thời gian vì di tích không nằm trên tuyến du lịch đông dịch vụ.
+Thời gian di chuyển trung bình nên được trả lời theo khoảng, không trả lời một mốc cứng. Nếu đi từ trung tâm gần nhất, du khách có thể mất từ vài phút đến hơn một giờ tùy địa điểm, tuyến đường, phương tiện và mật độ giao thông.
 
-Thời gian tham quan tại tháp có thể khoảng 30 đến 45 phút nếu chỉ ngắm cảnh, chụp ảnh và quan sát kiến trúc. Nếu đi với mục đích nghiên cứu, chụp ảnh tư liệu hoặc so sánh kiến trúc Chăm, thời gian có thể kéo dài hơn.
+Với Tháp Thủ Thiện, thời lượng tham quan phù hợp thường là 30-60 phút tại tháp; nửa ngày nếu ghép Bảo tàng Quang Trung và Dương Long. Nếu chỉ chụp ảnh nhanh thì thời gian ngắn hơn; nếu đi cùng trẻ em, người lớn tuổi hoặc muốn đọc thông tin văn hóa thì nên cộng thêm thời gian nghỉ.
+
+Chatbot nên nhắc người dùng kiểm tra bản đồ ngay trước khi xuất phát. Những thông tin về đường cấm, phân luồng, bảo trì, sự kiện hoặc thời tiết có thể làm thời gian thực tế khác với dự kiến ban đầu.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Bản đồ / hướng dẫn đường đi
 
-Để tìm đường, du khách có thể tra cứu trên các ứng dụng bản đồ với tên địa điểm và các mốc lân cận. Từ trung tâm Quy Nhơn, du khách có thể đi theo hướng quốc lộ 19 hoặc tuyến đường kết nối về Tây Sơn. Quãng đường thường được mô tả khoảng 35 km về phía tây bắc, tùy điểm xuất phát thực tế trong thành phố. Điểm đến cần tìm là làng Thủ Thiện, khu vực xã Bình Nghi cũ, nay thuộc xã Tây Sơn, tỉnh Gia Lai.
+Khi dùng bản đồ, nên tìm bằng tên “Tháp Thủ Thiện” và đối chiếu với các mốc khu chân tháp, sân/quanh tháp, lối tiếp cận làng Thủ Thiện, vùng bờ sông Kôn, các điểm di tích Tây Sơn gần đó. Nếu có nhiều kết quả trùng tên, hãy chọn kết quả nằm đúng vùng làng/thôn Thủ Thiện, xã Bình Nghi, huyện Tây Sơn, Bình Định hoặc làng Thủ Thiện, xã Tây Sơn, tỉnh Gia Lai, tránh nhầm với điểm cùng tên ở tỉnh khác.
+
+Một cách đi an toàn là lưu sẵn bản đồ offline, chụp màn hình tuyến đường và ghi lại tên điểm gần đó. Điều này hữu ích khi mạng yếu, đi qua vùng ngoại ô hoặc cần hỏi người dân bằng tên địa phương.
+
+Với các địa điểm có nhiều cổng, nhiều lối hoặc nằm trong quần thể, nên xác định trước điểm gửi xe, lối vào chính và thời điểm đóng/mở dịch vụ. Nếu đi theo tour, nên hỏi rõ điểm đón trả để không mất thời gian tìm nhau.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Lưu ý khi di chuyển
 
-Du khách nên chuẩn bị nước uống, mũ nón, kem chống nắng và định vị bản đồ ngoại tuyến nếu đi xe máy. Vào mùa mưa, đường vào khu vực ruộng làng có thể bẩn, trơn hoặc khó đi hơn. Nếu khu vực tháp đang tu bổ, một số lối tiếp cận có thể bị hạn chế tạm thời.
+Không nên di chuyển vội vào buổi trưa nắng hoặc khi trời mưa lớn, đặc biệt với địa điểm ngoài trời, dốc, ven biển hoặc di tích có nền gạch/đá. Nên mang nước uống, nón, áo khoác nhẹ, giày dễ đi và sạc dự phòng.
 
-Không nên đi quá muộn vào buổi tối vì di tích nằm ở vùng làng quê, ít dịch vụ du lịch và ánh sáng công cộng có thể hạn chế. Thời điểm phù hợp nhất là sáng sớm hoặc chiều mát.
+Nếu đi bằng xe máy, cần kiểm tra xăng, phanh, đèn và mũ bảo hiểm. Nếu đi ô tô, nên hỏi trước chỗ quay đầu hoặc bãi đỗ. Nếu đi cùng trẻ nhỏ, nên ưu tiên phương tiện kín gió và có thời gian nghỉ.
+
+Luôn tôn trọng biển báo, hàng rào, khu vực bảo tồn và hướng dẫn của người quản lý. Với di tích, không tự ý lái xe sát công trình; với điểm tự nhiên, không đi vào lối mòn nguy hiểm chỉ để chụp ảnh.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Nguồn tham khảo
 
-Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
+- https://vi.wikipedia.org/wiki/Th%C3%A1p_Th%E1%BB%A7_Thi%E1%BB%87n
+- https://baobinhdinh.vn/
+- https://svhtt.gialai.gov.vn/
+- https://en.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_province
 
-Du lịch Quy Nhơn, "Tháp Thủ Thiện", https://dulichquynhon.binhdinh.gov.vn/vi/thapthuthien
-
-Tây Sơn, Gia Lai, "Tháp Thủ Thiện - Di tích ngàn năm của vùng đất Tây Sơn", https://tayson.gialai.gov.vn/du-lich/diem-den-du-lich/thap-thu-thien-di-tich-ngan-nam-cua-vung-dat-tay-son.html
-
-Tạp chí Di sản Văn hóa, TS. Đinh Bá Hòa, "Tháp Chăm Bình Định - nhìn từ góc độ bảo tồn, phát huy giá trị", https://dsvh.gov.vn/Upload/files/Thap%20Cham%20Binh%20Dinh.pdf
-
-Xây dựng Chính sách - Chính phủ, "Danh sách 135 xã, phường của tỉnh Gia Lai mới", https://xaydungchinhsach.chinhphu.vn/sap-xep-dvhc-danh-sach-135-xa-phuong-cua-tinh-gia-lai-moi-119250622192453143.htm
-
-Kifa Travel, "Tháp Thủ Thiện - Viên ngọc ẩn kiến trúc Chăm Pa Bình Định", https://kifatravel.com/thap-thu-thien-vien-ngoc-an-kien-truc-cham-pa-binh-dinh/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

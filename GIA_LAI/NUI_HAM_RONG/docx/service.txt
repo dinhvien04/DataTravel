@@ -1,57 +1,68 @@
 1. Dịch vụ tại địa điểm
 
-Nếu chỉ ngắm cảnh, du khách có thể tự đi bằng bản đồ. Nếu muốn khám phá các lối phụ, dấu tích biệt thự cũ, làng dưới chân núi hoặc các điểm ít phổ biến, nên hỏi người địa phương hoặc đi cùng người biết đường.
+Dịch vụ tại Núi Hàm Rồng phụ thuộc loại hình điểm đến. Có nơi là không gian mở với ít dịch vụ cố định, có nơi thuộc khu du lịch hoặc quần thể nghỉ dưỡng, có nơi là di tích/chùa cần ưu tiên sự tôn nghiêm và bảo tồn.
 
-Khi chatbot nhận câu hỏi “có cần hướng dẫn viên không?”, câu trả lời nên phân biệt: đi ngắm cảnh cơ bản thì không nhất thiết; đi sâu vào lối phụ, mùa mưa, sáng sớm, chiều tối hoặc đi theo nhóm nghiên cứu/ảnh thì nên có người địa phương hỗ trợ.
+Du khách nên chuẩn bị trước các nhu cầu cơ bản như nước uống, nón, khăn giấy, pin điện thoại và tiền lẻ. Không nên mặc định rằng mọi điểm đều có quầy bán hàng, nhà vệ sinh, wifi, xe điện hoặc nhân viên hỗ trợ thường trực.
 
-Núi Hàm Rồng phù hợp cho chụp ảnh phong cảnh, ảnh mùa dã quỳ, ảnh couple, ảnh nhóm bạn và ảnh du lịch cao nguyên. Nếu thuê nhiếp ảnh gia, nên thống nhất điểm chụp trước, thời gian di chuyển, phương án dự phòng khi trời mưa và quy định không xâm phạm rẫy/vườn của người dân.
+Nếu đi đoàn hoặc cần dịch vụ đặc biệt như thuyết minh, chụp ảnh, xe đưa đón, xe điện, phòng nghỉ hoặc ăn uống, nên liên hệ trước. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Với hệ thống gợi ý hành trình, không nên khuyến khích tạo cảnh chụp phá hoa, bẻ cành, đứng trên cây trồng hoặc đi vào khu vực sản xuất nông nghiệp không được phép. Đây là điểm quan trọng để dữ liệu hướng đến du lịch có trách nhiệm.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Ăn uống
 
-Du khách có thể chuẩn bị nước uống, đồ ăn nhẹ từ trung tâm Pleiku trước khi đi. Khu vực ngoại ô và chân núi có thể có quán nước, quán ăn địa phương hoặc điểm cà phê tùy thời điểm, nhưng không nên xem là hệ thống dịch vụ luôn mở.
+Ăn uống quanh Núi Hàm Rồng nên được gợi ý theo khu vực gần nhất, không khẳng định trong điểm đến luôn có đầy đủ quán. Với nhiều địa điểm, lựa chọn tốt hơn là ăn trước hoặc sau khi tham quan ở trung tâm/quán gần tuyến đường.
 
-Nếu muốn trải nghiệm cà phê Gia Lai, có thể kết hợp Núi Hàm Rồng với một quán cà phê trong nội đô Pleiku hoặc các điểm cà phê ngoại ô có không gian cao nguyên. Khi trả lời cho du khách, nên gợi ý “ăn uống ở Pleiku trước/sau khi đi” để đảm bảo chủ động.
+Các món có thể gợi ý gồm cà phê Pleiku, phở khô Gia Lai, gà nướng cơm lam, bò một nắng, các quán quanh trung tâm trước/sau khi đi núi. Khi trả lời, chatbot nên phân biệt món đặc sản địa phương với nhà hàng cụ thể, vì nhà hàng có thể đóng cửa, đổi giá hoặc đổi địa chỉ.
+
+Nếu đi cùng trẻ em, người lớn tuổi hoặc người ăn kiêng, nên chuẩn bị đồ ăn nhẹ và nước uống. Với món địa phương lạ vị, nên thử lượng vừa phải trước khi gọi nhiều.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Đặc sản địa phương
 
-Núi Hàm Rồng không phải trung tâm mua sắm đặc sản. Nếu du khách muốn mua quà, nên quay về Pleiku để mua cà phê, mật ong, tiêu, sản phẩm từ cao nguyên hoặc đặc sản Gia Lai ở cửa hàng uy tín.
+cà phê Pleiku, phở khô Gia Lai, gà nướng cơm lam, bò một nắng, các quán quanh trung tâm trước/sau khi đi núi là nhóm món có thể đưa vào câu trả lời khi người dùng hỏi “gần đây ăn gì” hoặc “đi Núi Hàm Rồng nên thử món nào”. Tuy nhiên, nên tránh viết như thể tất cả món đều nằm ngay trong điểm tham quan.
 
-Nếu kết hợp tuyến Biển Hồ Chè, Chùa Bửu Minh, Chư Đăng Ya hoặc trung tâm Pleiku, có thể lồng ghép trải nghiệm cà phê, nông sản và ẩm thực địa phương. Tuy nhiên, các dịch vụ này thuộc tuyến phụ cận, không nên gán toàn bộ vào Núi Hàm Rồng.
+Đặc sản nên được gắn với tuyến du lịch: sau khi tham quan, du khách có thể quay về khu trung tâm, chợ, phố ăn uống hoặc nhà hàng gần điểm lưu trú để thử món. Cách này thực tế hơn và giảm rủi ro đi xa chỉ để tìm một quán.
+
+Khi dữ liệu dùng cho chatbot, nên kèm lưu ý giá và giờ mở cửa quán ăn có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Lưu trú / khách sạn
 
-Nơi lưu trú phù hợp nhất là thành phố Pleiku hoặc các khu vực khách sạn/homestay gần trung tâm. Núi Hàm Rồng chỉ cách trung tâm khoảng 11 km nên không cần ngủ lại sát chân núi nếu chỉ tham quan ngắn.
+Lưu trú phù hợp phụ thuộc lịch trình. Nếu Núi Hàm Rồng gần trung tâm, du khách có thể ở khách sạn trung tâm để tiện ăn uống và gọi xe. Nếu nằm ở khu nghỉ dưỡng/ngoại ô, nên cân nhắc ở gần điểm để giảm thời gian di chuyển.
 
-Nếu du khách muốn nghỉ dưỡng ngoại ô, nên kiểm tra các homestay, farmstay hoặc khu nhà vườn ở vùng ven Pleiku. Báo Gia Lai có nhắc định hướng phát triển dịch vụ nghỉ dưỡng, chữa lành dưới chân Núi Hàm Rồng, nhưng không nên khẳng định đã có hệ sinh thái lưu trú hoàn chỉnh nếu chưa kiểm tra từng cơ sở.
+Người đi gia đình nên ưu tiên nơi có chỗ đỗ xe, thang máy, phòng rộng và dễ gọi taxi. Người đi tự túc có thể chọn homestay hoặc khách sạn vừa túi tiền nhưng cần xem đánh giá gần đây.
+
+Không nên đưa tên khách sạn cụ thể nếu chưa kiểm tra tình trạng phòng và giá hiện tại. Chatbot nên gợi ý khu vực lưu trú thay vì cam kết một cơ sở nhất định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Tiện ích hỗ trợ
 
-Chỗ đỗ xe phụ thuộc điểm tiếp cận cụ thể. Nếu đi ô tô, nên hỏi trước tài xế hoặc người địa phương về nơi dừng an toàn. Không nên đậu xe ở khúc cua, đường hẹp, lối vào rẫy hoặc chỗ cản trở sinh hoạt của người dân.
+Các tiện ích có thể cần gồm nhà vệ sinh, gửi xe, chỗ nghỉ chân, điểm bán nước, hỗ trợ y tế gần nhất, lối đi cho người lớn tuổi và thông tin liên hệ đơn vị quản lý. Không phải tiện ích nào cũng có ở mọi địa điểm.
 
-Nếu đi xe máy, nên khóa xe, không để tài sản giá trị trong cốp, và chọn nơi có người trông hoặc khu vực dễ quan sát. Khi đi vào mùa đông khách chụp ảnh, cần dừng xe gọn để tránh ùn ứ ven đường.
+Với Núi Hàm Rồng, nên kiểm tra trước nếu đi cùng trẻ nhỏ, người lớn tuổi hoặc người có hạn chế vận động. Những yếu tố như bậc thang, đường dốc, nền đá, nắng gắt hoặc khoảng cách từ bãi xe đến điểm chính có thể ảnh hưởng trải nghiệm.
 
-Khu vực tự nhiên quanh Núi Hàm Rồng có thể thiếu WC công cộng, wifi hoặc điểm nghỉ tiêu chuẩn. Du khách nên sử dụng nhà vệ sinh tại khách sạn, quán cà phê hoặc trạm dừng trước khi đi sâu vào khu vực chân núi.
+Nếu địa điểm đông khách, cần giữ đồ cá nhân cẩn thận và thống nhất điểm hẹn với nhóm. Với đoàn học sinh hoặc công ty, nên phân công người phụ trách và dặn trước quy định ứng xử.
 
-Sóng điện thoại ở ngoại ô có thể vẫn có, nhưng khi đi vào đường phụ hoặc khu vực cây cối, không nên phụ thuộc hoàn toàn vào internet. Nên tải bản đồ ngoại tuyến, lưu số điện thoại tài xế/người đi cùng và thông báo lịch trình cho nhóm.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Lưu ý về chi phí dịch vụ
 
-Về chi phí dịch vụ, Nếu chỉ ngắm cảnh, du khách có thể tự đi bằng bản đồ. Nếu muốn khám phá các lối phụ, dấu tích biệt thự cũ, làng dưới chân núi hoặc các điểm ít phổ biến, nên hỏi người địa phương hoặc đi cùng người biết đường. Khi chatbot nhận câu hỏi “có cần hướng dẫn viên không?”, câu trả lời nên phân biệt: đi ngắm cảnh cơ bản thì không nhất thiết; đi sâu vào lối phụ, mùa mưa, sáng sớm, chiều tối hoặc đi theo nhóm nghiên cứu/ảnh thì nên có người địa phương hỗ trợ.
+Chi phí dịch vụ quanh Núi Hàm Rồng có thể thay đổi theo mùa, ngày lễ, số lượng khách và chính sách từng đơn vị. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên hỏi giá trước khi sử dụng dịch vụ như gửi xe, thuê phương tiện, gọi món, thuê chụp ảnh, mua quà hoặc đặt tour. Với tour ghép, cần hỏi rõ bao gồm/không bao gồm những gì.
+
+Khi dùng dữ liệu cho chatbot, nên trả lời theo mức “có thể phát sinh” thay vì khẳng định cứng. Điều này giúp tránh sai lệch khi giá thay đổi hoặc nguồn review đã cũ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 7. Nguồn tham khảo
 
-Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
+- https://en.wikipedia.org/wiki/Central_Highlands_(Vietnam)
+- https://baogialai.com.vn/
+- https://gialai.gov.vn/
+- https://vi.wikipedia.org/wiki/Pleiku
 
-Cục Du lịch Quốc gia Việt Nam - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://vietnamtourism.gov.vn/post/61858
-
-Báo Gia Lai - Khám phá du lịch sinh thái dưới chân núi Hàm Rồng: https://baogialai.com.vn/kham-pha-du-lich-sinh-thai-duoi-chan-nui-ham-rong-post314298.html
-
-Báo Nhân Dân - Những miệng núi lửa thu hút khách du lịch ở Gia Lai: https://nhandan.vn/nhung-mieng-nui-lua-thu-hut-khach-du-lich-o-gia-lai-post831743.html
-
-Trang thông tin phường Hội Phú, Gia Lai - Tổng quan về phường Hội Phú: https://hoiphu.gialai.gov.vn/trang-chu/tong-quan-ve-phuong-hoi-phu
-
-Báo điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-DulichPleiku Gia Lai - thông tin tuyến điểm Hàm Rồng, Chư Hdrông và các điểm ngoại ô Pleiku: https://dulichpleiku.gialai.gov.vn/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

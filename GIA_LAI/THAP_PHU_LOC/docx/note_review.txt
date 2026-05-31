@@ -1,97 +1,128 @@
 1. Lưu ý khi tham quan
 
-Tháp Phú Lốc là di tích kiến trúc nghệ thuật cổ, không phải công trình phục vụ check-in tùy ý. Du khách cần giữ thái độ tôn trọng, không tác động vào gạch, không leo trèo, không viết vẽ, không lấy bất cứ mảnh gạch đá nào ra khỏi khu vực.
+Khi tham quan Tháp Phú Lốc, du khách nên chuẩn bị theo loại hình di tích tháp Chăm. Điểm ngoài trời cần chống nắng/chống mưa; điểm di tích cần tôn trọng bảo tồn; điểm tâm linh cần trang phục lịch sự; điểm dịch vụ cần kiểm tra vé và giờ hoạt động.
 
-Nên đi vào ban ngày, chọn thời tiết khô ráo và mang giày có độ bám. Vì đường lên có thể nhỏ, có đoạn đất đá, người đi cần quan sát kỹ, không chạy nhảy hoặc chen lấn.
+Không nên đi quá sát giờ đóng cửa hoặc quá muộn nếu địa điểm ít người. Nên mang nước, sạc dự phòng, giày phù hợp và xác định trước điểm gửi xe/lối ra.
 
-Nên chuẩn bị nước uống, mũ, chống nắng và pin điện thoại. Không nên trông chờ quá nhiều tiện ích tại chỗ. Nếu đi theo nhóm, nên thống nhất điểm chờ và thời gian rời khu vực.
+Thông tin tham khảo, cần kiểm tra lại trước khi đi. Đặc biệt với thông tin giá vé, giờ mở cửa, số điện thoại, dịch vụ và quy định mới, cần kiểm tra lại trước khi đi.
 
-Không nên đi khi trời mưa to, sấm sét, gió mạnh hoặc trời tối. Với một di tích trên đồi, yếu tố an toàn đường lên và đường xuống quan trọng hơn việc cố tham quan đúng lịch.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Quy định tại địa điểm
 
-Quy định cơ bản là giữ gìn di tích, không xâm hại kiến trúc, không xả rác, không đốt lửa, không gây tiếng ồn quá mức và không tự ý tổ chức hoạt động đông người nếu chưa có sự đồng ý của cơ quan quản lý địa phương.
+Quy định thường gặp gồm giữ vệ sinh, không xả rác, không gây ồn, không phá hoại cây xanh/công trình, không tự ý vào khu vực cấm và tuân thủ hướng dẫn của nhân viên hoặc biển báo.
 
-Nếu có biển cảnh báo hoặc khu vực đang được khoanh vùng do xuống cấp, trùng tu, khảo sát, du khách cần tuyệt đối tuân thủ. Không nên vượt rào, đi vào khu vực cấm hoặc chụp ảnh ở vị trí nguy hiểm.
+Với Tháp Phú Lốc, cần chú ý quy định ứng xử phù hợp với di sản Chăm Pa, ký ức kinh đô Vijaya, nghệ thuật gạch nung, giá trị khảo cổ và cảnh quan đồi tháp. Nếu là di tích, không leo trèo/chạm khắc lên công trình; nếu là chùa, nói chuyện nhỏ và ăn mặc lịch sự; nếu là điểm tự nhiên, không bẻ cây, ném rác hoặc mạo hiểm.
 
-Với đoàn học sinh, sinh viên, người phụ trách cần nhắc rõ quy tắc trước khi lên tháp: đi theo nhóm, không leo trèo, không chạm vào hiện vật, không viết vẽ và không tự ý tách đoàn.
+Khi có sự kiện, bảo trì hoặc thời tiết xấu, quy định có thể thay đổi tạm thời. Chatbot nên nhắc người dùng kiểm tra thông báo mới nhất nếu đi vào dịp đặc biệt.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Điều cấm / hạn chế
 
-Không leo lên thân tháp, nền tháp hoặc các phần kiến trúc có nguy cơ hư hại. Không chạm mạnh vào gạch cổ, không cậy gạch, không lấy mẫu vật.
+Không leo rào, không đi vào khu vực hạn chế, không vẽ bậy, không tự ý lấy hiện vật/cây/đá, không gây ảnh hưởng đến khách khác hoặc người dân địa phương.
 
-Không xả rác, không để lại túi nylon, chai nước, tàn thuốc hoặc đồ ăn thừa. Vì điểm này ít dịch vụ dọn dẹp hơn khu du lịch lớn, rác thải có thể ảnh hưởng trực tiếp đến cảnh quan di tích.
+Không nên dùng flycam, quay chụp thương mại hoặc tổ chức hoạt động nhóm lớn nếu chưa hỏi quy định. Một số khu vực có thể hạn chế thiết bị bay, loa kéo, trang trí, dựng cảnh hoặc quay phim.
 
-Không bay flycam nếu chưa kiểm tra quy định địa phương và điều kiện an toàn. Khu vực gần giao thông, khu dân cư hoặc các vùng quản lý đặc biệt có thể có hạn chế riêng.
+Với khu vực dốc, đá, ven nước hoặc công trình cổ, không nên mạo hiểm để chụp ảnh. An toàn và bảo tồn luôn quan trọng hơn việc có góc ảnh lạ.
 
-Không nên đưa quá đông người lên khu vực tháp cùng lúc nếu nền đất hẹp hoặc đường lên khó. Với đoàn lớn, cần chia nhóm và có người điều phối.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Mức độ đông khách
 
-Tháp Phú Lốc thường không phải điểm đông khách như Kỳ Co, Eo Gió, Tháp Đôi hoặc Ghềnh Ráng. Nhiều du khách phổ thông chưa biết đến địa điểm này, nên trải nghiệm có thể yên tĩnh hơn.
+Mức độ đông khách tại Tháp Phú Lốc thường tăng vào cuối tuần, ngày lễ, mùa du lịch, khung giờ chiều mát hoặc khi có sự kiện. Ngày thường và sáng sớm thường dễ tham quan hơn.
 
-Mức độ vắng khách là ưu điểm đối với người thích khám phá, nhưng cũng là điểm cần lưu ý về an toàn. Nếu đi một mình hoặc đi lúc vắng, cần báo lịch trình cho người khác và tránh đi quá muộn.
+Nếu muốn ảnh ít người, nên đi sớm hoặc chọn góc phụ. Nếu đi đoàn đông, cần thống nhất điểm hẹn, thời gian tập trung và người phụ trách để tránh lạc nhóm.
 
-Vào các dịp lễ hoặc khi có hoạt động quảng bá/trùng tu, lượng khách có thể thay đổi. Chatbot nên tránh khẳng định “luôn vắng” mà nên nói “thường ít đông hơn các điểm du lịch nổi tiếng”.
+Khi quá đông, nên ưu tiên quan sát tổng thể, giữ đồ cá nhân, không chen lấn và tránh dừng lâu ở lối đi chính.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Độ an toàn
 
-An toàn chính phụ thuộc vào thời tiết, đường lên, giày dép và ý thức của người tham quan. Di tích đã cũ và có dấu hiệu xuống cấp, nên cần giữ khoảng cách an toàn với các phần có nguy cơ bong tróc hoặc sụt lở.
+Độ an toàn phụ thuộc thời tiết, nền đường, lượng khách và ý thức cá nhân. Với Tháp Phú Lốc, du khách nên chú ý các yếu tố như nắng, mưa, dốc, đá, xe cộ, khu vực nước sâu hoặc công trình cần bảo tồn nếu có.
 
-Đường lên được phản ánh là còn nhỏ, có đoạn đường mòn, đường đất đá. Khi trời khô có thể đi được, nhưng khi mưa hoặc sau mưa có thể trơn và khó hơn.
+Gia đình có trẻ nhỏ nên luôn đi kèm người lớn, tránh để trẻ chạy sát mép nước, mép dốc, bậc cao hoặc khu vực đông xe. Người lớn tuổi nên có thời gian nghỉ và tránh đi lúc nắng gắt.
 
-Người lớn tuổi, trẻ nhỏ, phụ nữ mang thai hoặc người có vấn đề xương khớp nên cân nhắc trước khi lên sát tháp. Nếu điều kiện không thuận lợi, có thể tham quan từ xa hoặc đổi sang điểm dễ tiếp cận hơn như Tháp Đôi hoặc Tháp Bánh Ít.
+Nếu có biển cảnh báo hoặc nhân viên nhắc nhở, cần tuân thủ. Không nên dựa vào kinh nghiệm cá nhân để bỏ qua cảnh báo tại chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Khả năng tiếp cận
 
-Khả năng tiếp cận của Tháp Phú Lốc ở mức hạn chế so với các điểm du lịch đã chỉnh trang. Không nên mô tả địa điểm này là thân thiện với xe lăn hoặc phù hợp với mọi đối tượng.
+Khả năng tiếp cận của Tháp Phú Lốc cần được mô tả theo từng nhóm: người đi bộ, xe máy, ô tô, gia đình, người lớn tuổi và người hạn chế vận động. Không phải điểm nào cũng có lối bằng phẳng hoặc hỗ trợ xe lăn.
 
-Người dùng xe lăn, người chống gậy hoặc người khó đi bộ có thể gặp khó khăn do lối lên đồi và bề mặt không bằng phẳng. Chatbot nên khuyên kiểm tra thực tế hoặc đi cùng người hỗ trợ.
+Những yếu tố cần kiểm tra gồm khoảng cách từ bãi xe đến điểm chính, bậc thang, độ dốc, nền đá/cát, bóng mát, nhà vệ sinh và điểm nghỉ chân. Nếu thiếu thông tin, chatbot nên khuyên hỏi trước đơn vị quản lý hoặc người địa phương.
 
-Nếu nhu cầu của khách là tham quan tháp Chăm nhưng cần dễ tiếp cận hơn, có thể gợi ý Tháp Đôi trong trung tâm Quy Nhơn hoặc Tháp Bánh Ít tùy điều kiện thực tế.
+Với người cần hỗ trợ đặc biệt, nên đi cùng người thân, chọn giờ mát và không đặt lịch quá dày. Lịch trình nhẹ thường đem lại trải nghiệm tốt hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Review tổng hợp
 
-Ấn tượng chung về Tháp Phú Lốc là cổ kính, hoang sơ, ít thương mại hóa và có cảm giác bí ẩn. Đây là điểm phù hợp với người muốn thấy một mặt khác của vùng Quy Nhơn - Bình Định cũ, không chỉ có biển đảo và khu nghỉ dưỡng.
+Review tổng hợp về Tháp Phú Lốc thường xoay quanh các điểm: dễ nhận diện, có giá trị tham quan, phù hợp chụp ảnh và có thể ghép tuyến với tháp Cánh Tiên, thành Hoàng Đế/Đồ Bàn, tháp Bánh Ít, Quy Nhơn, sân bay Phù Cát, các làng nghề An Nhơn. Điểm đến này không nên được giới thiệu như một khu vui chơi mọi dịch vụ nếu bản chất là di tích, cảnh quan hoặc không gian mở.
 
-Điểm làm du khách thích là dáng tháp trên đồi, màu gạch cổ, không gian yên tĩnh, góc nhìn rộng và cảm giác khám phá. Điểm làm du khách cần cân nhắc là đường lên chưa thật tiện, ít dịch vụ, ít bảng thuyết minh và công trình có dấu hiệu xuống cấp.
+Điểm được đánh giá cao là tháp đơn trên đồi cao khoảng 76-80 m, còn gọi Tháp Vàng, Thốc Lốc, Phốc Lốc hoặc Tour d’Or, nhìn ra đồng bằng An Nhơn. Điểm cần cân nhắc là thời tiết, lượng khách, dịch vụ thay đổi và khả năng tiếp cận từng khu.
 
-Với kỳ vọng đúng, đây là điểm rất đáng ghé. Với kỳ vọng sai, chẳng hạn mong có khu du lịch đông vui, nhiều dịch vụ hoặc hoạt động giải trí, du khách có thể thấy nơi này hơi vắng và đơn giản.
+Khi tổng hợp review, nên ưu tiên nguồn gần đây và nguồn đáng tin. Review cá nhân hữu ích cho trải nghiệm thực tế nhưng không thay thế thông báo chính thức về giá, giờ mở cửa và quy định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Ưu điểm
 
-Ưu điểm lớn nhất là giá trị di sản Chăm Pa rõ rệt. Tháp Phú Lốc góp phần bổ sung bức tranh về hệ thống tháp Chăm Bình Định cũ.
+Ưu điểm lớn của Tháp Phú Lốc là có dấu hiệu nhận diện rõ: tháp đơn trên đồi cao khoảng 76-80 m, còn gọi Tháp Vàng, Thốc Lốc, Phốc Lốc hoặc Tour d’Or, nhìn ra đồng bằng An Nhơn. Điều này giúp du khách dễ nhớ, dễ chụp ảnh và giúp hệ thống nhận diện địa điểm tốt hơn.
 
-Ưu điểm thứ hai là không gian ít đông. Du khách có thể chụp ảnh và quan sát di tích trong nhịp chậm, không phải chen chúc.
+Ưu điểm thứ hai là khả năng kết hợp tuyến: tháp Cánh Tiên, thành Hoàng Đế/Đồ Bàn, tháp Bánh Ít, Quy Nhơn, sân bay Phù Cát, các làng nghề An Nhơn. Nhờ vậy, địa điểm phù hợp cho cả lịch trình ngắn và lịch trình mở rộng.
 
-Ưu điểm thứ ba là vị trí trên đồi tạo cảnh quan đặc biệt. Hình ảnh tháp nổi bật giữa vùng đồng bằng giúp địa điểm có khả năng nhận diện cao.
+Ưu điểm thứ ba là giá trị văn hóa/cảnh quan: di sản Chăm Pa, ký ức kinh đô Vijaya, nghệ thuật gạch nung, giá trị khảo cổ và cảnh quan đồi tháp. Đây là phần giúp chuyến đi có chiều sâu hơn việc chỉ check-in.
 
-Ưu điểm thứ tư là phù hợp cho tour chuyên đề lịch sử - kiến trúc - bảo tồn, đặc biệt khi kết hợp với các tháp Chăm khác.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nhược điểm
 
-Nhược điểm lớn nhất là hạ tầng tiếp cận chưa thuận tiện. Đường lên còn nhỏ, có đoạn chưa được nâng cấp đồng bộ, nên trải nghiệm phụ thuộc điều kiện thời tiết và phương tiện.
+Nhược điểm có thể gặp là thông tin dịch vụ không ổn định, thời tiết ảnh hưởng mạnh, một số khu có thể nắng, dốc, xa điểm gửi xe hoặc ít tiện ích hơn kỳ vọng.
 
-Nhược điểm thứ hai là ít dịch vụ tại chỗ. Du khách cần tự chuẩn bị nước uống, bản đồ, phương tiện và thông tin trước khi đi.
+Nếu người dùng mong đợi nhiều trò chơi, mua sắm hoặc dịch vụ cố định, Tháp Phú Lốc có thể không phù hợp trong mọi trường hợp. Cần định hướng đúng bản chất điểm đến là di tích tháp Chăm.
 
-Nhược điểm thứ ba là công trình xuống cấp ở một số phần. Điều này vừa là vấn đề bảo tồn vừa là yếu tố khiến du khách phải giữ khoảng cách và không tiếp xúc trực tiếp với cấu kiện kiến trúc.
+Vào mùa cao điểm hoặc ngày lễ, trải nghiệm có thể giảm do đông khách, khó chụp ảnh, khó gửi xe hoặc giá dịch vụ xung quanh tăng.
 
-Nhược điểm thứ tư là ít thông tin thuyết minh tại điểm. Nếu không tìm hiểu trước, khách phổ thông có thể chỉ xem tháp trong thời gian ngắn mà chưa hiểu hết giá trị.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 10. Kinh nghiệm tránh rủi ro
 
-Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. An toàn chính phụ thuộc vào thời tiết, đường lên, giày dép và ý thức của người tham quan. Di tích đã cũ và có dấu hiệu xuống cấp, nên cần giữ khoảng cách an toàn với các phần có nguy cơ bong tróc hoặc sụt lở. Đường lên được phản ánh là còn nhỏ, có đoạn đường mòn, đường đất đá.
+Để tránh rủi ro, nên kiểm tra thời tiết, tuyến đường, giờ hoạt động, giá vé/dịch vụ và thông báo địa phương trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên đi theo nhóm hoặc báo người thân lịch trình nếu đến khu ít người. Không mang quá nhiều đồ giá trị, không để túi xách/điện thoại rời khỏi tầm mắt và luôn chú ý trẻ nhỏ.
+
+Nếu thời tiết xấu, sức khỏe không tốt hoặc khu vực có cảnh báo, nên đổi lịch trình sang điểm trong nhà, quán cà phê, bảo tàng hoặc điểm gần trung tâm.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 11. Nguồn tham khảo
 
-Cổng du lịch tỉnh Gia Lai - Tháp Phú Lốc (Tháp Vàng): https://gialai.gov.vn/du-khach/danh-lam-thang-canh/thap-phu-loc-thap-vang-.html
+- https://vi.wikipedia.org/wiki/Th%C3%A1p_Ph%C3%BA_L%E1%BB%91c
+- https://baobinhdinh.vn/
+- https://svhtt.gialai.gov.vn/
+- https://en.wikipedia.org/wiki/B%C3%ACnh_%C4%90%E1%BB%8Bnh_province
 
-Bộ Văn hóa, Thể thao và Du lịch - Bình Định đầu tư tu bổ, tôn tạo và phát huy giá trị tháp Chăm: https://bvhttdl.gov.vn/binh-dinh-dau-tu-tu-bo-ton-tao-va-phat-huy-gia-tri-thap-cham-20230316145218943.htm
-
-MyBinhDinh - Tháp Phú Lốc (Tháp Vàng): https://mybinhdinh.vn/vi/phuloctower
-
-Thanh Niên - Gia Lai xây dựng đề án trùng tu ngôi tháp cổ gần 900 năm tuổi: https://thanhnien.vn/gia-lai-xay-dung-de-an-trung-tu-ngoi-thap-co-gan-900-nam-tuoi-185250829193919151.htm
-
-Cổng thông tin Cục Du lịch Quốc gia Việt Nam - phát huy giá trị tháp Champa Bình Định: https://vietnamtourism.gov.vn/post/38114
-
-Thông tin sắp xếp đơn vị hành chính tỉnh Gia Lai/Bình Định sau năm 2025: https://helpcrm.misa.vn/kb/sap-xep-don-vi-hanh-chinh-tinh-gia-lai/
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

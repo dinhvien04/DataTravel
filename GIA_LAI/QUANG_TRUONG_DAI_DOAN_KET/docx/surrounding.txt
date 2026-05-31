@@ -1,67 +1,59 @@
 1. Các địa điểm gần đó
 
-Không nhầm với Bảo tàng tỉnh Gia Lai: Bảo tàng là công trình trưng bày trong nhà, có hiện vật, tư liệu và chủ đề văn hóa - lịch sử. Quảng trường là không gian ngoài trời, có tượng đài, sân rộng và các hạng mục biểu tượng.
+Các địa điểm có thể kết hợp với Quảng trường Đại Đoàn Kết gồm Bảo tàng tỉnh Gia Lai, Bảo tàng Hồ Chí Minh - Chi nhánh Gia Lai và Kon Tum, Nhà lao Pleiku, phố cà phê trung tâm, Biển Hồ, Biển Hồ Chè. Khi gợi ý, nên sắp xếp theo khoảng cách, loại hình và thời gian phù hợp thay vì liệt kê tất cả một cách ngang nhau.
 
-Không nhầm với Nhà lao Pleiku: Nhà lao Pleiku là di tích lịch sử gắn với chiến tranh và nhà tù, trải nghiệm nghiêng về lịch sử cách mạng. Quảng trường Đại Đoàn Kết là không gian biểu tượng, sinh hoạt cộng đồng và sự kiện.
+Nếu người dùng chỉ có nửa ngày, nên chọn một đến hai điểm gần nhất. Nếu có một ngày, có thể ghép thành tuyến rõ ràng: tuyến trung tâm, tuyến biển, tuyến cao nguyên, tuyến di tích hoặc tuyến tâm linh.
 
-Không nhầm với Biển Hồ T’Nưng: Biển Hồ là hồ nước tự nhiên/miệng núi lửa âm, nằm ngoài trung tâm. Quảng trường nằm trong trung tâm Pleiku, không phải điểm thiên nhiên.
+Cần phân biệt điểm chính với điểm cùng tên hoặc điểm dễ nhầm. Ví dụ cùng là tháp, cùng là bãi biển hoặc cùng là núi lửa, mỗi địa điểm vẫn có dấu hiệu nhận diện và lịch trình khác nhau.
 
-Không nhầm với Núi Hàm Rồng: Núi Hàm Rồng là núi lửa/cảnh quan phía Nam Pleiku. Trong quảng trường có mô hình núi Hàm Rồng, nhưng đó chỉ là hạng mục biểu tượng, không phải chính ngọn núi.
-
-Không nhầm với Chư Đăng Ya hay Chư Nâm: hai điểm này thuộc nhóm núi lửa, check-in và trekking. Quảng trường là điểm đô thị dễ đi, không yêu cầu thể lực.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 2. Sự kiện / lễ hội
 
-Quảng trường là nơi tổ chức nhiều sự kiện lớn của tỉnh Gia Lai. Các hoạt động có thể bao gồm lễ kỷ niệm, chương trình văn hóa, lễ hội, trưng bày, hoạt động giáo dục, ngày hội du lịch, sự kiện cà phê, hoặc các chương trình cộng đồng. Tuy nhiên, lịch sự kiện thay đổi theo năm nên không nên đóng cứng trong dữ liệu.
+Sự kiện hoặc lễ hội quanh Quảng trường Đại Đoàn Kết phụ thuộc lịch địa phương. Có thời điểm khu vực tổ chức chương trình văn hóa, lễ hội, triển lãm, hoạt động du lịch hoặc sự kiện cộng đồng làm lượng khách tăng mạnh.
 
-Vào các dịp lễ, Tết, ngày kỷ niệm lớn, quảng trường thường có không khí đông vui hơn. Đây là thời điểm phù hợp cho khách muốn trải nghiệm đời sống cộng đồng, nhưng không phù hợp nếu khách cần không gian vắng để chụp ảnh riêng.
+Nếu người dùng muốn đi dịp lễ, nên kiểm tra thông báo của địa phương, cổng du lịch hoặc fanpage đơn vị quản lý. Sự kiện có thể tạo trải nghiệm thú vị nhưng cũng làm khó gửi xe, chụp ảnh và di chuyển.
 
-Mùa khô ở Pleiku thuận lợi cho việc đi dạo ngoài trời, chụp ảnh và kết hợp các điểm thiên nhiên. Mùa mưa vẫn có thể đi quảng trường nhưng nên tránh lúc mưa lớn vì sân rộng, mặt nền có thể trơn và ảnh chụp ngoài trời kém thuận lợi.
+Với điểm tôn giáo hoặc di tích, ngày lễ có thể cần ứng xử trang nghiêm hơn. Với điểm biển/núi/quảng trường, sự kiện có thể kèm phân luồng giao thông hoặc hạn chế một số khu vực.
 
-Nếu có chương trình cồng chiêng hoặc trình diễn văn hóa ở khu vực quảng trường, đây là trải nghiệm rất đáng chú ý vì phù hợp với nhóm khách muốn hiểu văn hóa Tây Nguyên. Tuy nhiên, chatbot cần nói rõ 'nếu đúng lịch tổ chức' hoặc 'nên kiểm tra lịch mới nhất'.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Hoạt động theo mùa
 
-Quảng trường là nơi tổ chức nhiều sự kiện lớn của tỉnh Gia Lai. Các hoạt động có thể bao gồm lễ kỷ niệm, chương trình văn hóa, lễ hội, trưng bày, hoạt động giáo dục, ngày hội du lịch, sự kiện cà phê, hoặc các chương trình cộng đồng. Tuy nhiên, lịch sự kiện thay đổi theo năm nên không nên đóng cứng trong dữ liệu.
+Hoạt động theo mùa của Quảng trường Đại Đoàn Kết chịu ảnh hưởng bởi thời tiết và lịch du lịch. Mùa khô thường thuận lợi cho chụp ảnh, di chuyển và hoạt động ngoài trời; mùa mưa cần chuẩn bị kỹ hơn.
 
-Vào các dịp lễ, Tết, ngày kỷ niệm lớn, quảng trường thường có không khí đông vui hơn. Đây là thời điểm phù hợp cho khách muốn trải nghiệm đời sống cộng đồng, nhưng không phù hợp nếu khách cần không gian vắng để chụp ảnh riêng.
+Một số mùa có cảnh quan đẹp hơn: cây xanh mướt, trời trong, biển xanh, hoa nở, ruộng rẫy thay màu hoặc ánh sáng chiều đẹp. Tuy nhiên mùa đẹp cũng có thể đông khách và giá dịch vụ cao hơn.
 
-Mùa khô ở Pleiku thuận lợi cho việc đi dạo ngoài trời, chụp ảnh và kết hợp các điểm thiên nhiên. Mùa mưa vẫn có thể đi quảng trường nhưng nên tránh lúc mưa lớn vì sân rộng, mặt nền có thể trơn và ảnh chụp ngoài trời kém thuận lợi.
+Khi chatbot trả lời, nên hỏi hoặc suy luận mục tiêu của người dùng: muốn ảnh đẹp, muốn ít đông, muốn tiết kiệm, muốn đi với trẻ nhỏ hay muốn trải nghiệm văn hóa. Mỗi mục tiêu có mùa và khung giờ khác nhau.
 
-Nếu có chương trình cồng chiêng hoặc trình diễn văn hóa ở khu vực quảng trường, đây là trải nghiệm rất đáng chú ý vì phù hợp với nhóm khách muốn hiểu văn hóa Tây Nguyên. Tuy nhiên, chatbot cần nói rõ 'nếu đúng lịch tổ chức' hoặc 'nên kiểm tra lịch mới nhất'.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 4. Đối tượng phù hợp
 
-Khách gia đình: phù hợp vì dễ đi, không cần leo núi, không cần chuẩn bị dụng cụ đặc biệt, có không gian rộng và gần dịch vụ trung tâm.
+Quảng trường Đại Đoàn Kết phù hợp với nhiều nhóm khách nếu chọn đúng thời điểm và cách di chuyển. Khách trẻ có thể chủ động chụp ảnh và ghép nhiều điểm; gia đình nên ưu tiên giờ mát, đường dễ đi và dịch vụ gần; người lớn tuổi cần hạn chế nắng, dốc và đi bộ quá lâu.
 
-Khách học sinh - sinh viên: phù hợp để tham quan học tập, chụp ảnh tập thể, tìm hiểu chủ đề đại đoàn kết dân tộc, Bác Hồ với Tây Nguyên và văn hóa Gia Lai.
+Khách yêu văn hóa nên dành thời gian đọc trước thông tin về tinh thần đại đoàn kết dân tộc, tình cảm Bác Hồ với Tây Nguyên, không gian lễ hội - chính trị - văn hóa và ký ức đô thị Pleiku. Khách thích thiên nhiên nên chú ý không gian mở 10,6 ha với sân lớn, cây xanh, hoa, cỏ, hồ sen, cột cờ, tượng đài và các hạng mục biểu tượng. Khách đi nhanh chỉ cần xác định điểm check-in chính và một tuyến ăn uống gần đó.
 
-Khách lớn tuổi: phù hợp nếu đi vào giờ mát, có xe đưa đón gần điểm dừng. Cần tránh đi quá lâu dưới nắng hoặc khi quảng trường quá đông.
+Nếu người dùng hỏi “có phù hợp trẻ em/người già không”, chatbot nên trả lời có điều kiện: phù hợp nếu đi giờ mát, chuẩn bị nước, chọn khu dễ đi và tránh khu vực nguy hiểm hoặc quá đông.
 
-Khách thích ảnh: phù hợp để chụp ảnh tượng đài, sân rộng, cồng chiêng, cây xanh và không khí đô thị Pleiku. Nên chọn sáng sớm, chiều muộn hoặc tối.
-
-Khách nghiên cứu văn hóa - đô thị: phù hợp để phân tích không gian công cộng, biểu tượng chính trị - văn hóa, cách kiến trúc hiện đại gắn với chất liệu Tây Nguyên như cồng chiêng, đá bazan, mô hình núi Hàm Rồng và cây xanh.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 5. Gợi ý tuyến tham quan kết hợp
 
-Gợi ý tuyến tham quan kết hợp. Không nhầm với Bảo tàng tỉnh Gia Lai: Bảo tàng là công trình trưng bày trong nhà, có hiện vật, tư liệu và chủ đề văn hóa - lịch sử. Quảng trường là không gian ngoài trời, có tượng đài, sân rộng và các hạng mục biểu tượng. Không nhầm với Nhà lao Pleiku: Nhà lao Pleiku là di tích lịch sử gắn với chiến tranh và nhà tù, trải nghiệm nghiêng về lịch sử cách mạng.
+Tuyến ngắn: Quảng trường Đại Đoàn Kết kết hợp một điểm gần trong nhóm Bảo tàng tỉnh Gia Lai, Bảo tàng Hồ Chí Minh - Chi nhánh Gia Lai và Kon Tum, Nhà lao Pleiku, phố cà phê trung tâm, Biển Hồ, Biển Hồ Chè, sau đó ăn uống với các món như cà phê Pleiku, phở khô Gia Lai, bún cua thối, bò một nắng, gà nướng cơm lam, các quán ăn trung tâm. Tuyến này phù hợp khách có nửa ngày hoặc muốn đi nhẹ.
+
+Tuyến một ngày: chọn Quảng trường Đại Đoàn Kết làm điểm chính, sau đó thêm hai đến ba điểm cùng hướng. Không nên ghép các điểm quá xa nhau khiến thời gian di chuyển nhiều hơn thời gian trải nghiệm.
+
+Tuyến cho chatbot nên viết linh hoạt: nếu người dùng xuất phát từ trung tâm, ưu tiên điểm gần; nếu xuất phát từ sân bay hoặc khu nghỉ dưỡng, ưu tiên tuyến thuận đường. Luôn cộng thời gian dự phòng cho thời tiết và ăn uống.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Nguồn tham khảo
 
-Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+- https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
+- https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+- https://vietnamtourism.gov.vn/post/61462
+- https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
+- https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
 
-Cục Du lịch Quốc gia Việt Nam - Quảng trường Đại Đoàn Kết, trái tim phố núi Pleiku: https://vietnamtourism.gov.vn/post/61462
-
-Báo Nhân Dân - Quảng trường Đại đoàn kết: https://nhandan.vn/quang-truong-dai-doan-ket-post808471.html
-
-Dân tộc và Phát triển / VietnamNet - Gia Lai trao Bằng xếp hạng Di tích cấp tỉnh Quảng trường Đại Đoàn Kết: https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
-
-Báo Gia Lai - Quảng trường Đại Đoàn Kết, công trình văn hóa tiêu biểu: https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
-
-Báo Gia Lai - thông tin bảo trì 205 ô cỏ Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/bao-tang-tinh-gia-lai-thong-bao-thi-cong-thay-the-co-tai-quang-truong-dai-doan-ket-post301469.html
-
-Báo Gia Lai - Pleiku mở thông toàn thời gian tuyến đường qua Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/pleiku-mo-thong-toan-thoi-gian-tuyen-duong-qua-quang-truong-dai-doan-ket-post576898.html
-
-Cổng Thông tin điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-Ghi chú: Các thông tin về giờ mở cửa, phân luồng giao thông, sự kiện cuối tuần, hoạt động bảo trì cảnh quan và đơn vị hành chính có thể thay đổi theo từng năm. Khi dùng cho chatbot, nên ưu tiên trả lời theo hướng mở và nhắc người dùng kiểm tra thông báo mới nhất của tỉnh Gia Lai, Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý quảng trường.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

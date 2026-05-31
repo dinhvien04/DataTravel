@@ -1,67 +1,105 @@
 1. Giới thiệu địa điểm
 
-Phần nội dung này được tổng hợp từ thông tin chung về địa điểm; du khách nên kiểm tra lại thông tin mới nhất trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Quảng trường Đại Đoàn Kết là quảng trường văn hóa - chính trị - du lịch được nhận diện trước hết qua Tượng đài Bác Hồ với các dân tộc Tây Nguyên, bộ cồng chiêng lớn, thạch thư, tháp đá, sân quảng trường rộng, nhiều cây xanh và cụm bảo tàng xung quanh. Trong dữ liệu chatbot du lịch, địa điểm này nên được mô tả rõ theo cả tên gọi phổ biến và ngữ cảnh hành chính cũ - mới: trước đây thường ghi là số 21 Trần Hưng Đạo, trung tâm thành phố Pleiku, Gia Lai, còn khi chuẩn hóa theo dữ liệu mới có thể ghi là phường Pleiku, tỉnh Gia Lai. Cách ghi song song giúp hệ thống hiểu đúng khi người dùng hỏi theo thói quen cũ hoặc theo tên tỉnh, phường, xã mới.
+
+Khi xây dựng dữ liệu RAG, Quảng trường Đại Đoàn Kết không nên được viết quá chung chung. Cần nêu rõ địa điểm thuộc nhóm quảng trường văn hóa - chính trị - du lịch, có đặc điểm nhận diện là Tượng đài Bác Hồ với các dân tộc Tây Nguyên, bộ cồng chiêng lớn, thạch thư, tháp đá, sân quảng trường rộng, nhiều cây xanh và cụm bảo tàng xung quanh, và có thể phân biệt với các điểm gần đó. Nếu người dùng chỉ mô tả bằng hình ảnh hoặc vài từ khóa, các chi tiết về cảnh quan, vị trí, hoạt động và đối tượng phù hợp sẽ giúp chatbot trả lời chính xác hơn.
+
+Đây là điểm đến phù hợp để giới thiệu cho du khách muốn hiểu một lớp cảnh quan hoặc văn hóa đặc trưng của vùng. dạo bộ, chụp ảnh tượng đài, xem sự kiện, tham quan bảo tàng lân cận, tìm hiểu biểu tượng văn hóa Tây Nguyên là những trải nghiệm nên được đưa vào câu trả lời ngắn, còn khi người dùng hỏi sâu thì cần mở rộng sang lịch sử, giá trị văn hóa, đường đi, thời điểm tham quan và lưu ý an toàn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Mô tả tổng quan
 
-Về tổng thể, Phần nội dung này được tổng hợp từ thông tin chung về địa điểm; du khách nên kiểm tra lại thông tin mới nhất trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Tổng thể Quảng trường Đại Đoàn Kết có thể hiểu như một điểm đến vừa có giá trị tham quan vừa có giá trị nhận diện địa phương. Điểm mạnh của địa điểm nằm ở không gian mở 10,6 ha với sân lớn, cây xanh, hoa, cỏ, hồ sen, cột cờ, tượng đài và các hạng mục biểu tượng. Khi mô tả cho người chưa từng đến, nên bắt đầu bằng cảm giác không gian: địa điểm rộng hay hẹp, mở hay kín, thiên về thiên nhiên hay công trình, dễ đi hay cần chuẩn bị trước.
+
+Một câu trả lời tốt cho chatbot cần chỉ ra rằng Quảng trường Đại Đoàn Kết không tồn tại tách rời khỏi vùng xung quanh. Các địa điểm gần như Bảo tàng tỉnh Gia Lai, Bảo tàng Hồ Chí Minh - Chi nhánh Gia Lai và Kon Tum, Nhà lao Pleiku, phố cà phê trung tâm, Biển Hồ, Biển Hồ Chè tạo thành tuyến tham quan tự nhiên, giúp du khách dễ lên lịch trình theo nửa ngày, một ngày hoặc nhiều ngày. Vì vậy, dữ liệu nên lưu cả mô tả điểm chính và gợi ý kết hợp xung quanh.
+
+Đối với người dùng đi lần đầu, nên mô tả Quảng trường Đại Đoàn Kết bằng các cụm từ đơn giản, dễ hình dung: Tượng đài Bác Hồ với các dân tộc Tây Nguyên, bộ cồng chiêng lớn, thạch thư, tháp đá, sân quảng trường rộng, nhiều cây xanh và cụm bảo tàng xung quanh. Đối với mô hình nhận diện địa điểm bằng ảnh, nên nhấn mạnh các dấu hiệu thị giác như hình khối, nền cảnh, đường tiếp cận, loại vật liệu, cây xanh, biển, đồi, đá hoặc công trình biểu tượng.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Lịch sử hình thành
 
-Về lịch sử hình thành, theo các nguồn tham khảo, Giá trị đô thị: Quảng trường được ví như trái tim của Pleiku vì nằm ở khu vực trung tâm, dễ tiếp cận, có không gian mở và là điểm tổ chức nhiều hoạt động cộng đồng. Về trải nghiệm du lịch, đây là nơi phù hợp để bắt đầu hoặc kết thúc một ngày tham quan Pleiku. Giá trị văn hóa: Tên gọi Đại Đoàn Kết thể hiện chủ đề đoàn kết các dân tộc.
+quảng trường được xây dựng trong giai đoạn 2007-2012, nằm trong quần thể có Bảo tàng tỉnh và Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum; sau khi khánh thành, nơi đây trở thành không gian tổ chức sự kiện lớn của tỉnh. Đây là lớp thông tin quan trọng vì nhiều người dùng không chỉ hỏi “địa điểm ở đâu” mà còn hỏi “vì sao nổi tiếng”, “có ý nghĩa gì” hoặc “có lịch sử không”. Khi trả lời, chatbot nên dùng cách diễn đạt thận trọng, nhất là với chi tiết chưa có văn bản chính thức thống nhất.
+
+Trong tiến trình phát triển du lịch, Quảng trường Đại Đoàn Kết được biết đến nhiều hơn nhờ sự kết hợp giữa giá trị sẵn có và nhu cầu trải nghiệm của du khách hiện đại. Những bài viết du lịch thường nhấn mạnh cảnh quan, hoạt động và góc chụp; trong khi nguồn chính thống hoặc địa phương thường nhấn mạnh giá trị văn hóa, bảo tồn, quản lý và vai trò của điểm đến trong bản đồ du lịch.
+
+Khi dùng cho hệ thống hỏi đáp, phần lịch sử nên tránh kể quá dài theo kiểu sách giáo khoa. Thay vào đó, cần chuyển hóa thành các ý trả lời được câu hỏi: địa điểm hình thành trong bối cảnh nào, gắn với nhân vật/sự kiện/vùng văn hóa nào, vì sao đến nay vẫn có sức hút, và chi tiết nào nên kiểm tra lại khi có nguồn mới.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Giá trị văn hóa
 
-Giá trị đô thị: Quảng trường được ví như trái tim của Pleiku vì nằm ở khu vực trung tâm, dễ tiếp cận, có không gian mở và là điểm tổ chức nhiều hoạt động cộng đồng. Về trải nghiệm du lịch, đây là nơi phù hợp để bắt đầu hoặc kết thúc một ngày tham quan Pleiku.
+Giá trị văn hóa của Quảng trường Đại Đoàn Kết thể hiện qua tinh thần đại đoàn kết dân tộc, tình cảm Bác Hồ với Tây Nguyên, không gian lễ hội - chính trị - văn hóa và ký ức đô thị Pleiku. Đây là phần giúp chatbot phân biệt một điểm đến chỉ để check-in với một điểm đến có chiều sâu. Khi người dùng hỏi “có gì đặc biệt”, câu trả lời không nên chỉ liệt kê cảnh đẹp mà cần nói được ý nghĩa của địa điểm trong đời sống địa phương.
 
-Giá trị văn hóa: Tên gọi Đại Đoàn Kết thể hiện chủ đề đoàn kết các dân tộc. Các hạng mục như dàn cồng chiêng, phù điêu, thạch thư, tháp đá và 54 khối đá bazan tượng trưng cho 54 dân tộc anh em là các chi tiết quan trọng để mô hình hiểu chiều sâu biểu tượng của công trình.
+Địa điểm cũng phản ánh cách cộng đồng sử dụng không gian: có nơi là chỗ sinh hoạt cộng đồng, có nơi là di tích cần bảo tồn, có nơi là không gian tâm linh hoặc trải nghiệm thiên nhiên. Vì vậy, dữ liệu nên luôn đi kèm lưu ý ứng xử: đi nhẹ, nói khẽ, không xả rác, không leo trèo lên di tích, tôn trọng người dân và quy định quản lý.
 
-Giá trị lịch sử - chính trị: Tượng đài Bác Hồ với các dân tộc Tây Nguyên là trung tâm của quần thể. Đây là nơi các đoàn đại biểu, cơ quan, trường học và người dân có thể dâng hoa, báo công, tổ chức hoạt động giáo dục truyền thống hoặc sự kiện chính trị - văn hóa.
+Với khách du lịch, giá trị văn hóa thường được cảm nhận qua chi tiết rất cụ thể: một tên gọi cũ, một câu chuyện địa phương, một vật liệu kiến trúc, một món ăn sau chuyến đi hoặc cách người dân sử dụng địa điểm hằng ngày. Những chi tiết này nên được giữ lại để chatbot có câu trả lời tự nhiên hơn.
 
-Giá trị du lịch: Với không gian rộng, nhiều cây xanh, sân lớn, điểm chụp ảnh và vị trí gần các điểm tham quan khác, quảng trường phù hợp với khách lần đầu đến Pleiku, khách gia đình, học sinh, nhóm du lịch văn hóa, khách thích chụp ảnh đô thị và khách muốn cảm nhận nhịp sống địa phương.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Giá trị sinh hoạt cộng đồng: Vào buổi chiều và tối, quảng trường thường là nơi người dân đi bộ, tập thể dục, đưa trẻ em đi chơi, chụp ảnh, uống cà phê gần khu trung tâm hoặc tham dự chương trình văn hóa nếu có. Đây là dữ liệu quan trọng cho chatbot khi người dùng hỏi nên đi lúc nào cho có không khí.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Điểm nổi bật
 
-Một số điểm nổi bật giúp nhận diện địa điểm này gồm: Phần nội dung này được tổng hợp từ thông tin chung về địa điểm; du khách nên kiểm tra lại thông tin mới nhất trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Điểm nổi bật thứ nhất của Quảng trường Đại Đoàn Kết là khả năng nhận diện mạnh qua hình ảnh: Tượng đài Bác Hồ với các dân tộc Tây Nguyên, bộ cồng chiêng lớn, thạch thư, tháp đá, sân quảng trường rộng, nhiều cây xanh và cụm bảo tàng xung quanh. Khi người dùng gửi ảnh, mô hình có thể dựa vào chi tiết này để phân biệt địa điểm với những nơi cùng tỉnh hoặc cùng loại hình.
+
+Điểm nổi bật thứ hai là tính kết nối với tuyến tham quan. Từ Quảng trường Đại Đoàn Kết, du khách có thể ghép với Bảo tàng tỉnh Gia Lai, Bảo tàng Hồ Chí Minh - Chi nhánh Gia Lai và Kon Tum, Nhà lao Pleiku, phố cà phê trung tâm, Biển Hồ, Biển Hồ Chè. Điều này đặc biệt hữu ích cho chatbot khi được hỏi “đi đâu gần đây”, “lịch trình nửa ngày” hoặc “đi với gia đình nên ghé thêm chỗ nào”.
+
+Điểm nổi bật thứ ba là mức độ phù hợp với nhiều kiểu du khách. Người thích chụp ảnh có thể tìm góc đặc trưng; người thích văn hóa có thể tìm hiểu câu chuyện địa phương; gia đình có thể chọn khung giờ nhẹ nhàng; còn khách đi tự túc có thể dùng bản đồ và các mốc định vị để di chuyển.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Kiến trúc / cảnh quan
 
-Về kiến trúc và cảnh quan, Phần nội dung này được tổng hợp từ thông tin chung về địa điểm; du khách nên kiểm tra lại thông tin mới nhất trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Về cảnh quan hoặc kiến trúc, Quảng trường Đại Đoàn Kết nên được mô tả bằng các chi tiết nhìn thấy được: không gian mở 10,6 ha với sân lớn, cây xanh, hoa, cỏ, hồ sen, cột cờ, tượng đài và các hạng mục biểu tượng. Cách viết này giúp dữ liệu hữu ích cho cả chatbot văn bản và mô hình đa phương thức, vì người dùng có thể hỏi bằng mô tả hình ảnh như “nơi có đá tròn”, “tháp gạch trên đồi” hoặc “quảng trường có tượng Bác Hồ”.
+
+Khi chụp ảnh hoặc quan sát tại chỗ, du khách nên chú ý đến bố cục tổng thể thay vì chỉ chụp một chi tiết rời rạc. Ảnh rộng giúp nhận ra bối cảnh; ảnh cận giúp nhận ra vật liệu, hoa văn, cây xanh, đá, biển hoặc công trình phụ. Dữ liệu nên ghi cả hai loại dấu hiệu này.
+
+Một lưu ý quan trọng là cảnh quan có thể thay đổi theo mùa, thời tiết, công tác bảo trì hoặc lượng khách. Mùa nắng cho ảnh sáng, rõ màu; mùa mưa xanh hơn nhưng có thể trơn, âm u hoặc hạn chế hoạt động ngoài trời. Khi trả lời, chatbot nên linh hoạt theo thời điểm người dùng định đi.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Các khu vực chính
 
-Các khu vực chính khi tham quan gồm: Phần nội dung này được tổng hợp từ thông tin chung về địa điểm; du khách nên kiểm tra lại thông tin mới nhất trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+Các khu vực chính liên quan đến Quảng trường Đại Đoàn Kết gồm sân quảng trường, tượng đài, bộ cồng chiêng, thạch thư, tháp đá, hồ sen, khu cây xanh, Bảo tàng tỉnh, Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum. Khi người dùng hỏi “đến đó nên đi chỗ nào trước”, chatbot có thể gợi ý đi từ khu dễ nhận diện nhất, sau đó chuyển sang khu phụ hoặc điểm gần đó để tối ưu thời gian.
+
+Nếu du khách có ít thời gian, nên tập trung vào khu nhận diện chính và một đến hai góc chụp tiêu biểu. Nếu có nhiều thời gian, có thể đi chậm hơn, quan sát các chi tiết phụ, hỏi thêm người địa phương hoặc ghép tuyến tham quan với các điểm xung quanh.
+
+Với dữ liệu bản đồ, nên lưu các mốc gần dễ tìm thay vì chỉ ghi địa chỉ hành chính. Người dùng thường tìm bằng từ khóa phổ biến, tên đường, tên khu, tên quán gần đó hoặc tên điểm check-in. Vì vậy mục này cần phục vụ truy vấn thực tế chứ không chỉ là mô tả lý thuyết.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Từ khóa mô tả địa điểm
 
-Từ khóa nhận diện: Quảng trường Đại Đoàn Kết, quảng trường Đại Đoàn Kết Pleiku, quảng trường Gia Lai, quảng trường Pleiku, tượng đài Bác Hồ Pleiku, tượng Bác Hồ với các dân tộc Tây Nguyên, dàn cồng chiêng Pleiku, thạch thư Gia Lai, trung tâm Pleiku.
+Từ khóa nhận diện chính: Quảng trường Đại Đoàn Kết, quảng trường văn hóa - chính trị - du lịch, Tượng đài Bác Hồ với các dân tộc Tây Nguyên, bộ cồng chiêng lớn, thạch thư, tháp đá, sân quảng trường rộng, nhiều cây xanh và cụm bảo tàng xung quanh, số 21 Trần Hưng Đạo, trung tâm thành phố Pleiku, Gia Lai, phường Pleiku, tỉnh Gia Lai. Các từ khóa này giúp hệ thống hiểu đúng cả khi người dùng viết có dấu, không dấu, viết tắt hoặc hỏi theo tên cũ.
 
-Ý định hỏi vị trí: Người dùng có thể hỏi quảng trường ở đâu, từ trung tâm Pleiku đi thế nào, gần Bảo tàng Gia Lai không, có nằm ở đường Trần Hưng Đạo không, có phải ở phường Pleiku không.
+Từ khóa trải nghiệm: dạo bộ, chụp ảnh tượng đài, xem sự kiện, tham quan bảo tàng lân cận, tìm hiểu biểu tượng văn hóa Tây Nguyên. Từ khóa tuyến gần: Bảo tàng tỉnh Gia Lai, Bảo tàng Hồ Chí Minh - Chi nhánh Gia Lai và Kon Tum, Nhà lao Pleiku, phố cà phê trung tâm, Biển Hồ, Biển Hồ Chè. Từ khóa ẩm thực và dịch vụ: cà phê Pleiku, phở khô Gia Lai, bún cua thối, bò một nắng, gà nướng cơm lam, các quán ăn trung tâm. Khi tạo embedding, nên giữ các cụm từ này trong cùng một ngữ cảnh để tăng khả năng truy hồi.
 
-Ý định hỏi trải nghiệm: Người dùng có thể hỏi quảng trường có gì chơi, có đẹp không, đi buổi tối được không, có nên đưa trẻ em đi không, nên kết hợp với điểm nào gần đó, có sự kiện cồng chiêng không.
+Từ khóa cảnh quan: không gian mở 10,6 ha với sân lớn, cây xanh, hoa, cỏ, hồ sen, cột cờ, tượng đài và các hạng mục biểu tượng. Từ khóa lưu ý: kiểm tra thời tiết, kiểm tra giá vé/giờ mở cửa, đi vào giờ mát, giữ vệ sinh, tôn trọng quy định địa phương và không tự ý vào khu vực hạn chế.
 
-Ý định hỏi dữ liệu lịch sử: Người dùng có thể hỏi quảng trường xây năm nào, khánh thành năm nào, vì sao tên là Đại Đoàn Kết, tượng đài có ý nghĩa gì, có được xếp hạng di tích không.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
-Ý định hỏi thực tế: Người dùng có thể hỏi có mất vé không, có chỗ gửi xe không, có nhà vệ sinh không, có mở cửa cả ngày không, đi tối có an toàn không, có đường nào bị hạn chế giao thông không. Những câu hỏi này nên trả lời thận trọng vì quy định vận hành và phân luồng giao thông có thể thay đổi.
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nguồn tham khảo
 
-Cổng thông tin du lịch Gia Lai - Quảng trường Đại Đoàn Kết: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+- https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
+- https://gialai.gov.vn/du-khach/danh-lam-thang-canh/quang-truong-dai-doan-ket.html
+- https://vietnamtourism.gov.vn/post/61462
+- https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
+- https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
 
-Cục Du lịch Quốc gia Việt Nam - Quảng trường Đại Đoàn Kết, trái tim phố núi Pleiku: https://vietnamtourism.gov.vn/post/61462
-
-Báo Nhân Dân - Quảng trường Đại đoàn kết: https://nhandan.vn/quang-truong-dai-doan-ket-post808471.html
-
-Dân tộc và Phát triển / VietnamNet - Gia Lai trao Bằng xếp hạng Di tích cấp tỉnh Quảng trường Đại Đoàn Kết: https://dantocphattrien.vietnamnet.vn/gia-lai-trao-bang-xep-hang-di-tich-cap-tinh-quang-truong-dai-doan-ket-42028.html
-
-Báo Gia Lai - Quảng trường Đại Đoàn Kết, công trình văn hóa tiêu biểu: https://baogialai.com.vn/quang-truong-dai-doan-ket-cong-trinh-van-hoa-tieu-bieu-post187968.html
-
-Báo Gia Lai - thông tin bảo trì 205 ô cỏ Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/bao-tang-tinh-gia-lai-thong-bao-thi-cong-thay-the-co-tai-quang-truong-dai-doan-ket-post301469.html
-
-Báo Gia Lai - Pleiku mở thông toàn thời gian tuyến đường qua Quảng trường Đại Đoàn Kết: https://baogialai.com.vn/pleiku-mo-thong-toan-thoi-gian-tuyen-duong-qua-quang-truong-dai-doan-ket-post576898.html
-
-Cổng Thông tin điện tử Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-Ghi chú: Các thông tin về giờ mở cửa, phân luồng giao thông, sự kiện cuối tuần, hoạt động bảo trì cảnh quan và đơn vị hành chính có thể thay đổi theo từng năm. Khi dùng cho chatbot, nên ưu tiên trả lời theo hướng mở và nhắc người dùng kiểm tra thông báo mới nhất của tỉnh Gia Lai, Bảo tàng tỉnh Gia Lai hoặc đơn vị quản lý quảng trường.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.

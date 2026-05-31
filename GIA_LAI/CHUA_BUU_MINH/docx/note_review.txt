@@ -1,101 +1,128 @@
 1. Lưu ý khi tham quan
 
-Chùa là không gian tôn giáo, vì vậy cần mặc lịch sự, nói nhỏ, không gây ồn, không hút thuốc, không xả rác và không tạo dáng phản cảm. Du khách nên quan sát biển báo, khu vực được phép vào và hướng dẫn của nhà chùa.
+Khi tham quan Chùa Bửu Minh, du khách nên chuẩn bị theo loại hình chùa Phật giáo giữa vùng chè Biển Hồ. Điểm ngoài trời cần chống nắng/chống mưa; điểm di tích cần tôn trọng bảo tồn; điểm tâm linh cần trang phục lịch sự; điểm dịch vụ cần kiểm tra vé và giờ hoạt động.
 
-Nếu chụp ảnh, nên ưu tiên không gian bên ngoài, kiến trúc, cổng, sân chùa và cảnh quan đồi chè. Khi chụp bên trong chánh điện hoặc gần tượng thờ, nên xin phép hoặc tránh chụp nếu không chắc chắn.
+Không nên đi quá sát giờ đóng cửa hoặc quá muộn nếu địa điểm ít người. Nên mang nước, sạc dự phòng, giày phù hợp và xác định trước điểm gửi xe/lối ra.
 
-Không nên đi quá muộn. Khu vực ngoại ô có thể vắng hơn trung tâm, và một số đoạn đường qua đồi chè/hàng thông không phù hợp dừng xe lâu khi trời tối.
+Thông tin tham khảo, cần kiểm tra lại trước khi đi. Đặc biệt với thông tin giá vé, giờ mở cửa, số điện thoại, dịch vụ và quy định mới, cần kiểm tra lại trước khi đi.
 
-Không nên bẻ cành cây, hái chè, giẫm lên luống chè hoặc đi vào khu vực canh tác nếu không được phép. Biển Hồ Chè là không gian nông nghiệp, không chỉ là điểm chụp ảnh.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 2. Quy định tại địa điểm
 
-Quy định cụ thể có thể thay đổi theo nhà chùa và từng thời điểm. Các quy định chung nên áp dụng gồm giữ trật tự, trang phục kín đáo, không quay phim/chụp ảnh trong khu vực cấm, không tự ý chạm vào tượng, đồ thờ, chuông, trống hoặc pháp khí.
+Quy định thường gặp gồm giữ vệ sinh, không xả rác, không gây ồn, không phá hoại cây xanh/công trình, không tự ý vào khu vực cấm và tuân thủ hướng dẫn của nhân viên hoặc biển báo.
 
-Nếu có lễ, khóa tụng, sự kiện Phật giáo hoặc hoạt động nội bộ, du khách nên đứng ngoài quan sát, không chen vào khu vực đang hành lễ và không dùng đèn flash sát mặt người đang lễ bái.
+Với Chùa Bửu Minh, cần chú ý quy định ứng xử phù hợp với Phật giáo Gia Lai, ký ức đồn điền chè, đời sống tâm linh của cư dân vùng Biển Hồ, du lịch chậm và ứng xử tôn nghiêm nơi thờ tự. Nếu là di tích, không leo trèo/chạm khắc lên công trình; nếu là chùa, nói chuyện nhỏ và ăn mặc lịch sự; nếu là điểm tự nhiên, không bẻ cây, ném rác hoặc mạo hiểm.
 
-Nếu đi đoàn đông, nên thông báo hoặc trao đổi trước. Việc đỗ xe, vào khuôn viên, dâng hương và chụp ảnh tập thể cần thực hiện theo hướng dẫn tại chỗ.
+Khi có sự kiện, bảo trì hoặc thời tiết xấu, quy định có thể thay đổi tạm thời. Chatbot nên nhắc người dùng kiểm tra thông báo mới nhất nếu đi vào dịp đặc biệt.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 3. Điều cấm / hạn chế
 
-Hạn chế bật nhạc, livestream ồn ào, quay video gây náo loạn trong chùa. Không sử dụng drone nếu chưa xin phép vì có thể ảnh hưởng không gian tôn giáo, người dân và an toàn bay.
+Không leo rào, không đi vào khu vực hạn chế, không vẽ bậy, không tự ý lấy hiện vật/cây/đá, không gây ảnh hưởng đến khách khác hoặc người dân địa phương.
 
-Không ăn uống, trải bạt picnic hoặc tụ tập chơi đùa trong khu vực thờ tự. Nếu muốn nghỉ chân, nên chọn quán nước hoặc khu vực ngoài chùa phù hợp hơn.
+Không nên dùng flycam, quay chụp thương mại hoặc tổ chức hoạt động nhóm lớn nếu chưa hỏi quy định. Một số khu vực có thể hạn chế thiết bị bay, loa kéo, trang trí, dựng cảnh hoặc quay phim.
 
-Không tự ý đăng thông tin sai về chùa, giờ lễ, trụ trì, giá vé hoặc hoạt động tôn giáo nếu chưa có nguồn chính xác. Với chatbot, cần ưu tiên câu trả lời có điều kiện ở các thông tin nhạy cảm.
+Với khu vực dốc, đá, ven nước hoặc công trình cổ, không nên mạo hiểm để chụp ảnh. An toàn và bảo tồn luôn quan trọng hơn việc có góc ảnh lạ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 4. Mức độ đông khách
 
-Ngày thường, Chùa Bửu Minh thường yên tĩnh hơn các điểm check-in lớn. Cuối tuần, dịp lễ, Tết, rằm, mùng một hoặc mùa du lịch, lượng khách có thể tăng do chùa nằm cùng tuyến với Biển Hồ Chè và Hàng thông trăm tuổi.
+Mức độ đông khách tại Chùa Bửu Minh thường tăng vào cuối tuần, ngày lễ, mùa du lịch, khung giờ chiều mát hoặc khi có sự kiện. Ngày thường và sáng sớm thường dễ tham quan hơn.
 
-Nếu người dùng muốn chụp ảnh ít người, nên đi sáng sớm ngày thường. Nếu người dùng muốn đi lễ, các dịp rằm và lễ Phật giáo có không khí phù hợp hơn nhưng có thể đông hơn.
+Nếu muốn ảnh ít người, nên đi sớm hoặc chọn góc phụ. Nếu đi đoàn đông, cần thống nhất điểm hẹn, thời gian tập trung và người phụ trách để tránh lạc nhóm.
 
-Khi tuyến Biển Hồ Chè có sự kiện du lịch, chạy bộ, lễ hội hoặc mùa hoa dã quỳ, khu vực đường vào có thể đông xe và khó dừng chụp ảnh ở một số đoạn.
+Khi quá đông, nên ưu tiên quan sát tổng thể, giữ đồ cá nhân, không chen lấn và tránh dừng lâu ở lối đi chính.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 5. Độ an toàn
 
-Chùa Bửu Minh nhìn chung phù hợp cho tham quan nhẹ, nhưng vẫn cần chú ý bậc thềm, sân trơn sau mưa, xe ra vào khu vực chùa và đường di chuyển qua các đoạn nông thôn.
+Độ an toàn phụ thuộc thời tiết, nền đường, lượng khách và ý thức cá nhân. Với Chùa Bửu Minh, du khách nên chú ý các yếu tố như nắng, mưa, dốc, đá, xe cộ, khu vực nước sâu hoặc công trình cần bảo tồn nếu có.
 
-Nếu đi với trẻ em, cần nhắc trẻ không chạy trong sân chùa, không leo trèo lên lan can, tượng, bậc cao hoặc các hạng mục kiến trúc. Nếu đi với người lớn tuổi, nên chọn thời điểm ít nắng và hạn chế đi bộ quá xa trong đồi chè.
+Gia đình có trẻ nhỏ nên luôn đi kèm người lớn, tránh để trẻ chạy sát mép nước, mép dốc, bậc cao hoặc khu vực đông xe. Người lớn tuổi nên có thời gian nghỉ và tránh đi lúc nắng gắt.
 
-Nếu đi xe máy, cần chú ý đường đất đỏ và mưa ở Gia Lai. Sau mưa, bánh xe có thể trơn, giày dép dễ dính đất, ảnh hưởng đến việc vào chùa.
+Nếu có biển cảnh báo hoặc nhân viên nhắc nhở, cần tuân thủ. Không nên dựa vào kinh nghiệm cá nhân để bỏ qua cảnh báo tại chỗ.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 6. Khả năng tiếp cận
 
-Chùa có thể tiếp cận bằng xe máy, ô tô nhỏ, taxi hoặc xe du lịch tùy vị trí đỗ xe. Tuy nhiên, khả năng tiếp cận cho xe lăn hoặc người hạn chế vận động chưa nên khẳng định là thuận lợi hoàn toàn vì có thể có bậc thềm, nền không bằng phẳng và khu vực sân/chánh điện cần di chuyển bộ.
+Khả năng tiếp cận của Chùa Bửu Minh cần được mô tả theo từng nhóm: người đi bộ, xe máy, ô tô, gia đình, người lớn tuổi và người hạn chế vận động. Không phải điểm nào cũng có lối bằng phẳng hoặc hỗ trợ xe lăn.
 
-Với người lớn tuổi, nên hỏi tài xế dừng ở điểm gần cổng, chọn giày dép dễ đi, tránh giờ nắng gắt và không cố đi sâu vào các luống chè nếu không thuận tiện.
+Những yếu tố cần kiểm tra gồm khoảng cách từ bãi xe đến điểm chính, bậc thang, độ dốc, nền đá/cát, bóng mát, nhà vệ sinh và điểm nghỉ chân. Nếu thiếu thông tin, chatbot nên khuyên hỏi trước đơn vị quản lý hoặc người địa phương.
 
-Với khách nước ngoài, cần giải thích đây là chùa Phật giáo đang hoạt động, không phải chỉ là điểm chụp ảnh. Nên hướng dẫn về trang phục, tháo giày nếu cần và giữ im lặng trong khu thờ tự.
+Với người cần hỗ trợ đặc biệt, nên đi cùng người thân, chọn giờ mát và không đặt lịch quá dày. Lịch trình nhẹ thường đem lại trải nghiệm tốt hơn.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 7. Review tổng hợp
 
-Ấn tượng chung của nhiều du khách là chùa yên bình, kiến trúc đẹp, nằm trong khung cảnh xanh của đồi chè và hàng thông. Điểm mạnh lớn nhất là sự kết hợp giữa tâm linh, lịch sử vùng chè và cảnh quan tự nhiên.
+Review tổng hợp về Chùa Bửu Minh thường xoay quanh các điểm: dễ nhận diện, có giá trị tham quan, phù hợp chụp ảnh và có thể ghép tuyến với Biển Hồ Chè, Hàng thông trăm tuổi, Biển Hồ T’Nưng, Núi lửa Chư Đăng Ya, Quảng trường Đại Đoàn Kết, trung tâm Pleiku. Điểm đến này không nên được giới thiệu như một khu vui chơi mọi dịch vụ nếu bản chất là di tích, cảnh quan hoặc không gian mở.
 
-Chùa phù hợp với những người thích du lịch nhẹ, chụp ảnh, tìm hiểu văn hóa và kết hợp nhiều điểm gần nhau. Không phù hợp với người tìm khu vui chơi, dịch vụ giải trí, mua sắm hoặc trải nghiệm mạo hiểm.
+Điểm được đánh giá cao là ngôi chùa cổ nằm gần Biển Hồ Chè và Hàng thông trăm tuổi, nổi bật với mái chùa, cổng tam quan, tháp/chánh điện và nền đồi chè xanh. Điểm cần cân nhắc là thời tiết, lượng khách, dịch vụ thay đổi và khả năng tiếp cận từng khu.
 
-Trải nghiệm tốt nhất là đi chậm, kết hợp đồi chè và hàng thông, dành thời gian quan sát kiến trúc và giữ thái độ tôn trọng không gian chùa.
+Khi tổng hợp review, nên ưu tiên nguồn gần đây và nguồn đáng tin. Review cá nhân hữu ích cho trải nghiệm thực tế nhưng không thay thế thông báo chính thức về giá, giờ mở cửa và quy định.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 8. Ưu điểm
 
-Vị trí gần Pleiku, dễ ghép tuyến với Biển Hồ Chè và Hàng thông trăm tuổi.
+Ưu điểm lớn của Chùa Bửu Minh là có dấu hiệu nhận diện rõ: ngôi chùa cổ nằm gần Biển Hồ Chè và Hàng thông trăm tuổi, nổi bật với mái chùa, cổng tam quan, tháp/chánh điện và nền đồi chè xanh. Điều này giúp du khách dễ nhớ, dễ chụp ảnh và giúp hệ thống nhận diện địa điểm tốt hơn.
 
-Không gian yên tĩnh, xanh mát, phù hợp với du lịch tâm linh và chụp ảnh nhẹ.
+Ưu điểm thứ hai là khả năng kết hợp tuyến: Biển Hồ Chè, Hàng thông trăm tuổi, Biển Hồ T’Nưng, Núi lửa Chư Đăng Ya, Quảng trường Đại Đoàn Kết, trung tâm Pleiku. Nhờ vậy, địa điểm phù hợp cho cả lịch trình ngắn và lịch trình mở rộng.
 
-Có lớp giá trị văn hóa - lịch sử gắn với vùng chè Biển Hồ và cộng đồng địa phương.
+Ưu điểm thứ ba là giá trị văn hóa/cảnh quan: Phật giáo Gia Lai, ký ức đồn điền chè, đời sống tâm linh của cư dân vùng Biển Hồ, du lịch chậm và ứng xử tôn nghiêm nơi thờ tự. Đây là phần giúp chuyến đi có chiều sâu hơn việc chỉ check-in.
 
-Phù hợp nhiều nhóm khách: gia đình, người lớn tuổi, cặp đôi, nhóm bạn, người yêu văn hóa.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 9. Nhược điểm
 
-Dịch vụ du lịch tại chỗ hạn chế, không nên kỳ vọng như một khu du lịch thương mại.
+Nhược điểm có thể gặp là thông tin dịch vụ không ổn định, thời tiết ảnh hưởng mạnh, một số khu có thể nắng, dốc, xa điểm gửi xe hoặc ít tiện ích hơn kỳ vọng.
 
-Thông tin về giờ mở cửa, lễ nghi, dịch vụ, gửi xe có thể không đồng nhất giữa các nguồn, cần kiểm tra tại chỗ.
+Nếu người dùng mong đợi nhiều trò chơi, mua sắm hoặc dịch vụ cố định, Chùa Bửu Minh có thể không phù hợp trong mọi trường hợp. Cần định hướng đúng bản chất điểm đến là chùa Phật giáo giữa vùng chè Biển Hồ.
 
-Dễ bị nhầm với Chùa Minh Thành hoặc nhầm với Biển Hồ Chè nếu dữ liệu không tách rõ.
+Vào mùa cao điểm hoặc ngày lễ, trải nghiệm có thể giảm do đông khách, khó chụp ảnh, khó gửi xe hoặc giá dịch vụ xung quanh tăng.
 
-Mùa mưa có thể ảnh hưởng đến đường đi và trải nghiệm chụp ảnh ở khu đồi chè.
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 10. Kinh nghiệm tránh rủi ro
 
-Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Chùa Bửu Minh nhìn chung phù hợp cho tham quan nhẹ, nhưng vẫn cần chú ý bậc thềm, sân trơn sau mưa, xe ra vào khu vực chùa và đường di chuyển qua các đoạn nông thôn. Nếu đi với trẻ em, cần nhắc trẻ không chạy trong sân chùa, không leo trèo lên lan can, tượng, bậc cao hoặc các hạng mục kiến trúc. Nếu đi với người lớn tuổi, nên chọn thời điểm ít nắng và hạn chế đi bộ quá xa trong đồi chè.
+Để tránh rủi ro, nên kiểm tra thời tiết, tuyến đường, giờ hoạt động, giá vé/dịch vụ và thông báo địa phương trước khi đi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Nên đi theo nhóm hoặc báo người thân lịch trình nếu đến khu ít người. Không mang quá nhiều đồ giá trị, không để túi xách/điện thoại rời khỏi tầm mắt và luôn chú ý trẻ nhỏ.
+
+Nếu thời tiết xấu, sức khỏe không tốt hoặc khu vực có cảnh báo, nên đổi lịch trình sang điểm trong nhà, quán cà phê, bảo tàng hoặc điểm gần trung tâm.
+
+Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
+
+Khi thông tin giữa các nguồn không hoàn toàn giống nhau, nên viết theo hướng thận trọng. Những dữ kiện như niên đại, diện tích, số lượng cá thể, giá vé hoặc giờ mở cửa nên dùng các cụm “nhiều nguồn ghi”, “thường được mô tả”, “khoảng”, “tham khảo” và “cần kiểm tra lại trước khi đi”. Cách này phù hợp với dữ liệu du lịch luôn biến động.
 
 11. Nguồn tham khảo
 
-Cổng thông tin xã Biển Hồ, Gia Lai - giới thiệu điểm văn hóa, du lịch trên địa bàn xã Biển Hồ: https://bienho.gialai.gov.vn/thong-bao-van-ban-moi/gioi-thieu-diem-van-hoa-du-lich-tren-dia-ban-xa-bien-ho.html
+- https://baogialai.com.vn/
+- https://phatgiao.org.vn/
+- https://gialai.gov.vn/
+- https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_H%E1%BB%93
 
-Cục Du lịch Quốc gia Việt Nam - Biển Hồ chè, thiên đường xanh ngát của Tây Nguyên: https://vietnamtourism.gov.vn/post/32542
-
-Báo Gia Lai - Biển Hồ chè, dấu ấn trăm năm: https://baogialai.com.vn/bien-ho-che-dau-an-tram-nam-post568256.html
-
-Báo Gia Lai - Dấu ấn Nho giáo trong chùa Bửu Minh: https://baogialai.com.vn/dau-an-nho-giao-trong-chua-buu-minh-post311773.html
-
-Báo Gia Lai - Thắng cảnh hàng thông cổ thụ, chùa cổ Bửu Minh: https://baogialai.com.vn/thang-canh-hang-thong-co-thu-chua-co-buu-minh-lam-gi-de-hap-dan-du-khach-post198722.html
-
-Phatgiao.org.vn - Về thăm chùa Bửu Minh với nét đẹp cổ kính tồn tại cùng tháng năm: https://phatgiao.org.vn/ve-tham-chua-buu-minh-voi-net-dep-co-kinh-ton-tai-cung-thang-nam-d72483.html
-
-Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai năm 2025: https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1664-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-gia-lai-nam-2025-119250616194200895.htm
-
-GreenSM - Chùa Bửu Minh, thông tin du lịch và lịch sử hình thành: https://www.greensm.com/vn-vi/news/chua-buu-minh-gia-lai
-
-Ghi chú: Thông tin về giờ mở cửa, hoạt động lễ nghi, quy định chụp ảnh, tình trạng dịch vụ và đường đi có thể thay đổi theo thời điểm. Khi dùng cho chatbot RAG, nên ưu tiên trả lời có điều kiện và khuyến nghị người dùng kiểm tra lại với nguồn địa phương hoặc nhà chùa nếu cần thông tin rất cập nhật.
+Ghi chú: Nguồn tham khảo được dùng để đối chiếu thông tin nền, vị trí, giá trị văn hóa, lịch hoạt động và bối cảnh hành chính. Các thông tin có thể thay đổi như giá vé, giờ mở cửa, số điện thoại, dịch vụ và tình trạng vận hành cần kiểm tra lại trước khi đi.
