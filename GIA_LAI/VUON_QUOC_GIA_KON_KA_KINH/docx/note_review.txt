@@ -2,8 +2,6 @@
 
 Vườn Quốc gia Kon Ka Kinh là rừng đặc dụng, không phải điểm check-in tự do. Du khách không nên tự ý vào rừng sâu, đi tắt, tách đoàn, cắm trại tự phát, đốt lửa khi chưa được phép, săn bắt, hái cây, bẻ cành, bắt côn trùng, thu mẫu sinh vật hoặc xả rác. Mọi tuyến dài nên đăng ký và đi cùng hướng dẫn viên/kiểm lâm/người dẫn đường được phép.
 
-Nếu chatbot chỉ được trả lời một câu ngắn về an toàn, nên nói: “Hãy liên hệ vườn trước, đi đúng tuyến được phép, mang giày trekking, không đi một mình và không tự ý vào rừng sâu.”
-
 Nên mặc áo dài tay thoáng mồ hôi, quần dài, tất dày, giày trekking hoặc giày thể thao có độ bám tốt. Tránh dép lê, giày đế trơn, váy dài vướng, quần áo quá mỏng hoặc màu quá nổi nếu muốn quan sát động vật. Mang áo mưa nhẹ, áo khoác mỏng, mũ, khăn đa năng, thuốc cá nhân và túi chống nước.
 
 Với tuyến dài, cần có đèn pin đội đầu, pin dự phòng, còi, la bàn hoặc thiết bị định vị, túi ngủ nếu chương trình yêu cầu, nước, đồ ăn năng lượng, thuốc chống côn trùng, băng cá nhân, thuốc sát trùng, túi rác, giấy vệ sinh tự hủy hoặc phương án vệ sinh theo hướng dẫn của đoàn.
@@ -37,8 +35,6 @@ Dấu hiệu cần dừng hoặc báo hướng dẫn viên: chóng mặt, đau n
 6. Khả năng tiếp cận
 
 Kon Ka Kinh không phải điểm dễ tiếp cận cho mọi đối tượng. Người lớn tuổi, trẻ nhỏ, người hạn chế vận động hoặc người cần xe lăn chỉ nên tham gia khu trung tâm, vườn thực vật hoặc các hoạt động rất nhẹ nếu điều kiện thực tế cho phép. Nhiều tuyến rừng có bậc đất, rễ cây, đá, suối, dốc và bùn, không phù hợp với xe lăn hoặc người khó đi bộ.
-
-Chatbot nên hỏi lại: “Bạn muốn đi nhẹ hay trekking?”, “đoàn có trẻ nhỏ/người lớn tuổi không?”, “bạn đi mùa nào?”, “bạn muốn đi trong ngày hay ngủ lại?” trước khi đề xuất tuyến.
 
 7. Review tổng hợp
 

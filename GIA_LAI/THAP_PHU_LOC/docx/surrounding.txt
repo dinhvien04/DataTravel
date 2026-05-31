@@ -6,8 +6,6 @@ Nếu người dùng chỉ có nửa ngày, nên chọn một đến hai điểm
 
 Cần phân biệt điểm chính với điểm cùng tên hoặc điểm dễ nhầm. Ví dụ cùng là tháp, cùng là bãi biển hoặc cùng là núi lửa, mỗi địa điểm vẫn có dấu hiệu nhận diện và lịch trình khác nhau.
 
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
 2. Sự kiện / lễ hội
 
 Sự kiện hoặc lễ hội quanh Tháp Phú Lốc phụ thuộc lịch địa phương. Có thời điểm khu vực tổ chức chương trình văn hóa, lễ hội, triển lãm, hoạt động du lịch hoặc sự kiện cộng đồng làm lượng khách tăng mạnh.
@@ -15,8 +13,6 @@ Sự kiện hoặc lễ hội quanh Tháp Phú Lốc phụ thuộc lịch địa
 Nếu người dùng muốn đi dịp lễ, nên kiểm tra thông báo của địa phương, cổng du lịch hoặc fanpage đơn vị quản lý. Sự kiện có thể tạo trải nghiệm thú vị nhưng cũng làm khó gửi xe, chụp ảnh và di chuyển.
 
 Với điểm tôn giáo hoặc di tích, ngày lễ có thể cần ứng xử trang nghiêm hơn. Với điểm biển/núi/quảng trường, sự kiện có thể kèm phân luồng giao thông hoặc hạn chế một số khu vực.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Hoạt động theo mùa
 
@@ -26,8 +22,6 @@ Một số mùa có cảnh quan đẹp hơn: cây xanh mướt, trời trong, bi
 
 Khi chatbot trả lời, nên hỏi hoặc suy luận mục tiêu của người dùng: muốn ảnh đẹp, muốn ít đông, muốn tiết kiệm, muốn đi với trẻ nhỏ hay muốn trải nghiệm văn hóa. Mỗi mục tiêu có mùa và khung giờ khác nhau.
 
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
 4. Đối tượng phù hợp
 
 Tháp Phú Lốc phù hợp với nhiều nhóm khách nếu chọn đúng thời điểm và cách di chuyển. Khách trẻ có thể chủ động chụp ảnh và ghép nhiều điểm; gia đình nên ưu tiên giờ mát, đường dễ đi và dịch vụ gần; người lớn tuổi cần hạn chế nắng, dốc và đi bộ quá lâu.
@@ -36,15 +30,11 @@ Khách yêu văn hóa nên dành thời gian đọc trước thông tin về di 
 
 Nếu người dùng hỏi “có phù hợp trẻ em/người già không”, chatbot nên trả lời có điều kiện: phù hợp nếu đi giờ mát, chuẩn bị nước, chọn khu dễ đi và tránh khu vực nguy hiểm hoặc quá đông.
 
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
 5. Gợi ý tuyến tham quan kết hợp
 
 Tuyến ngắn: Tháp Phú Lốc kết hợp một điểm gần trong nhóm tháp Cánh Tiên, thành Hoàng Đế/Đồ Bàn, tháp Bánh Ít, Quy Nhơn, sân bay Phù Cát, các làng nghề An Nhơn, sau đó ăn uống với các món như nem chợ Huyện, bánh ít lá gai, bánh hỏi, bún chả cá, món quê An Nhơn tùy tuyến đường. Tuyến này phù hợp khách có nửa ngày hoặc muốn đi nhẹ.
 
 Tuyến một ngày: chọn Tháp Phú Lốc làm điểm chính, sau đó thêm hai đến ba điểm cùng hướng. Không nên ghép các điểm quá xa nhau khiến thời gian di chuyển nhiều hơn thời gian trải nghiệm.
-
-Tuyến cho chatbot nên viết linh hoạt: nếu người dùng xuất phát từ trung tâm, ưu tiên điểm gần; nếu xuất phát từ sân bay hoặc khu nghỉ dưỡng, ưu tiên tuyến thuận đường. Luôn cộng thời gian dự phòng cho thời tiết và ăn uống.
 
 Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 

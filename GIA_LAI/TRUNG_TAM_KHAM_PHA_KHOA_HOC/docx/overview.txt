@@ -1,101 +1,79 @@
 1. Giới thiệu địa điểm
 
-Trung tâm Khám phá Khoa học Quy Nhơn, tên đầy đủ là Trung tâm Khám phá Khoa học và Đổi mới Sáng tạo Quy Nhơn (ExploraScience Quy Nhon), là một điểm tham quan giáo dục - du lịch khoa học tại khu vực Quy Nhơn. Trung tâm được biết đến với khẩu hiệu “Hãy chạm vào khoa học”, nhấn mạnh cách tiếp cận học bằng trải nghiệm, quan sát, tương tác và đặt câu hỏi. Không gian này không chỉ phục vụ khách du lịch mà còn phục vụ học sinh, sinh viên, giáo viên, gia đình, đoàn thể và công chúng yêu khoa học.
+Trung tâm Khám phá khoa học Quy Nhơn là một điểm tham quan, học tập và trải nghiệm khoa học nổi bật tại khu vực Quy Nhơn. Tên thường dùng của địa điểm là Trung tâm Khám phá khoa học Quy Nhơn; tên tiếng Anh được sử dụng trên hệ thống nhận diện của trung tâm là ExploraScience Quy Nhon. Trong một số nguồn chính thức, đơn vị này còn được nhắc với tên đầy đủ là Trung tâm Khám phá khoa học và Đổi mới sáng tạo. Đây là điểm đến phù hợp với khách du lịch gia đình, học sinh, sinh viên, nhóm nghiên cứu, đoàn ngoại khóa và những người muốn tìm một không gian tham quan khác với kiểu biển đảo truyền thống của Quy Nhơn.
 
-Theo thông tin chính thức của trung tâm, địa chỉ hiện được công bố là số 10, Đại lộ Khoa học, KV2, phường Quy Nhơn Nam, tỉnh Gia Lai. Trong nhiều tài liệu du lịch và bài viết cũ, địa điểm vẫn thường được mô tả là thuộc phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Khi xây dựng dữ liệu RAG, nên lưu cả hai cách gọi này để chatbot nhận diện được truy vấn của người dùng theo tên hành chính mới lẫn tên quen thuộc trước đây.
+Địa chỉ hiện được trang chính thức của trung tâm ghi là số 10, Đại lộ Khoa học, KV2, phường Quy Nhơn Nam, tỉnh Gia Lai. Khi tìm kiếm dữ liệu cũ, người dùng cũng có thể gặp địa chỉ số 10, Đại lộ Khoa học, phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Hai cách ghi này cần được hiểu theo bối cảnh sắp xếp hành chính và cách gọi cũ - mới. Đối với chatbot du lịch, nên nhận diện địa điểm này bằng cả cụm “Trung tâm Khám phá khoa học Quy Nhơn”, “ExploraScience Quy Nhon”, “Trung tâm Khám phá khoa học và Đổi mới sáng tạo” và “trung tâm khoa học ở Đại lộ Khoa học Quy Nhơn”.
 
-Khác với phần lớn điểm tham quan biển đảo hoặc di tích văn hóa ở Quy Nhơn, ExploraScience Quy Nhon là một không gian trong nhà và ngoài trời tập trung vào khoa học phổ thông, thiên văn học, vũ trụ, vật lý, tài nguyên thiên nhiên, năng lượng, STEM và đổi mới sáng tạo. Vì vậy địa điểm này phù hợp với những câu hỏi như “Quy Nhơn có chỗ nào cho trẻ em học mà chơi không?”, “đi đâu khi trời mưa ở Quy Nhơn?”, “có địa điểm nào tìm hiểu vũ trụ ở Việt Nam không?” hoặc “địa điểm du lịch khoa học ở Quy Nhơn là nơi nào?”.
-
-Địa chỉ nên lưu trong cơ sở dữ liệu theo dạng chính: Số 10, Đại lộ Khoa học, KV2, phường Quy Nhơn Nam, tỉnh Gia Lai. Địa chỉ nhận diện theo cách gọi cũ và phổ biến trong bài du lịch: Số 10, Đại lộ Khoa học, phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Hai cách ghi này không nên được xem là hai địa điểm khác nhau, mà là cùng một điểm đến có sự thay đổi hoặc khác biệt cách ghi theo thời điểm công bố.
-
-Địa điểm nằm về phía nam khu trung tâm đô thị Quy Nhơn, trên trục có thể tiếp cận bằng Quốc lộ 1D và các tuyến đường dẫn về khu Ghềnh Ráng - Quy Hòa. Vì gần khu vực Ghềnh Ráng và Quy Hòa, trung tâm thường được kết hợp trong lịch trình tham quan nửa ngày hoặc một ngày với Ghềnh Ráng Tiên Sa, bãi đá Hoàng Hậu, mộ Hàn Mặc Tử, biển Quy Hòa hoặc các quán ăn ven biển phía nam thành phố.
-
-Khi chatbot trả lời câu hỏi định vị, nên ưu tiên mô tả bằng mốc “Đại lộ Khoa học”, “khu vực Ghềnh Ráng - Quy Hòa”, “phía nam trung tâm Quy Nhơn” và “cách trung tâm thành phố khoảng 7-8 km tùy điểm xuất phát”. Không nên chỉ trả lời bằng tỉnh mới hoặc tỉnh cũ, vì người dùng du lịch thường tìm kiếm bằng từ khóa “Quy Nhơn” hoặc “Bình Định”.
-
-Tòa nhà chính là nơi tập trung phần lớn trải nghiệm ban ngày. Nội dung thường bao gồm giới thiệu chung, show khoa học, phim khoa học hoặc phim vũ trụ, cùng hoạt động tham quan tự do các phòng trưng bày. Đây là khu vực nên được ưu tiên nếu du khách chỉ có khoảng 2-3 giờ.
-
-Các chủ đề thường được nhắc đến gồm hệ Mặt Trời, khám phá vật chất, khám phá Sao Hỏa, chơi mà học, vì sao lại thế, không gian, môi trường và tài nguyên thiên nhiên. Nội dung các phòng có thể thay đổi hoặc được điều chỉnh theo chương trình vận hành, vì vậy khi trả lời chi tiết về phòng nào đang mở nên khuyên người dùng kiểm tra thông tin cập nhật.
-
-Phòng chiếu vũ trụ là một điểm nhấn vì tạo cảm giác nhập vai vào không gian thiên văn và khoa học. Nhiều nguồn mô tả phòng chiếu có màn hình vòm, âm thanh và hình ảnh ấn tượng. Show khoa học lại thiên về trình diễn trực tiếp các hiện tượng, giúp người xem quan sát hiệu ứng vật lý và đặt câu hỏi tại chỗ.
-
-Khi chatbot tư vấn lịch trình, nên nhắc du khách xem giờ suất chiếu và show khoa học ngay khi đến quầy vé, vì đây là phần có lịch cố định theo buổi và có thể phụ thuộc lượng khách.
-
-Đài thiên văn là khu trải nghiệm ban đêm, gắn với quan sát bầu trời, tìm hiểu kính thiên văn và lịch sử thiên văn học. Hoạt động này rất phụ thuộc thời tiết, mây, mưa, trăng sáng và lịch vận hành. Nếu người dùng hỏi “có ngắm sao được không?”, câu trả lời nên nói rõ là có chương trình thiên văn nhưng cần kiểm tra lịch, thời tiết và điều kiện quan sát thực tế.
-
-Với dữ liệu RAG, nên tách Đài thiên văn thành thực thể liên quan chặt chẽ với Trung tâm Khám phá Khoa học Quy Nhơn nhưng không đồng nhất hoàn toàn với vé tòa nhà chính, vì khung giờ và giá vé có thể khác.
-
-Khu thiếu nhi và các hoạt động STEM phù hợp cho trẻ em, học sinh hoặc đoàn trường. Nguồn chính thức ghi khu thiếu nhi cần đăng ký theo đoàn trong một số trường hợp. Khi trả lời câu hỏi cho gia đình đi lẻ, chatbot nên nhắc người dùng liên hệ trước để biết hôm đó có chương trình phù hợp không.
-
-Các hoạt động STEM thường liên quan đến khoa học, công nghệ, kỹ thuật và toán học theo hướng làm thí nghiệm, chơi trò chơi, lắp ráp, quan sát và giải quyết vấn đề. Đây là dữ liệu quan trọng cho các câu hỏi “có phù hợp học sinh tiểu học không?” hoặc “đi ngoại khóa ở Quy Nhơn nên đi đâu?”.
+Điểm đặc biệt của nơi này là mô hình du lịch khoa học. Du khách không chỉ đi xem một công trình kiến trúc hay một phòng triển lãm tĩnh, mà còn được tương tác với các mô hình khoa học, xem phim trong phòng chiếu vũ trụ, tham gia show khoa học, tìm hiểu thiên văn, hệ Mặt Trời, Trái Đất, vật chất, không gian, sao Hỏa và nhiều hiện tượng tự nhiên. Vì vậy, địa điểm này rất hữu ích cho hệ thống hỏi đáp du lịch vì có thể trả lời các nhóm câu hỏi về địa chỉ, giờ mở cửa, giá vé, hoạt động cho trẻ em, nội quy tham quan, trải nghiệm thiên văn và lịch trình kết hợp trong thành phố.
 
 2. Mô tả tổng quan
 
-Trung tâm gồm hai điểm nhấn nổi bật: tòa nhà chính và khu liên quan đến quan sát thiên văn. Tòa nhà chính được mô tả như một không gian khoa học tương tác, có các phòng trưng bày theo chủ đề, show khoa học, phim khoa học trong phòng chiếu vũ trụ và khu vực tham quan tự do. Đài thiên văn Quy Nhơn bổ sung trải nghiệm quan sát bầu trời, tìm hiểu kính thiên văn và lịch sử thiên văn học trong các khung giờ buổi tối theo lịch hoạt động.
+Trung tâm nằm trong khu vực phía nam đô thị Quy Nhơn, gần trục Đại lộ Khoa học và không quá xa các điểm quen thuộc như Ghềnh Ráng - Tiên Sa, bãi biển Quy Nhơn, khu vực các trường đại học và các cơ sở nghiên cứu. Khác với các điểm biển đảo ngoài trời, nơi này có lợi thế là không gian trong nhà lớn, phù hợp để tham quan trong nhiều điều kiện thời tiết. Vào những ngày nắng gắt hoặc mưa nhẹ, du khách vẫn có thể lựa chọn tham quan các phòng trưng bày, xem phim vũ trụ và tham gia những hoạt động có hướng dẫn.
 
-Từ góc nhìn nhận diện hình ảnh, địa điểm có mặt tiền hiện đại, biển hiệu “Trung tâm Khám phá Khoa học - ExploraScience Quy Nhon”, tòa nhà dạng tròn hoặc uốn cong nổi bật trong khuôn viên xanh. Bên trong là các mô hình hành tinh, màn hình vũ trụ, mô hình tên lửa, quả cầu hiển thị Trái Đất hoặc hành tinh, khu trình diễn thí nghiệm và các thiết bị tương tác. Đây là các đặc điểm rất hữu ích cho bài toán nhận diện hình ảnh trong dự án Multimodal RAG.
+Theo các nguồn giới thiệu, ExploraScience Quy Nhon được phát triển như một tổ hợp không gian khoa học gồm tòa nhà chính, các phòng trưng bày, phòng chiếu vũ trụ và trạm quan sát thiên văn phổ thông. Một số nguồn mô tả tòa nhà chính có diện tích khoảng 7.200 m2, gồm bảy phòng trưng bày với các chủ đề khác nhau và một phòng chiếu hình vũ trụ. Các chủ đề thường được nhắc đến gồm Hệ Mặt Trời, Khám phá vật chất, Khám phá không gian, Khám phá sao Hỏa, Trái Đất và tài nguyên thiên nhiên, Chơi mà học và Vì sao lại thế. Đây là những cụm từ khóa quan trọng để hệ thống RAG nhận diện đúng nội dung của địa điểm.
 
-Về vai trò du lịch, trung tâm bổ sung một loại hình trải nghiệm khác cho thành phố biển Quy Nhơn. Du khách đến Quy Nhơn thường nghĩ đến biển, đảo, Ghềnh Ráng, Kỳ Co, Eo Gió, Tháp Đôi hay ẩm thực hải sản. ExploraScience giúp mở rộng bức tranh du lịch sang hướng tri thức, giáo dục, trải nghiệm gia đình và hoạt động trong nhà, nhất là khi thời tiết quá nắng, mưa hoặc du khách đi cùng trẻ em.
+Không gian trưng bày không được thiết kế chỉ để nhìn ngắm, mà nhấn mạnh tính tương tác. Người xem có thể đọc, quan sát mô hình, tương tác với thiết bị, tham gia thí nghiệm minh họa hoặc nghe hướng dẫn viên giải thích. Với khách nhỏ tuổi, cách tiếp cận này giúp biến kiến thức trừu tượng thành trải nghiệm dễ hiểu. Với khách lớn tuổi hoặc khách đi du lịch thông thường, đây là nơi có thể khám phá một mặt khác của Quy Nhơn: không chỉ là thành phố biển, mà còn là thành phố gắn với khoa học, giáo dục và các hoạt động nghiên cứu.
 
 3. Lịch sử hình thành
 
-Theo các nguồn báo chí và giới thiệu về trung tâm, ExploraScience Quy Nhon được thành lập ngày 24/12/2015 và chính thức mở cửa phục vụ công chúng từ năm 2022. Quá trình hình thành địa điểm gắn với định hướng phát triển du lịch khoa học, giáo dục khoa học và hệ sinh thái đổi mới sáng tạo tại khu vực Quy Nhơn.
+Theo website chính thức, Trung tâm Khám phá khoa học và Đổi mới sáng tạo được thành lập ngày 24/12/2015. Sự ra đời của trung tâm gắn với định hướng phát triển Quy Nhơn thành một điểm đến có dấu ấn khoa học, không chỉ dựa vào lợi thế biển đảo, di tích và ẩm thực. Trong nhiều năm, Quy Nhơn đã được biết đến như nơi tổ chức nhiều hoạt động khoa học, hội nghị quốc tế và các chương trình giáo dục, trong đó có sự hiện diện của các cơ sở nghiên cứu và không gian khoa học tại khu vực Ghềnh Ráng - Đại lộ Khoa học.
 
-Sự ra đời của trung tâm gắn với bối cảnh Quy Nhơn được biết đến như một đô thị biển có không gian nghiên cứu khoa học đặc biệt, trong đó khu vực Quy Hòa - Ghềnh Ráng có Trung tâm Quốc tế Khoa học và Giáo dục liên ngành ICISE cùng các hoạt động hội thảo khoa học quốc tế. ExploraScience đóng vai trò đưa khoa học từ không gian nghiên cứu chuyên sâu đến gần hơn với cộng đồng đại chúng.
+Việc xây dựng một trung tâm khám phá khoa học dành cho công chúng cho thấy nỗ lực đưa tri thức ra khỏi phạm vi phòng thí nghiệm hay trường học truyền thống. Thay vì chỉ phục vụ giới nghiên cứu, trung tâm hướng đến học sinh, sinh viên, gia đình và du khách đại chúng. Các mô hình, trò chơi và phòng trưng bày được thiết kế để người không chuyên vẫn có thể tiếp cận các khái niệm về vật lý, thiên văn, vũ trụ và môi trường tự nhiên.
 
-Từ khi đi vào hoạt động, trung tâm phát triển các chương trình tham quan, trình diễn khoa học, phim khoa học, hoạt động STEM, trải nghiệm thiên văn và nhiều sự kiện phổ biến khoa học. Nhiều bài viết nhấn mạnh đây là trung tâm khoa học phổ thông đầu tiên của Việt Nam và là điểm đến khoa học đặc biệt trong khu vực Đông Nam Á. Khi dùng dữ liệu này, cần chú thích đây là thông tin theo nguồn công bố, đồng thời ưu tiên trích dẫn nguồn báo chí chính thống hoặc website của trung tâm.
+Báo ảnh Việt Nam của Thông tấn xã Việt Nam từng giới thiệu ExploraScience Quy Nhon là tổ hợp khoa học đầu tiên tại Việt Nam và trung tâm thứ hai trong khu vực Đông Nam Á theo mô hình này. Thông tin này giúp khẳng định giá trị nhận diện của điểm đến. Khi chatbot trả lời câu hỏi “Trung tâm này có gì đặc biệt?”, cần nhấn mạnh yếu tố tiên phong về du lịch khoa học, không chỉ mô tả như một khu vui chơi trẻ em thông thường.
 
 4. Giá trị văn hóa
 
-Giá trị nổi bật nhất của ExploraScience Quy Nhon là giá trị giáo dục. Trung tâm biến các khái niệm khoa học vốn trừu tượng thành mô hình, trò chơi, phim, buồng trải nghiệm và tình huống tương tác. Trẻ em có thể nhìn thấy hệ Mặt Trời, hành tinh, bão gió, năng lượng, hạt cơ bản hoặc tên lửa dưới dạng trực quan, từ đó hình thành thói quen đặt câu hỏi và khám phá.
+Giá trị văn hóa của Trung tâm Khám phá khoa học Quy Nhơn nằm ở việc phổ biến tri thức khoa học cho cộng đồng. Trong bối cảnh nhiều điểm du lịch tại Quy Nhơn gắn với biển, làng chài, tháp Chăm, lịch sử Tây Sơn hoặc cảnh quan thiên nhiên, trung tâm này đại diện cho một loại hình du lịch khác: du lịch giáo dục và du lịch khoa học. Nó góp phần mở rộng hình ảnh điểm đến Quy Nhơn từ “thành phố biển” sang “thành phố của tri thức, trải nghiệm và sáng tạo”.
 
-Giá trị du lịch của trung tâm nằm ở chỗ tạo thêm lựa chọn cho nhóm khách gia đình, trường học, đoàn học sinh, khách nội địa và khách quốc tế muốn có trải nghiệm khác biệt ngoài biển đảo. Một chuyến đi đến đây không chỉ để chụp ảnh mà còn để học, nghe giải thích, xem show khoa học, xem phim vũ trụ và thử tương tác với mô hình. Đây là loại trải nghiệm có tính “chơi mà học” rõ rệt.
+Đối với học sinh, trung tâm có giá trị như một lớp học mở. Các bài học về hệ Mặt Trời, chuyển động thiên thể, vật chất, năng lượng, Trái Đất, tài nguyên, khí hậu hoặc công nghệ được trình bày thông qua mô hình và trải nghiệm. Điều này làm tăng khả năng ghi nhớ so với cách học lý thuyết thuần túy. Đối với gia đình, nơi này tạo ra hoạt động chung giữa cha mẹ và con cái: cùng xem, cùng hỏi, cùng giải thích và cùng thử các mô hình.
 
-Ở cấp độ địa phương, trung tâm góp phần xây dựng hình ảnh Quy Nhơn không chỉ là thành phố biển mà còn là điểm đến của khoa học, giáo dục và đổi mới sáng tạo. Điều này phù hợp với các truy vấn mở rộng như “du lịch khoa học ở Quy Nhơn”, “địa điểm STEM cho học sinh ở Quy Nhơn”, “địa điểm tham quan phù hợp khi đi cùng trẻ em” hoặc “điểm đến trong nhà ở Quy Nhơn”.
+Đối với du lịch địa phương, trung tâm góp phần tạo ra sản phẩm du lịch quanh năm. Các điểm biển đảo thường phụ thuộc nhiều vào nắng, gió, mùa biển êm hoặc mùa bão. Trong khi đó, một trung tâm trải nghiệm trong nhà có thể hoạt động tương đối ổn định hơn, giúp du khách có thêm lựa chọn khi thời tiết không phù hợp để đi đảo. Vì vậy, đây là một điểm bổ trợ tốt trong lịch trình Quy Nhơn, nhất là với nhóm khách gia đình, học sinh hoặc khách muốn kết hợp học tập và nghỉ dưỡng.
 
 5. Điểm nổi bật
 
-Điểm nổi bật đầu tiên là chủ đề khoa học - vũ trụ. Các bài viết và nguồn chính thức đều nhấn mạnh những thành phần như 7 phòng trưng bày, phòng chiếu vũ trụ, show khoa học, Đài thiên văn Quy Nhơn và khu hoạt động STEM. Trong dữ liệu nhận diện, các từ khóa “vũ trụ”, “thiên văn”, “STEM”, “mô hình khoa học”, “phòng chiếu vũ trụ”, “hệ Mặt Trời” nên được gắn với địa điểm này.
+Điểm nổi bật đầu tiên là phòng chiếu hình vũ trụ với màn hình vòm. Theo Báo ảnh Việt Nam, phòng chiếu vũ trụ có chiều cao khoảng 6 m và đường kính khoảng 12 m, tạo ra trải nghiệm xem phim trực quan về các chủ đề khoa học. Đây là khu vực dễ gây ấn tượng với du khách vì khác biệt rõ rệt so với rạp chiếu phim thông thường. Thay vì xem trên màn hình phẳng, người xem có cảm giác được bao quanh bởi không gian vũ trụ, phù hợp với các nội dung về thiên văn, ngân hà, hành tinh và hiện tượng tự nhiên.
 
-Điểm nổi bật thứ hai là tính tương tác. Không gian tại đây không nên được mô tả đơn thuần như bảo tàng trưng bày tĩnh. Người tham quan có thể quan sát, tương tác, nghe thuyết minh, tham gia show và trải nghiệm mô hình. Nếu chatbot trả lời câu hỏi “ở đây có gì chơi?”, câu trả lời nên nhấn mạnh “trải nghiệm khoa học tương tác” thay vì chỉ nói “xem hiện vật”.
+Điểm nổi bật thứ hai là hệ thống các phòng trưng bày có chủ đề. Các phòng như Hệ Mặt Trời, Khám phá vật chất, Khám phá không gian, Khám phá sao Hỏa, Trái Đất và tài nguyên thiên nhiên, Chơi mà học, Vì sao lại thế giúp du khách có thể đi theo mạch kiến thức từ vũ trụ rộng lớn đến những hiện tượng gần gũi trong đời sống. Với chatbot, các cụm từ này rất quan trọng vì người dùng thường hỏi “ở đây có phòng gì?”, “trẻ em học được gì?”, “có gì liên quan đến vũ trụ không?”.
 
-Điểm nổi bật thứ ba là đối tượng khách. Trung tâm phù hợp mạnh với trẻ em, học sinh, sinh viên, gia đình và nhóm khách muốn một hoạt động bổ ích. Người lớn vẫn có thể tham quan vì nội dung về thiên văn, vũ trụ, năng lượng, môi trường và công nghệ có tính phổ thông, dễ tiếp cận. Tuy nhiên, khách chỉ muốn tắm biển hoặc mua sắm có thể thấy địa điểm này không phải lựa chọn chính.
+Điểm nổi bật thứ ba là Đài thiên văn Quy Nhơn. Theo trang chính thức, đài thiên văn có lịch trải nghiệm vào buổi tối thứ Bảy trong một số lịch mở cửa; các nguồn bán vé du lịch cũng có nhắc chương trình buổi tối tại đài thiên văn. Hoạt động quan sát bầu trời phụ thuộc nhiều vào lịch hoạt động, thời tiết và tình trạng vé, vì vậy dữ liệu chatbot cần luôn nhắc người dùng kiểm tra lịch trước khi đi. Dù vậy, đây vẫn là điểm khác biệt rất mạnh của trung tâm so với các bảo tàng thông thường.
 
 6. Kiến trúc / cảnh quan
 
-Tòa nhà chính có kiến trúc hiện đại, khối công trình rộng và nổi bật trong khuôn viên xanh. Những hình ảnh phổ biến về địa điểm thường cho thấy mặt tiền kính, biển hiệu lớn và đường nét cong của công trình. Đây là dấu hiệu hình ảnh quan trọng khi nhận diện địa điểm từ ảnh chụp bên ngoài.
+Kiến trúc của Trung tâm Khám phá khoa học Quy Nhơn mang tính hiện đại, có mặt tiền kính, các khối nhà lớn và không gian mở. Bên ngoài trung tâm thường xuất hiện bảng tên “Trung tâm Khám phá khoa học - ExploraScience Quy Nhon”, là một dấu hiệu nhận diện rõ trong ảnh. Khác với kiến trúc cổ, nơi này tạo cảm giác của một công trình giáo dục - công nghệ, phù hợp với chủ đề khoa học và sáng tạo.
 
-Không gian bên trong được thiết kế để tạo cảm giác bước vào một “vũ trụ thu nhỏ”. Các mô hình hành tinh, dải ngân hà, màn hình cong, thiết bị trình chiếu và mô hình tên lửa tạo nên bối cảnh khác biệt so với bảo tàng truyền thống. Nếu ảnh có mô hình sao Thổ, sao Mộc, quả cầu Trái Đất, màn hình thiên hà hoặc tên lửa, khả năng cao ảnh liên quan đến khu trưng bày của trung tâm.
+Không gian bên trong được tổ chức theo các khu vực trưng bày. Một số nguồn mô tả các phòng trưng bày được thiết kế theo mô hình đồng tâm, giúp du khách di chuyển qua các chủ đề một cách có trình tự. Mô hình hành tinh, mô hình sao Hỏa, thiết bị tương tác, màn hình chiếu, phòng thí nghiệm trình diễn và các trò chơi khoa học tạo nên cảnh quan nội thất đặc trưng. Vì vậy, khi nhận diện qua hình ảnh, hệ thống nên chú ý các dấu hiệu như mô hình hành tinh treo, không gian tối mô phỏng vũ trụ, màn hình vòm, bảng tên ExploraScience, các thiết bị tương tác và khu vực show khoa học.
 
-Khu ngoài trời đóng vai trò bổ sung, vừa là sân chơi vừa là không gian tìm hiểu hiện tượng tự nhiên. Theo thông tin hỗ trợ khách tham quan, thứ Hai vẫn có thể tham quan tự do bên ngoài khuôn viên và khu khám phá khoa học ngoài trời. Tuy nhiên, các khu trong nhà, show khoa học, phim hoặc Đài thiên văn phụ thuộc lịch mở cửa và vé.
+Bên ngoài trung tâm có khuôn viên và khu khám phá khoa học ngoài trời. Theo trang liên hệ chính thức, vào thứ Hai, khách có thể tham quan tự do bên ngoài khuôn viên và Khu khám phá khoa học ngoài trời. Điều này cho thấy cảnh quan của điểm đến không chỉ giới hạn trong tòa nhà chính. Tuy nhiên, các trải nghiệm chính như phòng trưng bày, show khoa học, xem phim vũ trụ hoặc đài thiên văn vẫn cần đi theo lịch hoạt động cụ thể.
 
 7. Các khu vực chính
 
-Các khu vực chính khi tham quan gồm: Tòa nhà chính có kiến trúc hiện đại, khối công trình rộng và nổi bật trong khuôn viên xanh. Những hình ảnh phổ biến về địa điểm thường cho thấy mặt tiền kính, biển hiệu lớn và đường nét cong của công trình. Đây là dấu hiệu hình ảnh quan trọng khi nhận diện địa điểm từ ảnh chụp bên ngoài.
+Khu vực quan trọng nhất là tòa nhà chính. Đây là nơi tập trung các phòng trưng bày, show khoa học và phòng chiếu hình vũ trụ. Nếu du khách chỉ có một buổi, nên ưu tiên khu vực này vì đây là nơi thể hiện đầy đủ nhất tinh thần “khám phá khoa học”. Các phòng trưng bày có thể được tham quan theo lượt và thường có nội dung hướng dẫn để khách hiểu chủ đề, không chỉ chụp ảnh.
+
+Khu vực thứ hai là phòng chiếu vũ trụ. Đây là trải nghiệm có thời lượng và suất chiếu, nên khách nên hỏi trước lịch để không bỏ lỡ. Phòng chiếu phù hợp với khách lần đầu, gia đình có trẻ em, học sinh và những người yêu thích thiên văn. Nội dung phim có thể thay đổi theo lịch trình, vì vậy chatbot chỉ nên giới thiệu tính chất chung, không nên khẳng định một phim cụ thể nếu chưa có lịch mới nhất.
+
+Khu vực thứ ba là Đài thiên văn Quy Nhơn. Đây là nơi du khách có thể tìm hiểu kính thiên văn và trong điều kiện phù hợp có thể quan sát bầu trời đêm. Vì phụ thuộc vào thời tiết, lịch mở cửa và chương trình có hướng dẫn, phần thông tin về đài thiên văn cần được ghi kèm cảnh báo kiểm tra lại trước khi đi.
+
+Khu vực thứ tư là khu thiếu nhi và khu STEM. Đây là phần phù hợp với trẻ em, trường học và đoàn ngoại khóa. Theo các nguồn chính thức, hoạt động STEM có thể cần đăng ký theo đoàn qua tổng đài. Vì vậy, nếu người dùng hỏi “đi lẻ có cho trẻ vào khu STEM không?”, chatbot nên trả lời thận trọng: có khu vực hoạt động cho trẻ em, nhưng chương trình STEM theo đoàn cần liên hệ trung tâm để xác nhận.
+
+Khu vực thứ năm là khuôn viên và khu khám phá ngoài trời. Đây là phần có thể hỗ trợ khách tham quan nhẹ, chụp ảnh, nghỉ chân và nhận diện công trình. Tuy nhiên, trải nghiệm ngoài trời không thay thế được vé tham quan bên trong nếu khách muốn xem đầy đủ các phòng trưng bày và show khoa học.
 
 8. Từ khóa mô tả địa điểm
 
-Tên chính: Trung tâm Khám phá Khoa học và Đổi mới Sáng tạo Quy Nhơn. Tên tiếng Anh: ExploraScience Quy Nhon. Tên thường gọi: Trung tâm Khám phá Khoa học Quy Nhơn, Trung tâm khoa học Quy Nhơn, ExploraScience, Tổ hợp Không gian Khoa học Quy Nhơn, Đài thiên văn Quy Nhơn.
+Các từ khóa nhận diện chính gồm: Trung tâm Khám phá khoa học Quy Nhơn, ExploraScience Quy Nhon, Trung tâm Khám phá khoa học và Đổi mới sáng tạo, số 10 Đại lộ Khoa học, phường Quy Nhơn Nam, phường Ghềnh Ráng cũ, Quy Nhơn, Bình Định cũ, Gia Lai mới, trung tâm khoa học đầu tiên tại Việt Nam, du lịch khoa học, giáo dục STEM, phòng chiếu vũ trụ, Đài thiên văn Quy Nhơn, hệ Mặt Trời, khám phá vật chất, khám phá không gian, khám phá sao Hỏa, Trái Đất và tài nguyên thiên nhiên, Chơi mà học, Vì sao lại thế, show khoa học, mô hình tương tác, học sinh, gia đình, trải nghiệm khoa học, tham quan ngoại khóa.
 
-Từ khóa chủ đề: khoa học, khám phá, vũ trụ, thiên văn, STEM, đổi mới sáng tạo, phòng chiếu vũ trụ, show khoa học, 7 phòng trưng bày, mô hình hành tinh, hệ Mặt Trời, Sao Hỏa, vật chất, môi trường, năng lượng tái tạo, kính thiên văn, quan sát bầu trời.
-
-Từ khóa vị trí: Quy Nhơn, Ghềnh Ráng, Quy Nhơn Nam, Gia Lai, Bình Định, Đại lộ Khoa học, Quy Hòa, Quốc lộ 1D, phía nam trung tâm Quy Nhơn. Các biến thể này nên được đưa vào metadata để chatbot truy hồi được khi người dùng nhập tên không dấu hoặc tên cũ.
+Các từ khóa phục vụ nhận diện qua hình ảnh gồm: bảng chữ ExploraScience Quy Nhon, mặt tiền kính hiện đại, sảnh lớn, mô hình hành tinh, mô hình tên lửa, không gian trưng bày tối màu kiểu vũ trụ, phòng chiếu vòm, thiết bị tương tác, khu STEM, kính thiên văn, đài thiên văn, Đại lộ Khoa học. Khi hệ thống gặp ảnh có các mô hình hành tinh lớn trong không gian trưng bày hiện đại kèm bảng ExploraScience, khả năng cao đó là Trung tâm Khám phá khoa học Quy Nhơn.
 
 9. Nguồn tham khảo
 
-- Website chính thức ExploraScience Quy Nhon. URL: https://explorascience.vn/. Truy cập ngày 28/05/2026.
-
-- Trang giới thiệu ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=20. Truy cập ngày 28/05/2026.
-
-- Trang hỗ trợ khách tham quan ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=828. Truy cập ngày 28/05/2026.
-
-- Trang liên hệ ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=2630. Truy cập ngày 28/05/2026.
-
-- Cổng vé trực tuyến ExploraScience Quy Nhon. URL: https://ticket.explorascience.vn/. Truy cập ngày 28/05/2026.
-
-- Báo ảnh Việt Nam - Tổ hợp Trung tâm Khoa học đầu tiên tại Việt Nam. URL: https://vietnam.vnanet.vn/vietnamese/long-form/to-hop-trung-tam-khoa-hoc-dau-tien-tai-viet-nam-364602.html. Truy cập ngày 28/05/2026.
-
-- VOV5 - Trung tâm Khám phá khoa học Quy Nhơn: Đưa khoa học đến gần hơn với công chúng. URL: https://vovworld.vn/vi-VN/media/trung-tam-kham-pha-khoa-hoc-quy-nhon-dua-khoa-hoc-den-gan-hon-voi-cong-chung-2239484.vov5. Truy cập ngày 28/05/2026.
-
-- Quy Nhơn Tourist - Vé tham quan Trung tâm Khám phá khoa học Quy Nhơn. URL: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-tham-quan-trung-tam-kham-pha-khoa-hoc-quy-nhon/. Truy cập ngày 28/05/2026.
-
-- MIA.vn - Trung tâm Khám phá Khoa học Quy Nhơn nơi chứa đựng cả vũ trụ thu nhỏ. URL: https://mia.vn/cam-nang-du-lich/trung-tam-kham-pha-khoa-hoc-quy-nhon-noi-chua-dung-ca-vu-tru-thu-nho-11789. Truy cập ngày 28/05/2026.
+Nguồn tham khảo chính dùng cho bộ dữ liệu:
+- Website chính thức ExploraScience Quy Nhon: https://explorascience.vn/
+- Trang giới thiệu của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=20
+- Trang liên hệ, lịch mở cửa và nội quy của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=2630
+- Trang lịch mở cửa và lịch trình trải nghiệm của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=790
+- Cổng vé online chính thức của Trung tâm: https://ticket.explorascience.vn/
+- Trang trưng bày của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=2628
+- Báo ảnh Việt Nam/Thông tấn xã Việt Nam, “Tổ hợp Trung tâm Khoa học đầu tiên tại Việt Nam”: https://vietnam.vnanet.vn/vietnamese/long-form/to-hop-trung-tam-khoa-hoc-dau-tien-tai-viet-nam-364602.html
+- Quy Nhơn Tourist, trang vé tham quan Trung tâm Khám phá khoa học Quy Nhơn: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-tham-quan-trung-tam-kham-pha-khoa-hoc-quy-nhon/
+- Traveloka, bài viết về Trung tâm khám phá khoa học Quy Nhơn: https://www.traveloka.com/vi-vn/explore/destination/gns-trung-tam-kham-pha-khoa-hoc-quy-nhon/263241
+- MIA.vn, bài giới thiệu Trung tâm Khám phá khoa học Quy Nhơn: https://mia.vn/cam-nang-du-lich/trung-tam-kham-pha-khoa-hoc-quy-nhon-noi-chua-dung-ca-vu-tru-thu-nho-11789

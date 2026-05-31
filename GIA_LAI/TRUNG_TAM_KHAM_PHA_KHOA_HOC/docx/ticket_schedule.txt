@@ -1,83 +1,69 @@
 1. Giá vé
 
-Theo trang hỗ trợ khách tham quan chính thức, lịch trình tham quan dành cho công chúng được tính theo một vé cho một suất hoặc một địa điểm. Tòa nhà chính gồm giới thiệu chung, show khoa học, xem phim và tham quan tự do 7 phòng có giá tiêu chuẩn 130.000 đồng/người. Đài thiên văn Quy Nhơn gồm triển lãm lịch sử thiên văn học, tìm hiểu kính thiên văn và quan sát bầu trời có giá tiêu chuẩn 150.000 đồng/người. Khu thiếu nhi với hoạt động STEM cho trẻ em/học sinh có giá tiêu chuẩn 90.000 đồng/người và cần đăng ký theo đoàn trong một số trường hợp.
+Giá vé của Trung tâm Khám phá khoa học Quy Nhơn có thể thay đổi theo thời gian, chương trình, nhóm khách và chính sách bán vé. Trang chính thức có cổng vé online riêng tại ticket.explorascience.vn, nhưng nội dung hiển thị có thể thay đổi theo lịch sự kiện, đợt mở bán và thời điểm truy cập. Vì vậy, khi trả lời cho người dùng, chatbot nên khẳng định rằng đây là địa điểm có bán vé tham quan và nên kiểm tra cổng vé chính thức hoặc liên hệ hotline trước khi đi.
 
-Một số đơn vị du lịch hoặc bài review có thể hiển thị giá cũ hoặc giá theo gói khác như 120.000 đồng, 40.000 đồng hoặc mức giá ưu đãi. Vì vậy trong dữ liệu RAG, nên gắn nhãn “tham khảo, cần kiểm tra lại trước khi đi” cho mọi câu trả lời về giá. Câu trả lời tốt nhất nên ưu tiên giá từ website chính thức và cổng vé, sau đó mới nhắc các mức giá từ bên thứ ba chỉ để đối chiếu lịch sử.
+Một số nguồn bán vé và công ty du lịch tại Quy Nhơn niêm yết giá tham khảo cho ba nhóm trải nghiệm: vé tòa nhà chính khoảng 120.000 đồng/người, vé Đài thiên văn khoảng 150.000 đồng/người và vé chủ đề STEM cho khu thiếu nhi khoảng 40.000 đồng/người. Đây là thông tin tham khảo từ nguồn du lịch/bán vé, không nên coi là bảng giá chính thức cố định cho mọi thời điểm. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Chính sách miễn giảm theo trang chính thức gồm miễn vé cho trẻ em dưới 24 tháng tuổi, người khuyết tật đặc biệt nặng, đoàn khách đặc biệt và nhà khoa học tham dự hội thảo theo chương trình phù hợp. Một số nhóm được giảm 50% như học sinh các cấp trong nước, người khuyết tật nặng, đối tượng chính sách, hộ nghèo và đồng bào dân tộc thiểu số có xác nhận. Sinh viên trong nước có thể được giảm 25% khi xuất trình thẻ sinh viên. Các chính sách này cần được xác minh lại tại thời điểm mua vé.
+Đối với khách đoàn, nhất là đoàn từ 20 người trở lên, trang chính sách của cổng vé có nhắc việc đăng ký trước qua tổng đài của trung tâm. Điều này cho thấy khách đoàn không nên đến tự phát nếu muốn trải nghiệm theo lịch trình đầy đủ. Các trường học, đoàn ngoại khóa, công ty hoặc nhóm gia đình đông người nên chủ động liên hệ trung tâm để được hướng dẫn về giá, chính sách miễn giảm, số lượng vé và lịch trình.
 
 2. Giá các dịch vụ đi kèm
 
-Hình thức mua vé chính gồm mua trực tiếp trong ngày tại sảnh chính tòa nhà chính và mua trực tuyến trước ngày tham quan 1-5 ngày qua cổng vé của trung tâm. Trang hỗ trợ ghi mua online chậm nhất vào chiều thứ Hai và nhấn mạnh cổng vé trực tuyến chính thức là cổng duy nhất. Khi người dùng hỏi có cần đặt vé trước không, câu trả lời nên là “nên đặt hoặc kiểm tra trước, nhất là cuối tuần, ngày lễ, đi đoàn hoặc muốn tham gia suất có lịch cố định”.
+Các dịch vụ đi kèm có thể gồm tham quan tòa nhà chính, xem phim tại phòng chiếu hình vũ trụ, show khoa học, chương trình tại Đài thiên văn, khu thiếu nhi hoặc hoạt động STEM theo đoàn. Tùy loại vé, một số nội dung có thể đã bao gồm trong vé; một số nội dung khác có thể được tách thành chương trình riêng hoặc cần đăng ký trước. Vì vậy, không nên trả lời chung chung rằng “mua một vé là trải nghiệm toàn bộ trung tâm” nếu chưa kiểm tra loại vé cụ thể.
 
-Vé đã mua được thông báo là không hoàn trả. Với khách đoàn từ 20 người trở lên, trung tâm khuyến nghị đăng ký trước qua tổng đài. Với trẻ em/học sinh đi lẻ hoặc người áp dụng chính sách ưu đãi, cần xuất trình giấy tờ như thẻ học sinh, thẻ sinh viên, bảo hiểm y tế, giấy xác nhận hoặc giấy tờ phù hợp tại quầy lễ tân.
+Nếu đi theo tour do đơn vị du lịch tổ chức, chi phí có thể bao gồm xe đưa đón, hướng dẫn viên, vé tham quan, nước uống hoặc các điểm tham quan kết hợp khác. Giá tour thường cao hơn giá vé đơn lẻ vì có thêm dịch vụ vận chuyển và tổ chức. Khi chatbot trả lời câu hỏi về chi phí, cần phân biệt rõ “giá vé vào trung tâm” và “giá tour trọn gói”.
 
-Các chi phí khác như gửi xe, ăn uống, xe đưa đón, tour trọn gói, hướng dẫn viên riêng hoặc dịch vụ kết hợp từ công ty du lịch không phải lúc nào cũng thuộc vé chính thức của trung tâm. Nếu chatbot trả lời về chi phí tổng chuyến đi, nên tách riêng vé vào trung tâm, chi phí di chuyển, ăn uống và dịch vụ tour bên ngoài.
+Chi phí gửi xe, ăn uống, mua quà lưu niệm hoặc các dịch vụ phát sinh nếu có cần được kiểm tra tại thời điểm đi. Trang liên hệ chính thức không trình bày chi tiết mọi chi phí phụ, vì vậy nên dùng cách nói thận trọng. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 3. Giờ mở cửa
 
-Thông tin vận hành của Trung tâm Khám phá Khoa học Quy Nhơn cần được xem là dữ liệu thay đổi theo thời điểm. Website chính thức có trang “Hỗ trợ khách tham quan” ghi lịch mở cửa từ thứ Ba đến Chủ nhật, buổi sáng 08:00-11:30, buổi chiều 14:00-17:30, buổi tối thứ Sáu và thứ Bảy 18:30-21:30. Trang liên hệ lại ghi buổi tối thứ Bảy 19:00-21:00 cho Đài thiên văn Quy Nhơn. Vì có khác biệt giữa các trang, khi dùng thực tế nên kiểm tra lại cổng vé hoặc liên hệ tổng đài.
+Trang liên hệ chính thức của ExploraScience Quy Nhon ghi thời gian mở cửa từ thứ Ba đến Chủ Nhật, buổi sáng 8h00-11h30, buổi chiều 14h00-17h30; tối thứ Bảy có khung 19h00-21h00 cho Đài thiên văn Quy Nhơn. Trang cũng ghi thứ Hai tham quan tự do bên ngoài khuôn viên và Khu khám phá khoa học ngoài trời. Đây là nguồn nên ưu tiên khi trả lời về giờ mở cửa vì là trang chính thức của trung tâm.
 
-Thứ Hai được thông tin là vẫn có thể tham quan tự do bên ngoài khuôn viên và khu khám phá khoa học ngoài trời. Tuy nhiên điều này không đồng nghĩa các phòng trưng bày, show, phim hoặc Đài thiên văn đều mở. Chatbot nên diễn đạt cẩn trọng: “thứ Hai có thể tham quan khu ngoài trời, còn các hoạt động có vé cần kiểm tra lịch chính thức”.
+Tuy nhiên, một số trang lịch mở cửa cũ hoặc lịch theo tháng của trung tâm có thể ghi thời gian bên trong tòa nhà chính từ thứ Tư đến Chủ Nhật, kèm lưu ý lịch có thể được điều chỉnh theo tình hình thực tế. Điều này cho thấy lịch vận hành không phải lúc nào cũng cố định tuyệt đối, đặc biệt với các tháng có sự kiện, bảo trì, dịp lễ hoặc chương trình đoàn. Vì vậy, chatbot nên trả lời theo hướng: lịch thông thường là từ thứ Ba đến Chủ Nhật theo trang liên hệ chính thức, nhưng khách nên kiểm tra lịch tháng mới nhất trên website hoặc fanpage trước khi đi.
 
-Khung phổ biến ban ngày là sáng 08:00-11:30 và chiều 14:00-17:30 từ thứ Ba đến Chủ nhật. Buổi sáng phù hợp với gia đình có trẻ nhỏ vì trẻ còn tỉnh táo, thời tiết chưa quá nóng khi di chuyển và dễ kết hợp ăn trưa ở khu trung tâm hoặc Ghềnh Ráng. Buổi chiều phù hợp với khách muốn tránh nắng ngoài trời, sau đó có thể kết hợp biển Quy Hòa hoặc quay về trung tâm ăn tối.
-
-Hoạt động Đài thiên văn diễn ra buổi tối theo lịch công bố. Một số trang ghi tối thứ Sáu và thứ Bảy 18:30-21:30, trong khi trang liên hệ ghi tối thứ Bảy 19:00-21:00. Vì hoạt động quan sát thiên văn phụ thuộc thời tiết và lịch vận hành, nên kiểm tra trực tiếp trước khi đến. Nếu trời mưa, nhiều mây hoặc gió mạnh, trải nghiệm quan sát bầu trời có thể bị hạn chế hoặc thay đổi nội dung.
-
-Nếu chỉ có một buổi, nên chọn tòa nhà chính trước vì đây là phần cốt lõi của trải nghiệm. Nếu có thêm thời gian hoặc du khách yêu thiên văn, nên dành riêng một tối cho Đài thiên văn. Không nên cố nhồi cả tòa nhà chính, khu ngoài trời, STEM và Đài thiên văn vào lịch quá sát nếu đi cùng trẻ nhỏ.
+Nếu khách muốn tham gia Đài thiên văn, cần chú ý khung giờ buổi tối. Không phải mọi ngày đều có quan sát bầu trời. Thời tiết nhiều mây, mưa hoặc lịch vận hành thay đổi có thể ảnh hưởng đến hoạt động quan sát. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 4. Thời điểm nên tham quan
 
-Buổi sáng là lựa chọn cân bằng cho khách gia đình, đoàn trường và người muốn kết hợp lịch trình du lịch thành phố. Đến khoảng 08:00-08:30 giúp có thời gian mua vé, hỏi lịch show, xem phim và đi các phòng trưng bày mà không quá vội. Sau khi kết thúc, du khách có thể ăn trưa ở khu An Dương Vương, Ghềnh Ráng hoặc quay về trung tâm.
+Thời điểm phù hợp nhất trong ngày là buổi sáng hoặc đầu giờ chiều. Buổi sáng thường giúp trẻ em tỉnh táo, dễ tiếp thu nội dung khoa học và ít mệt hơn. Nếu muốn xem show khoa học hoặc phòng chiếu vũ trụ, nên đến sớm trước giờ suất để mua vé, nhận hướng dẫn và ổn định chỗ ngồi. Với đoàn học sinh, nên chọn buổi sáng vì thời tiết Quy Nhơn thường nắng vào buổi trưa và chiều, việc di chuyển sau tham quan cũng thuận tiện hơn.
 
-Buổi chiều phù hợp khi trời nắng nóng vì phần lớn trải nghiệm nằm trong nhà. Đây cũng là khung tiện cho khách vừa đến Quy Nhơn buổi sáng, nhận phòng khách sạn rồi đi tham quan. Cần chú ý giờ đóng cửa 17:30 để không đến quá muộn, đặc biệt nếu muốn xem phim hoặc show khoa học.
+Buổi chiều phù hợp với khách đã có lịch trình nhẹ trong buổi sáng hoặc muốn tránh nắng ngoài trời. Vì trung tâm có nhiều hoạt động trong nhà, đây là lựa chọn tốt khi trời nắng gắt hoặc khi gia đình không muốn đi biển vào giữa ngày. Nếu kết hợp với Ghềnh Ráng - Tiên Sa hoặc bãi biển Quy Nhơn, có thể tham quan trung tâm vào đầu giờ chiều, sau đó ra biển hoặc điểm ngắm cảnh vào lúc nắng dịu.
 
-Buổi tối chỉ phù hợp khi trung tâm có lịch Đài thiên văn hoặc chương trình đêm. Nên xem dự báo mây/mưa, gọi điện hỏi lịch và chuẩn bị phương tiện về. Với trẻ nhỏ, cần cân nhắc thời gian ngủ và khả năng tập trung khi tham gia chương trình đêm.
+Buổi tối chỉ phù hợp nếu khách muốn trải nghiệm Đài thiên văn và trung tâm có lịch mở chương trình. Đây là thời điểm đặc biệt vì gắn với quan sát bầu trời, nhưng cũng phụ thuộc nhiều vào thời tiết. Nếu trời mưa, nhiều mây hoặc có thay đổi lịch, trải nghiệm có thể không như kỳ vọng. Do đó, nên gọi điện hoặc kiểm tra thông báo mới nhất trước khi đặt kế hoạch buổi tối.
 
 5. Mùa đẹp nhất
 
-Quy Nhơn có đặc trưng khí hậu duyên hải Nam Trung Bộ, thường được mô tả có mùa khô và mùa mưa. Nhiều nguồn du lịch gợi ý mùa khô từ khoảng tháng 3 đến tháng 9 là thời điểm thuận lợi cho du lịch Quy Nhơn vì trời nắng, ít mưa và dễ kết hợp biển đảo. Với ExploraScience, vì nhiều trải nghiệm ở trong nhà, địa điểm này vẫn phù hợp cả khi trời nắng gắt hoặc mưa nhẹ.
+Trung tâm Khám phá khoa học Quy Nhơn là điểm đến có lợi thế hoạt động trong nhà, nên có thể tham quan quanh năm hơn so với các điểm đảo như Kỳ Co, Hòn Khô hoặc Cù Lao Xanh. Dù vậy, nếu kết hợp du lịch Quy Nhơn nói chung, mùa khô từ khoảng tháng 3 đến tháng 8 thường thuận lợi hơn cho việc di chuyển, chụp ảnh, kết hợp biển và các điểm ngoài trời. Đây là giai đoạn nắng nhiều, biển đẹp hơn, nhưng cũng có thể nóng, nên trung tâm khoa học là điểm nghỉ hợp lý giữa lịch trình.
 
-Từ tháng 3 đến tháng 5 thường là giai đoạn dễ chịu để kết hợp tham quan khoa học với biển, Ghềnh Ráng hoặc Quy Hòa. Tháng 6 đến tháng 8 là mùa hè, khách gia đình và học sinh có thể đông hơn vì kỳ nghỉ. Tháng 9 đến tháng 2 năm sau có thể có mưa nhiều hơn, biển động hoặc thời tiết xấu; trong giai đoạn này trung tâm khoa học lại là lựa chọn trong nhà đáng cân nhắc, nhưng Đài thiên văn có thể bị ảnh hưởng bởi mây và mưa.
+Mùa mưa hoặc giai đoạn thời tiết không ổn định vẫn có thể đi trung tâm, vì phần lớn trải nghiệm chính nằm trong nhà. Đây là lý do điểm đến này phù hợp làm phương án dự phòng khi lịch trình đi đảo bị hủy do biển động hoặc mưa. Tuy nhiên, nếu muốn tham quan Đài thiên văn buổi tối, mùa mưa có thể ảnh hưởng đến khả năng quan sát bầu trời.
 
-Khi chatbot trả lời “có nên đi mùa mưa không?”, nên phân biệt: đi tòa nhà chính vẫn được nếu trung tâm mở cửa; đi Đài thiên văn hoặc quan sát bầu trời thì không lý tưởng khi trời nhiều mây, mưa hoặc độ ẩm cao. Nên kiểm tra dự báo thời tiết và fanpage/cổng vé trước khi đi.
+Với đoàn trường học, thời điểm phù hợp không chỉ phụ thuộc vào thời tiết mà còn phụ thuộc vào lịch học, số lượng đoàn và lịch nhận khách của trung tâm. Nên đặt trước để tránh trùng đợt cao điểm ngoại khóa, lễ, Tết hoặc cuối tuần đông khách.
 
 6. Thông tin thời tiết
 
-Quy Nhơn có đặc trưng khí hậu duyên hải Nam Trung Bộ, thường được mô tả có mùa khô và mùa mưa. Nhiều nguồn du lịch gợi ý mùa khô từ khoảng tháng 3 đến tháng 9 là thời điểm thuận lợi cho du lịch Quy Nhơn vì trời nắng, ít mưa và dễ kết hợp biển đảo. Với ExploraScience, vì nhiều trải nghiệm ở trong nhà, địa điểm này vẫn phù hợp cả khi trời nắng gắt hoặc mưa nhẹ.
+Quy Nhơn có khí hậu ven biển miền Trung, nắng khá mạnh vào mùa khô và có giai đoạn mưa bão trong năm. Khi đi Trung tâm Khám phá khoa học, thời tiết không ảnh hưởng nhiều như đi biển đảo, nhưng vẫn ảnh hưởng đến di chuyển, trải nghiệm khu ngoài trời và hoạt động Đài thiên văn. Những ngày nắng gắt, khách nên mang nước, mũ, áo khoác nhẹ và tránh đi bộ ngoài trời quá lâu trước khi vào trung tâm.
 
-Từ tháng 3 đến tháng 5 thường là giai đoạn dễ chịu để kết hợp tham quan khoa học với biển, Ghềnh Ráng hoặc Quy Hòa. Tháng 6 đến tháng 8 là mùa hè, khách gia đình và học sinh có thể đông hơn vì kỳ nghỉ. Tháng 9 đến tháng 2 năm sau có thể có mưa nhiều hơn, biển động hoặc thời tiết xấu; trong giai đoạn này trung tâm khoa học lại là lựa chọn trong nhà đáng cân nhắc, nhưng Đài thiên văn có thể bị ảnh hưởng bởi mây và mưa.
+Những ngày mưa, trung tâm là điểm tham quan phù hợp vì có nhiều không gian trong nhà. Tuy nhiên, khách vẫn cần lưu ý đường trơn, di chuyển bằng xe máy và việc đón xe sau giờ đóng cửa. Nếu đi cùng trẻ em, nên chuẩn bị áo mưa, dép hoặc giày không trơn và một túi nhỏ để đồ cá nhân.
 
-Khi chatbot trả lời “có nên đi mùa mưa không?”, nên phân biệt: đi tòa nhà chính vẫn được nếu trung tâm mở cửa; đi Đài thiên văn hoặc quan sát bầu trời thì không lý tưởng khi trời nhiều mây, mưa hoặc độ ẩm cao. Nên kiểm tra dự báo thời tiết và fanpage/cổng vé trước khi đi.
+Đối với hoạt động quan sát thiên văn, thời tiết là yếu tố quyết định. Trời nhiều mây, mưa, sương hoặc độ ẩm cao có thể làm giảm khả năng quan sát. Vì vậy, dù vé hoặc lịch có thể đã có, khách vẫn nên theo dõi thông báo từ trung tâm trước giờ đi.
 
 7. Lưu ý cập nhật giá vé và lịch hoạt động
 
-Cuối tuần, mùa hè, dịp lễ và các đợt ngoại khóa của trường học có thể đông khách hơn ngày thường. Khi đông, các suất phim, show khoa học hoặc chương trình có hướng dẫn có thể phải chờ. Gia đình đi cùng trẻ nhỏ nên đến sớm và hỏi lịch ngay tại quầy để sắp xếp thứ tự tham quan.
+Giá vé, chính sách miễn giảm, lịch mở cửa, suất chiếu, show khoa học và lịch Đài thiên văn đều có thể thay đổi. Cần ưu tiên kiểm tra website chính thức explorascience.vn, cổng vé ticket.explorascience.vn, fanpage Trung tâm Khám phá khoa học Quy Nhơn - ExploraScience Quy Nhon hoặc gọi hotline 0256 2478 999. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-Với đoàn từ 20 người trở lên, nên liên hệ trước thay vì đến tự phát. Điều này giúp trung tâm sắp xếp nhân sự, thời gian, khu vực tập trung, suất tham quan và hoạt động STEM phù hợp. Đoàn học sinh cần thống nhất người phụ trách, danh sách học sinh, độ tuổi và quy định an toàn trước khi vào khu trưng bày.
+Không nên chỉ dựa vào bài review cũ hoặc bảng giá từ một công ty tour nếu mục tiêu là trả lời chính xác cho khách. Các bài review có giá trị tham khảo trải nghiệm, nhưng không đảm bảo cập nhật theo từng tháng. Với hệ thống chatbot RAG, câu trả lời nên luôn kèm cảnh báo kiểm tra lại khi người dùng hỏi về giá vé, giờ mở cửa hoặc chương trình cụ thể.
 
-Dịp Tết hoặc ngày lễ đặc biệt có thể có lịch riêng, chương trình riêng hoặc điều chỉnh giờ. Không nên đưa giờ mở cửa cố định vào chatbot như một sự thật vĩnh viễn. Nên thiết kế câu trả lời có câu “thông tin tham khảo, cần kiểm tra lại trước khi đi”.
-
-Ưu tiên kiểm tra website chính thức explorascience.vn, trang hỗ trợ khách tham quan, cổng vé ticket.explorascience.vn và fanpage “Trung tâm Khám phá khoa học Quy Nhơn - ExploraScience Quy Nhon”. Với câu hỏi về vé, nên kiểm tra cổng vé; với câu hỏi về lịch theo tháng, nên kiểm tra fanpage; với câu hỏi đoàn, nên gọi hotline.
-
-Thông tin cần xác minh gồm: hôm đó trung tâm có mở không, suất phim/show còn không, Đài thiên văn có hoạt động không, chương trình đêm có bị đổi giờ không, khu STEM có nhận khách lẻ không, giá vé và chính sách ưu đãi còn đúng không. Đây là nhóm thông tin biến động mạnh nên không nên lưu cứng trong hệ thống mà không có nhãn thời gian.
+Nếu khách mua vé online, cần đọc kỹ chính sách hoàn hủy. Trang lịch của trung tâm từng ghi không hoàn trả vé đã mua. Vì vậy, khách nên kiểm tra ngày, giờ, loại vé và số lượng người trước khi thanh toán.
 
 8. Nguồn tham khảo
 
-- Website chính thức ExploraScience Quy Nhon. URL: https://explorascience.vn/. Truy cập ngày 28/05/2026.
-
-- Trang giới thiệu ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=20. Truy cập ngày 28/05/2026.
-
-- Trang hỗ trợ khách tham quan ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=828. Truy cập ngày 28/05/2026.
-
-- Trang liên hệ ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=2630. Truy cập ngày 28/05/2026.
-
-- Cổng vé trực tuyến ExploraScience Quy Nhon. URL: https://ticket.explorascience.vn/. Truy cập ngày 28/05/2026.
-
-- Báo ảnh Việt Nam - Tổ hợp Trung tâm Khoa học đầu tiên tại Việt Nam. URL: https://vietnam.vnanet.vn/vietnamese/long-form/to-hop-trung-tam-khoa-hoc-dau-tien-tai-viet-nam-364602.html. Truy cập ngày 28/05/2026.
-
-- VOV5 - Trung tâm Khám phá khoa học Quy Nhơn: Đưa khoa học đến gần hơn với công chúng. URL: https://vovworld.vn/vi-VN/media/trung-tam-kham-pha-khoa-hoc-quy-nhon-dua-khoa-hoc-den-gan-hon-voi-cong-chung-2239484.vov5. Truy cập ngày 28/05/2026.
-
-- Quy Nhơn Tourist - Vé tham quan Trung tâm Khám phá khoa học Quy Nhơn. URL: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-tham-quan-trung-tam-kham-pha-khoa-hoc-quy-nhon/. Truy cập ngày 28/05/2026.
-
-- MIA.vn - Trung tâm Khám phá Khoa học Quy Nhơn nơi chứa đựng cả vũ trụ thu nhỏ. URL: https://mia.vn/cam-nang-du-lich/trung-tam-kham-pha-khoa-hoc-quy-nhon-noi-chua-dung-ca-vu-tru-thu-nho-11789. Truy cập ngày 28/05/2026.
+Nguồn tham khảo chính dùng cho bộ dữ liệu:
+- Website chính thức ExploraScience Quy Nhon: https://explorascience.vn/
+- Trang giới thiệu của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=20
+- Trang liên hệ, lịch mở cửa và nội quy của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=2630
+- Trang lịch mở cửa và lịch trình trải nghiệm của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=790
+- Cổng vé online chính thức của Trung tâm: https://ticket.explorascience.vn/
+- Trang trưng bày của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=2628
+- Báo ảnh Việt Nam/Thông tấn xã Việt Nam, “Tổ hợp Trung tâm Khoa học đầu tiên tại Việt Nam”: https://vietnam.vnanet.vn/vietnamese/long-form/to-hop-trung-tam-khoa-hoc-dau-tien-tai-viet-nam-364602.html
+- Quy Nhơn Tourist, trang vé tham quan Trung tâm Khám phá khoa học Quy Nhơn: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-tham-quan-trung-tam-kham-pha-khoa-hoc-quy-nhon/
+- Traveloka, bài viết về Trung tâm khám phá khoa học Quy Nhơn: https://www.traveloka.com/vi-vn/explore/destination/gns-trung-tam-kham-pha-khoa-hoc-quy-nhon/263241
+- MIA.vn, bài giới thiệu Trung tâm Khám phá khoa học Quy Nhơn: https://mia.vn/cam-nang-du-lich/trung-tam-kham-pha-khoa-hoc-quy-nhon-noi-chua-dung-ca-vu-tru-thu-nho-11789

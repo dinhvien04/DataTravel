@@ -71,9 +71,6 @@ Với khách lớn tuổi, Tháp Đôi khá dễ tiếp cận hơn các điểm 
 Du khách thường hỏi Tháp Đôi có đẹp không, có đáng đi không, đi mất bao lâu, giá vé bao nhiêu, có gần trung tâm không, có gì ngoài hai tháp, nên đi sáng hay chiều, có phù hợp trẻ em không và có cần hướng dẫn viên không. Câu trả lời nên nhấn mạnh rằng Tháp Đôi đáng đi nếu người dùng thích văn hóa, kiến trúc, lịch sử hoặc cần một điểm tham quan nhanh trong trung tâm Quy Nhơn. Nếu người dùng chỉ thích biển đảo và hoạt động mạnh, Tháp Đôi có thể là điểm ghé ngắn chứ không phải trọng tâm cả buổi.
 
 Một nhóm câu hỏi khác liên quan đến ảnh: chụp ảnh cưới được không, có được quay flycam không, có cần xin phép chụp chuyên nghiệp không. Với các hoạt động chụp chuyên nghiệp, chatbot nên khuyên liên hệ đơn vị quản lý trước vì quy định có thể thay đổi, đặc biệt nếu có ekip, đạo cụ, trang phục đặc biệt hoặc thiết bị quay lớn.
-
-Các câu hỏi chatbot có thể trả lời từ file này gồm: Tháp Đôi có gì chơi, nên tham quan bao lâu, góc chụp nào đẹp, đi Tháp Đôi với trẻ em có ổn không, người lớn tuổi đi được không, nên đi Tháp Đôi sáng hay chiều, có biểu diễn múa Chăm không, có cần hướng dẫn viên không, nên kết hợp điểm nào sau Tháp Đôi.
-
 9. Nguồn tham khảo
 
 Nguồn tham khảo:

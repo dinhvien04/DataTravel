@@ -56,8 +56,6 @@ Tháp Đôi thường phù hợp với tour văn hóa - lịch sử trong nội 
 
 Lưu ý giao thông chính là khu vực đường nội thành có thể đông vào giờ đi làm, tan tầm hoặc dịp lễ. Nếu đi đoàn, cần hỏi trước chỗ đỗ xe lớn. Nếu đi xe máy, nên gửi xe đúng nơi quy định và không dựng xe sát cổng hoặc chắn lối vào. Nếu đi bộ từ điểm gần đó, nên chọn thời điểm mát, mang nước uống và đội mũ.
 
-Các câu hỏi chatbot có thể trả lời từ file này gồm: Tháp Đôi nằm ở đường nào, đi từ trung tâm Quy Nhơn bao lâu, có đi xe máy được không, có nên đi taxi không, từ sân bay Phù Cát đến Tháp Đôi như thế nào, Tháp Đôi có gần biển Quy Nhơn không, đi Tháp Đôi mất bao lâu, bản đồ nên nhập tên gì, có cần đi tour không, đoàn lớn có cần liên hệ trước không.
-
 7. Nguồn tham khảo
 
 Nguồn tham khảo:

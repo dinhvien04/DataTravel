@@ -101,7 +101,7 @@ def upload_all_place_folders():
 
 
 if __name__ == "__main__":
-    upload_all_place_folders()
+    upload_all_place_folders()  
 
 
     

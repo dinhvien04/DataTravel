@@ -1,89 +1,61 @@
 1. Đường đi
 
-Địa chỉ chính thức hiện nên dùng: Số 10, Đại lộ Khoa học, KV2, phường Quy Nhơn Nam, tỉnh Gia Lai. Địa chỉ quen thuộc trong các bài du lịch cũ: Số 10, Đại lộ Khoa học, phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Đây là cùng một địa điểm, vì vậy khi nhập bản đồ nên thử các từ khóa “ExploraScience Quy Nhon”, “Trung tâm Khám phá Khoa học Quy Nhơn”, “Đại lộ Khoa học Quy Nhơn” hoặc “Đài thiên văn Quy Nhơn”.
+Trung tâm Khám phá khoa học Quy Nhơn nằm tại số 10, Đại lộ Khoa học. Trang liên hệ chính thức hiện ghi địa chỉ là KV2, phường Quy Nhơn Nam, tỉnh Gia Lai; các nguồn cũ thường ghi phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Khi hướng dẫn đường đi, nên dùng cả hai cách ghi để người dùng không bị nhầm: đây là địa điểm ở khu vực Quy Nhơn cũ, phía nam trung tâm thành phố, gần cụm Ghềnh Ráng - Đại lộ Khoa học.
 
-Mốc định vị dễ nhớ là khu vực Ghềnh Ráng - Quy Hòa, phía nam trung tâm Quy Nhơn, gần tuyến Quốc lộ 1D. Địa điểm không nằm ngay sát bãi biển trung tâm mà ở hướng đi về Quy Hòa, nên du khách lần đầu nên mở bản đồ trực tuyến và xem trước cổng vào để tránh đi quá đoạn rẽ vào Đại lộ Khoa học.
+Từ trung tâm Quy Nhơn, du khách có thể đi theo hướng đường An Dương Vương hoặc các tuyến ven biển phía nam, sau đó rẽ về khu vực Đại lộ Khoa học. Tùy vị trí xuất phát, lộ trình có thể đi qua khu vực Ghềnh Ráng, các trường đại học, khu nghiên cứu và đường dẫn vào trung tâm. Nếu bắt đầu từ quảng trường Nguyễn Tất Thành hoặc khu khách sạn ven biển Quy Nhơn, quãng đường thường chỉ ở mức ngắn, phù hợp đi taxi, xe công nghệ, xe máy hoặc xe thuê riêng.
 
-Số điện thoại được công bố trên website chính thức là 0256 2478 999. Trang hỗ trợ cũng ghi thêm hotline 096 907 3740 cho khách đoàn hoặc hỗ trợ đặt lịch. Các số này có thể thay đổi, cần kiểm tra lại trước khi dùng trong chatbot sản xuất hoặc trước chuyến đi.
-
-Từ khu trung tâm Quy Nhơn, du khách có thể đi theo hướng nam về Ghềnh Ráng - Quy Hòa. Quãng đường tham khảo khoảng 7-8 km tùy điểm xuất phát, thời gian đi bằng ô tô hoặc taxi thường khoảng 15-20 phút trong điều kiện giao thông thuận lợi. Một số nguồn du lịch ghi khoảng 7 km hoặc 8 km; chênh lệch này phụ thuộc điểm lấy mốc là quảng trường, bến xe, khách sạn ven biển hay khu Ghềnh Ráng.
-
-Lộ trình dễ hình dung là đi từ trung tâm theo trục An Dương Vương hoặc đường ven biển, nối vào khu Ghềnh Ráng rồi theo Quốc lộ 1D/đường hướng Quy Hòa. Khi thấy chỉ dẫn Đại lộ Khoa học hoặc khu vực Trung tâm Quốc tế Khoa học và Giáo dục liên ngành, du khách tiếp tục theo chỉ dẫn đến ExploraScience Quy Nhon.
-
-Với khách đi xe máy, cung đường không quá xa nhưng cần chú ý tốc độ, xe lớn, đoạn đèo dốc nhẹ và giao thông khu ven biển. Với gia đình có trẻ em hoặc đi buổi tối để trải nghiệm Đài thiên văn, taxi hoặc xe công nghệ thường tiện hơn vì hạn chế rủi ro lạc đường và thuận tiện khi kết thúc chương trình đêm.
-
-Sân bay Phù Cát là cửa ngõ hàng không phổ biến khi đến Quy Nhơn. Nhiều nguồn du lịch ghi sân bay cách trung tâm Quy Nhơn khoảng 30-35 km, thời gian về trung tâm thường khoảng 40-60 phút tùy phương tiện, tuyến đường và giao thông. Nếu đi thẳng từ sân bay đến Trung tâm Khám phá Khoa học, quãng đường thực tế thường dài hơn so với đến trung tâm vì điểm đến nằm phía nam Quy Nhơn.
-
-Lựa chọn phù hợp nhất từ sân bay là taxi, xe đưa đón đặt trước hoặc xe hợp đồng nếu đi gia đình/nhóm. Xe buýt sân bay hoặc xe ghép có thể tiết kiệm hơn nhưng thường dừng ở trung tâm, sau đó du khách cần gọi thêm taxi hoặc xe công nghệ đến Đại lộ Khoa học. Nếu đến Quy Nhơn vào cuối ngày và muốn trải nghiệm Đài thiên văn, cần tính dư thời gian vì hoạt động buổi tối có khung giờ riêng.
-
-Khi xây dựng chatbot, nên trả lời theo hướng “từ sân bay về trung tâm khoảng 30-35 km, sau đó tiếp tục đi thêm về phía nam đến khu Ghềnh Ráng - Quy Hòa”. Không nên đưa một con số tuyệt đối cho sân bay đến trung tâm khoa học nếu không tra bản đồ tại thời điểm trả lời, vì lộ trình có thể thay đổi theo điểm xuất phát và tình trạng giao thông.
-
-Ga Diêu Trì là ga đường sắt chính phục vụ khu vực Quy Nhơn. Các nguồn du lịch thường ghi ga Diêu Trì cách trung tâm Quy Nhơn khoảng 10-12 km. Từ ga đến Trung tâm Khám phá Khoa học, du khách nên đi taxi hoặc xe công nghệ, thời gian có thể khoảng 30-40 phút tùy tuyến đường và điểm kẹt xe.
-
-Từ bến xe Quy Nhơn hoặc khu Kim Cúc Plaza, một số hướng dẫn du lịch gợi ý đi theo Quốc lộ 1D về phía Ghềnh Ráng - Quy Hòa, sau đó rẽ vào Đại lộ Khoa học. Đây là tuyến thuận tiện cho khách đang ở phía trung tâm hoặc từ bến xe muốn đi thẳng đến điểm tham quan.
-
-Nếu lưu trú ở khu khách sạn ven biển An Dương Vương, Xuân Diệu hoặc trung tâm thành phố cũ, taxi/xe máy đều thuận tiện. Nếu lưu trú ở khu FLC Nhơn Lý, Eo Gió hoặc bán đảo Phương Mai, quãng đường đến trung tâm sẽ xa hơn và cần tính thêm thời gian qua cầu Thị Nại hoặc về phía nội thành.
+Từ sân bay Phù Cát, khách cần di chuyển về Quy Nhơn trước, sau đó tiếp tục đi đến Đại lộ Khoa học. Các nguồn du lịch thường ghi khoảng cách từ sân bay Phù Cát về trung tâm Quy Nhơn khoảng 30-35 km, thời gian tùy phương tiện và giao thông. Sau khi vào trung tâm, từ khu vực trung tâm đến Trung tâm Khám phá khoa học thường mất thêm một chặng ngắn về phía nam. Với khách mang hành lý, đi theo gia đình hoặc đi đoàn học sinh, phương án xe ô tô đặt trước thường thuận tiện hơn.
 
 2. Phương tiện di chuyển
 
-Taxi hoặc xe công nghệ là phương án phù hợp nhất cho gia đình, nhóm có trẻ nhỏ, người lớn tuổi, khách đi buổi tối hoặc khách không rành đường Quy Nhơn. Ưu điểm là đón trả tận nơi, không cần tìm chỗ gửi xe nhiều lần và an toàn hơn nếu kết thúc hoạt động Đài thiên văn vào ban đêm.
+Phương tiện linh hoạt nhất là taxi hoặc xe công nghệ. Cách này phù hợp với gia đình có trẻ nhỏ, khách đi theo nhóm, du khách lần đầu đến Quy Nhơn hoặc người không quen đường. Khi đi taxi, nên nhập đúng tên “ExploraScience Quy Nhon” hoặc “Trung tâm Khám phá khoa học Quy Nhơn” trên bản đồ để tránh tài xế nhầm sang các trường, viện nghiên cứu hoặc điểm tham quan khác trong khu vực Đại lộ Khoa học.
 
-Khi gọi xe, nên nhập đúng tên “ExploraScience Quy Nhon” hoặc “Trung tâm Khám phá Khoa học Quy Nhơn”. Nếu tài xế chưa quen với tên mới của phường, có thể nói thêm “đi Đại lộ Khoa học, gần Quy Hòa/Ghềnh Ráng”.
+Xe máy là lựa chọn phù hợp với khách trẻ, nhóm bạn hoặc du khách đã quen di chuyển trong thành phố. Quãng đường từ trung tâm đến địa điểm không quá xa, đường tương đối dễ đi nếu dùng bản đồ. Tuy nhiên, vào thời điểm nắng gắt, nên chuẩn bị mũ, áo chống nắng và nước uống. Nếu đi vào buổi tối để tham gia chương trình Đài thiên văn, cần chú ý đèn xe, tốc độ và đường về khách sạn sau khi kết thúc chương trình.
 
-Xe máy phù hợp với khách trẻ, nhóm bạn hoặc người muốn kết hợp nhiều điểm như Ghềnh Ráng, bãi Quy Hòa, quán cà phê ven biển và trung tâm khoa học trong cùng buổi. Cần đội mũ bảo hiểm đúng quy định, kiểm tra xăng, phanh, đèn xe và hạn chế chạy nhanh trên đoạn có xe lớn hoặc đoạn dốc.
-
-Nếu đi xe máy vào mùa mưa hoặc buổi tối, nên cân nhắc taxi vì đường có thể trơn, tầm nhìn giảm và khu vực phía nam thành phố không nhộn nhịp như trung tâm. Với trẻ em, việc di chuyển bằng xe máy đường dài cần cân nhắc an toàn trước sự tiện lợi.
-
-Xe đoàn phù hợp với trường học, cơ quan hoặc nhóm khách từ 20 người trở lên. Theo thông tin hỗ trợ khách tham quan, khách đoàn nên đăng ký trước qua tổng đài. Điều này quan trọng vì lịch show, phim, hướng dẫn và khu STEM có thể cần sắp xếp theo đoàn.
-
-Khi tổ chức đoàn học sinh, nên gửi trước số lượng, độ tuổi, thời gian dự kiến đến, nhu cầu tham quan tòa nhà chính, phim, show, STEM hoặc Đài thiên văn. Việc đặt trước giúp giảm thời gian chờ và đảm bảo chương trình phù hợp lứa tuổi.
+Xe du lịch hoặc xe hợp đồng phù hợp cho đoàn học sinh, trường học, công ty, gia đình đông người hoặc tour kết hợp nhiều điểm trong ngày. Vì trung tâm có các chương trình hướng dẫn, show khoa học, xem phim và hoạt động STEM, các đoàn nên liên hệ trước với trung tâm để thống nhất giờ đến, số lượng khách, vé và nội dung trải nghiệm. Điều này quan trọng hơn so với các điểm tham quan tự do, vì nhiều hoạt động tại đây có lịch theo suất.
 
 3. Khoảng cách
 
-Từ trung tâm Quy Nhơn: khoảng 7-8 km, thường 15-20 phút bằng ô tô hoặc taxi nếu đường thông thoáng. Từ sân bay Phù Cát đến trung tâm Quy Nhơn: khoảng 30-35 km, thường 40-60 phút; nếu đi tiếp đến ExploraScience cần cộng thêm thời gian vào phía nam thành phố. Từ ga Diêu Trì đến trung tâm Quy Nhơn: khoảng 10-12 km; từ ga đến trung tâm khoa học sẽ xa hơn và nên dự phòng 30-40 phút.
+Từ khu vực trung tâm thành phố Quy Nhơn cũ đến Trung tâm Khám phá khoa học, khoảng cách thường được các nguồn du lịch mô tả khoảng 5-7 km tùy điểm xuất phát. Nếu lấy mốc trung tâm là quảng trường Nguyễn Tất Thành, đường Xuân Diệu hoặc khu khách sạn ven biển, quãng đường có thể thay đổi theo tuyến đi. Đây là khoảng cách khá gần, thuận tiện để đưa vào lịch trình nửa ngày hoặc kết hợp với các điểm phía nam thành phố.
 
-Các con số trên chỉ là tham khảo cho chatbot. Khi người dùng hỏi “mất bao lâu?”, câu trả lời tốt nên nêu khoảng thời gian và điều kiện: giờ cao điểm, trời mưa, ngày lễ, vị trí khách sạn, phương tiện và điểm đón. Với tour hoặc đoàn học sinh, nên đến trước suất tham quan 15-30 phút để ổn định chỗ gửi xe, mua vé, tập trung và nghe hướng dẫn.
+Từ sân bay Phù Cát đến thành phố Quy Nhơn, khoảng cách tham khảo khoảng 30-35 km. Nếu đi thẳng từ sân bay đến khu vực Đại lộ Khoa học, quãng đường có thể dài hơn một chút tùy tuyến. Thời gian di chuyển từ sân bay về thành phố thường khoảng 45-60 phút trong điều kiện bình thường; sau đó từ trung tâm đến trung tâm khoa học mất thêm khoảng 10-20 phút tùy vị trí khách sạn và mật độ giao thông.
+
+Từ ga Quy Nhơn hoặc bến xe Quy Nhơn, du khách có thể gọi taxi hoặc xe công nghệ đến trung tâm. Khoảng cách từ các điểm này đến Đại lộ Khoa học không quá xa nếu di chuyển trong nội đô, nhưng nên nhập bản đồ để có lộ trình chính xác. Với đoàn học sinh từ tỉnh khác đến bằng xe khách, xe có thể đi thẳng đến cổng trung tâm nếu đã đặt lịch tham quan.
 
 4. Thời gian di chuyển trung bình
 
-Từ trung tâm Quy Nhơn: khoảng 7-8 km, thường 15-20 phút bằng ô tô hoặc taxi nếu đường thông thoáng. Từ sân bay Phù Cát đến trung tâm Quy Nhơn: khoảng 30-35 km, thường 40-60 phút; nếu đi tiếp đến ExploraScience cần cộng thêm thời gian vào phía nam thành phố. Từ ga Diêu Trì đến trung tâm Quy Nhơn: khoảng 10-12 km; từ ga đến trung tâm khoa học sẽ xa hơn và nên dự phòng 30-40 phút.
+Từ trung tâm Quy Nhơn cũ, thời gian di chuyển bằng taxi hoặc xe máy thường khoảng 10-20 phút, tùy điểm xuất phát. Nếu đi vào giờ cao điểm, thời gian có thể dài hơn. Với khách tham quan trong ngày, nên đến sớm hơn giờ tham quan khoảng 15-20 phút để gửi xe, mua vé, nhận hướng dẫn và không lỡ suất show hoặc phim.
 
-Các con số trên chỉ là tham khảo cho chatbot. Khi người dùng hỏi “mất bao lâu?”, câu trả lời tốt nên nêu khoảng thời gian và điều kiện: giờ cao điểm, trời mưa, ngày lễ, vị trí khách sạn, phương tiện và điểm đón. Với tour hoặc đoàn học sinh, nên đến trước suất tham quan 15-30 phút để ổn định chỗ gửi xe, mua vé, tập trung và nghe hướng dẫn.
+Từ sân bay Phù Cát, thời gian về trung tâm Quy Nhơn thường khoảng 45-60 phút. Nếu đi tiếp đến Trung tâm Khám phá khoa học, nên dự phòng tổng thời gian khoảng 60-90 phút, nhất là khi có hành lý, đi theo đoàn hoặc đến vào khung giờ đông. Với khách bay đến Quy Nhơn vào buổi trưa hoặc chiều, không nên lên lịch quá sát giờ đóng cửa của trung tâm.
+
+Nếu đi tham quan Đài thiên văn buổi tối, du khách nên tính cả thời gian ăn tối, di chuyển và quay về. Chương trình tối có thể kết thúc muộn hơn giờ tham quan ban ngày. Gia đình có trẻ nhỏ nên cân nhắc giờ ngủ của trẻ, thời tiết buổi tối và phương tiện về khách sạn.
 
 5. Bản đồ / hướng dẫn đường đi
 
-Khi tìm bản đồ, nên nhập “ExploraScience Quy Nhon”, “Trung tâm Khám phá Khoa học Quy Nhơn”, “Trung tâm Khám phá Khoa học và Đổi mới Sáng tạo Quy Nhơn” hoặc “Số 10 Đại lộ Khoa học”. Nếu bản đồ hiển thị địa chỉ cũ là phường Ghềnh Ráng, thành phố Quy Nhơn hoặc địa chỉ mới là phường Quy Nhơn Nam, tỉnh Gia Lai thì đều có thể là cùng địa điểm.
+Khi tìm trên bản đồ số, nên nhập một trong các tên sau: “Trung tâm Khám phá khoa học Quy Nhơn”, “ExploraScience Quy Nhon”, “Số 10 Đại lộ Khoa học” hoặc “Đài thiên văn Quy Nhơn”. Do tên hành chính có thể xuất hiện theo cả phiên bản cũ và mới, người dùng không nên chỉ nhập tỉnh/thành mà cần nhập đúng tên địa điểm. Nếu bản đồ hiển thị phường Ghềnh Ráng, Quy Nhơn, Bình Định cũ hoặc phường Quy Nhơn Nam, Gia Lai mới, cả hai cách này đều có thể liên quan cùng khu vực địa điểm.
 
-Cần phân biệt với các địa điểm có chữ “khoa học” khác như ICISE, BinhDinh Innovation Hub hoặc Đài thiên văn. Chúng liên quan trong cùng hệ sinh thái nhưng không phải lúc nào cũng có cùng cổng vào, vé hoặc giờ tham quan. Khi khách hỏi về vé, cần xác định họ muốn vào tòa nhà chính, Đài thiên văn hay khu STEM.
+Từ khu biển Quy Nhơn, đi về phía nam thành phố theo hướng Ghềnh Ráng. Sau đó tiếp tục theo các chỉ dẫn về Đại lộ Khoa học. Đường vào trung tâm khá rõ vì đây là một công trình có bảng tên lớn. Khi gần đến nơi, dấu hiệu nhận biết là mặt tiền hiện đại, bảng chữ “Trung tâm Khám phá khoa học - ExploraScience Quy Nhon” và khuôn viên rộng.
+
+Với khách đi đoàn, nên yêu cầu xe dừng đúng khu vực đón khách và tuân thủ hướng dẫn dừng đỗ của trung tâm. Trang liên hệ chính thức có nội quy yêu cầu dừng, đỗ xe, xếp hàng mua vé đúng nơi quy định. Điều này đặc biệt quan trọng với đoàn trường học vì số lượng khách đông dễ gây ùn tắc tại sảnh chính.
 
 6. Lưu ý khi di chuyển
 
-Du khách nên đến trước giờ show, giờ phim hoặc giờ Đài thiên văn vì các hoạt động này có lịch cố định. Nếu đi vào thứ Bảy, Chủ nhật, mùa hè hoặc dịp lễ, lượng khách gia đình và đoàn trường có thể đông hơn. Nên dự phòng thời gian gửi xe, mua vé trực tiếp, nhận vé online và hỏi lịch trình trong ngày.
+Thông tin địa chỉ và tên hành chính có thể gây nhầm vì có nguồn cũ ghi tỉnh Bình Định, thành phố Quy Nhơn, phường Ghềnh Ráng; trong khi trang chính thức hiện ghi phường Quy Nhơn Nam, tỉnh Gia Lai. Khi xây dựng chatbot, nên trả lời theo dạng: “Địa điểm nằm ở số 10 Đại lộ Khoa học, khu vực Quy Nhơn; hiện trang chính thức ghi phường Quy Nhơn Nam, tỉnh Gia Lai, trước đây thường ghi phường Ghềnh Ráng, TP. Quy Nhơn, Bình Định.” Cách trả lời này giúp người dùng hiểu rõ mà không nghĩ là hai địa điểm khác nhau.
 
-Quy định tham quan yêu cầu dừng/đỗ xe, xếp hàng mua vé đúng nơi quy định và xuất trình vé khi có yêu cầu. Không nên dừng xe tùy tiện trước cổng hoặc lối ra vào vì có thể gây cản trở đoàn khách lớn. Nếu đi xe đoàn, tài xế nên liên hệ trước để biết vị trí đỗ xe phù hợp.
+Nếu đi bằng xe máy vào mùa nắng, cần chú ý nắng mạnh tại Quy Nhơn, nhất là buổi trưa. Nếu đi cùng trẻ em, nên ưu tiên taxi hoặc xe ô tô để tránh mệt trước khi tham quan. Nếu đi vào mùa mưa, nên kiểm tra dự báo thời tiết và tình trạng đường, nhưng nhìn chung đây là điểm trong nhà nên ít bị ảnh hưởng hơn so với lịch trình đi đảo.
 
-Đường từ trung tâm về khu Ghềnh Ráng - Quy Hòa nhìn chung dễ đi, nhưng vẫn cần chú ý khi chạy xe máy qua đoạn dốc, cua, xe khách hoặc thời tiết mưa. Ban đêm sau chương trình thiên văn, nên đi nhóm, gọi taxi hoặc kiểm tra kỹ lộ trình về khách sạn trước khi rời trung tâm.
+Nếu mục tiêu là tham quan Đài thiên văn buổi tối, nên kiểm tra lịch trước, vì hoạt động quan sát bầu trời phụ thuộc vào lịch vận hành, thời tiết và số lượng vé. Không nên tự mặc định ngày nào cũng có quan sát thiên văn. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 7. Nguồn tham khảo
 
-- Website chính thức ExploraScience Quy Nhon. URL: https://explorascience.vn/. Truy cập ngày 28/05/2026.
-
-- Trang giới thiệu ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=20. Truy cập ngày 28/05/2026.
-
-- Trang hỗ trợ khách tham quan ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=828. Truy cập ngày 28/05/2026.
-
-- Trang liên hệ ExploraScience Quy Nhon. URL: https://explorascience.vn/?page_id=2630. Truy cập ngày 28/05/2026.
-
-- Cổng vé trực tuyến ExploraScience Quy Nhon. URL: https://ticket.explorascience.vn/. Truy cập ngày 28/05/2026.
-
-- Báo ảnh Việt Nam - Tổ hợp Trung tâm Khoa học đầu tiên tại Việt Nam. URL: https://vietnam.vnanet.vn/vietnamese/long-form/to-hop-trung-tam-khoa-hoc-dau-tien-tai-viet-nam-364602.html. Truy cập ngày 28/05/2026.
-
-- VOV5 - Trung tâm Khám phá khoa học Quy Nhơn: Đưa khoa học đến gần hơn với công chúng. URL: https://vovworld.vn/vi-VN/media/trung-tam-kham-pha-khoa-hoc-quy-nhon-dua-khoa-hoc-den-gan-hon-voi-cong-chung-2239484.vov5. Truy cập ngày 28/05/2026.
-
-- Quy Nhơn Tourist - Vé tham quan Trung tâm Khám phá khoa học Quy Nhơn. URL: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-tham-quan-trung-tam-kham-pha-khoa-hoc-quy-nhon/. Truy cập ngày 28/05/2026.
-
-- MIA.vn - Trung tâm Khám phá Khoa học Quy Nhơn nơi chứa đựng cả vũ trụ thu nhỏ. URL: https://mia.vn/cam-nang-du-lich/trung-tam-kham-pha-khoa-hoc-quy-nhon-noi-chua-dung-ca-vu-tru-thu-nho-11789. Truy cập ngày 28/05/2026.
-
-- Quy Nhơn Tourist - Sân bay Phù Cát cách trung tâm thành phố Quy Nhơn khoảng 35 km. URL: https://quynhontourist.com/tat-tan-tat-ve-san-bay-quy-nhon-binh-dinh/. Truy cập ngày 28/05/2026.
-
-- DSVN - Khoảng cách ga Diêu Trì về trung tâm Quy Nhơn khoảng 10-12 km. URL: https://vetauduongsat.com/tin-du-lich/ve-tau-ga-dieu-tri-di-quy-nhon-binh-dinh-2026-dsvn-185.html. Truy cập ngày 28/05/2026.
+Nguồn tham khảo chính dùng cho bộ dữ liệu:
+- Website chính thức ExploraScience Quy Nhon: https://explorascience.vn/
+- Trang giới thiệu của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=20
+- Trang liên hệ, lịch mở cửa và nội quy của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=2630
+- Trang lịch mở cửa và lịch trình trải nghiệm của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=790
+- Cổng vé online chính thức của Trung tâm: https://ticket.explorascience.vn/
+- Trang trưng bày của ExploraScience Quy Nhon: https://explorascience.vn/?page_id=2628
+- Báo ảnh Việt Nam/Thông tấn xã Việt Nam, “Tổ hợp Trung tâm Khoa học đầu tiên tại Việt Nam”: https://vietnam.vnanet.vn/vietnamese/long-form/to-hop-trung-tam-khoa-hoc-dau-tien-tai-viet-nam-364602.html
+- Quy Nhơn Tourist, trang vé tham quan Trung tâm Khám phá khoa học Quy Nhơn: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-tham-quan-trung-tam-kham-pha-khoa-hoc-quy-nhon/
+- Traveloka, bài viết về Trung tâm khám phá khoa học Quy Nhơn: https://www.traveloka.com/vi-vn/explore/destination/gns-trung-tam-kham-pha-khoa-hoc-quy-nhon/263241
+- MIA.vn, bài giới thiệu Trung tâm Khám phá khoa học Quy Nhơn: https://mia.vn/cam-nang-du-lich/trung-tam-kham-pha-khoa-hoc-quy-nhon-noi-chua-dung-ca-vu-tru-thu-nho-11789

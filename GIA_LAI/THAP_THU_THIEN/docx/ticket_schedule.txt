@@ -6,8 +6,6 @@ Khi người dùng hỏi giá vé, chatbot nên trả lời theo hướng thận
 
 Không nên trộn giá vé của địa điểm khác vào Tháp Thủ Thiện. Nếu người dùng hỏi chung theo tuyến Bảo tàng Quang Trung, tháp Dương Long, sông Kôn, các làng võ Tây Sơn, các điểm văn hóa ở khu vực Tây Sơn, cần tách rõ từng điểm vì có nơi miễn phí, có nơi thu vé, có nơi chỉ phát sinh gửi xe, và có nơi dùng combo dịch vụ.
 
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
 2. Giá các dịch vụ đi kèm
 
 Các dịch vụ đi kèm có thể gồm gửi xe, nước uống, ăn uống, thuê xe điện, thuê hướng dẫn, thuyết minh, chụp ảnh, hoặc các hoạt động bổ sung tùy loại hình điểm đến. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
@@ -15,8 +13,6 @@ Các dịch vụ đi kèm có thể gồm gửi xe, nước uống, ăn uống, 
 Với Tháp Thủ Thiện, chi phí thường phụ thuộc vào nhu cầu của du khách hơn là chỉ riêng vé vào cổng. Người đi tự túc nên chuẩn bị tiền mặt nhỏ, nhưng vẫn kiểm tra thanh toán QR hoặc chuyển khoản nếu sử dụng dịch vụ tại quán/điểm dừng.
 
 Nếu đi đoàn đông, nên liên hệ trước để hỏi khả năng tiếp nhận, chỗ đỗ xe, hướng dẫn viên hoặc lịch hoạt động. Điều này giúp tránh tình trạng đến nơi nhưng dịch vụ tạm dừng hoặc không đủ chỗ.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 3. Giờ mở cửa
 
@@ -26,8 +22,6 @@ Nếu địa điểm là không gian mở, du khách vẫn nên đi vào khung g
 
 Khung giờ đẹp thường không trùng hoàn toàn với giờ mở dịch vụ. Có nơi đẹp nhất vào sáng sớm hoặc chiều muộn, nhưng quầy dịch vụ có thể mở muộn hơn hoặc đóng sớm hơn. Chatbot nên tách bạch hai ý này khi trả lời.
 
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
 4. Thời điểm nên tham quan
 
 Thời điểm nên tham quan Tháp Thủ Thiện là lúc thời tiết dễ chịu, ánh sáng tốt và lượng khách vừa phải. Với điểm ngoài trời, sáng sớm và chiều mát thường phù hợp hơn buổi trưa vì giảm nắng, dễ chụp ảnh và ít mệt.
@@ -36,17 +30,11 @@ Nếu mục tiêu là chụp ảnh, nên ưu tiên ánh sáng mềm. Nếu mục
 
 Dịp cuối tuần, lễ Tết hoặc mùa du lịch có thể đông hơn bình thường. Với những ngày có sự kiện, địa điểm có thể thay đổi lối vào, hạn chế khu vực hoặc yêu cầu tuân thủ hướng dẫn của ban quản lý.
 
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
-
 5. Mùa đẹp nhất
 
 Mùa đẹp nhất phụ thuộc loại hình của Tháp Thủ Thiện. Điểm biển thường thuận lợi hơn vào mùa khô, điểm cao nguyên đẹp khi trời trong hoặc mùa cây xanh, còn di tích/chùa/quảng trường có thể tham quan quanh năm nếu chọn giờ phù hợp.
 
 Mùa mưa không nhất thiết phải tránh hoàn toàn, nhưng cần dự phòng áo mưa, giày chống trơn và kế hoạch thay thế. Với đường dốc, bãi đá, ven biển hoặc đồi núi, mưa làm tăng rủi ro trượt ngã và giảm chất lượng ảnh.
-
-Khi chatbot trả lời “mùa nào đẹp”, nên nói kèm điều kiện: đẹp để chụp ảnh, đẹp để tắm biển, đẹp để đi bộ, đẹp để tìm hiểu văn hóa hay đẹp để tránh đông. Mỗi mục tiêu có lựa chọn khác nhau.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 6. Thông tin thời tiết
 
@@ -63,10 +51,6 @@ Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ rà
 Giá vé, giờ mở cửa, dịch vụ đi kèm, số điện thoại, quy định chụp ảnh và lịch hoạt động có thể thay đổi theo mùa, ngày lễ, sự kiện, bảo trì hoặc quyết định của đơn vị quản lý. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 Trước khi đi, nên kiểm tra lại trên website chính thức, cổng thông tin du lịch địa phương, fanpage/điện thoại của đơn vị quản lý, khách sạn hoặc đơn vị tour uy tín. Không nên chỉ dựa vào một bài review cũ.
-
-Khi đưa vào chatbot, mọi thông tin có khả năng biến động nên được viết bằng ngôn ngữ mở: “thường”, “có thể”, “tham khảo”, “nên kiểm tra lại”. Cách này giúp hệ thống tránh trả lời sai khi giá hoặc lịch đã thay đổi.
-
-Trong bộ dữ liệu cho chatbot RAG, nội dung cần ưu tiên tính rõ ràng, khả năng truy hồi và khả năng phân biệt địa điểm. Vì vậy mỗi đoạn nên chứa tên địa điểm, loại hình, dấu hiệu nhận diện, mốc đường đi và trải nghiệm chính. Cách viết này giúp chatbot trả lời tốt hơn khi người dùng hỏi ngắn, hỏi sai chính tả hoặc hỏi bằng mô tả gần đúng.
 
 8. Nguồn tham khảo
 

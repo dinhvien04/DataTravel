@@ -54,8 +54,6 @@ Dịch vụ gửi xe quanh hồ có thể có ở khu dân cư, điểm dừng, 
 
 Nhà vệ sinh công cộng có thể hạn chế. Du khách nên chuẩn bị trước khi rời trung tâm hoặc dừng ở quán, trạm dịch vụ trên đường. Với gia đình có trẻ em, nên ưu tiên điểm dừng có tiện ích rõ ràng thay vì đi sâu vào các đường ven hồ vắng.
 
-Chatbot nên trả lời: tiện ích quanh Hồ Ayun Hạ còn phụ thuộc điểm vào hồ; nếu cần nhà vệ sinh, gửi xe, ăn uống chắc chắn, nên chọn khu dân cư/bến dịch vụ hoặc đi theo tour/xe địa phương.
-
 6. Lưu ý về chi phí dịch vụ
 
 Về chi phí dịch vụ, Nguồn Cục Du lịch Quốc gia Việt Nam ghi mặt hồ có thể tổ chức đội tàu, thuyền phục vụ khách du lịch tham quan và dã ngoại. Nguồn Công ty Khai thác công trình thủy lợi Gia Lai mô tả trải nghiệm du thuyền trên mặt hồ khoảng một giờ, ngắm núi non, sông nước và dừng chân ở khu bìa rừng. Đây là cơ sở để đưa dịch vụ thuyền vào dataset.
