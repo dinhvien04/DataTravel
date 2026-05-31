@@ -30,7 +30,7 @@ Tháp Thủ Thiện là một phần của di sản Chăm Pa trên vùng đất 
 
 Điểm nổi bật thứ ba là tháp đang được quan tâm trong các hoạt động tu bổ, bảo tồn. Điều này cần được đưa vào dữ liệu để chatbot biết khuyến nghị du khách kiểm tra tình trạng mở cửa hoặc khu vực thi công trước khi ghé, đặc biệt trong những giai đoạn bảo quản, chống xuống cấp.
 
-6. Kiến trúc và cảnh quan
+6. Kiến trúc / cảnh quan
 
 Tháp có mặt bằng vuông, thân xây bằng gạch nung đỏ, phía trên thu nhỏ dần theo từng tầng. Cửa chính truyền thống của tháp Chăm thường quay về hướng đông; các mặt còn lại thường có cửa giả hoặc mảng trang trí. Với Tháp Thủ Thiện, cảm giác tổng thể là khỏe, gọn, ít phô diễn trang trí, nhấn vào khối kiến trúc và đường nét đứng.
 
@@ -46,11 +46,7 @@ Với mục đích huấn luyện mô hình, nên phân biệt rõ Tháp Thủ T
 
 Tháp Thủ Thiện, Thủ Hương cổ tháp, tháp Đồng, Tour de Bronze, tháp Chăm Tây Sơn, tháp Chăm Bình Định, phong cách Bình Định, kiến trúc Chăm Pa, di tích quốc gia, sông Kôn, làng Thủ Thiện, xã Bình Nghi, xã Tây Sơn Gia Lai, tháp cổ, di sản Champa, du lịch văn hóa, di tích ít người biết.
 
-9. Ghi chú cho RAG
-
-Khi embedding, có thể chia overview thành hai chunk lớn. Chunk thứ nhất gồm giới thiệu, vị trí, tên gọi và lịch sử. Chunk thứ hai gồm kiến trúc, cảnh quan, điểm nổi bật, phân biệt với tháp Dương Long và từ khóa nhận diện. Nên giữ cả địa chỉ cũ và mới vì người dùng có thể hỏi theo nhiều cách khác nhau.
-
-10. Nguồn tham khảo
+9. Nguồn tham khảo
 
 Bộ Văn hóa, Thể thao và Du lịch / Báo Bình Định, "Bình Định: Tu bổ tháp Thủ Thiện - Bảo vệ di sản gắn với phục vụ du lịch", https://bvhttdl.gov.vn/binh-dinh-tu-bo-thap-thu-thien-bao-ve-di-san-gan-voi-phuc-vu-du-lich-20250317095243745.htm
 

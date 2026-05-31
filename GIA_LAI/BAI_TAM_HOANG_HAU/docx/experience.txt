@@ -22,7 +22,7 @@ Nên thử đi vào buổi sáng sớm để cảm nhận không khí yên bình
 
 Nên thử quan sát sự thay đổi của bãi đá theo thủy triều. Khi nước lên, bãi đá có vẻ mềm và mơ hơn; khi nước xuống, cấu trúc đá hiện rõ hơn. Tuy nhiên, không nên vì muốn ảnh đẹp mà ra sát sóng, trèo lên đá ướt hoặc quay lưng hoàn toàn về phía biển. Trải nghiệm đẹp nhất là trải nghiệm an toàn.
 
-5. Những thứ không nên bỏ lỡ
+5. Những điều không nên bỏ lỡ
 
 Không nên bỏ lỡ góc nhìn toàn cảnh từ trên cao xuống bãi. Nhiều du khách vội vàng đi xuống bãi đá mà quên chụp toàn cảnh, trong khi chính góc nhìn cao mới thể hiện rõ bãi nằm trong lòng Ghềnh Ráng và hướng ra biển Quy Nhơn. Không nên bỏ lỡ mộ Hàn Mặc Tử và đồi Thi Nhân nếu đã vào khu du lịch, vì đây là hai điểm giúp chuyến đi có thêm lớp văn hóa.
 
@@ -40,27 +40,19 @@ Lịch trình nửa ngày nhẹ nhàng: ăn sáng ở Quy Nhơn, đi Ghềnh Rá
 
 Lịch trình một ngày trong thành phố có thể gồm Tháp Đôi buổi sáng, Ghềnh Ráng - Bãi Trứng trước trưa hoặc chiều, chợ Quy Nhơn hoặc quán đặc sản, sau đó dạo biển trung tâm lúc hoàng hôn. Nếu kết hợp với Kỳ Co - Eo Gió, nên để Bãi tắm Hoàng Hậu vào buổi chiều ngày khác hoặc buổi sáng cuối trước khi ra sân bay, vì tuyến Nhơn Lý và tuyến Ghềnh Ráng khác nhau.
 
-8. Kinh nghiệm cho người đi lần đầu
+8. Kinh nghiệm tham quan
 
 Người đi lần đầu nên chuẩn bị tâm lý rằng bãi không giống một bãi tắm cát phẳng. Đá tròn nhìn đẹp nhưng đi không dễ, nhất là khi ướt. Nên mang giày bám tốt, không nên đi giày cao gót hoặc dép đế trơn xuống bãi. Nên mang ít đồ, đeo balo gọn, giữ điện thoại chắc tay và tránh đặt đồ trên đá gần mép nước. Nếu mục tiêu là chụp ảnh, hãy quan sát vị trí ổn định trước khi tạo dáng.
 
 Nên hỏi người quản lý hoặc người dân nếu không chắc lối xuống bãi. Không nên đi theo đường tự phát, trèo qua hàng rào hoặc vượt qua khu vực cảnh báo. Nếu trời vừa mưa hoặc biển có sóng lớn, hãy chụp từ phía trên. Với địa điểm này, ảnh đẹp có thể có từ nhiều góc, không nhất thiết phải đứng sát mép nước.
 
-9. Gợi ý cho gia đình, nhóm bạn, cặp đôi và khách lớn tuổi
-
 Gia đình có trẻ nhỏ nên xem Bãi tắm Hoàng Hậu là điểm ngắm cảnh và chụp ảnh ngắn, không phải nơi cho trẻ chạy chơi tự do. Người lớn cần theo sát trẻ, tránh để trẻ leo đá hoặc xuống sát nước. Nhóm bạn có thể chụp ảnh nhiều góc nhưng cần phân công giữ đồ và nhắc nhau không đứng trên đá ướt. Cặp đôi có thể đi vào bình minh hoặc cuối chiều để có ánh sáng lãng mạn, kết hợp cà phê hoặc ăn tối trong trung tâm Quy Nhơn.
 
 Khách lớn tuổi nên cân nhắc sức khỏe đầu gối, khả năng giữ thăng bằng và thời tiết. Nếu muốn tham quan, có thể chỉ đi khu phía trên, ngắm bãi từ xa và nghỉ ở quán gần đó. Người sợ trơn trượt hoặc từng té ngã không nên xuống bãi đá. Chatbot nên gợi ý phương án thay thế an toàn hơn trong cùng khu như mộ Hàn Mặc Tử, đồi Thi Nhân hoặc điểm ngắm cảnh bên trên.
 
-10. Các câu hỏi thực tế du khách hay hỏi
-
 Du khách thường hỏi: Bãi tắm Hoàng Hậu có tắm được không; Bãi Trứng có mất vé không; nên đi sáng hay chiều; có gì chơi ngoài chụp ảnh; đi giày gì; trẻ em có xuống bãi được không; có chỗ gửi xe không; có gần mộ Hàn Mặc Tử không; đi bao lâu là đủ; có nên đi mùa mưa không; Bãi Trứng và Ghềnh Ráng có cùng chỗ không; có cần đặt vé trước không. Những câu hỏi này nên được trả lời theo hướng thực tế, ngắn gọn nhưng không bỏ qua cảnh báo an toàn.
 
-11. Các câu hỏi chatbot có thể trả lời từ file này
-
-File experience giúp chatbot trả lời: Bãi tắm Hoàng Hậu có gì chơi; nên chụp ảnh ở đâu; đi lần đầu cần lưu ý gì; phù hợp gia đình không; đi với người lớn tuổi thế nào; lịch trình nửa ngày ra sao; có nên tắm không; có thể kết hợp với mộ Hàn Mặc Tử không; cần mang gì khi đi Bãi Trứng.
-
-12. Nguồn tham khảo
+9. Nguồn tham khảo
 
 Các nguồn dưới đây được dùng để đối chiếu thông tin vị trí, nhận diện cảnh quan, bối cảnh hành chính, cách di chuyển, thời điểm tham quan và kinh nghiệm thực tế. Khi sử dụng cho chatbot/RAG, nên lưu ý rằng giá vé, giờ mở cửa, dịch vụ, quy định quay chụp và trạng thái lối xuống bãi có thể thay đổi.
 

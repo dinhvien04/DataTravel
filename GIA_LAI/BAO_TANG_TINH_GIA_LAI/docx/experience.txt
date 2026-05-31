@@ -1,10 +1,4 @@
-1. Trải nghiệm tổng quan
-
-Trải nghiệm tại Bảo tàng tỉnh Gia Lai không phải kiểu check-in nhanh như một điểm cảnh quan, mà là trải nghiệm đọc, quan sát, nghe thuyết minh và liên kết nhiều lớp thông tin về vùng đất Gia Lai. Du khách có thể bắt đầu từ lịch sử tự nhiên - địa lý, chuyển sang khảo cổ, cư dân bản địa, văn hóa cồng chiêng, đời sống Jrai - Bahnar, rồi đến lịch sử đấu tranh và phát triển địa phương.
-
-Điểm đặc biệt của bảo tàng là giúp người xem hiểu vì sao Gia Lai có nhiều địa danh gắn với núi lửa, hồ nước, cao nguyên, rừng, cồng chiêng, nhà rông, nhà mồ, sử thi, Anh hùng Núp và các tuyến di sản như Tây Sơn Thượng đạo, làng Stơr, An Khê, Biển Hồ.
-
-2. Các nội dung nên ưu tiên khi tham quan
+1. Hoạt động du lịch chính
 
 Nên ưu tiên khu trưng bày về văn hóa Jrai và Bahnar, vì đây là nhóm nội dung giúp du khách nhận diện bản sắc Gia Lai. Các hiện vật như cồng chiêng, trống lớn, ché cổ, gùi, nông cụ, trang phục, mô hình nhà mồ, nhà sàn và nhạc khí lễ hội có giá trị giải thích đời sống vật chất lẫn tinh thần của cư dân Tây Nguyên.
 
@@ -12,37 +6,51 @@ Nên chú ý phần khảo cổ và lịch sử tiền sử, đặc biệt các 
 
 Nên xem phần lịch sử cách mạng, Anh hùng Núp, làng kháng chiến Stơr và các tư liệu về hai cuộc kháng chiến. Nhóm này phù hợp với học sinh, sinh viên, đoàn cơ quan, khách quan tâm lịch sử dân tộc và các điểm di tích trong bảng lọc như Nhà lao Pleiku, Di tích Tây Sơn Thượng đạo, Di tích chiến thắng Đăk Pơ.
 
-3. Trải nghiệm cồng chiêng và di sản phi vật thể
+2. Điểm check-in nổi bật
+
+Một số điểm check-in nổi bật mà du khách thường lựa chọn. Nên ưu tiên khu trưng bày về văn hóa Jrai và Bahnar, vì đây là nhóm nội dung giúp du khách nhận diện bản sắc Gia Lai. Các hiện vật như cồng chiêng, trống lớn, ché cổ, gùi, nông cụ, trang phục, mô hình nhà mồ, nhà sàn và nhạc khí lễ hội có giá trị giải thích đời sống vật chất lẫn tinh thần của cư dân Tây Nguyên. Nên chú ý phần khảo cổ và lịch sử tiền sử, đặc biệt các hiện vật liên quan đến di chỉ Biển Hồ, văn hóa Biển Hồ, công cụ sơ kỳ Đá cũ An Khê, di tích An Phú và các tư liệu về cư dân sớm trên cao nguyên.
+
+3. Trải nghiệm theo từng khu vực
+
+Trải nghiệm tại Bảo tàng tỉnh Gia Lai không phải kiểu check-in nhanh như một điểm cảnh quan, mà là trải nghiệm đọc, quan sát, nghe thuyết minh và liên kết nhiều lớp thông tin về vùng đất Gia Lai. Du khách có thể bắt đầu từ lịch sử tự nhiên - địa lý, chuyển sang khảo cổ, cư dân bản địa, văn hóa cồng chiêng, đời sống Jrai - Bahnar, rồi đến lịch sử đấu tranh và phát triển địa phương.
+
+Điểm đặc biệt của bảo tàng là giúp người xem hiểu vì sao Gia Lai có nhiều địa danh gắn với núi lửa, hồ nước, cao nguyên, rừng, cồng chiêng, nhà rông, nhà mồ, sử thi, Anh hùng Núp và các tuyến di sản như Tây Sơn Thượng đạo, làng Stơr, An Khê, Biển Hồ.
 
 Bảo tàng là nơi phù hợp để giới thiệu Không gian văn hóa cồng chiêng Tây Nguyên ở góc độ hiện vật và bối cảnh. Người tham quan có thể tìm hiểu cồng chiêng không chỉ là nhạc cụ, mà còn gắn với nghi lễ, lễ hội, vòng đời, cộng đồng làng, không gian nhà rông, nhà mồ, sinh hoạt nông nghiệp và quan niệm thiêng của các tộc người bản địa.
 
 Nếu có phòng trưng bày hoặc chuyên đề cồng chiêng đang mở, nên dành thời gian nghe thuyết minh vì chỉ nhìn hiện vật thường chưa đủ hiểu vai trò của chiêng trong đời sống. Những câu hỏi chatbot nên xử lý gồm: cồng chiêng Gia Lai có gì đặc biệt, bảo tàng có trưng bày cồng chiêng không, chiêng Jrai và Bahnar khác gì, cồng chiêng có phải di sản UNESCO không.
 
-4. Trải nghiệm ngoài trời và khuôn viên
-
 Theo Báo Gia Lai, bảo tàng đã đầu tư khu vườn tượng chủ đề 'Tượng và hoa' trên diện tích hơn 700 m2, kết nối với mô hình phục dựng làng Stơr, quê hương Anh hùng Núp. Khu vườn có khoảng 70 bức tượng gỗ dân gian Jrai, Bahnar và tạo không gian check-in, thư giãn, trải nghiệm văn hóa ngoài trời.
 
 Khi tham quan ngoài trời, nên đi chậm, quan sát hình dáng tượng, chất liệu gỗ, biểu cảm, mối liên hệ với nhà mồ và quan niệm cộng đồng. Không nên leo trèo, chạm mạnh, ngồi lên tượng hoặc tác động vào cảnh quan.
 
-5. Lịch trình gợi ý 1 giờ
+4. Những thứ nên thử
+
+Khi đến đây, du khách nên thử một số trải nghiệm tiêu biểu. Nên ưu tiên khu trưng bày về văn hóa Jrai và Bahnar, vì đây là nhóm nội dung giúp du khách nhận diện bản sắc Gia Lai. Các hiện vật như cồng chiêng, trống lớn, ché cổ, gùi, nông cụ, trang phục, mô hình nhà mồ, nhà sàn và nhạc khí lễ hội có giá trị giải thích đời sống vật chất lẫn tinh thần của cư dân Tây Nguyên. Nên chú ý phần khảo cổ và lịch sử tiền sử, đặc biệt các hiện vật liên quan đến di chỉ Biển Hồ, văn hóa Biển Hồ, công cụ sơ kỳ Đá cũ An Khê, di tích An Phú và các tư liệu về cư dân sớm trên cao nguyên.
+
+5. Những điều không nên bỏ lỡ
+
+Có những điều bạn không nên bỏ lỡ khi tham quan. Nên ưu tiên khu trưng bày về văn hóa Jrai và Bahnar, vì đây là nhóm nội dung giúp du khách nhận diện bản sắc Gia Lai. Các hiện vật như cồng chiêng, trống lớn, ché cổ, gùi, nông cụ, trang phục, mô hình nhà mồ, nhà sàn và nhạc khí lễ hội có giá trị giải thích đời sống vật chất lẫn tinh thần của cư dân Tây Nguyên. Nên chú ý phần khảo cổ và lịch sử tiền sử, đặc biệt các hiện vật liên quan đến di chỉ Biển Hồ, văn hóa Biển Hồ, công cụ sơ kỳ Đá cũ An Khê, di tích An Phú và các tư liệu về cư dân sớm trên cao nguyên.
+
+6. Thời lượng tham quan đề xuất
+
+Về thời lượng tham quan đề xuất, Lịch trình nhanh phù hợp với khách du lịch phổ thông: vào cổng và xác định các phòng trưng bày chính, xem nhanh phần lịch sử - tự nhiên Gia Lai, quan sát nhóm hiện vật cồng chiêng và văn hóa dân tộc, xem một số hiện vật tiêu biểu như trống đồng An Thành, phù điêu Champa, ché cổ, thuyền độc mộc, sau đó ra khuôn viên chụp ảnh và ghép Quảng trường Đại Đoàn Kết. Lịch trình này phù hợp khi khách còn phải đi Biển Hồ, Chư Đăng Ya, Núi Hàm Rồng hoặc có lịch bay/bến xe. Chatbot nên gợi ý ngắn gọn nếu người dùng hỏi 'đi bảo tàng mất bao lâu'.
+
+7. Lịch trình tham quan gợi ý
 
 Lịch trình nhanh phù hợp với khách du lịch phổ thông: vào cổng và xác định các phòng trưng bày chính, xem nhanh phần lịch sử - tự nhiên Gia Lai, quan sát nhóm hiện vật cồng chiêng và văn hóa dân tộc, xem một số hiện vật tiêu biểu như trống đồng An Thành, phù điêu Champa, ché cổ, thuyền độc mộc, sau đó ra khuôn viên chụp ảnh và ghép Quảng trường Đại Đoàn Kết.
 
 Lịch trình này phù hợp khi khách còn phải đi Biển Hồ, Chư Đăng Ya, Núi Hàm Rồng hoặc có lịch bay/bến xe. Chatbot nên gợi ý ngắn gọn nếu người dùng hỏi 'đi bảo tàng mất bao lâu'.
 
-6. Lịch trình gợi ý nửa ngày
-
 Lịch trình nửa ngày phù hợp cho học sinh, sinh viên, nhóm nghiên cứu hoặc khách yêu văn hóa. Bắt đầu bằng nghe thuyết minh tổng quan, sau đó dành thời gian cho từng mảng: khảo cổ - tiền sử, Jrai - Bahnar, cồng chiêng, lịch sử đấu tranh, Anh hùng Núp, hiện vật Champa và trưng bày chuyên đề. Kết thúc bằng khuôn viên, vườn tượng, Quảng trường Đại Đoàn Kết và Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum nếu còn thời gian.
 
 Với đoàn học sinh, có thể biến chuyến đi thành bài học liên môn: lịch sử địa phương, địa lý cao nguyên, âm nhạc cồng chiêng, mỹ thuật tượng gỗ, giáo dục công dân về bảo tồn di sản và kỹ năng tham quan bảo tàng.
 
-7. Đối tượng phù hợp
+8. Kinh nghiệm tham quan
 
 Phù hợp với gia đình có trẻ em vì địa điểm ở trung tâm, dễ di chuyển, không cần thể lực cao. Phù hợp với người lớn tuổi vì có thể tham quan trong nhà và gần các điểm nghỉ chân trung tâm. Phù hợp với học sinh, sinh viên, giáo viên lịch sử - địa lý - văn hóa vì có nhiều lớp tư liệu. Phù hợp với khách đi một mình muốn hiểu Pleiku trước khi đi các điểm tự nhiên.
 
 Không phải lựa chọn tối ưu nếu du khách chỉ muốn tắm thác, trekking, chụp ảnh thiên nhiên hoặc đi phượt ngoài trời. Tuy nhiên, bảo tàng có thể là điểm cân bằng lịch trình: buổi sáng đi bảo tàng, chiều đi Biển Hồ/Chư Đăng Ya; hoặc ngày mưa chuyển từ điểm ngoài trời sang bảo tàng.
-
-8. Câu hỏi gợi ý cho thuyết minh hoặc học tập
 
 Bảo tàng Gia Lai hình thành từ khi nào và vì sao cần có bảo tàng ở Pleiku?
 
@@ -56,7 +64,7 @@ Phù điêu Phật Champa Tây Nguyên cho thấy mối liên hệ văn hóa nà
 
 Tại sao Bảo tàng tỉnh Gia Lai cần phân biệt với Quảng trường Đại Đoàn Kết và Bảo tàng Hồ Chí Minh chi nhánh Gia Lai - Kon Tum?
 
-9. Nguồn tham khảo và ghi chú cập nhật
+9. Nguồn tham khảo
 
 Ghi chú cập nhật: Dữ liệu được tổng hợp theo các nguồn công khai đã kiểm tra đến năm 2026. Sau sáp nhập, tên gọi hành chính và tên đơn vị có thể thay đổi trên từng hệ thống. Trong bộ dữ liệu này, cụm 'Bảo tàng tỉnh Gia Lai' được hiểu theo ngữ cảnh du lịch Pleiku trong bảng lọc: địa điểm ở số 21 Trần Hưng Đạo, bên cạnh Quảng trường Đại Đoàn Kết; hiện website chính thức đang hiển thị tên Bảo tàng Pleiku. Khi chatbot trả lời thông tin giờ mở cửa, lịch sự kiện, dịch vụ thuyết minh hoặc liên hệ đoàn, nên khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại của bảo tàng.
 

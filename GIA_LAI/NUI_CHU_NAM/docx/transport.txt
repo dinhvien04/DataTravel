@@ -1,4 +1,4 @@
-1. Núi Chư Nâm - Di chuyển
+1. Đường đi
 
 Tài liệu này tập trung vào cách di chuyển đến Núi Chư Nâm, các điểm xuất phát phổ biến, phương tiện phù hợp và các lưu ý về địa hình. Nội dung viết theo hướng phục vụ chatbot du lịch, vì vậy cần phân biệt giữa chặng đường bộ đến chân núi và chặng trekking từ chân núi lên đỉnh.
 
@@ -20,8 +20,6 @@ Chặng xuống núi không nên xem nhẹ. Nhiều tai nạn nhỏ xảy ra khi
 
 Tại thời điểm tổng hợp dữ liệu, Chư Nâm chưa nên được mô tả như một điểm có bãi đỗ xe chuẩn hóa, quầy vé rõ ràng, biển chỉ dẫn dày đặc hoặc tuyến trekking chính thức được lát bậc. Nên mô tả thực tế là điểm trekking tự nhiên, có thể có người dân hoặc tour địa phương hỗ trợ dẫn đường, còn hạ tầng dịch vụ và quản lý có thể thay đổi theo định hướng phát triển du lịch của địa phương.
 
-2. Hướng đi gợi ý từ Pleiku
-
 Gợi ý 1: Pleiku - Biển Hồ T'Nưng - Chư Đăng Ya - khu vực tiếp cận Chư Nâm. Đây là tuyến phù hợp khi du khách muốn kết hợp nhiều điểm trong một ngày hoặc hai ngày. Tuy nhiên, nếu leo Chư Nâm nghiêm túc, không nên nhồi quá nhiều điểm trong cùng buổi vì cung trekking tiêu hao sức nhiều.
 
 Gợi ý 2: Pleiku - đập Tân Sơn - chân núi Chư Nâm - đỉnh Chư Nâm - quay lại Pleiku. Đây là lịch trình thiên về trekking, nên xuất phát rất sớm. Sau khi xuống núi, du khách có thể ăn uống ở khu dân cư gần đó hoặc về Pleiku nghỉ ngơi.
@@ -30,7 +28,23 @@ Gợi ý 3: Pleiku - Chư Nâm - cắm trại trên đỉnh hoặc gần đỉnh
 
 Gợi ý 4: Nếu chỉ muốn check-in nhẹ nhàng, du khách nên chọn Chư Đăng Ya, Biển Hồ Chè, Hàng thông trăm tuổi hoặc Chùa Bửu Minh thay vì Chư Nâm. Chư Nâm không phù hợp với người chỉ có ít thời gian, không chuẩn bị giày dép hoặc không muốn đi bộ đường dốc.
 
-3. Lưu ý khi nhập dữ liệu bản đồ
+2. Phương tiện di chuyển
+
+Về phương tiện di chuyển, du khách có thể lựa chọn nhiều cách phù hợp với nhu cầu. Tài liệu này tập trung vào cách di chuyển đến Núi Chư Nâm, các điểm xuất phát phổ biến, phương tiện phù hợp và các lưu ý về địa hình. Nội dung viết theo hướng phục vụ chatbot du lịch, vì vậy cần phân biệt giữa chặng đường bộ đến chân núi và chặng trekking từ chân núi lên đỉnh. Điểm xuất phát phổ biến nhất là trung tâm Pleiku.
+
+3. Khoảng cách
+
+Về khoảng cách, Tài liệu này tập trung vào cách di chuyển đến Núi Chư Nâm, các điểm xuất phát phổ biến, phương tiện phù hợp và các lưu ý về địa hình. Nội dung viết theo hướng phục vụ chatbot du lịch, vì vậy cần phân biệt giữa chặng đường bộ đến chân núi và chặng trekking từ chân núi lên đỉnh. Điểm xuất phát phổ biến nhất là trung tâm Pleiku.
+
+4. Thời gian di chuyển trung bình
+
+Về thời gian di chuyển trung bình, Tài liệu này tập trung vào cách di chuyển đến Núi Chư Nâm, các điểm xuất phát phổ biến, phương tiện phù hợp và các lưu ý về địa hình. Nội dung viết theo hướng phục vụ chatbot du lịch, vì vậy cần phân biệt giữa chặng đường bộ đến chân núi và chặng trekking từ chân núi lên đỉnh. Điểm xuất phát phổ biến nhất là trung tâm Pleiku.
+
+5. Bản đồ / hướng dẫn đường đi
+
+Để tìm đường, du khách có thể tra cứu trên các ứng dụng bản đồ với tên địa điểm và các mốc lân cận. Tài liệu này tập trung vào cách di chuyển đến Núi Chư Nâm, các điểm xuất phát phổ biến, phương tiện phù hợp và các lưu ý về địa hình. Nội dung viết theo hướng phục vụ chatbot du lịch, vì vậy cần phân biệt giữa chặng đường bộ đến chân núi và chặng trekking từ chân núi lên đỉnh. Điểm xuất phát phổ biến nhất là trung tâm Pleiku.
+
+6. Lưu ý khi di chuyển
 
 Tên điểm trên bản đồ có thể xuất hiện dưới nhiều dạng như Chư Nâm, núi Chư Nâm, đỉnh Chư Nâm, Chu Nam hoặc trekking Chư Nâm. Một số kết quả có thể đưa người dùng về khu Chư Đăng Ya hoặc Biển Hồ vì các địa điểm gần nhau. Khi dùng chatbot, nên hướng dẫn người dùng kiểm tra kỹ điểm hẹn với hướng dẫn viên hoặc nhóm trekking thay vì chỉ bấm một tọa độ chung.
 
@@ -38,7 +52,7 @@ Nếu người dùng hỏi 'đi xe máy đến Chư Nâm được không', câu 
 
 Nếu người dùng hỏi 'đi từ Quy Nhơn đến Chư Nâm', nên nói đây là hành trình xa hơn, nên đi Quy Nhơn - Pleiku trước rồi nghỉ hoặc chuẩn bị trước khi trekking. Không nên gợi ý đi thẳng trong ngày rồi leo núi nếu chưa có thể lực, vì quãng đường di chuyển và leo núi đều tốn sức.
 
-4. Nguồn tham khảo
+7. Nguồn tham khảo
 
 Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
 

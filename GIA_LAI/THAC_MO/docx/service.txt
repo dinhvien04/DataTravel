@@ -1,4 +1,4 @@
-1. Tổng quan dịch vụ tại điểm đến
+1. Dịch vụ tại địa điểm
 
 Thác Mơ không nên được hiểu là khu du lịch có đầy đủ dịch vụ cố định. Hạ tầng tại đây có thể thay đổi theo thời điểm, theo tuyến đi tự túc hay đi tour, theo mùa và theo mức độ tham gia của người dân địa phương. Vì vậy, khi xây dựng dữ liệu chatbot, cần phân biệt rõ dịch vụ “tại thác”, dịch vụ “trên đường vào thác” và dịch vụ “trong tuyến kết hợp lòng hồ - làng chài”.
 
@@ -6,39 +6,11 @@ Thác Mơ không nên được hiểu là khu du lịch có đầy đủ dịch 
 
 Lưu ý chung: trong các nguồn cũ, địa điểm thường được ghi là thác Mơ, làng Ếch, xã Ia Khai, huyện Ia Grai, tỉnh Gia Lai. Sau sắp xếp đơn vị hành chính cấp xã năm 2025, khu vực Ia Khai được hợp nhất trong xã Ia Krái mới cùng Ia Tô và Ia Krái. Vì vậy, khi dùng dữ liệu cho chatbot nên lưu cả cách gọi cũ và cách gọi mới để nhận diện câu hỏi của du khách. Các thông tin về giá vé, giờ mở cửa, dịch vụ thuyền, dịch vụ ăn uống, gửi xe và tình trạng đường vào thác là thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-2. Ăn uống và đặc sản địa phương
-
-Khu vực thác không nên mặc định có nhiều quán ăn như điểm du lịch đô thị. Người đi tự túc nên mang nước uống, đồ ăn nhẹ và túi đựng rác. Nếu muốn ăn bữa chính, nên ăn ở Pleiku trước khi đi, chuẩn bị đồ mang theo hoặc đặt trước với người địa phương/tour. Không nên đến thác rồi mới tìm quán vì có thể không có hoặc không mở.
-
-Nếu đi theo tuyến lòng hồ Sê San và làng chài, trải nghiệm ẩm thực có thể phong phú hơn. Một số nguồn nhắc đến cá suối, cá lòng hồ, rượu cần và bữa ăn trong không gian làng chài. Đây là phần hấp dẫn của tuyến du lịch Ia Grai vì gắn cảnh quan sông nước với đời sống địa phương. Tuy nhiên, thực đơn và giá cần đặt trước.
-
-Đặc sản Gia Lai có thể gợi ý thêm khi du khách quay về Pleiku: phở khô Gia Lai, bún cua, gà nướng cơm lam, muối kiến vàng, cà phê, các món nướng Tây Nguyên. Với chatbot, nên nói rõ các món này không nhất thiết có ngay tại chân thác, mà là lựa chọn trong hành trình Pleiku - Ia Grai - Thác Mơ.
-
-3. Lưu trú gần đó
-
-Lựa chọn lưu trú thuận tiện nhất cho phần lớn du khách là ở Pleiku. Thành phố có nhiều khách sạn, homestay, nhà nghỉ, quán ăn và dịch vụ thuê xe hơn khu vực gần thác. Từ Pleiku, du khách có thể đi Thác Mơ trong ngày rồi quay về nghỉ. Phương án này phù hợp với người lần đầu đến Gia Lai hoặc không quen đường nông thôn.
-
-Ở khu vực Ia Grai/Ia Krái có thể có nhà nghỉ hoặc dịch vụ lưu trú nhỏ, nhưng cần kiểm tra trước về vị trí, chất lượng, chỗ ăn và khả năng hỗ trợ đi thác. Nếu đi theo tour lòng hồ hoặc trải nghiệm cộng đồng, có thể hỏi đơn vị tổ chức về homestay hoặc điểm nghỉ gần tuyến. Không nên tự đặt nơi quá xa trung tâm nếu chưa nắm đường.
-
-Nếu muốn kết hợp hai ngày, ngày đầu có thể ở Pleiku tham quan Biển Hồ, hàng thông, chùa Minh Thành; ngày hai đi Thác Mơ và tuyến Sê San. Cách này giảm mệt và giúp du khách có thêm thời gian dự phòng thời tiết.
-
-4. Tiện ích hỗ trợ
-
-Các tiện ích như WC, wifi, chỗ nghỉ chân, cửa hàng, bãi đậu xe, cứu hộ hoặc điểm sơ cứu tại Thác Mơ không nên được xem là luôn sẵn. Du khách cần chuẩn bị theo hướng tự túc. Nên mang khăn giấy, nước rửa tay khô, thuốc chống côn trùng, băng cá nhân, áo mưa, túi rác và sạc dự phòng.
-
-Sóng điện thoại ở vùng xa có thể không ổn định tùy nhà mạng và vị trí. Trước khi vào thác, nên gửi vị trí cho người thân, lưu số điện thoại tài xế/người dẫn đường và hẹn giờ quay ra. Nếu đi theo nhóm, nên thống nhất không tách đoàn.
-
-Gửi xe có thể ở khu vực dân cư, lối vào hoặc điểm do người địa phương chỉ dẫn. Phí gửi xe nếu có là thông tin tham khảo. Không nên để ví tiền, máy ảnh, laptop hoặc đồ giá trị trên xe. Nếu đi ô tô, cần hỏi chỗ quay đầu và đậu xe trước khi vào sâu.
-
-5. Dịch vụ hướng dẫn viên, thuyền và tour
-
 Dịch vụ có giá trị nhất với Thác Mơ là người dẫn đường địa phương hoặc tour kết hợp. Người địa phương giúp chọn lối đi an toàn, biết thời điểm nước nguy hiểm và biết cách liên hệ thuyền/ăn uống nếu đi tuyến lòng hồ. Với người chưa từng đến, dịch vụ này có thể quan trọng hơn việc tiết kiệm chi phí.
 
 Tour lòng hồ Sê San - Thác Mơ - làng chài là hướng trải nghiệm đáng chú ý. Tuyến này có thể bao gồm thuyền, tham quan mặt hồ, làng chài, thác và bữa ăn. Tuy nhiên, lịch hoạt động phụ thuộc thời tiết, mực nước, đơn vị tổ chức và nhu cầu khách. Giá tour phải kiểm tra trực tiếp.
 
 Khi đặt tour, nên hỏi: có bảo hiểm không, có áo phao không, số người tối đa trên thuyền, bữa ăn gồm gì, có đón ở Pleiku không, có người dẫn xuống thác không, có hủy/hoãn khi mưa không, có phù hợp trẻ em không. Chatbot nên nhắc du khách xác nhận những câu hỏi này trước khi chuyển tiền.
-
-6. Dịch vụ cho trẻ em và người lớn tuổi
 
 Thác Mơ không phải điểm có hạ tầng trẻ em như khu vui chơi. Nếu đưa trẻ em đi, gia đình phải tự chịu trách nhiệm giám sát, đặc biệt tại khu vực đá ướt, mép nước và chân thác. Trẻ nên mang giày bám tốt, quần áo gọn, không chạy nhảy và không tự xuống nước. Nếu đi thuyền, áo phao là bắt buộc.
 
@@ -46,7 +18,39 @@ Với người lớn tuổi, cần cân nhắc sức khỏe xương khớp, tim 
 
 Với người khuyết tật vận động, hiện chưa có thông tin ổn định về lối tiếp cận không rào cản. Do vậy, chatbot nên trả lời rằng khả năng tiếp cận còn hạn chế và cần liên hệ người địa phương/tour để đánh giá trước khi đi.
 
-7. Lưu ý thanh toán và đặt trước
+2. Ăn uống
+
+Khu vực thác không nên mặc định có nhiều quán ăn như điểm du lịch đô thị. Người đi tự túc nên mang nước uống, đồ ăn nhẹ và túi đựng rác. Nếu muốn ăn bữa chính, nên ăn ở Pleiku trước khi đi, chuẩn bị đồ mang theo hoặc đặt trước với người địa phương/tour. Không nên đến thác rồi mới tìm quán vì có thể không có hoặc không mở.
+
+Nếu đi theo tuyến lòng hồ Sê San và làng chài, trải nghiệm ẩm thực có thể phong phú hơn. Một số nguồn nhắc đến cá suối, cá lòng hồ, rượu cần và bữa ăn trong không gian làng chài. Đây là phần hấp dẫn của tuyến du lịch Ia Grai vì gắn cảnh quan sông nước với đời sống địa phương. Tuy nhiên, thực đơn và giá cần đặt trước.
+
+Đặc sản Gia Lai có thể gợi ý thêm khi du khách quay về Pleiku: phở khô Gia Lai, bún cua, gà nướng cơm lam, muối kiến vàng, cà phê, các món nướng Tây Nguyên. Với chatbot, nên nói rõ các món này không nhất thiết có ngay tại chân thác, mà là lựa chọn trong hành trình Pleiku - Ia Grai - Thác Mơ.
+
+3. Đặc sản địa phương
+
+Khu vực thác không nên mặc định có nhiều quán ăn như điểm du lịch đô thị. Người đi tự túc nên mang nước uống, đồ ăn nhẹ và túi đựng rác. Nếu muốn ăn bữa chính, nên ăn ở Pleiku trước khi đi, chuẩn bị đồ mang theo hoặc đặt trước với người địa phương/tour. Không nên đến thác rồi mới tìm quán vì có thể không có hoặc không mở.
+
+Nếu đi theo tuyến lòng hồ Sê San và làng chài, trải nghiệm ẩm thực có thể phong phú hơn. Một số nguồn nhắc đến cá suối, cá lòng hồ, rượu cần và bữa ăn trong không gian làng chài. Đây là phần hấp dẫn của tuyến du lịch Ia Grai vì gắn cảnh quan sông nước với đời sống địa phương. Tuy nhiên, thực đơn và giá cần đặt trước.
+
+Đặc sản Gia Lai có thể gợi ý thêm khi du khách quay về Pleiku: phở khô Gia Lai, bún cua, gà nướng cơm lam, muối kiến vàng, cà phê, các món nướng Tây Nguyên. Với chatbot, nên nói rõ các món này không nhất thiết có ngay tại chân thác, mà là lựa chọn trong hành trình Pleiku - Ia Grai - Thác Mơ.
+
+4. Lưu trú / khách sạn
+
+Lựa chọn lưu trú thuận tiện nhất cho phần lớn du khách là ở Pleiku. Thành phố có nhiều khách sạn, homestay, nhà nghỉ, quán ăn và dịch vụ thuê xe hơn khu vực gần thác. Từ Pleiku, du khách có thể đi Thác Mơ trong ngày rồi quay về nghỉ. Phương án này phù hợp với người lần đầu đến Gia Lai hoặc không quen đường nông thôn.
+
+Ở khu vực Ia Grai/Ia Krái có thể có nhà nghỉ hoặc dịch vụ lưu trú nhỏ, nhưng cần kiểm tra trước về vị trí, chất lượng, chỗ ăn và khả năng hỗ trợ đi thác. Nếu đi theo tour lòng hồ hoặc trải nghiệm cộng đồng, có thể hỏi đơn vị tổ chức về homestay hoặc điểm nghỉ gần tuyến. Không nên tự đặt nơi quá xa trung tâm nếu chưa nắm đường.
+
+Nếu muốn kết hợp hai ngày, ngày đầu có thể ở Pleiku tham quan Biển Hồ, hàng thông, chùa Minh Thành; ngày hai đi Thác Mơ và tuyến Sê San. Cách này giảm mệt và giúp du khách có thêm thời gian dự phòng thời tiết.
+
+5. Tiện ích hỗ trợ
+
+Các tiện ích như WC, wifi, chỗ nghỉ chân, cửa hàng, bãi đậu xe, cứu hộ hoặc điểm sơ cứu tại Thác Mơ không nên được xem là luôn sẵn. Du khách cần chuẩn bị theo hướng tự túc. Nên mang khăn giấy, nước rửa tay khô, thuốc chống côn trùng, băng cá nhân, áo mưa, túi rác và sạc dự phòng.
+
+Sóng điện thoại ở vùng xa có thể không ổn định tùy nhà mạng và vị trí. Trước khi vào thác, nên gửi vị trí cho người thân, lưu số điện thoại tài xế/người dẫn đường và hẹn giờ quay ra. Nếu đi theo nhóm, nên thống nhất không tách đoàn.
+
+Gửi xe có thể ở khu vực dân cư, lối vào hoặc điểm do người địa phương chỉ dẫn. Phí gửi xe nếu có là thông tin tham khảo. Không nên để ví tiền, máy ảnh, laptop hoặc đồ giá trị trên xe. Nếu đi ô tô, cần hỏi chỗ quay đầu và đậu xe trước khi vào sâu.
+
+6. Lưu ý về chi phí dịch vụ
 
 Điểm thác tự nhiên thường không có hệ thống thanh toán thẻ hoặc đặt vé online cố định. Du khách nên mang tiền mặt mệnh giá nhỏ để trả gửi xe, mua nước, thuê người dẫn đường hoặc thanh toán dịch vụ địa phương. Nếu đặt tour, cần hỏi rõ hình thức đặt cọc, chính sách hủy khi mưa và chi phí phát sinh.
 
@@ -54,13 +58,7 @@ Không nên chuyển khoản toàn bộ cho đơn vị lạ nếu chưa xác min
 
 Thông tin giá dịch vụ, đặt trước, phương thức thanh toán và số điện thoại liên hệ là thông tin tham khảo, cần kiểm tra lại trước khi đi. Dữ liệu chatbot không nên lưu một số điện thoại cá nhân lâu dài nếu nguồn không chính thống hoặc có khả năng thay đổi.
 
-8. Các câu hỏi chatbot có thể trả lời từ file này
-
-File service giúp chatbot trả lời: Thác Mơ có quán ăn không? Có nhà vệ sinh không? Có chỗ gửi xe không? Có tour đi Thác Mơ không? Có đi thuyền được không? Đi Thác Mơ nên ăn gì? Nên ngủ ở đâu khi đi Thác Mơ? Có phù hợp trẻ em không? Có phù hợp người lớn tuổi không? Cần mang tiền mặt không? Có cần đặt trước dịch vụ không?
-
-Câu trả lời tốt phải phân biệt “có thể có theo tour hoặc theo thời điểm” với “luôn có”. Với Thác Mơ, cách trả lời an toàn là: tiện ích cơ bản còn hạn chế, nên chuẩn bị tự túc hoặc đặt trước với người địa phương/tour nếu muốn đi theo tuyến đầy đủ.
-
-9. Nguồn tham khảo
+7. Nguồn tham khảo
 
 - Cục Du lịch Quốc gia Việt Nam, “Kỳ vĩ thác Mơ”, vietnamtourism.gov.vn, 18/05/2022.
 - Báo Gia Lai, “Thác Mơ mùa nước đổ”, baogialai.com.vn, 20/12/2025.

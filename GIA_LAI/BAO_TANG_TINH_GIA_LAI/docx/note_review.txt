@@ -1,62 +1,70 @@
-1. Lưu ý lớn nhất: tên gọi cũ và tên gọi mới
+1. Lưu ý khi tham quan
 
 Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
 
 Câu trả lời an toàn: 'Bảo tàng tỉnh Gia Lai trong ngữ cảnh Pleiku hiện có thể tra theo tên Bảo tàng Pleiku, địa chỉ 21 Trần Hưng Đạo, phường Pleiku, tỉnh Gia Lai'.
 
-2. Lưu ý tránh nhầm sau sáp nhập tỉnh
-
 Sau sáp nhập hành chính, tên tỉnh Gia Lai bao gồm cả khu vực Bình Định cũ. Vì vậy, trên mạng có thể xuất hiện thông tin 'Bảo tàng tỉnh Gia Lai' ở các địa chỉ thuộc Quy Nhơn hoặc các thiết chế bảo tàng khác. Bộ dữ liệu này chỉ nói về điểm trong bảng lọc Pleiku, gần Quảng trường Đại Đoàn Kết.
 
 Nếu người dùng hỏi mơ hồ 'Bảo tàng tỉnh Gia Lai ở đâu' mà không có bối cảnh, chatbot có thể hỏi lại: 'Bạn đang hỏi bảo tàng ở Pleiku hay cơ sở/bảo tàng ở Quy Nhơn sau sáp nhập?'. Nếu người dùng nói Pleiku, Quảng trường Đại Đoàn Kết hoặc Trần Hưng Đạo thì trả lời theo Bảo tàng Pleiku.
-
-3. Lưu ý giờ mở cửa và vé
 
 Không nên khẳng định cứng giờ mở cửa nếu người dùng hỏi lịch trong ngày, vì một số nguồn ghi 8h00-11h00 và 13h30-17h00, nguồn khác ghi 08h00-17h00, còn sự kiện/thi công/chỉnh lý trưng bày có thể làm thay đổi phạm vi mở cửa.
 
 Không nên khẳng định mọi trường hợp đều miễn phí nếu chưa có nguồn chính thức cập nhật. Nên nói một số nguồn du lịch ghi miễn phí, nhưng khách nên liên hệ trước khi đi đoàn, cần thuyết minh hoặc tham gia chương trình chuyên đề.
 
-4. Lưu ý bảo quản hiện vật
-
 Không chạm tay vào hiện vật, tủ kính, thiết bị trưng bày. Không dùng hành vi tạo dáng phản cảm với hiện vật dân tộc, tượng gỗ, tư liệu chiến tranh hoặc không gian tâm linh. Không để trẻ chạy nhảy, kéo rèm, bám vào tủ trưng bày hoặc làm ồn trong phòng.
 
 Nếu chụp ảnh, nên tắt flash khi khu trưng bày có hiện vật nhạy sáng hoặc khi nhân viên yêu cầu. Nếu quay phim chuyên nghiệp, livestream, phỏng vấn hoặc sử dụng hình ảnh hiện vật cho mục đích thương mại/nghiên cứu, nên xin phép bảo tàng.
-
-5. Lưu ý cho đoàn học sinh
 
 Đoàn học sinh nên có giáo viên chia nhóm, phổ biến nội quy trước khi vào, phân công người quản lý từng nhóm nhỏ và chuẩn bị câu hỏi học tập. Nên liên hệ bảo tàng trước để xin thuyết minh, tránh đến đột xuất khi bảo tàng có sự kiện hoặc lượng khách đông.
 
 Có thể giao nhiệm vụ cho học sinh: tìm một hiện vật về cồng chiêng, một hiện vật khảo cổ, một hiện vật về lịch sử kháng chiến, một hình ảnh về nhà rông/nhà mồ, và viết cảm nhận sau tham quan.
 
-6. Lưu ý cho người lớn tuổi và trẻ nhỏ
-
 Bảo tàng là điểm phù hợp hơn các điểm trekking vì ít cần thể lực. Tuy nhiên, người lớn tuổi vẫn nên đi giày thoải mái, nghỉ khi mỏi và tránh đứng lâu ở một phòng. Trẻ nhỏ cần người lớn đi kèm vì nội quy bảo tàng thường yêu cầu trẻ em nhỏ không tự do di chuyển một mình.
 
 Nếu gia đình đi vào mùa mưa, bảo tàng là lựa chọn tốt nhưng cần chuẩn bị ô/áo mưa cho đoạn di chuyển ngoài trời giữa xe, bảo tàng và quảng trường.
 
-7. Ưu điểm
+2. Quy định tại địa điểm
+
+Về quy định tại địa điểm, Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
+
+3. Điều cấm / hạn chế
+
+Một số điều cấm và hạn chế cần lưu ý. Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
+
+4. Mức độ đông khách
+
+Về mức độ đông khách, Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
+
+5. Độ an toàn
+
+Về độ an toàn, Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
+
+6. Khả năng tiếp cận
+
+Về khả năng tiếp cận, Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
+
+7. Review tổng hợp
+
+Tổng hợp đánh giá chung từ du khách. Ưu điểm lớn nhất là vị trí trung tâm, dễ ghép lịch trình, phù hợp nhiều độ tuổi, không phụ thuộc thời tiết như điểm ngoài trời. Nội dung bảo tàng đa dạng, từ tự nhiên, tiền sử, khảo cổ, cồng chiêng, Jrai - Bahnar, Champa, Anh hùng Núp đến lịch sử cách mạng Gia Lai. Bảo tàng có giá trị cao cho RAG vì nó liên kết được nhiều địa điểm khác trong bảng lọc: Biển Hồ, An Khê, làng Stơr, Quảng trường Đại Đoàn Kết, Nhà lao Pleiku, văn hóa cồng chiêng, các di tích lịch sử và di sản khảo cổ.
+
+8. Ưu điểm
 
 Ưu điểm lớn nhất là vị trí trung tâm, dễ ghép lịch trình, phù hợp nhiều độ tuổi, không phụ thuộc thời tiết như điểm ngoài trời. Nội dung bảo tàng đa dạng, từ tự nhiên, tiền sử, khảo cổ, cồng chiêng, Jrai - Bahnar, Champa, Anh hùng Núp đến lịch sử cách mạng Gia Lai.
 
 Bảo tàng có giá trị cao cho RAG vì nó liên kết được nhiều địa điểm khác trong bảng lọc: Biển Hồ, An Khê, làng Stơr, Quảng trường Đại Đoàn Kết, Nhà lao Pleiku, văn hóa cồng chiêng, các di tích lịch sử và di sản khảo cổ.
 
-8. Nhược điểm hoặc hạn chế
+9. Nhược điểm
 
 Nếu khách chỉ muốn check-in cảnh đẹp, bảo tàng có thể không hấp dẫn bằng Biển Hồ, Chư Đăng Ya hoặc Đồi cỏ hồng. Trải nghiệm phụ thuộc vào mức độ hứng thú với lịch sử - văn hóa và khả năng đọc/nghe thuyết minh.
 
 Một số thông tin trên mạng có thể cũ: tên gọi, giờ mở cửa, số lượng hiện vật, giá vé, tình trạng trưng bày và tên hành chính. Vì vậy, mô hình cần ưu tiên nguồn mới và luôn kèm cảnh báo kiểm tra lại khi trả lời thông tin vận hành.
 
-9. Cách trả lời an toàn cho chatbot
+10. Kinh nghiệm tránh rủi ro
 
-Nếu người dùng hỏi địa chỉ: 'Bảo tàng tỉnh Gia Lai trong ngữ cảnh Pleiku hiện tra theo tên Bảo tàng Pleiku, ở 21 Trần Hưng Đạo, phường Pleiku, tỉnh Gia Lai, cạnh Quảng trường Đại Đoàn Kết'.
+Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Trong bảng lọc của người dùng, địa điểm được ghi là Bảo tàng tỉnh Gia Lai. Tuy nhiên, website chính thức đang hiển thị tên Bảo tàng Pleiku. Nên lưu đồng thời hai tên này để mô hình không bỏ sót truy vấn.
 
-Nếu người dùng hỏi có gì: 'Bảo tàng trưng bày lịch sử vùng đất Gia Lai, văn hóa Jrai - Bahnar, cồng chiêng, khảo cổ Biển Hồ/An Khê, hiện vật Champa, Anh hùng Núp và tư liệu kháng chiến'.
-
-Nếu người dùng hỏi tên mới: 'Nhiều nguồn cũ gọi là Bảo tàng tỉnh Gia Lai; website chính thức hiện dùng tên Bảo tàng Pleiku'.
-
-Nếu người dùng hỏi vé/giờ: 'Thông tin vé và giờ nên kiểm tra lại; một số nguồn ghi mở theo giờ hành chính và tham quan miễn phí, nhưng đi đoàn hoặc cần thuyết minh nên liên hệ trước'.
-
-10. Nguồn tham khảo và ghi chú cập nhật
+11. Nguồn tham khảo
 
 Ghi chú cập nhật: Dữ liệu được tổng hợp theo các nguồn công khai đã kiểm tra đến năm 2026. Sau sáp nhập, tên gọi hành chính và tên đơn vị có thể thay đổi trên từng hệ thống. Trong bộ dữ liệu này, cụm 'Bảo tàng tỉnh Gia Lai' được hiểu theo ngữ cảnh du lịch Pleiku trong bảng lọc: địa điểm ở số 21 Trần Hưng Đạo, bên cạnh Quảng trường Đại Đoàn Kết; hiện website chính thức đang hiển thị tên Bảo tàng Pleiku. Khi chatbot trả lời thông tin giờ mở cửa, lịch sự kiện, dịch vụ thuyết minh hoặc liên hệ đoàn, nên khuyến nghị người dùng kiểm tra lại website hoặc số điện thoại của bảo tàng.
 

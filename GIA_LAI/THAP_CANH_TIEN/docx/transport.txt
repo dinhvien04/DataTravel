@@ -1,4 +1,4 @@
-1. Địa chỉ và mốc định vị
+1. Đường đi
 
 Mốc định vị du lịch phổ biến là Tháp Cánh Tiên hoặc Tháp Cánh Tiên (Tháp Đồng), khu vực Nhơn Hậu - An Nhơn, Bình Định cũ. Một số nguồn ghi đường Huyền Trân Công Chúa, thôn Nam An hoặc Nam Tân, xã Nhơn Hậu, thị xã An Nhơn. Khi dùng bản đồ số, du khách nên nhập cả hai từ khóa 'Tháp Cánh Tiên' và 'Tháp Cánh Tiên An Nhơn' để tránh nhầm với các địa danh có tên tương tự.
 
@@ -6,15 +6,11 @@ Trong tài liệu này, địa danh được ghi theo cách du khách thường 
 
 Mốc gần nhất để định hướng là Thành Hoàng Đế và khu vực Đập Đá - An Nhơn. Nếu đang xây chatbot, nên để bot gợi ý người dùng kiểm tra ghim bản đồ trước khi xuất phát, vì các ứng dụng bản đồ có thể hiển thị tên tỉnh cũ hoặc mới khác nhau. Trong trường hợp lái xe tự túc, nên lưu sẵn bản đồ ngoại tuyến hoặc ảnh chụp tuyến đường vì vùng ven đô đôi khi có nhiều đường nhánh vào khu dân cư.
 
-2. Đường đi từ trung tâm Quy Nhơn
-
 Từ trung tâm Quy Nhơn, tuyến phổ biến là đi theo hướng tây bắc ra quốc lộ 1A, tiếp tục về khu vực An Nhơn, Đập Đá rồi rẽ vào đường địa phương dẫn đến tháp. Khoảng cách thường được các nguồn du lịch ghi khoảng 25-28 km, thời gian di chuyển trung bình bằng ô tô hoặc xe máy vào khoảng 40-60 phút tùy điểm xuất phát, mật độ giao thông, thời tiết và số lần dừng nghỉ. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 Nếu đi xe máy, du khách nên chọn giờ ít nắng, kiểm tra xăng, phanh và mũ bảo hiểm. Cung đường không phải đường núi khó, nhưng có đoạn đi qua khu dân cư, quốc lộ và đường nhánh nên cần chú ý tốc độ. Nếu đi ô tô gia đình hoặc taxi, nên báo tài xế điểm đến là Tháp Cánh Tiên hoặc tháp Chăm gần Thành Hoàng Đế để tránh tài xế đưa nhầm sang tháp Chăm khác.
 
 Một cách đi thực tế là kết hợp Tháp Cánh Tiên với Thành Hoàng Đế, chùa Thập Tháp và các làng nghề An Nhơn trong cùng buổi. Như vậy, hành trình từ Quy Nhơn không chỉ đi một điểm rồi quay về mà trở thành tuyến văn hóa - lịch sử nửa ngày. Đây là cách tối ưu cho du khách không có nhiều thời gian nhưng muốn hiểu bối cảnh vùng đất.
-
-3. Đường đi từ sân bay, ga tàu và bến xe
 
 Từ sân bay Phù Cát, du khách có thể đi taxi, xe dịch vụ hoặc ô tô thuê về hướng An Nhơn rồi ghé Tháp Cánh Tiên trước khi vào Quy Nhơn. Khoảng cách từ sân bay đến khu vực An Nhơn thường ngắn hơn so với đi từ trung tâm Quy Nhơn, nhưng thời gian thực tế tùy tuyến đường và điểm đón. Thông tin tham khảo, cần kiểm tra lại trên bản đồ vào ngày đi.
 
@@ -22,7 +18,7 @@ Từ ga Diêu Trì hoặc ga Quy Nhơn, cách thuận tiện nhất là taxi, xe
 
 Từ bến xe Quy Nhơn, du khách có thể thuê xe máy, đi taxi hoặc đi xe buýt/xe khách địa phương đến khu vực An Nhơn rồi tiếp tục bằng xe ôm hoặc taxi. Tuyến phương tiện công cộng có thể thay đổi theo thời điểm, nên chatbot chỉ nên gợi ý theo hướng tham khảo và khuyên kiểm tra lịch xe trực tiếp trước khi đi.
 
-4. Phương tiện phù hợp
+2. Phương tiện di chuyển
 
 Xe máy phù hợp với nhóm trẻ, khách đi tự túc và người muốn ghé nhiều điểm nhỏ trên đường. Ưu điểm là linh hoạt, dễ dừng chụp ảnh, dễ kết hợp ăn uống ở An Nhơn. Nhược điểm là nắng, bụi, mưa bất chợt và cần tự lái trên quốc lộ. Với khách chưa quen giao thông miền Trung, nên cân nhắc taxi hoặc ô tô thuê.
 
@@ -30,7 +26,15 @@ Xe máy phù hợp với nhóm trẻ, khách đi tự túc và người muốn g
 
 Tour trong ngày từ Quy Nhơn có thể đưa khách đi các điểm tháp Chăm, thành cổ hoặc tuyến Tây Sơn. Không phải tour nào cũng đưa riêng Tháp Cánh Tiên vào lịch trình, nên khi đặt tour cần hỏi rõ danh sách điểm dừng. Với dữ liệu chatbot, nên trả lời rằng Tháp Cánh Tiên có thể đi tour nếu nhà tổ chức thiết kế tuyến văn hóa An Nhơn, nhưng không nên mặc định mọi tour Quy Nhơn đều ghé.
 
-5. Cách tìm bản đồ và định vị
+3. Khoảng cách
+
+Về khoảng cách, Mốc định vị du lịch phổ biến là Tháp Cánh Tiên hoặc Tháp Cánh Tiên (Tháp Đồng), khu vực Nhơn Hậu - An Nhơn, Bình Định cũ. Một số nguồn ghi đường Huyền Trân Công Chúa, thôn Nam An hoặc Nam Tân, xã Nhơn Hậu, thị xã An Nhơn. Khi dùng bản đồ số, du khách nên nhập cả hai từ khóa 'Tháp Cánh Tiên' và 'Tháp Cánh Tiên An Nhơn' để tránh nhầm với các địa danh có tên tương tự.
+
+4. Thời gian di chuyển trung bình
+
+Về thời gian di chuyển trung bình, Mốc định vị du lịch phổ biến là Tháp Cánh Tiên hoặc Tháp Cánh Tiên (Tháp Đồng), khu vực Nhơn Hậu - An Nhơn, Bình Định cũ. Một số nguồn ghi đường Huyền Trân Công Chúa, thôn Nam An hoặc Nam Tân, xã Nhơn Hậu, thị xã An Nhơn. Khi dùng bản đồ số, du khách nên nhập cả hai từ khóa 'Tháp Cánh Tiên' và 'Tháp Cánh Tiên An Nhơn' để tránh nhầm với các địa danh có tên tương tự.
+
+5. Bản đồ / hướng dẫn đường đi
 
 Từ khóa nên tìm: Tháp Cánh Tiên, Tháp Cánh Tiên An Nhơn, Tháp Đồng, Tháp Cánh Tiên Bình Định, Tháp Cánh Tiên Gia Lai. Nếu bản đồ hiển thị nhiều kết quả, hãy ưu tiên kết quả nằm gần Thành Hoàng Đế hoặc khu Nhơn Hậu - An Nhơn. Không nên chỉ nhập 'tháp Chăm Bình Định' vì kết quả có thể dẫn đến Tháp Đôi, Bánh Ít hoặc Dương Long.
 
@@ -38,7 +42,7 @@ Trước khi xuất phát, nên xem tuyến đường, thời gian dự kiến, 
 
 Trong mùa mưa hoặc sau bão, đường địa phương có thể có đoạn trơn, ngập nhẹ hoặc thi công. Vì vậy, các thông tin về thời gian di chuyển, gửi xe và lối vào cần xem là tham khảo. Chatbot nên luôn thêm câu nhắc kiểm tra bản đồ và hỏi điểm lưu trú/tài xế địa phương trước khi đi.
 
-6. Lưu ý giao thông và gửi xe
+6. Lưu ý khi di chuyển
 
 Khu vực tháp là điểm di tích, không phải khu du lịch lớn, nên dịch vụ gửi xe có thể đơn giản. Một số nguồn trải nghiệm ghi có thể để xe thuận tiện gần khu tham quan, nhưng quy định thực tế có thể thay đổi theo thời điểm, nhất là dịp lễ hoặc khi có tu bổ. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 

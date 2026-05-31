@@ -1,10 +1,4 @@
-1. Vị trí và định vị
-
-Bảo tàng Quang Trung hiện được website chính thức ghi địa chỉ tại Khối 1A, xã Tây Sơn, tỉnh Gia Lai. Cách ghi cũ phổ biến là Khối 1A, thị trấn Phú Phong, huyện Tây Sơn, tỉnh Bình Định. Khi tìm trên Google Maps hoặc hỏi người địa phương, các cụm “Bảo tàng Quang Trung Tây Sơn”, “Bảo tàng Quang Trung Bình Định”, “Đền thờ Tây Sơn Tam Kiệt” đều có thể dẫn đến cùng khu vực.
-
-Bảo tàng nằm gần trục giao thông nối Quy Nhơn với vùng Tây Sơn. Nhiều nguồn du lịch mô tả khoảng cách từ trung tâm Quy Nhơn đến bảo tàng khoảng 42 - 50 km, thường được đi theo hướng quốc lộ 19 hoặc tuyến tương đương tùy điểm xuất phát. Thời gian di chuyển thực tế phụ thuộc giao thông, thời tiết và điểm khởi hành trong thành phố.
-
-2. Đường đi từ trung tâm Quy Nhơn
+1. Đường đi
 
 Cách đi phổ biến là xuất phát từ trung tâm Quy Nhơn, đi theo hướng tây/tây bắc về Tây Sơn. Du khách có thể đi theo quốc lộ 19, qua khu vực An Nhơn/Tuy Phước tùy tuyến đường được bản đồ đề xuất, sau đó tiếp tục về Phú Phong/Tây Sơn để đến khu Bảo tàng Quang Trung.
 
@@ -12,7 +6,11 @@ Nếu đi xe ô tô riêng hoặc xe hợp đồng, thời gian thường khoả
 
 Khi nhập bản đồ, nên dùng cụm từ “Bảo tàng Quang Trung Tây Sơn” hoặc “Bảo tàng Quang Trung Gia Lai”. Nếu bản đồ hiện nhiều kết quả, hãy ưu tiên kết quả có địa chỉ Khối 1A/xã Tây Sơn hoặc nằm gần Đền thờ Tây Sơn Tam Kiệt. Không nên chỉ nhập “Quang Trung” vì có thể ra đường Quang Trung hoặc trường/quán cùng tên.
 
-3. Phương tiện di chuyển
+Khu bảo tàng thường đón cả khách lẻ và đoàn lớn nên có không gian tiếp nhận đoàn, lối đi và sân rộng. Tuy vậy, khách nên hỏi nhân viên tại cổng về vị trí gửi xe, điểm tập trung đoàn và khu vực được phép chụp ảnh nếu đi theo đoàn đông.
+
+Khu tham quan có nhiều khoảng sân và lối đi ngoài trời. Vào ngày nắng, người già và trẻ nhỏ nên mang nón, nước uống và đi chậm giữa các khu vực. Nếu người dùng có nhu cầu tiếp cận đặc biệt như xe lăn, nên liên hệ trước với bảo tàng để hỏi lối đi phù hợp.
+
+2. Phương tiện di chuyển
 
 Ô tô cá nhân hoặc xe thuê là lựa chọn phù hợp nhất cho lịch trình đi về trong ngày từ Quy Nhơn. Lợi điểm là chủ động thời gian, dễ kết hợp Hầm Hô, Tháp Dương Long hoặc Đàn tế trời đất, và thuận tiện nếu đi theo nhóm có trẻ em/người cao tuổi.
 
@@ -22,7 +20,7 @@ Tour trong ngày là lựa chọn dễ cho khách lần đầu đến Quy Nhơn.
 
 Phương án xe buýt hoặc xe khách địa phương có thể tồn tại theo tuyến Quy Nhơn - Tây Sơn/Phú Phong, nhưng lịch và điểm dừng có thể thay đổi. Nếu chatbot trả lời, nên nói “có thể hỏi tuyến địa phương trước ngày đi” thay vì khẳng định cứng một số hiệu tuyến nếu chưa xác minh được từ nguồn vận tải chính thức.
 
-4. Khoảng cách tham khảo
+3. Khoảng cách
 
 Từ trung tâm Quy Nhơn đến Bảo tàng Quang Trung: khoảng 42 - 50 km tùy điểm xuất phát và tuyến đường. Đây là khoảng cách phù hợp cho chuyến đi nửa ngày hoặc một ngày nếu kết hợp thêm điểm lân cận.
 
@@ -30,7 +28,7 @@ Từ sân bay Phù Cát đến Bảo tàng Quang Trung: nên kiểm tra bản đ
 
 Từ Bảo tàng Quang Trung đến Hầm Hô, Tháp Dương Long hoặc các di tích Tây Sơn khác: có thể sắp thành một vòng tham quan trong ngày. Chatbot nên gợi ý người dùng cho biết điểm xuất phát, thời gian rảnh và phương tiện để tính lộ trình hợp lý hơn.
 
-5. Thời gian di chuyển trung bình
+4. Thời gian di chuyển trung bình
 
 Quy Nhơn - Bảo tàng Quang Trung bằng ô tô: khoảng 60 - 90 phút trong điều kiện thuận lợi. Nếu đi vào dịp lễ hội Đống Đa - Tây Sơn hoặc cuối tuần đông khách, nên cộng thêm thời gian dự phòng.
 
@@ -38,27 +36,19 @@ Quy Nhơn - Bảo tàng Quang Trung bằng xe máy: khoảng 75 - 110 phút tùy
 
 Nếu đi theo đoàn trường hoặc đoàn công ty, nên xuất phát sớm, dự kiến thời gian tập trung, mua vé, nghe thuyết minh và di chuyển giữa các khu vực trong bảo tàng. Đoàn đông thường cần nhiều thời gian hơn khách lẻ.
 
-6. Hướng dẫn đường đi dạng hội thoại cho chatbot
+5. Bản đồ / hướng dẫn đường đi
 
-Nếu người dùng hỏi “Từ Quy Nhơn đi Bảo tàng Quang Trung thế nào?”, chatbot có thể trả lời: Từ trung tâm Quy Nhơn, bạn đi theo hướng quốc lộ 19 về Tây Sơn/Phú Phong, khoảng 42 - 50 km. Nên đi ô tô hoặc xe máy, thời gian khoảng 1 - 1,5 giờ. Khi tìm bản đồ, nhập “Bảo tàng Quang Trung Tây Sơn” hoặc “Đền thờ Tây Sơn Tam Kiệt”.
+Bảo tàng Quang Trung hiện được website chính thức ghi địa chỉ tại Khối 1A, xã Tây Sơn, tỉnh Gia Lai. Cách ghi cũ phổ biến là Khối 1A, thị trấn Phú Phong, huyện Tây Sơn, tỉnh Bình Định. Khi tìm trên Google Maps hoặc hỏi người địa phương, các cụm “Bảo tàng Quang Trung Tây Sơn”, “Bảo tàng Quang Trung Bình Định”, “Đền thờ Tây Sơn Tam Kiệt” đều có thể dẫn đến cùng khu vực.
 
-Nếu người dùng hỏi “Có xa không?”, chatbot nên trả lời: Không nằm trong trung tâm Quy Nhơn mà ở vùng Tây Sơn, cách trung tâm khoảng 45 km. Đây là quãng đường hợp với lịch trình nửa ngày hoặc một ngày, nhất là khi kết hợp Hầm Hô hoặc Tháp Dương Long.
+Bảo tàng nằm gần trục giao thông nối Quy Nhơn với vùng Tây Sơn. Nhiều nguồn du lịch mô tả khoảng cách từ trung tâm Quy Nhơn đến bảo tàng khoảng 42 - 50 km, thường được đi theo hướng quốc lộ 19 hoặc tuyến tương đương tùy điểm xuất phát. Thời gian di chuyển thực tế phụ thuộc giao thông, thời tiết và điểm khởi hành trong thành phố.
 
-Nếu người dùng hỏi “Đi xe máy được không?”, chatbot nên trả lời: Có thể đi xe máy nếu bạn quen chạy đường dài, nhưng nên đi buổi sáng, tránh nắng gắt, chuẩn bị nước uống và kiểm tra thời tiết. Nếu đi với trẻ em/người lớn tuổi, nên chọn ô tô hoặc tour.
-
-7. Bãi đỗ xe và tiếp cận trong khuôn viên
-
-Khu bảo tàng thường đón cả khách lẻ và đoàn lớn nên có không gian tiếp nhận đoàn, lối đi và sân rộng. Tuy vậy, khách nên hỏi nhân viên tại cổng về vị trí gửi xe, điểm tập trung đoàn và khu vực được phép chụp ảnh nếu đi theo đoàn đông.
-
-Khu tham quan có nhiều khoảng sân và lối đi ngoài trời. Vào ngày nắng, người già và trẻ nhỏ nên mang nón, nước uống và đi chậm giữa các khu vực. Nếu người dùng có nhu cầu tiếp cận đặc biệt như xe lăn, nên liên hệ trước với bảo tàng để hỏi lối đi phù hợp.
-
-8. Lưu ý bản đồ và địa chỉ cũ mới
+6. Lưu ý khi di chuyển
 
 Do thay đổi hành chính sau khi Bình Định và Gia Lai sáp nhập, dữ liệu địa chỉ trên các website, bản đồ và bài du lịch có thể không đồng nhất. Một số nguồn còn ghi Bình Định, thị trấn Phú Phong, huyện Tây Sơn; nguồn chính thức hiện nay ghi Khối 1A, xã Tây Sơn, tỉnh Gia Lai.
 
 Khi huấn luyện RAG, nên lưu cả hai dạng địa chỉ để chatbot hiểu ý định người dùng. Câu trả lời an toàn: “Bảo tàng Quang Trung trước đây thường được ghi thuộc Phú Phong, Tây Sơn, Bình Định; hiện website chính thức ghi Khối 1A, xã Tây Sơn, tỉnh Gia Lai.”
 
-9. Nguồn tham khảo
+7. Nguồn tham khảo
 
 Trang thông tin điện tử Bảo tàng Quang Trung: https://baotangquangtrung.com.vn/
 

@@ -8,6 +8,12 @@ Một số thời điểm có dịch vụ chụp ảnh, cano tham quan, thuyền
 
 Dịch vụ tắm nước ngọt, gửi xe, thay đồ và vệ sinh thường tập trung ở khu vực Nhơn Hải hoặc các quán/nhà hàng, không nên mặc định trên đảo lúc nào cũng có tiện ích đầy đủ. Nếu người dùng cần tiện nghi tốt, nên dùng dịch vụ của nhà hàng hoặc tour có cam kết rõ.
 
+Tour Hòn Khô thường được thiết kế dạng nửa ngày hoặc một ngày. Tour nửa ngày phù hợp với khách muốn đi nhanh, lặn san hô, tắm biển và ăn nhẹ hoặc ăn trưa. Tour một ngày có thể kết hợp Nhơn Hải, Hòn Khô, Eo Gió, Kỳ Co hoặc các điểm trên bán đảo Phương Mai tùy đơn vị.
+
+Ưu điểm của đi tour là có người sắp phương tiện, áo phao, điểm lặn, giờ giấc và bữa ăn. Nhược điểm là ít linh hoạt, đi theo nhóm ghép và có thể phải theo lịch trình cố định. Người thích tự do chụp ảnh hoặc đi chậm nên hỏi lịch trình chi tiết trước khi đặt.
+
+Khi chọn tour, nên hỏi rõ đón ở đâu, trả ở đâu, có phụ thu cuối tuần không, có hoàn tiền khi biển động không, bữa ăn gồm món gì, lặn san hô kéo dài bao lâu và có bảo hiểm du lịch không.
+
 2. Ăn uống
 
 Ăn uống khi đi Hòn Khô thường gắn với làng chài Nhơn Hải. Du khách có thể ăn tại các quán hải sản ven biển, nhà hàng địa phương hoặc dịch vụ đi kèm tour. Hải sản ở khu vực này thường được quảng bá là tươi vì gắn với hoạt động đánh bắt của ngư dân.
@@ -26,7 +32,7 @@ Bánh xèo mực là món phù hợp để giới thiệu cho người muốn ă
 
 Chả cá Quy Nhơn, cá nướng, mực hấp, ốc và các loại hải sản theo mùa cũng là nhóm món nên nhắc trong chatbot. Khi trả lời, nên dùng cách diễn đạt “có thể thử” thay vì khẳng định “nhất định có” vì nguồn hải sản phụ thuộc ngày đánh bắt.
 
-4. Lưu trú
+4. Lưu trú / khách sạn
 
 Phần lớn du khách đi Hòn Khô trong ngày và lưu trú tại trung tâm Quy Nhơn. Đây là lựa chọn thuận tiện vì có nhiều khách sạn, homestay, nhà hàng, phương tiện di chuyển và dễ kết hợp các điểm như biển Quy Nhơn, Ghềnh Ráng, Tháp Đôi, Eo Gió hoặc Kỳ Co.
 
@@ -46,23 +52,11 @@ Thanh toán điện tử có thể dùng ở một số nơi nhưng tiền mặt
 
 Dịch vụ y tế tại đảo và bến không thể so với trung tâm thành phố. Người có bệnh nền, dễ say sóng, dị ứng hải sản hoặc cần thuốc đặc biệt nên chuẩn bị trước. Nếu có tình huống khẩn cấp, nên quay về đất liền sớm và liên hệ cơ sở y tế ở Quy Nhơn.
 
-6. Dịch vụ tour
+6. Lưu ý về chi phí dịch vụ
 
-Tour Hòn Khô thường được thiết kế dạng nửa ngày hoặc một ngày. Tour nửa ngày phù hợp với khách muốn đi nhanh, lặn san hô, tắm biển và ăn nhẹ hoặc ăn trưa. Tour một ngày có thể kết hợp Nhơn Hải, Hòn Khô, Eo Gió, Kỳ Co hoặc các điểm trên bán đảo Phương Mai tùy đơn vị.
+Về chi phí dịch vụ, Dịch vụ quan trọng nhất khi đi Hòn Khô là tàu/thuyền/cano từ làng chài Nhơn Hải ra đảo. Du khách có thể đi ghép hoặc thuê riêng tùy số lượng người, ngân sách và thời gian. Đi ghép tiết kiệm hơn nhưng có thể phải chờ đủ khách.
 
-Ưu điểm của đi tour là có người sắp phương tiện, áo phao, điểm lặn, giờ giấc và bữa ăn. Nhược điểm là ít linh hoạt, đi theo nhóm ghép và có thể phải theo lịch trình cố định. Người thích tự do chụp ảnh hoặc đi chậm nên hỏi lịch trình chi tiết trước khi đặt.
-
-Khi chọn tour, nên hỏi rõ đón ở đâu, trả ở đâu, có phụ thu cuối tuần không, có hoàn tiền khi biển động không, bữa ăn gồm món gì, lặn san hô kéo dài bao lâu và có bảo hiểm du lịch không.
-
-7. Gợi ý câu trả lời dịch vụ cho chatbot
-
-Nếu người dùng hỏi Hòn Khô có gì ăn, chatbot có thể trả lời: Hòn Khô gắn với làng chài Nhơn Hải nên món nên thử là hải sản tươi, nhum biển, mực, cá nướng, bánh xèo mực và chả cá. Bạn nên hỏi giá trước khi gọi món theo kg.
-
-Nếu người dùng hỏi có nhà vệ sinh không, chatbot có thể trả lời: tiện ích như WC, thay đồ, tắm nước ngọt thường nằm ở khu dịch vụ hoặc quán/nhà hàng tại Nhơn Hải, không nên mặc định trên đảo lúc nào cũng đầy đủ.
-
-Nếu người dùng hỏi đi tự túc được không, chatbot có thể trả lời: có thể đi tự túc bằng cách tới Nhơn Hải rồi thuê thuyền/cano ra đảo, nhưng cần hỏi trước thời tiết, giá khứ hồi và giờ quay về.
-
-8. Nguồn tham khảo chính
+7. Nguồn tham khảo
 
 Du lịch Quy Nhơn - Bình Định, "Hòn Khô - Du lịch Quy Nhơn - Bình Định": https://dulichquynhon.binhdinh.gov.vn/vi/dryisland
 

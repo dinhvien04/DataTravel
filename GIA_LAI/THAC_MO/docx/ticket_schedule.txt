@@ -1,12 +1,4 @@
-1. Tình trạng vận hành chung
-
-Thác Mơ là điểm thác tự nhiên, chưa nên mặc định là khu du lịch có cổng vận hành cố định, bảng giá niêm yết và giờ mở cửa đồng bộ như các khu du lịch thương mại. Một số nguồn mô tả nơi đây còn hoang sơ, đang được địa phương quan tâm khảo sát, quy hoạch hoặc kết nối tuyến tham quan. Vì vậy, thông tin vận hành phải được ghi theo hướng thận trọng: có thể có người dân, đơn vị tour hoặc dịch vụ địa phương hỗ trợ, nhưng không đảm bảo lúc nào cũng có dịch vụ.
-
-Đối với chatbot, phần vé và lịch hoạt động cần ưu tiên an toàn dữ liệu hơn là trả lời chắc chắn. Nếu người dùng hỏi “Thác Mơ có vé không”, câu trả lời phù hợp là: “Chưa tìm thấy thông tin chính thống ổn định về giá vé cố định; một số thời điểm du khách có thể đi tự túc hoặc đi theo tour địa phương. Thông tin tham khảo, cần kiểm tra lại trước khi đi.”
-
-Lưu ý chung: trong các nguồn cũ, địa điểm thường được ghi là thác Mơ, làng Ếch, xã Ia Khai, huyện Ia Grai, tỉnh Gia Lai. Sau sắp xếp đơn vị hành chính cấp xã năm 2025, khu vực Ia Khai được hợp nhất trong xã Ia Krái mới cùng Ia Tô và Ia Krái. Vì vậy, khi dùng dữ liệu cho chatbot nên lưu cả cách gọi cũ và cách gọi mới để nhận diện câu hỏi của du khách. Các thông tin về giá vé, giờ mở cửa, dịch vụ thuyền, dịch vụ ăn uống, gửi xe và tình trạng đường vào thác là thông tin tham khảo, cần kiểm tra lại trước khi đi.
-
-2. Giá vé tham khảo và chi phí có thể phát sinh
+1. Giá vé
 
 Chưa có nguồn chính thống ổn định công bố bảng giá vé cố định cho Thác Mơ Ia Khai theo dạng khu du lịch có cổng bán vé. Vì vậy, không nên ghi một mức giá vé cụ thể nếu không xác minh được tại thời điểm đi. Chi phí thực tế có thể gồm xăng xe hoặc thuê xe từ Pleiku, phí gửi xe nếu có, tiền thuê người dẫn đường nếu cần, chi phí ăn uống, chi phí thuyền nếu đi tuyến lòng hồ Sê San, chi phí tour trọn gói nếu đặt qua đơn vị du lịch.
 
@@ -14,7 +6,19 @@ Nếu đi tự túc, chi phí chủ yếu là di chuyển và ăn uống. Nếu 
 
 Thông tin về giá tour, giá thuyền, phí gửi xe, phí ăn uống hoặc phí hướng dẫn là thông tin tham khảo, cần kiểm tra lại trước khi đi. Nếu người dùng hỏi giá hiện tại, chatbot nên khuyến nghị liên hệ đơn vị du lịch Gia Lai/Pleiku, chính quyền địa phương, homestay hoặc người dẫn đường ở Ia Grai/Ia Krái để xác nhận.
 
-3. Giờ mở cửa và khung giờ nên đi
+2. Giá các dịch vụ đi kèm
+
+Ngoài giá vé tham quan, tại địa điểm có thể phát sinh thêm chi phí cho một số dịch vụ đi kèm. Chưa có nguồn chính thống ổn định công bố bảng giá vé cố định cho Thác Mơ Ia Khai theo dạng khu du lịch có cổng bán vé. Vì vậy, không nên ghi một mức giá vé cụ thể nếu không xác minh được tại thời điểm đi. Chi phí thực tế có thể gồm xăng xe hoặc thuê xe từ Pleiku, phí gửi xe nếu có, tiền thuê người dẫn đường nếu cần, chi phí ăn uống, chi phí thuyền nếu đi tuyến lòng hồ Sê San, chi phí tour trọn gói nếu đặt qua đơn vị du lịch.
+
+3. Giờ mở cửa
+
+Thác Mơ là điểm thác tự nhiên, chưa nên mặc định là khu du lịch có cổng vận hành cố định, bảng giá niêm yết và giờ mở cửa đồng bộ như các khu du lịch thương mại. Một số nguồn mô tả nơi đây còn hoang sơ, đang được địa phương quan tâm khảo sát, quy hoạch hoặc kết nối tuyến tham quan. Vì vậy, thông tin vận hành phải được ghi theo hướng thận trọng: có thể có người dân, đơn vị tour hoặc dịch vụ địa phương hỗ trợ, nhưng không đảm bảo lúc nào cũng có dịch vụ.
+
+Đối với chatbot, phần vé và lịch hoạt động cần ưu tiên an toàn dữ liệu hơn là trả lời chắc chắn. Nếu người dùng hỏi “Thác Mơ có vé không”, câu trả lời phù hợp là: “Chưa tìm thấy thông tin chính thống ổn định về giá vé cố định; một số thời điểm du khách có thể đi tự túc hoặc đi theo tour địa phương. Thông tin tham khảo, cần kiểm tra lại trước khi đi.”
+
+Lưu ý chung: trong các nguồn cũ, địa điểm thường được ghi là thác Mơ, làng Ếch, xã Ia Khai, huyện Ia Grai, tỉnh Gia Lai. Sau sắp xếp đơn vị hành chính cấp xã năm 2025, khu vực Ia Khai được hợp nhất trong xã Ia Krái mới cùng Ia Tô và Ia Krái. Vì vậy, khi dùng dữ liệu cho chatbot nên lưu cả cách gọi cũ và cách gọi mới để nhận diện câu hỏi của du khách. Các thông tin về giá vé, giờ mở cửa, dịch vụ thuyền, dịch vụ ăn uống, gửi xe và tình trạng đường vào thác là thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+4. Thời điểm nên tham quan
 
 Không có dữ liệu ổn định cho thấy Thác Mơ có giờ mở cửa chính thức như khu du lịch khép kín. Tuy nhiên, vì đây là thác tự nhiên, lựa chọn an toàn nhất là tham quan ban ngày, từ sáng đến đầu giờ chiều. Không nên vào thác lúc tối, trời mưa lớn hoặc khi sắp hoàng hôn vì đường rừng, đá trơn, thiếu ánh sáng và khó gọi hỗ trợ.
 
@@ -22,7 +26,13 @@ Khung giờ đẹp để tham quan thường là buổi sáng đến trước tr
 
 Với lịch trình tự túc từ Pleiku, nên xuất phát khoảng 6:30-8:00, đến khu vực thác trước trưa, nghỉ và chụp ảnh, sau đó rời thác sớm. Nếu đi theo tour thuyền hoặc ghép làng chài, lịch sẽ phụ thuộc đơn vị tổ chức, mực nước và thời tiết. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-4. Mùa đẹp nhất và thời tiết
+Các nguồn địa phương từng ghi nhận Thác Mơ thu hút nhiều khách dịp Tết, đặc biệt những ngày đầu năm khi người dân và du khách đi chơi xuân. Dịp lễ, cuối tuần hoặc thời điểm ảnh thác lan truyền trên mạng xã hội có thể đông hơn bình thường. Đông khách tạo không khí vui nhưng cũng kéo theo nguy cơ rác thải, chen chúc ở các góc chụp và thiếu chỗ gửi xe.
+
+Ngày thường hoặc buổi sáng sớm thường yên tĩnh hơn, phù hợp với người muốn chụp ảnh, nghe tiếng nước và nghỉ ngơi. Tuy nhiên, đi ngày vắng cũng cần thận trọng vì nếu gặp sự cố sẽ khó có người hỗ trợ. Nhóm nhỏ nên báo lịch trình cho người quen, giữ pin điện thoại và không đi quá sâu vào khu vực trơn nguy hiểm.
+
+Với hệ thống chatbot, nên trả lời rằng dịp Tết và cuối tuần có thể đông hơn; nếu muốn tránh đông, hãy đi ngày thường, đi sớm và mang theo túi rác cá nhân. Không nên khuyến khích du khách tổ chức ăn uống đông người nếu không cam kết thu dọn sạch.
+
+5. Mùa đẹp nhất
 
 Gia Lai có hai mùa rõ: mùa mưa thường từ khoảng tháng 5 đến tháng 10 và mùa khô thường từ khoảng tháng 11 đến tháng 4 năm sau. Với thác nước, mùa mưa và thời điểm sau mưa giúp thác có nhiều nước, cảnh quan mạnh và xanh hơn, nhưng rủi ro nước xiết, đường trơn, sạt lở nhỏ hoặc khó di chuyển cũng tăng. Mùa khô an toàn và dễ đi hơn, nhưng một số thời điểm nước có thể ít hơn.
 
@@ -30,27 +40,21 @@ Một số nguồn mô tả thời điểm kết thúc mùa mưa hoặc đầu m
 
 Du khách nên tránh ngày mưa lớn, sau mưa dông kéo dài hoặc khi có cảnh báo thời tiết xấu. Nước thác có thể tăng nhanh, đá rất trơn và dòng chảy ở chân thác không dễ lường. Nếu mục tiêu là chụp ảnh an toàn, nên chọn ngày nắng nhẹ, trời khô, nước không quá xiết và có người địa phương đi cùng.
 
-5. Cao điểm, thấp điểm và dịp lễ Tết
+6. Thông tin thời tiết
 
-Các nguồn địa phương từng ghi nhận Thác Mơ thu hút nhiều khách dịp Tết, đặc biệt những ngày đầu năm khi người dân và du khách đi chơi xuân. Dịp lễ, cuối tuần hoặc thời điểm ảnh thác lan truyền trên mạng xã hội có thể đông hơn bình thường. Đông khách tạo không khí vui nhưng cũng kéo theo nguy cơ rác thải, chen chúc ở các góc chụp và thiếu chỗ gửi xe.
+Gia Lai có hai mùa rõ: mùa mưa thường từ khoảng tháng 5 đến tháng 10 và mùa khô thường từ khoảng tháng 11 đến tháng 4 năm sau. Với thác nước, mùa mưa và thời điểm sau mưa giúp thác có nhiều nước, cảnh quan mạnh và xanh hơn, nhưng rủi ro nước xiết, đường trơn, sạt lở nhỏ hoặc khó di chuyển cũng tăng. Mùa khô an toàn và dễ đi hơn, nhưng một số thời điểm nước có thể ít hơn.
 
-Ngày thường hoặc buổi sáng sớm thường yên tĩnh hơn, phù hợp với người muốn chụp ảnh, nghe tiếng nước và nghỉ ngơi. Tuy nhiên, đi ngày vắng cũng cần thận trọng vì nếu gặp sự cố sẽ khó có người hỗ trợ. Nhóm nhỏ nên báo lịch trình cho người quen, giữ pin điện thoại và không đi quá sâu vào khu vực trơn nguy hiểm.
+Một số nguồn mô tả thời điểm kết thúc mùa mưa hoặc đầu mùa khô là lúc Thác Mơ đẹp vì nước vừa đủ, dòng thác chia nhánh và cảnh quan vẫn xanh. Một số bài ảnh mới ghi “mùa nước đổ” cho thấy thác nổi bật khi nước nhiều. Vì vậy, câu trả lời tốt không nên chỉ nói một tháng duy nhất mà nên nói: đẹp nhất thường là sau các đợt mưa hoặc giai đoạn chuyển từ mùa mưa sang mùa khô, nhưng cần kiểm tra thời tiết và đường đi.
 
-Với hệ thống chatbot, nên trả lời rằng dịp Tết và cuối tuần có thể đông hơn; nếu muốn tránh đông, hãy đi ngày thường, đi sớm và mang theo túi rác cá nhân. Không nên khuyến khích du khách tổ chức ăn uống đông người nếu không cam kết thu dọn sạch.
+Du khách nên tránh ngày mưa lớn, sau mưa dông kéo dài hoặc khi có cảnh báo thời tiết xấu. Nước thác có thể tăng nhanh, đá rất trơn và dòng chảy ở chân thác không dễ lường. Nếu mục tiêu là chụp ảnh an toàn, nên chọn ngày nắng nhẹ, trời khô, nước không quá xiết và có người địa phương đi cùng.
 
-6. Cách kiểm tra thông tin cập nhật
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Trước khi đi, du khách nên kiểm tra lại bằng ba kênh: bản đồ số, nguồn du lịch địa phương hoặc đơn vị tour, và người dân/điểm lưu trú tại Pleiku hoặc Ia Grai. Bản đồ giúp định vị; nguồn du lịch giúp biết tuyến tham quan; người địa phương giúp biết đường thực tế, nước thác và thời tiết. Không nên chỉ dựa vào một bài review cũ.
 
 Nếu đi đường thủy, cần hỏi trực tiếp đơn vị vận hành thuyền về lịch chạy, áo phao, bến xuất phát, mực nước và dự báo thời tiết. Nếu đi tự túc, nên hỏi trước tình trạng đường vào làng Ếch và lối xuống thác. Nếu có mưa lớn trong 1-2 ngày trước chuyến đi, nên cân nhắc hoãn.
 
 Đối với dữ liệu RAG, mọi câu trả lời liên quan đến vé, giờ, tour, thuyền, gửi xe, vệ sinh, ăn uống và an toàn nước phải có câu “Thông tin tham khảo, cần kiểm tra lại trước khi đi.” Đây là yêu cầu bắt buộc để tránh chatbot trả lời quá chắc chắn về thông tin dễ thay đổi.
-
-7. Các câu hỏi chatbot có thể trả lời từ file này
-
-File này giúp chatbot trả lời: Thác Mơ có bán vé không? Giờ mở cửa Thác Mơ là mấy giờ? Nên đi Thác Mơ mùa nào? Đi Thác Mơ mùa mưa có đẹp không? Thác Mơ có đông dịp Tết không? Đi Thác Mơ nên đi buổi sáng hay chiều? Có cần đặt tour trước không? Có dịch vụ thuyền không? Chi phí đi Thác Mơ gồm những gì? Làm sao kiểm tra thông tin mới nhất?
-
-Câu trả lời cần tách rõ phần chắc chắn và phần cần kiểm tra. Ví dụ: “Thác Mơ là điểm thác tự nhiên ở Gia Lai, thường được đi ban ngày. Chưa có bảng giá vé ổn định từ nguồn chính thức; nếu đi tour hoặc thuyền thì giá phụ thuộc đơn vị tổ chức. Thông tin tham khảo, cần kiểm tra lại trước khi đi.”
 
 8. Nguồn tham khảo
 

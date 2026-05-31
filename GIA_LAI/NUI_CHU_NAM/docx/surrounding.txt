@@ -1,4 +1,4 @@
-1. Núi Chư Nâm - Địa điểm xung quanh
+1. Các địa điểm gần đó
 
 Núi Chư Nâm nằm trong vùng du lịch tự nhiên phía Bắc - Đông Bắc Pleiku, có thể kết nối với nhiều điểm nổi bật của xã Biển Hồ và vùng Chư Păh cũ. Tuy nhiên, mỗi địa điểm gần đó có bản chất khác nhau, nên dữ liệu RAG cần tách rõ để tránh mô hình gộp nhầm.
 
@@ -20,7 +20,19 @@ Quảng trường Đại Đoàn Kết và Bảo tàng tỉnh Gia Lai là các đ
 
 Nếu xây dựng lịch trình ưu tiên trekking, có thể xếp Chư Nâm là hoạt động chính của ngày. Ngày sau hoặc buổi chiều nhẹ mới ghé Biển Hồ, Biển Hồ Chè, Chùa Bửu Minh hoặc Chư Đăng Ya. Nếu xây dựng lịch trình gia đình, nên bỏ Chư Nâm hoặc chỉ chụp ảnh từ xa, vì cung leo có độ khó cao.
 
-2. Tuyến gợi ý
+2. Sự kiện / lễ hội
+
+Về sự kiện và lễ hội liên quan, Núi Chư Nâm nằm trong vùng du lịch tự nhiên phía Bắc - Đông Bắc Pleiku, có thể kết nối với nhiều điểm nổi bật của xã Biển Hồ và vùng Chư Păh cũ. Tuy nhiên, mỗi địa điểm gần đó có bản chất khác nhau, nên dữ liệu RAG cần tách rõ để tránh mô hình gộp nhầm. Núi lửa Chư Đăng Ya là điểm gần và dễ bị nhầm nhất với Chư Nâm.
+
+3. Hoạt động theo mùa
+
+Theo từng mùa trong năm, Núi Chư Nâm nằm trong vùng du lịch tự nhiên phía Bắc - Đông Bắc Pleiku, có thể kết nối với nhiều điểm nổi bật của xã Biển Hồ và vùng Chư Păh cũ. Tuy nhiên, mỗi địa điểm gần đó có bản chất khác nhau, nên dữ liệu RAG cần tách rõ để tránh mô hình gộp nhầm. Núi lửa Chư Đăng Ya là điểm gần và dễ bị nhầm nhất với Chư Nâm.
+
+4. Đối tượng phù hợp
+
+Về đối tượng phù hợp, Tuyến 1 dành cho người thích trekking: Pleiku - chân núi Chư Nâm - đỉnh Chư Nâm - đập Tân Sơn - về Pleiku. Đây là tuyến ưu tiên thể lực và an toàn, không nhồi nhiều điểm. Tuyến 2 dành cho người thích cảnh quan thiên nhiên: Pleiku - Biển Hồ T'Nưng - Chư Đăng Ya - Chư Nâm hoặc ngược lại.
+
+5. Gợi ý tuyến tham quan kết hợp
 
 Tuyến 1 dành cho người thích trekking: Pleiku - chân núi Chư Nâm - đỉnh Chư Nâm - đập Tân Sơn - về Pleiku. Đây là tuyến ưu tiên thể lực và an toàn, không nhồi nhiều điểm.
 
@@ -30,7 +42,7 @@ Tuyến 3 dành cho ảnh check-in nhẹ: Biển Hồ Chè - Hàng thông trăm 
 
 Tuyến 4 dành cho khám phá Pleiku hai ngày: ngày một đi Biển Hồ, Biển Hồ Chè, Chùa Bửu Minh; ngày hai trekking Chư Nâm. Cách chia này giúp du khách không bị quá sức và có thời gian xử lý thời tiết.
 
-3. Nguồn tham khảo
+6. Nguồn tham khảo
 
 Cục Du lịch Quốc gia Việt Nam / Vietnamtourism.gov.vn: thông tin đoàn khảo sát núi Chư Nâm, độ cao 1.472 m, vị trí tại huyện Chư Păh và định hướng phát triển du lịch trekking.
 

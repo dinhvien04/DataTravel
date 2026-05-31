@@ -1,7 +1,3 @@
-Tài liệu này dùng để mô tả nền tảng về Kỳ Co, phục vụ hệ thống hỏi đáp du lịch và nhận diện địa điểm. Khi chatbot gặp các truy vấn như “Kỳ Co ở đâu”, “biển Kỳ Co có gì đẹp”, “Kỳ Co có phải đảo không”, “Kỳ Co có gần Eo Gió không”, tài liệu này giúp mô hình trả lời đúng ngữ cảnh, tránh nhầm Kỳ Co với Hòn Khô, Cù Lao Xanh hoặc bãi biển trung tâm Quy Nhơn.
-
-Kỳ Co là một bãi biển nổi tiếng ở khu vực Nhơn Lý, phía đông bắc Quy Nhơn. Theo các nguồn du lịch chính thống và địa phương, Kỳ Co nằm dưới chân dãy núi Phương Mai, cách trung tâm Quy Nhơn khoảng gần 25 km. Trước đây địa danh thường được ghi là xã Nhơn Lý, thành phố Quy Nhơn, tỉnh Bình Định. Sau thay đổi hành chính năm 2025, khu vực Nhơn Lý thuộc phường Quy Nhơn Đông, tỉnh Gia Lai mới. Khi xây dữ liệu RAG, nên lưu cả tên hành chính cũ và mới để chatbot có thể nhận diện đúng trong các câu hỏi cũ, bài viết cũ hoặc nội dung mới.
-
 1. Giới thiệu địa điểm
 
 Kỳ Co là một trong những bãi biển tiêu biểu nhất của du lịch Quy Nhơn. Điểm hấp dẫn chính của Kỳ Co nằm ở cảnh quan biển xanh, cát sáng màu, vách đá và núi bao quanh. Không gian nơi đây thường được mô tả bằng các cụm từ như hoang sơ, trong xanh, biển hai màu, cát trắng, nắng vàng, núi ôm biển và điểm check-in biển đảo. Đây là địa điểm thường được ghép chung trong tuyến tham quan Kỳ Co - Eo Gió, vì hai nơi đều thuộc khu vực Nhơn Lý và có thể đi trong cùng một ngày.
@@ -14,13 +10,13 @@ Cảnh quan Kỳ Co có đặc điểm nổi bật là sự kết hợp giữa b
 
 Kỳ Co thích hợp nhất với nhóm khách muốn tắm biển, chụp ảnh, đi cano, lặn ngắm san hô, tham gia trò chơi biển hoặc kết hợp ăn hải sản ở Nhơn Lý. Không khí chung của địa điểm là du lịch biển đảo năng động, khác với Eo Gió thiên về ngắm cảnh vách đá, khác với Cù Lao Xanh thiên về trải nghiệm đảo xa và khác với Hòn Khô thiên về làng chài Nhơn Hải, rong mơ và san hô gần bờ.
 
-3. Lịch sử hình thành và phát triển du lịch
+3. Lịch sử hình thành
 
 Kỳ Co vốn là một bãi biển hoang sơ thuộc khu vực Nhơn Lý, gắn với không gian biển của bán đảo Phương Mai. Trước khi trở thành điểm du lịch phổ biến, nơi đây chủ yếu được biết đến bởi người dân địa phương, ngư dân và những người yêu cảnh biển tự nhiên. Khi hạ tầng bán đảo Phương Mai, cầu Thị Nại, các tuyến đường nối Quy Nhơn với Nhơn Lý và hoạt động cano du lịch phát triển, Kỳ Co dần trở thành điểm đến nổi bật trong các tour một ngày.
 
 Sự phát triển của Kỳ Co đi cùng quá trình hình thành cụm du lịch Nhơn Lý - Kỳ Co - Eo Gió - Bãi Dứa - Hòn Sẹo. Các đơn vị du lịch địa phương thường xây dựng tour gồm xe đưa đón từ Quy Nhơn, cano ra Kỳ Co, tắm biển, lặn ngắm san hô ở Bãi Dứa, ăn trưa hải sản và ghé Eo Gió hoặc Tịnh xá Ngọc Hòa. Vì vậy, dữ liệu về Kỳ Co cần được lưu theo mô hình cụm điểm đến, không nên tách rời hoàn toàn khỏi Nhơn Lý và Eo Gió.
 
-4. Giá trị văn hóa và đời sống địa phương
+4. Giá trị văn hóa
 
 Kỳ Co nằm trong vùng văn hóa biển của Nhơn Lý. Khi nhắc đến Kỳ Co, cần nhớ rằng trải nghiệm du lịch không chỉ nằm ở bãi biển mà còn liên quan đến làng chài, bến cano, nhà hàng hải sản, nghề biển, thuyền thúng, đời sống ngư dân và các lễ hội cầu ngư của vùng biển Quy Nhơn. Du khách đến đây thường đi qua làng chài Nhơn Lý, nhìn thấy các con hẻm nhỏ dốc ra biển, bến thuyền, lưới cá và nhịp sinh hoạt biển.
 
@@ -34,7 +30,7 @@ Về mặt văn hóa du lịch, Kỳ Co đại diện cho hình ảnh Quy Nhơn 
 
 Điểm nổi bật thứ ba là khả năng kết hợp lặn ngắm san hô. Nhiều tour đưa khách đến Bãi Dứa hoặc khu vực san hô gần tuyến Kỳ Co để snorkeling. Hoạt động này phù hợp với khách muốn trải nghiệm biển nhưng cần mặc áo phao, nghe hướng dẫn an toàn và tránh giẫm đạp lên san hô.
 
-6. Kiến trúc và cảnh quan
+6. Kiến trúc / cảnh quan
 
 Kỳ Co không nổi bật bằng kiến trúc cổ hay công trình tôn giáo mà nổi bật ở cảnh quan tự nhiên. Cấu trúc cảnh quan gồm bãi cát, làn nước xanh, vách đá, núi đá, ghềnh đá, cầu gỗ, lối đi và các hạng mục dịch vụ du lịch tại bãi. Một số công trình phục vụ check-in như cầu gỗ, cầu tình yêu, lều nghỉ, khu chụp ảnh hoặc sân khấu biểu diễn có thể thay đổi theo thời gian và theo đơn vị vận hành.
 
@@ -56,26 +52,20 @@ Các từ khóa chính gồm: Kỳ Co, biển Kỳ Co, bãi biển Kỳ Co, Kỳ
 
 Các cụm từ mô tả nên lưu cho embedding gồm: biển xanh ngọc, bãi cát trắng, nước trong, biển hai màu, vách đá, núi ôm biển, cano cao tốc, tắm biển, lặn ngắm san hô, check-in cầu gỗ, du lịch biển đảo Quy Nhơn, điểm đến mùa hè, đi trong ngày từ Quy Nhơn.
 
-9. Ghi chú cho RAG
+9. Nguồn tham khảo
 
-Khi chunk dữ liệu, nên tách phần tổng quan và phần nhận diện tên gọi thành một chunk riêng. Phần hành chính nên được gắn metadata thời gian vì có sự khác biệt giữa nguồn cũ và nguồn mới. Metadata gợi ý: location_type = beach/tourist_area, old_admin = xã Nhơn Lý, thành phố Quy Nhơn, tỉnh Bình Định, new_admin = phường Quy Nhơn Đông, tỉnh Gia Lai, travel_cluster = Kỳ Co - Eo Gió - Nhơn Lý - Bãi Dứa.
+- Vietnam National Authority of Tourism - Kỳ Co - vẻ đẹp hoang sơ làm say lòng người: https://vietnamtourism.gov.vn/post/26753
 
-Các câu hỏi dễ nhầm gồm: Kỳ Co có phải đảo không; Kỳ Co khác Eo Gió không; đi Kỳ Co bằng cano hay đường bộ; Kỳ Co có tắm biển được không; Kỳ Co có lặn san hô không; Kỳ Co ở Bình Định hay Gia Lai. Mô hình nên trả lời bằng cách giải thích sự thay đổi hành chính và nêu rằng nhiều tài liệu cũ vẫn ghi Bình Định.
+- Cổng thông tin điện tử tỉnh Gia Lai - Biển Kỳ Co: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/bien-ky-co.html
 
-10. Nguồn tham khảo
+- Quy Nhơn Tourist - Vé cano tham quan Kỳ Co: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-cano-tham-quan-ky-co/
 
-1. Vietnam National Authority of Tourism - Kỳ Co - vẻ đẹp hoang sơ làm say lòng người: https://vietnamtourism.gov.vn/post/26753
+- Bamboo Airways - Kinh nghiệm du lịch Kỳ Co Eo Gió tự túc: https://www.bambooairways.com/th/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ky-co-eo-gio
 
-2. Cổng thông tin điện tử tỉnh Gia Lai - Biển Kỳ Co: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/bien-ky-co.html
+- Du lịch Quy Nhơn Blog - Kỳ Co Quy Nhơn kinh nghiệm du lịch: https://dulichquynhon.blog/dia-diem-du-lich/ky-co/
 
-3. Quy Nhơn Tourist - Vé cano tham quan Kỳ Co: https://quynhontourist.com/ve-tham-quan/ve-tham-quan-quy-nhon/ve-cano-tham-quan-ky-co/
+- Du lịch Kỳ Co - Bảng giá tour và dịch vụ vui chơi Kỳ Co: https://dulichkyco.vn/bang-gia-tour-ky-co-moi-nhat/
 
-4. Bamboo Airways - Kinh nghiệm du lịch Kỳ Co Eo Gió tự túc: https://www.bambooairways.com/th/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ky-co-eo-gio
+- Quy Nhơn Tourist - Làng chài Nhơn Lý: https://quynhontourist.com/lang-chai-nhon-ly/
 
-5. Du lịch Quy Nhơn Blog - Kỳ Co Quy Nhơn kinh nghiệm du lịch: https://dulichquynhon.blog/dia-diem-du-lich/ky-co/
-
-6. Du lịch Kỳ Co - Bảng giá tour và dịch vụ vui chơi Kỳ Co: https://dulichkyco.vn/bang-gia-tour-ky-co-moi-nhat/
-
-7. Quy Nhơn Tourist - Làng chài Nhơn Lý: https://quynhontourist.com/lang-chai-nhon-ly/
-
-8. Cổng thông tin điện tử Gia Lai - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html
+- Cổng thông tin điện tử Gia Lai - Sáp nhập Bình Định và Gia Lai: https://alba.gialai.gov.vn/tin-tuc/chi-dao-dieu-hanh/sap-nhap-binh-dinh-va-gia-lai-hinh-thanh-cuc-tang-truong-moi.html

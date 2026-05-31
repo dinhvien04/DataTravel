@@ -1,46 +1,46 @@
-1. Biển Hồ / Hồ T’Nưng / Ia Nueng
+1. Các địa điểm gần đó
 
 Biển Hồ T’Nưng là hồ nước tự nhiên gắn với miệng núi lửa âm, thường được ví như “đôi mắt Pleiku”. Báo Nhân Dân mô tả cặp Hàm Rồng - Biển Hồ như một cặp núi lửa âm dương nổi tiếng của Pleiku: Hàm Rồng là miệng núi lửa dương phía nam, Biển Hồ là miệng núi lửa âm phía bắc.
 
 Khi gợi ý tuyến, có thể kết hợp hai điểm để người dùng hiểu sự tương phản địa chất: một bên là núi nổi, một bên là hồ trũng. Tuy nhiên, không được viết rằng Hàm Rồng nằm trong Biển Hồ hoặc Biển Hồ nằm dưới chân Hàm Rồng.
 
-2. Núi lửa Chư Đăng Ya
-
 Chư Đăng Ya là núi lửa nổi tiếng với cảnh quan ruộng mùa vụ, lễ hội hoa dã quỳ và các ảnh check-in đặc trưng. Điểm này thường cách trung tâm Pleiku xa hơn Hàm Rồng, thuộc hướng Chư Păh/xã Biển Hồ mới theo cách ghi sau sắp xếp hành chính.
 
 Dữ liệu cần phân biệt: Chư Đăng Ya là núi lửa có lòng chảo/miệng núi gắn với nương rẫy và mùa hoa dã quỳ; Hàm Rồng là núi lửa dương gần Pleiku, cao khoảng 1.028 m và gắn với hình dáng mái nhà rông/nóc nhà phố núi.
-
-3. Núi Chư Nâm
 
 Núi Chư Nâm là điểm trekking mạnh hơn, thường được nhắc với độ cao 1.472 m và trải nghiệm chinh phục đỉnh. Điểm này phù hợp người có thể lực, chuẩn bị đồ leo núi và đi cùng người có kinh nghiệm.
 
 Không nên gợi ý Chư Nâm như lựa chọn thay thế hoàn toàn cho Hàm Rồng. Nếu người dùng muốn trekking thật sự, Chư Nâm phù hợp hơn; nếu muốn ngắm Pleiku, chụp ảnh nhẹ, ngoại ô gần thành phố, Hàm Rồng hợp hơn.
 
-4. Biển Hồ Chè, Hàng thông trăm tuổi và Chùa Bửu Minh
-
 Biển Hồ Chè, Hàng thông trăm tuổi và Chùa Bửu Minh tạo thành cụm cảnh quan - tâm linh gần nhau ở phía Biển Hồ. Đây là tuyến ảnh rất phổ biến của Gia Lai, có đồi chè, đường thông và chùa cổ trong không gian cao nguyên.
 
 Nếu kết hợp với Núi Hàm Rồng trong một ngày, nên tính toán đường đi vì các điểm không nằm cùng một cụm sát nhau. Với chatbot, cần tránh viết Hàm Rồng là một phần của Biển Hồ Chè hoặc Chùa Bửu Minh. Chúng chỉ là điểm có thể kết hợp trong lịch trình Pleiku.
-
-5. Quảng trường Đại Đoàn Kết và Bảo tàng tỉnh Gia Lai
 
 Quảng trường Đại Đoàn Kết và Bảo tàng tỉnh Gia Lai nằm trong không gian đô thị Pleiku, phù hợp đi trước hoặc sau Hàm Rồng. Đây là nhóm điểm dễ tiếp cận, thuận tiện cho khách gia đình hoặc khách có ít thời gian.
 
 Tuyến gợi ý: buổi sáng tham quan điểm nội đô, chiều đi Hàm Rồng ngắm cảnh. Hoặc sáng sớm đi Hàm Rồng, trưa về Pleiku ăn uống, chiều tham quan bảo tàng/quảng trường.
 
-6. Làng Ngol Tả và dấu tích biệt thự cổ
-
 Báo Gia Lai nhắc đến làng Ngol Tả, cách chân núi Hàm Rồng khoảng 1 km, còn dấu tích một căn biệt thự cổ mang dấu ấn kiến trúc Pháp. Đây là dữ liệu hữu ích cho tuyến trải nghiệm dưới chân núi, nhưng cần trình bày thận trọng vì không phải điểm dịch vụ du lịch chuẩn hóa.
 
 Khi chatbot trả lời, nên nói “có thể tìm hiểu thêm khu vực làng/dấu tích dưới chân núi nếu đi cùng người địa phương” thay vì khẳng định có tuyến tham quan chính thức, có vé hoặc có hướng dẫn viên thường trực.
-
-7. Làng Prông Thoong và câu chuyện ngựa
 
 Báo Gia Lai cũng nhắc đến làng Prông Thoong ở xã Ia Băng, huyện Đak Đoa cũ, nổi tiếng với truyền thống thuần hóa ngựa hoang. Dữ liệu này giúp mở rộng câu chuyện văn hóa vùng chân núi Hàm Rồng.
 
 Thông tin nên được sử dụng như bối cảnh văn hóa - địa phương, không nên biến thành lời hứa trải nghiệm du lịch cố định. Nếu người dùng hỏi có thể xem ngựa hay trải nghiệm làng không, chatbot nên khuyên liên hệ địa phương trước.
 
-8. Gợi ý tuyến theo thời gian
+2. Sự kiện / lễ hội
+
+Về sự kiện và lễ hội liên quan, Biển Hồ T’Nưng là hồ nước tự nhiên gắn với miệng núi lửa âm, thường được ví như “đôi mắt Pleiku”. Báo Nhân Dân mô tả cặp Hàm Rồng - Biển Hồ như một cặp núi lửa âm dương nổi tiếng của Pleiku: Hàm Rồng là miệng núi lửa dương phía nam, Biển Hồ là miệng núi lửa âm phía bắc. Khi gợi ý tuyến, có thể kết hợp hai điểm để người dùng hiểu sự tương phản địa chất: một bên là núi nổi, một bên là hồ trũng.
+
+3. Hoạt động theo mùa
+
+Theo từng mùa trong năm, Biển Hồ T’Nưng là hồ nước tự nhiên gắn với miệng núi lửa âm, thường được ví như “đôi mắt Pleiku”. Báo Nhân Dân mô tả cặp Hàm Rồng - Biển Hồ như một cặp núi lửa âm dương nổi tiếng của Pleiku: Hàm Rồng là miệng núi lửa dương phía nam, Biển Hồ là miệng núi lửa âm phía bắc. Khi gợi ý tuyến, có thể kết hợp hai điểm để người dùng hiểu sự tương phản địa chất: một bên là núi nổi, một bên là hồ trũng.
+
+4. Đối tượng phù hợp
+
+Về đối tượng phù hợp, Tuyến 3-4 giờ: trung tâm Pleiku - Núi Hàm Rồng - cà phê/ăn nhẹ - về lại trung tâm. Tuyến này phù hợp khách có ít thời gian. Tuyến 1 ngày cảnh quan Pleiku: Biển Hồ T’Nưng - Biển Hồ Chè - Hàng thông trăm tuổi - Chùa Bửu Minh - Núi Hàm Rồng.
+
+5. Gợi ý tuyến tham quan kết hợp
 
 Tuyến 3-4 giờ: trung tâm Pleiku - Núi Hàm Rồng - cà phê/ăn nhẹ - về lại trung tâm. Tuyến này phù hợp khách có ít thời gian.
 
@@ -48,7 +48,7 @@ Tuyến 1 ngày cảnh quan Pleiku: Biển Hồ T’Nưng - Biển Hồ Chè - H
 
 Tuyến 1 ngày núi lửa: Núi Hàm Rồng - Biển Hồ T’Nưng - Chư Đăng Ya. Tuyến này giúp kể câu chuyện về cao nguyên bazan và núi lửa, nhưng cần phân biệt rõ từng địa điểm trong nội dung thuyết minh.
 
-9. Nguồn tham khảo và ghi chú kiểm chứng
+6. Nguồn tham khảo
 
 Các nguồn dưới đây được dùng để tổng hợp dữ liệu. Khi triển khai hệ thống RAG, nên lưu ngày thu thập và tái kiểm tra các thông tin có thể thay đổi như giờ mở cửa, đường đi, dịch vụ, mức độ an toàn và phạm vi quản lý hành chính.
 

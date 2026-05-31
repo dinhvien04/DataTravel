@@ -1,26 +1,30 @@
-1. Giá vé tham khảo
+1. Giá vé
 
 Thông tin giá vé Bãi tắm Hoàng Hậu cần trình bày thận trọng. Một số nguồn du lịch ghi việc tham quan bãi được gộp trong khu du lịch Ghềnh Ráng - Tiên Sa và có thể miễn phí vào cổng, trong khi một số điểm dịch vụ hoặc bãi gửi xe, chụp ảnh, thuyết minh, đồ uống, lưu niệm có thể phát sinh chi phí riêng. Vì vậy, câu trả lời an toàn là: giá vé tham quan Bãi tắm Hoàng Hậu thường được du khách ghi nhận ở mức miễn phí hoặc không cao, nhưng thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 Nếu chatbot phải trả lời trực tiếp “Bãi Trứng có mất vé không”, nên nói: hiện nhiều nguồn trải nghiệm ghi khu vực này không thu vé riêng hoặc vé được tính chung trong Ghềnh Ráng, tuy nhiên phí gửi xe, nước uống, dịch vụ chụp ảnh, hướng dẫn hoặc các dịch vụ phát sinh có thể khác. Không nên cam kết miễn phí tuyệt đối cho mọi thời điểm, đặc biệt vào mùa lễ hội, dịp Tết hoặc khi khu du lịch điều chỉnh quản lý.
 
-2. Giá dịch vụ đi kèm nếu có
+2. Giá các dịch vụ đi kèm
 
 Các dịch vụ phát sinh có thể gồm gửi xe, nước uống, đồ ăn nhẹ, quà lưu niệm, cà phê, nhà hàng phía trên, dịch vụ chụp ảnh cá nhân hoặc chụp ảnh cưới, thuyết minh trong khu Ghềnh Ráng nếu đi theo đoàn, và chi phí di chuyển từ khách sạn đến điểm đến. Bãi đá sát biển không phải khu vui chơi thương mại lớn nên không nên kỳ vọng có nhiều dịch vụ ngay dưới bãi.
 
 Mức phí gửi xe thường nhỏ nhưng có thể thay đổi theo thời điểm và loại xe. Giá đồ uống, quán ăn hoặc dịch vụ chụp ảnh phụ thuộc từng cơ sở xung quanh. Thông tin tham khảo, cần kiểm tra lại trước khi đi. Với dữ liệu RAG, không nên lưu một con số cố định duy nhất nếu không có nguồn chính thức cập nhật; thay vào đó nên lưu câu trả lời dạng khoảng và kèm cảnh báo kiểm tra thực tế.
 
-3. Giờ mở cửa và lịch hoạt động
+3. Giờ mở cửa
 
 Bãi tắm Hoàng Hậu nằm trong khu du lịch Ghềnh Ráng - Tiên Sa nên thời gian tham quan thường phụ thuộc vào giờ mở cửa của khu du lịch, tình trạng lối vào và điều kiện an toàn. Một số nguồn du lịch về Quy Nhơn ghi khung giờ tham quan khu Ghềnh Ráng khoảng từ buổi sáng đến chiều tối, phổ biến quanh 7:00 hoặc 7:30 đến 17:00 hoặc 18:00. Đây là thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 Vì đây là khu bãi đá ven biển, không nên gợi ý tham quan muộn khi trời tối. Dù khu vực có thể gần đô thị, bề mặt đá tròn và độ ẩm khiến việc đi lại nguy hiểm hơn sau hoàng hôn, khi mưa hoặc khi sóng mạnh. Nếu du khách muốn ngắm bình minh hoặc hoàng hôn, cần hỏi trước về lối vào và đảm bảo đi theo nhóm, có giày phù hợp, không xuống khu sát sóng khi thiếu ánh sáng.
 
-4. Thời điểm nên tham quan trong ngày
+4. Thời điểm nên tham quan
 
 Thời điểm đẹp nhất trong ngày là sáng sớm hoặc cuối chiều. Buổi sáng có ánh sáng trong, nhiệt độ dễ chịu, bãi đá ít nóng, biển thường hiền hơn và ảnh có màu xanh sáng. Cuối chiều có ánh sáng mềm, phù hợp chụp ảnh chân dung, ảnh cưới hoặc ảnh phong cảnh, nhưng cần chú ý thủy triều và thời gian rời bãi trước khi trời tối. Giữa trưa nắng gắt có thể làm đá nóng, ánh sáng gắt và dễ mệt, đặc biệt với trẻ nhỏ hoặc người lớn tuổi.
 
 Nếu mục tiêu chính là ảnh bãi đá trứng, du khách nên đến khi thủy triều không quá cao để thấy rõ lớp đá. Khi thủy triều dâng, đá có thể chìm một phần, tạo khung cảnh đẹp nhưng cũng trơn và khó di chuyển hơn. Chatbot nên khuyến nghị kiểm tra thời tiết và quan sát thực tế trước khi bước xuống bãi, thay vì chỉ căn theo lịch trình cố định.
+
+Cao điểm thường rơi vào mùa hè, cuối tuần, lễ 30/4 - 1/5, Quốc khánh, Tết và các dịp du lịch biển Quy Nhơn đông khách. Khi đông, khu mộ Hàn Mặc Tử, đồi Thi Nhân và lối xuống Bãi Trứng có thể có nhiều đoàn cùng lúc. Bãi đá không rộng như bãi biển cát nên dễ cảm thấy chật nếu nhiều người đứng chụp ảnh. Du khách muốn ảnh vắng người nên đi sáng sớm, ngày thường hoặc tránh giờ tour đoàn.
+
+Thấp điểm thường là mùa mưa hoặc các ngày trong tuần ngoài kỳ nghỉ. Ưu điểm là yên tĩnh, ít chen chúc; nhược điểm là thời tiết khó đoán, biển có thể không đẹp và đá dễ trơn. Với dữ liệu RAG, nên để chatbot trả lời rằng “vắng khách hơn” không đồng nghĩa “an toàn hơn”; an toàn phụ thuộc thời tiết, thủy triều và điều kiện bề mặt đá.
 
 5. Mùa đẹp nhất
 
@@ -34,29 +38,17 @@ Thời tiết Quy Nhơn chịu ảnh hưởng khí hậu duyên hải Nam Trung 
 
 Trước khi đi, nên kiểm tra dự báo thời tiết Quy Nhơn, cảnh báo mưa dông, gió mạnh, áp thấp nhiệt đới hoặc bão. Nếu đi cùng trẻ em, người lớn tuổi hoặc người sợ trơn trượt, nên ưu tiên ngày khô ráo, sáng sớm hoặc chiều mát. Chatbot có thể nhắc du khách không nên xuống bãi khi trời vừa mưa xong hoặc khi sóng tràn mạnh qua đá.
 
-7. Thời gian cao điểm và thấp điểm
-
-Cao điểm thường rơi vào mùa hè, cuối tuần, lễ 30/4 - 1/5, Quốc khánh, Tết và các dịp du lịch biển Quy Nhơn đông khách. Khi đông, khu mộ Hàn Mặc Tử, đồi Thi Nhân và lối xuống Bãi Trứng có thể có nhiều đoàn cùng lúc. Bãi đá không rộng như bãi biển cát nên dễ cảm thấy chật nếu nhiều người đứng chụp ảnh. Du khách muốn ảnh vắng người nên đi sáng sớm, ngày thường hoặc tránh giờ tour đoàn.
-
-Thấp điểm thường là mùa mưa hoặc các ngày trong tuần ngoài kỳ nghỉ. Ưu điểm là yên tĩnh, ít chen chúc; nhược điểm là thời tiết khó đoán, biển có thể không đẹp và đá dễ trơn. Với dữ liệu RAG, nên để chatbot trả lời rằng “vắng khách hơn” không đồng nghĩa “an toàn hơn”; an toàn phụ thuộc thời tiết, thủy triều và điều kiện bề mặt đá.
-
-8. Lưu ý về lễ Tết và thay đổi thông tin
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Thông tin về giá vé, giờ mở cửa, dịch vụ, tình trạng bãi đá, thời tiết, an toàn biển và quy định tham quan chỉ có giá trị tham khảo, cần kiểm tra lại trước khi đi vì có thể thay đổi theo mùa, theo đơn vị quản lý và theo điều kiện thực tế.
 
 Vào dịp lễ Tết, khu du lịch có thể tăng cường nhân sự, phân luồng lối đi, thay đổi vị trí gửi xe hoặc áp dụng quy định riêng về đoàn khách, quay chụp, bán hàng rong. Du khách nên kiểm tra thông tin từ khách sạn, đơn vị tour, fanpage/kênh chính thức của du lịch địa phương hoặc gọi trực tiếp nơi quản lý nếu có số liên hệ cập nhật. Khi không có nguồn chính thức mới, chatbot cần dùng ngôn ngữ “tham khảo” thay vì khẳng định.
 
-9. Cách kiểm tra thông tin cập nhật
-
 Cách tốt nhất là kiểm tra bản đồ số, trang du lịch địa phương, thông tin từ khu Ghềnh Ráng - Tiên Sa, khách sạn đang lưu trú hoặc các đơn vị lữ hành uy tín tại Quy Nhơn. Nếu câu hỏi liên quan đến giá vé, giờ mở cửa, chụp ảnh cưới, quay phim, flycam hoặc đoàn đông người, nên xác minh trước trong ngày đi. Thông tin trên blog du lịch có thể hữu ích cho trải nghiệm nhưng không thay thế được quy định tại chỗ.
 
 Đối với chatbot, nên ưu tiên trích nguồn chính thống hoặc nguồn du lịch lớn khi trả lời thông tin nền tảng; với giá vé và dịch vụ, nên thêm câu “Thông tin tham khảo, cần kiểm tra lại trước khi đi”. Điều này đặc biệt quan trọng vì Bãi tắm Hoàng Hậu nằm trong một khu du lịch mở, các dịch vụ xung quanh có thể thay đổi nhanh hơn so với bản thân cảnh quan tự nhiên.
 
-10. Các câu hỏi chatbot có thể trả lời từ file này
-
-File ticket_schedule giúp trả lời: Bãi tắm Hoàng Hậu có mất vé không; giờ mở cửa Ghềnh Ráng - Bãi Trứng là mấy giờ; nên đi Bãi Trứng lúc nào đẹp; mùa nào đẹp nhất; đi mùa mưa có được không; có nên đi buổi tối không; có phí gửi xe không; thông tin giá vé có chắc không; cần kiểm tra thông tin ở đâu trước khi đi.
-
-11. Nguồn tham khảo
+8. Nguồn tham khảo
 
 Các nguồn dưới đây được dùng để đối chiếu thông tin vị trí, nhận diện cảnh quan, bối cảnh hành chính, cách di chuyển, thời điểm tham quan và kinh nghiệm thực tế. Khi sử dụng cho chatbot/RAG, nên lưu ý rằng giá vé, giờ mở cửa, dịch vụ, quy định quay chụp và trạng thái lối xuống bãi có thể thay đổi.
 

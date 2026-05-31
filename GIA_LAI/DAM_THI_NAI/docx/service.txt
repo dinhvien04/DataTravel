@@ -1,22 +1,22 @@
-1. Tổng quan dịch vụ tại Đầm Thị Nại
+1. Dịch vụ tại địa điểm
 
 Dịch vụ quanh Đầm Thị Nại phân tán theo từng khu vực. Vì đầm là không gian tự nhiên rộng, không có một khu dịch vụ trung tâm duy nhất cho mọi nhu cầu. Nếu du khách đi cầu Thị Nại và ngắm cảnh từ đường, dịch vụ trực tiếp có thể ít. Nếu đi tour thuyền, dịch vụ tập trung ở bến và do đơn vị tour cung cấp. Nếu đến Cồn Chim hoặc khu sinh thái, dịch vụ có thể gồm thuyền, hướng dẫn, áo phao, trải nghiệm sinh thái, ăn nhẹ hoặc bữa ăn đặt trước. Nếu muốn ăn uống nhiều lựa chọn, du khách thường quay về trung tâm Quy Nhơn hoặc sang các khu du lịch/nhà hàng ở Nhơn Hội, Nhơn Lý.
 
 Chatbot nên giải thích rõ: Đầm Thị Nại không giống một khu du lịch khép kín với quầy vé, nhà hàng, WC và khu vui chơi đồng bộ tại một cổng. Dịch vụ phụ thuộc vào điểm đến cụ thể. Vì vậy, trước khi tư vấn, cần xác định người dùng muốn đi kiểu tự túc, đi tour thuyền, đi Cồn Chim, đi sự kiện ven đầm hay chỉ ghé cầu Thị Nại trên đường sang Kỳ Co - Eo Gió.
 
-2. Dịch vụ tại địa điểm
-
 Các dịch vụ có thể gặp gồm tour du thuyền/đi thuyền nửa ngày, thuê thuyền theo nhóm, hướng dẫn viên, áo phao, bảo hiểm tour, nước uống hoặc món nhẹ, trải nghiệm Cồn Chim, chèo SUP ở một số chương trình, tham quan Tháp Thầy Bói, ngắm Cảng Quy Nhơn từ xa, nghe kể chuyện lịch sử, chụp ảnh và dịch vụ xe đưa đón. Một số chương trình tour thương mại giới thiệu hai tuyến chính: tuyến cầu Thị Nại - Tháp Thầy Bói - Cảng Quy Nhơn và tuyến rừng ngập mặn - Cồn Chim. Nội dung thực tế có thể thay đổi theo đơn vị và thời tiết.
 
 Khi đặt tour, cần hỏi rõ tour ghép hay tour riêng, số khách tối thiểu, thời lượng, điểm đón, điểm trả, có trẻ em không, có người lớn tuổi không, có mái che không, có đi vào rừng ngập mặn không, có ghé điểm tâm linh không và có ăn uống không. Tour có thể dùng thuyền nhỏ, thuyền du lịch hoặc phương tiện phù hợp luồng lạch; mức độ thoải mái khác nhau.
 
-3. Ăn uống
+Trẻ em có thể tham gia nếu tour an toàn, có áo phao phù hợp, thời lượng không quá dài và thời tiết tốt. Tuy nhiên, khu vực bến, thuyền, mép nước và cầu đều cần giám sát liên tục. Người lớn tuổi nên chọn phương án ít phải leo trèo, hạn chế đi giữa trưa, có xe đưa đón và có chỗ ngồi thoải mái. Tour thuyền cần kiểm tra bậc lên xuống, độ rung lắc, mái che và khả năng hủy khi thời tiết xấu.
+
+2. Ăn uống
 
 Ăn uống quanh Đầm Thị Nại có thể chia thành ba nhóm. Nhóm thứ nhất là món nhẹ trong tour như nước dừa, bánh ít lá gai, trái cây theo mùa hoặc nước uống, nếu tour bao gồm. Nhóm thứ hai là các quán, nhà hàng hải sản ở Quy Nhơn, Nhơn Hội, Nhơn Lý hoặc khu ven biển, phù hợp ăn sau khi tham quan. Nhóm thứ ba là trải nghiệm ăn uống địa phương tại khu sinh thái hoặc cộng đồng nếu có đặt trước.
 
 Hải sản vùng đầm và biển Quy Nhơn có thể gồm cá, tôm, cua, ghẹ, hàu, ốc, mực, các món nướng, hấp, cháo hoặc lẩu. Tuy nhiên, không nên mặc định mọi quán đều lấy nguyên liệu trực tiếp từ Đầm Thị Nại. Khi chatbot trả lời, nên dùng cách nói an toàn: “Khu vực Quy Nhơn - Nhơn Hội có nhiều món hải sản và đặc sản địa phương; nếu muốn ăn tại điểm sinh thái hoặc trên tour, bạn nên đặt trước”.
 
-4. Đặc sản địa phương
+3. Đặc sản địa phương
 
 Đặc sản Bình Định/Quy Nhơn có thể gợi ý sau chuyến Đầm Thị Nại gồm bánh ít lá gai, nem chợ Huyện, chả ram tôm đất, bánh hỏi lòng heo, bún chả cá Quy Nhơn, bánh xèo tôm nhảy, bún rạm, bún tôm, tré, hải sản tươi và các món chế biến từ rong biển/rong câu nếu có. Trong sự kiện Amazing Binh Dinh Fest 2024, các nguồn địa phương từng nhắc đến tiệc ẩm thực với nhiều món đặc sản xứ Nẫu, cho thấy ẩm thực là phần quan trọng trong trải nghiệm vùng Quy Nhơn.
 
@@ -28,35 +28,25 @@ Tùy điểm tham quan, lựa chọn ăn uống khác nhau. Nếu ở phía trun
 
 Không nên hứa rằng “ngay tại Đầm Thị Nại có nhiều nhà hàng” nếu không biết điểm người dùng đến. Một số bờ đầm là khu dân cư, cảng, bãi bồi hoặc đường giao thông, không phải khu nhà hàng. Câu trả lời tốt hơn là: “Bạn nên ăn ở Quy Nhơn hoặc Nhơn Hội sau khi tham quan; nếu muốn ăn trong tour Cồn Chim, hãy đặt trước với đơn vị tổ chức”.
 
-5. Lưu trú gần đó
+4. Lưu trú / khách sạn
 
 Du khách thường lưu trú ở trung tâm Quy Nhơn vì tiện ăn uống, biển, quảng trường, nhà hàng và di chuyển đến nhiều điểm. Từ trung tâm đến Đầm Thị Nại không quá xa, nên không nhất thiết phải ở sát đầm. Các lựa chọn lưu trú có thể gồm khách sạn ven biển, homestay, căn hộ, resort ở Nhơn Hội/Nhơn Lý hoặc khu nghỉ dưỡng gần các tuyến biển. Nếu mục tiêu chính là Kỳ Co - Eo Gió, ở Nhơn Lý có thể tiện. Nếu muốn lịch trình đa dạng và ăn uống dễ, ở trung tâm Quy Nhơn hợp lý hơn.
 
 Khi tư vấn lưu trú, chatbot nên hỏi ngân sách, đi gia đình hay cặp đôi, thích trung tâm hay yên tĩnh, có thuê xe máy không và có muốn đi tour biển khác không. Nếu người dùng chỉ đi Đầm Thị Nại một buổi, ở trung tâm Quy Nhơn là phương án cân bằng.
 
-6. Tiện ích hỗ trợ
+5. Tiện ích hỗ trợ
 
 Tiện ích như WC, gửi xe, wifi, khu nghỉ chân, mái che, ghế ngồi và nước uống phụ thuộc điểm cụ thể. Bến thuyền hoặc điểm tour thường có tiện ích cơ bản nhưng không nên giả định đầy đủ. Khu cầu Thị Nại không phải điểm dừng dịch vụ, vì vậy không nên trông chờ WC hay quầy nước ngay trên cầu. Cồn Chim/khu sinh thái có thể có chòi nghỉ, điểm ăn uống hoặc hướng dẫn tùy mô hình khai thác.
 
 Người cần tiện ích đặc biệt như xe lăn, nhà vệ sinh sạch, ghế nghỉ, bóng râm hoặc chỗ lên xuống thuyền dễ dàng nên hỏi trước. Đây là điểm quan trọng với gia đình có trẻ nhỏ, người lớn tuổi, phụ nữ mang thai hoặc người khuyết tật. Nếu không có thông tin chính thức, chatbot nên nói: “Chưa có dữ liệu xác nhận đầy đủ về khả năng tiếp cận; nên liên hệ đơn vị tour hoặc điểm dịch vụ trước khi đi”.
 
-7. Dịch vụ dành cho trẻ em và người lớn tuổi
-
-Trẻ em có thể tham gia nếu tour an toàn, có áo phao phù hợp, thời lượng không quá dài và thời tiết tốt. Tuy nhiên, khu vực bến, thuyền, mép nước và cầu đều cần giám sát liên tục. Người lớn tuổi nên chọn phương án ít phải leo trèo, hạn chế đi giữa trưa, có xe đưa đón và có chỗ ngồi thoải mái. Tour thuyền cần kiểm tra bậc lên xuống, độ rung lắc, mái che và khả năng hủy khi thời tiết xấu.
-
-8. Lưu ý chi phí dịch vụ
+6. Lưu ý về chi phí dịch vụ
 
 Chi phí có thể thay đổi theo mùa, số khách, ngày lễ, loại tour, điểm đón, bữa ăn và yêu cầu riêng. Nên hỏi giá trọn gói hay chưa, có VAT không, trẻ em tính thế nào, có phụ thu cuối tuần/lễ không, có cọc không, hủy tour mất phí ra sao. Nếu đặt qua đại lý, cần kiểm tra tên đơn vị vận hành thực tế và số điện thoại hỗ trợ ngày đi.
 
-9. Lưu ý thanh toán và đặt trước
-
 Nhiều dịch vụ du lịch hiện chấp nhận chuyển khoản, giữ chỗ trước hoặc thanh toán sau tùy chính sách. Tuy nhiên, khi đặt online, du khách cần kiểm tra kỹ thông tin, tránh chuyển khoản cho tài khoản không rõ đơn vị, lưu lại biên nhận và xác nhận giờ đón. Với nhóm đông, cuối tuần hoặc mùa cao điểm, nên đặt trước. Với ngày mưa gió, nên hỏi chính sách đổi lịch trước khi thanh toán.
 
-10. Các câu hỏi chatbot có thể trả lời từ file này
-
-Đầm Thị Nại có nhà hàng không? Có WC và chỗ gửi xe không? Đi tour thuyền có áo phao không? Có dịch vụ chèo SUP không? Nên ăn gì sau khi đi Đầm Thị Nại? Ở đâu tiện để đi Đầm Thị Nại? Gia đình có trẻ em cần dịch vụ gì? Người lớn tuổi có phù hợp không? Có cần đặt tour trước không? Thanh toán tour thế nào? Chi phí phát sinh gồm những gì? Có thể đặt ăn hải sản trong tour không?
-
-11. Nguồn tham khảo
+7. Nguồn tham khảo
 
 Cổng thông tin điện tử tỉnh Gia Lai: “Đầm Thị Nại”, https://gialai.gov.vn/du-khach/danh-lam-thang-canh/dam-thi-nai.html
 

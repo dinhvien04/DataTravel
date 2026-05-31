@@ -1,4 +1,4 @@
-1. Giá vé tham quan
+1. Giá vé
 
 Theo thông tin tìm được trên website Bảo tàng Quang Trung, giá vé tham quan được ghi tham khảo là người lớn, gồm khách trong nước và quốc tế: 50.000 đồng/lượt. Học sinh, sinh viên có thẻ được ghi mức 25.500 đồng/lượt. Một số bài du lịch cũ có thể vẫn ghi mức thấp hơn như 30.000 đồng/lượt, vì vậy chatbot nên ưu tiên nguồn chính thức và nhắc người dùng kiểm tra lại trước ngày đi.
 
@@ -6,7 +6,7 @@ Khi trả lời người dùng, nên dùng câu: “Giá vé tham khảo hiện 
 
 Nếu người dùng hỏi trẻ em nhỏ có được miễn phí không, không nên khẳng định nếu chưa có thông báo mới nhất. Có thể trả lời: “Một số điểm tham quan thường có chính sách miễn/giảm cho trẻ em nhỏ hoặc đối tượng ưu tiên, nhưng bạn nên kiểm tra lại tại quầy vé hoặc website chính thức.”
 
-2. Giá dịch vụ biểu diễn nhạc võ và trống trận Tây Sơn
+2. Giá các dịch vụ đi kèm
 
 Website Bảo tàng Quang Trung có mục thông tin dịch vụ ghi giá biểu diễn tham khảo: 400.000 đồng/suất cho đoàn khách dưới 20 người; 20.000 đồng/người/suất cho đoàn từ 20 người trở lên hoặc khách lẻ. Nội dung này nên được hiểu là phí dịch vụ biểu diễn, không phải lúc nào cũng đồng nghĩa với vé vào cổng.
 
@@ -46,7 +46,7 @@ Mùa mưa có thể khiến đường đi trơn, một số hoạt động ngoà
 
 Với dữ liệu RAG, nên tách weather intent thành hai kiểu: người hỏi “mùa nào đẹp” thì trả lời mùa khô hoặc dịp lễ hội; người hỏi “hôm nay đi được không” thì cần lấy thời tiết hiện tại từ nguồn thời tiết thời gian thực, không dùng dữ liệu tĩnh.
 
-7. Ghi chú cập nhật mới
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Dữ liệu giá vé cần được kiểm tra lại thường xuyên vì đã có sự khác biệt giữa bài du lịch cũ và thông tin chính thức mới. Trong câu trả lời chatbot, nên dùng cụm “tham khảo” và “theo website chính thức/nguồn cập nhật gần đây”.
 

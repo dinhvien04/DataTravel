@@ -6,7 +6,7 @@ Nên ăn mặc lịch sự, gọn gàng và phù hợp với thời tiết. Vì 
 
 Không nên bật loa lớn, tổ chức trò chơi ồn ào hoặc biến khu di tích thành nơi picnic. Tháp nằm trong không gian có giá trị văn hóa, nên trải nghiệm tốt nhất là yên tĩnh, quan sát và chụp ảnh vừa phải. Nếu đi đoàn đông, nên có người phụ trách nhắc đoàn giữ trật tự và không xả rác.
 
-2. Quy định và điều cấm/hạn chế
+2. Quy định tại địa điểm
 
 Các quy định cụ thể có thể được ghi tại bảng nội quy của di tích và thay đổi theo từng thời điểm. Những hạn chế thường gặp ở di tích là không mang vật dễ cháy nổ, vũ khí, hóa chất, không xả rác, không viết vẽ, không trèo lên công trình, không làm hoạt động mê tín dị đoan hoặc hoạt động thương mại khi chưa được phép. Thông tin tham khảo, cần kiểm tra lại bảng nội quy tại điểm.
 
@@ -14,7 +14,19 @@ Việc quay chụp cá nhân thường dễ thực hiện, nhưng quay chụp th
 
 Nếu có khu vực đang tu bổ, rào chắn hoặc biển cảnh báo, du khách phải tuân thủ và không vượt qua. Một số phần tháp có thể nhìn đẹp nhưng không an toàn hoặc đang cần bảo vệ. Ảnh đẹp không nên đánh đổi bằng rủi ro cho người và di tích.
 
-3. Mức độ đông khách và độ an toàn
+3. Điều cấm / hạn chế
+
+Các quy định cụ thể có thể được ghi tại bảng nội quy của di tích và thay đổi theo từng thời điểm. Những hạn chế thường gặp ở di tích là không mang vật dễ cháy nổ, vũ khí, hóa chất, không xả rác, không viết vẽ, không trèo lên công trình, không làm hoạt động mê tín dị đoan hoặc hoạt động thương mại khi chưa được phép. Thông tin tham khảo, cần kiểm tra lại bảng nội quy tại điểm.
+
+Việc quay chụp cá nhân thường dễ thực hiện, nhưng quay chụp thương mại, ảnh cưới, flycam hoặc ekip lớn có thể cần xin phép. Drone/flycam đặc biệt cần tuân thủ quy định an toàn bay và khu vực cấm/hạn chế bay. Chatbot không nên khuyến khích sử dụng flycam nếu chưa có thông tin phép.
+
+Nếu có khu vực đang tu bổ, rào chắn hoặc biển cảnh báo, du khách phải tuân thủ và không vượt qua. Một số phần tháp có thể nhìn đẹp nhưng không an toàn hoặc đang cần bảo vệ. Ảnh đẹp không nên đánh đổi bằng rủi ro cho người và di tích.
+
+4. Mức độ đông khách
+
+Về mức độ đông khách, Tháp Cánh Tiên là di tích kiến trúc nghệ thuật, vì vậy lưu ý quan trọng nhất là tôn trọng hiện vật và không gian bảo tồn. Du khách không nên trèo lên bệ tháp, không sờ nắn quá nhiều vào bề mặt gạch/đá, không khắc tên, không dán giấy, không đặt vật nặng lên di tích và không lấy gạch đá làm kỷ niệm. Những hành vi này có thể gây hại lâu dài cho công trình đã tồn tại nhiều thế kỷ.
+
+5. Độ an toàn
 
 Tháp Cánh Tiên thường không đông như các điểm biển nổi tiếng, nhưng có thể đông hơn vào cuối tuần, ngày lễ, mùa du lịch hè hoặc khi các đoàn học sinh - tour văn hóa ghé cùng lúc. Nếu muốn không gian yên tĩnh, nên đi sáng sớm ngày thường. Nếu đi cuối tuần, nên đến sớm và kiên nhẫn chờ góc chụp.
 
@@ -22,7 +34,7 @@ Về an toàn, điểm đến không có yếu tố mạo hiểm như leo núi, 
 
 Nếu đi với trẻ em, cần giám sát liên tục. Nếu đi với người lớn tuổi, nên bố trí ghế nghỉ hoặc nghỉ trong xe khi cần. Nếu có người say xe, tuyến từ Quy Nhơn đến An Nhơn không quá quanh co nhưng vẫn nên ăn nhẹ, uống nước và tránh lịch trình quá dày.
 
-4. Khả năng tiếp cận
+6. Khả năng tiếp cận
 
 Khả năng tiếp cận của Tháp Cánh Tiên ở mức tương đối đối với người đi lại bình thường. Tuy nhiên, với người dùng xe lăn, người chống gậy hoặc người có hạn chế vận động, cần kiểm tra điều kiện lối vào, bậc, khoảng cách từ bãi xe và nhà vệ sinh trước khi đi. Không nên khẳng định di tích hoàn toàn thân thiện với xe lăn nếu chưa có nguồn cập nhật rõ ràng.
 
@@ -30,7 +42,11 @@ Người lớn tuổi nên đi vào giờ mát, dùng giày bám tốt và khôn
 
 Với khách quốc tế, rào cản có thể là thiếu thuyết minh bằng ngoại ngữ tại chỗ. Nên chuẩn bị thông tin trước hoặc đi cùng hướng dẫn viên. Với chatbot, có thể hỗ trợ bằng câu trả lời song ngữ hoặc giải thích đơn giản về Champa, Vijaya và kiến trúc tháp.
 
-5. Review tổng hợp: ưu điểm
+7. Review tổng hợp
+
+Tổng hợp đánh giá chung từ du khách. Ưu điểm lớn nhất của Tháp Cánh Tiên là vẻ đẹp kiến trúc độc đáo. Dáng tháp đơn lẻ, cao, đỏ nâu, có các chi tiết như cánh ở góc mái tạo ấn tượng rất khác so với nhiều tháp Chăm khác. Đây là điểm tốt cho ảnh nhận diện, ảnh du lịch văn hóa và nội dung giới thiệu di sản.
+
+8. Ưu điểm
 
 Ưu điểm lớn nhất của Tháp Cánh Tiên là vẻ đẹp kiến trúc độc đáo. Dáng tháp đơn lẻ, cao, đỏ nâu, có các chi tiết như cánh ở góc mái tạo ấn tượng rất khác so với nhiều tháp Chăm khác. Đây là điểm tốt cho ảnh nhận diện, ảnh du lịch văn hóa và nội dung giới thiệu di sản.
 
@@ -38,7 +54,7 @@ Với khách quốc tế, rào cản có thể là thiếu thuyết minh bằng 
 
 Ưu điểm thứ ba là không gian thường yên tĩnh hơn điểm du lịch đại chúng. Người thích khám phá, học lịch sử hoặc chụp ảnh không quá đông đúc sẽ thấy nơi này đáng ghé. Với dữ liệu RAG, đây là điểm nên được gợi ý cho nhóm người dùng thích di tích Chăm, kiến trúc cổ, lịch sử Champa và tuyến An Nhơn.
 
-6. Review tổng hợp: nhược điểm và hiểu lầm thường gặp
+9. Nhược điểm
 
 Nhược điểm là dịch vụ tại chỗ không nhiều. Nếu người dùng kỳ vọng khu vui chơi, quán cà phê đẹp, nhiều hàng ăn hoặc hoạt động giải trí, họ có thể thấy tháp 'ít thứ để chơi'. Vì vậy, chatbot cần mô tả đúng bản chất: đây là điểm tham quan di tích, nên đi với tâm thế tìm hiểu và chụp ảnh, không phải điểm tiêu khiển dài giờ.
 
@@ -46,7 +62,7 @@ Nhược điểm khác là nắng nóng và thiếu bóng mát vào một số t
 
 Hiểu lầm thường gặp là nghĩ Tháp Cánh Tiên nằm ở Quy Nhơn trung tâm. Thực tế, tháp ở khu vực An Nhơn, cách Quy Nhơn khoảng vài chục km. Hiểu lầm thứ hai là nhầm Tháp Cánh Tiên với Tháp Đôi, Bánh Ít hoặc Dương Long. Hiểu lầm thứ ba là coi câu chuyện vua Chế Mân - Huyền Trân như dữ kiện lịch sử tuyệt đối, trong khi nên trình bày là truyền thuyết/câu chuyện du lịch phổ biến nếu không có bằng chứng khảo cổ trực tiếp.
 
-7. Kinh nghiệm tránh rủi ro
+10. Kinh nghiệm tránh rủi ro
 
 Nên kiểm tra giờ mở cửa, giá vé, tình trạng tu bổ và thời tiết trước ngày đi. Nên đi sáng sớm hoặc chiều mát, mang nước và tránh lịch trình quá gấp. Nếu đi bằng xe máy, cần chú ý quốc lộ, nắng và mưa. Nếu đi bằng ô tô, nên xác nhận điểm đỗ và đường vào.
 
@@ -54,7 +70,7 @@ Không nên đi sát giờ đóng cửa, không nên đến khi trời mưa to, 
 
 Các câu hỏi chatbot có thể trả lời từ file này gồm: Tháp Cánh Tiên có an toàn không, có đông không, cần lưu ý gì, có nên đi với trẻ em/người lớn tuổi không, có được chụp ảnh không, có được dùng flycam không, có nên đi mùa mưa không, và những hiểu lầm nào cần tránh.
 
-8. Nguồn tham khảo
+11. Nguồn tham khảo
 
 Cổng Du lịch Quy Nhơn - Bình Định, bài Tháp Cánh Tiên (Tháp Đồng): https://dulichquynhon.binhdinh.gov.vn/vi/thapcanhtien
 

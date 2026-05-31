@@ -1,71 +1,59 @@
-1. Vé, giờ hoạt động và thời điểm tham quan
-
-Thông tin vận hành của Hầm Hô cần được trình bày theo hướng thận trọng vì đây là khu du lịch có dịch vụ thay đổi theo mùa, ngày lễ, tình trạng mưa nước, lượng khách và chính sách của đơn vị khai thác. Các mức giá dưới đây là thông tin tham khảo được tổng hợp từ cổng du lịch địa phương và nguồn trải nghiệm; du khách cần kiểm tra lại trước khi đi, đặc biệt khi đi đoàn đông, đi dịp Tết, đặt ăn uống, thuê thuyền hoặc sử dụng xe điện.
-
-2. Giá vé tham khảo
+1. Giá vé
 
 Một số nguồn du lịch ghi vé vào cổng tham quan Hầm Hô khoảng vé vào cổng tham khảo khoảng 20.000 đồng/người lớn; trẻ em dưới 1,2 m thường được một số nguồn ghi miễn phí. Cổng du lịch địa phương cũng từng hiển thị mức giá 20.000 đồng cho Hầm Hô trong tuyến Quy Nhơn - Tây Sơn. Tuy nhiên, các văn bản điều chỉnh phí và quy định giá dịch vụ có thể được cập nhật theo thời gian, nên chatbot không nên khẳng định tuyệt đối rằng giá luôn cố định. Câu trả lời an toàn là: “Giá vé tham khảo khoảng 20.000 đồng/người lớn, có thể thay đổi; hãy kiểm tra lại trên kênh chính thức hoặc liên hệ khu du lịch trước khi đi.”
 
 Dịch vụ thuyền tham quan được một số nguồn ghi khoảng thuyền tham quan tham khảo khoảng 100.000 đồng/thuyền/4 khách theo một số nguồn trải nghiệm; một số dịch vụ đi thuyền, xe điện hoặc trò chơi có thể tính riêng. Một số nguồn khác nhắc đến xe điện, thuyền vui chơi cá nhân, ăn uống hoặc lưu trú tính riêng. Những khoản này không nên gộp chung vào vé cổng. Khi tư vấn, chatbot nên tách rõ: vé vào cổng, thuyền, xe điện, ăn uống, lưu trú, hướng dẫn viên hoặc dịch vụ đoàn.
 
-3. Giờ mở cửa và lịch hoạt động
+2. Giá các dịch vụ đi kèm
+
+Ngoài giá vé tham quan, tại địa điểm có thể phát sinh thêm chi phí cho một số dịch vụ đi kèm. Một số nguồn du lịch ghi vé vào cổng tham quan Hầm Hô khoảng vé vào cổng tham khảo khoảng 20.000 đồng/người lớn; trẻ em dưới 1,2 m thường được một số nguồn ghi miễn phí. Cổng du lịch địa phương cũng từng hiển thị mức giá 20.000 đồng cho Hầm Hô trong tuyến Quy Nhơn - Tây Sơn. Tuy nhiên, các văn bản điều chỉnh phí và quy định giá dịch vụ có thể được cập nhật theo thời gian, nên chatbot không nên khẳng định tuyệt đối rằng giá luôn cố định.
+
+3. Giờ mở cửa
 
 Khung giờ tham quan thường được ghi là 07:00-17:00 là khung giờ tham khảo thường được cổng du lịch và nguồn trải nghiệm ghi nhận hàng ngày. Cổng du lịch Quy Nhơn trong lịch trình mẫu cũng hiển thị Hầm Hô mở cửa 07:00 và đóng cửa 17:00. Tuy vậy, giờ nhận khách cuối ngày, giờ thuyền chạy, giờ nhà hàng phục vụ hoặc giờ xe điện hoạt động có thể khác nhau. Vào ngày mưa, ngày nước lớn hoặc thời điểm bảo trì, một số khu vực có thể hạn chế. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
-4. Thời điểm nên tham quan trong ngày
+4. Thời điểm nên tham quan
+
+Thông tin vận hành của Hầm Hô cần được trình bày theo hướng thận trọng vì đây là khu du lịch có dịch vụ thay đổi theo mùa, ngày lễ, tình trạng mưa nước, lượng khách và chính sách của đơn vị khai thác. Các mức giá dưới đây là thông tin tham khảo được tổng hợp từ cổng du lịch địa phương và nguồn trải nghiệm; du khách cần kiểm tra lại trước khi đi, đặc biệt khi đi đoàn đông, đi dịp Tết, đặt ăn uống, thuê thuyền hoặc sử dụng xe điện.
 
 Buổi sáng là thời điểm dễ chịu nhất nếu xuất phát từ Quy Nhơn. Nhiệt độ chưa quá cao, ánh sáng vừa đủ, đường đi ít mệt và vẫn còn nhiều thời gian để ghé các điểm Tây Sơn khác. Khoảng 8:30-11:00 phù hợp cho đi thuyền, chụp ảnh bãi đá và tham quan. Buổi trưa có thể nóng, nhưng nếu ăn ở nhà hàng trong khu du lịch và nghỉ dưới bóng cây thì vẫn hợp lý. Buổi chiều thích hợp cho khách đã ghé Bảo tàng Quang Trung buổi sáng, nhưng không nên vào quá muộn vì khu du lịch có thể đóng cửa khoảng 17:00.
 
-5. Mùa đẹp nhất và thời tiết
+Cao điểm thường rơi vào cuối tuần, kỳ nghỉ hè, lễ 30/4-1/5, Quốc khánh, Tết và những đợt du khách đi Quy Nhơn đông. Trong thời gian này, bãi đỗ xe, nhà hàng, thuyền và các điểm chụp ảnh có thể đông hơn. Thấp điểm là ngày thường, mùa mưa hoặc những giai đoạn ít khách biển. Vào thấp điểm, không gian yên tĩnh hơn nhưng một số dịch vụ có thể hoạt động hạn chế, vì vậy cần gọi hỏi trước.
+
+5. Mùa đẹp nhất
 
 Hầm Hô là điểm sông suối nên mùa đẹp phụ thuộc nhiều vào lượng nước. Mùa khô hoặc giai đoạn nước vừa phải thường dễ đi, bãi đá hiện rõ, nước trong hơn và thuận tiện chụp ảnh. Mùa mưa có thể tạo cảm giác hùng vĩ hơn vì nước nhiều, nhưng cũng làm tăng nguy cơ trơn trượt, nước đục, mực nước lên nhanh và hạn chế một số hoạt động. Du khách nên xem dự báo thời tiết Tây Sơn/Quy Nhơn trước khi đi, đặc biệt trong những ngày có cảnh báo mưa lớn, lũ quét hoặc dông.
 
 Nếu mục tiêu là chụp ảnh nhẹ nhàng, đi thuyền và ăn trưa, nên chọn ngày nắng nhẹ hoặc có mây. Nếu đi cùng trẻ em hoặc người lớn tuổi, tránh những ngày vừa mưa lớn xong vì đá và lối đi có thể trơn. Nếu đi đoàn đông, nên đặt trước nhà hàng và hỏi trước tình trạng thuyền, bãi đỗ xe, giờ đón khách.
 
-6. Cao điểm và thấp điểm
+6. Thông tin thời tiết
 
-Cao điểm thường rơi vào cuối tuần, kỳ nghỉ hè, lễ 30/4-1/5, Quốc khánh, Tết và những đợt du khách đi Quy Nhơn đông. Trong thời gian này, bãi đỗ xe, nhà hàng, thuyền và các điểm chụp ảnh có thể đông hơn. Thấp điểm là ngày thường, mùa mưa hoặc những giai đoạn ít khách biển. Vào thấp điểm, không gian yên tĩnh hơn nhưng một số dịch vụ có thể hoạt động hạn chế, vì vậy cần gọi hỏi trước.
+Hầm Hô là điểm sông suối nên mùa đẹp phụ thuộc nhiều vào lượng nước. Mùa khô hoặc giai đoạn nước vừa phải thường dễ đi, bãi đá hiện rõ, nước trong hơn và thuận tiện chụp ảnh. Mùa mưa có thể tạo cảm giác hùng vĩ hơn vì nước nhiều, nhưng cũng làm tăng nguy cơ trơn trượt, nước đục, mực nước lên nhanh và hạn chế một số hoạt động. Du khách nên xem dự báo thời tiết Tây Sơn/Quy Nhơn trước khi đi, đặc biệt trong những ngày có cảnh báo mưa lớn, lũ quét hoặc dông.
 
-7. Cách kiểm tra thông tin cập nhật
+Nếu mục tiêu là chụp ảnh nhẹ nhàng, đi thuyền và ăn trưa, nên chọn ngày nắng nhẹ hoặc có mây. Nếu đi cùng trẻ em hoặc người lớn tuổi, tránh những ngày vừa mưa lớn xong vì đá và lối đi có thể trơn. Nếu đi đoàn đông, nên đặt trước nhà hàng và hỏi trước tình trạng thuyền, bãi đỗ xe, giờ đón khách.
+
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Du khách nên kiểm tra trên cổng thông tin du lịch địa phương, trang hoặc số điện thoại của khu du lịch, bài đăng mới của đơn vị khai thác, ứng dụng bản đồ và các nguồn đặt tour uy tín. Với thông tin giá vé, ưu tiên nguồn chính thống hoặc số điện thoại khu du lịch. Với trải nghiệm thực tế như đông khách, nước trong hay đục, đường có trơn không, có thể xem review mới nhưng vẫn cần phân biệt giữa trải nghiệm cá nhân và quy định chính thức.
 
-8. Các câu hỏi chatbot có thể trả lời từ file này
-
-- Giá vé Hầm Hô hiện nay bao nhiêu?
-
-- Giờ mở cửa Hầm Hô là mấy giờ?
-
-- Đi thuyền ở Hầm Hô có tính phí riêng không?
-
-- Có nên đi Hầm Hô mùa mưa không?
-
-- Nên đi Hầm Hô buổi sáng hay buổi chiều?
-
-- Dịp lễ Tết Hầm Hô có đông không?
-
-- Thông tin giá vé và giờ mở cửa có cần kiểm tra lại không?
-
-9. Nguồn tham khảo
+8. Nguồn tham khảo
 
 Các nguồn dưới đây được dùng để tổng hợp nội dung. Những thông tin có thể thay đổi như giá vé, giờ mở cửa, dịch vụ thuyền, xe điện, lưu trú, nhà hàng, số điện thoại và quy định đoàn khách cần được kiểm tra lại trên kênh chính thức hoặc liên hệ trực tiếp trước khi đi.
 
-1. Cổng thông tin du lịch Bình Định/mybinhdinh.vn - Khu du lịch Hầm Hô Rosa Alba: https://mybinhdinh.vn/vi/hamho
+- Cổng thông tin du lịch Bình Định/mybinhdinh.vn - Khu du lịch Hầm Hô Rosa Alba: https://mybinhdinh.vn/vi/hamho
 
-2. Cổng thông tin du lịch Quy Nhơn - Khu du lịch Hầm Hô Rosa Alba: https://dulichquynhon.binhdinh.gov.vn/vi/hamho
+- Cổng thông tin du lịch Quy Nhơn - Khu du lịch Hầm Hô Rosa Alba: https://dulichquynhon.binhdinh.gov.vn/vi/hamho
 
-3. Cổng thông tin du lịch Quy Nhơn - lịch trình Quy Nhơn - Tây Sơn: Hầm Hô, Bảo tàng Quang Trung, Đàn tế Trời Đất: https://dulichquynhon.binhdinh.gov.vn/vi/edittour/?tourid=3186
+- Cổng thông tin du lịch Quy Nhơn - lịch trình Quy Nhơn - Tây Sơn: Hầm Hô, Bảo tàng Quang Trung, Đàn tế Trời Đất: https://dulichquynhon.binhdinh.gov.vn/vi/edittour/?tourid=3186
 
-4. Cổng thông tin du lịch Quy Nhơn - Nhà hàng Hoa Lộc Vừng trong khu du lịch Hầm Hô: https://dulichquynhon.binhdinh.gov.vn/vi/hoalocvung
+- Cổng thông tin du lịch Quy Nhơn - Nhà hàng Hoa Lộc Vừng trong khu du lịch Hầm Hô: https://dulichquynhon.binhdinh.gov.vn/vi/hoalocvung
 
-5. Cổng TTĐT tỉnh Gia Lai - văn bản điều chỉnh mức thu phí tham quan tại Khu du lịch Hầm Hô: https://gialai.gov.vn/chi-dao-dieu-hanh/v-v-dieu-chinh-muc-thu-phi-tham-quan-tai-khu-du-lich-ham-ho-huyen-tay-son-tinh-binh-dinh-cua-cong-ty-co-phan-du-lich-ham.html
+- Cổng TTĐT tỉnh Gia Lai - văn bản điều chỉnh mức thu phí tham quan tại Khu du lịch Hầm Hô: https://gialai.gov.vn/chi-dao-dieu-hanh/v-v-dieu-chinh-muc-thu-phi-tham-quan-tai-khu-du-lich-ham-ho-huyen-tay-son-tinh-binh-dinh-cua-cong-ty-co-phan-du-lich-ham.html
 
-6. Cổng TTĐT tỉnh Gia Lai - quy định giá tối đa dịch vụ sử dụng đò tại Khu du lịch Hầm Hô: https://gialai.gov.vn/chi-dao-dieu-hanh/quy-dinh-gia-toi-da-dich-vu-su-dung-do-tai-khu-du-lich-ham-ho-huyen-tay-son-tinh-binh-dinh-cua-cong-ty-co-phan-du-lich-h.html
+- Cổng TTĐT tỉnh Gia Lai - quy định giá tối đa dịch vụ sử dụng đò tại Khu du lịch Hầm Hô: https://gialai.gov.vn/chi-dao-dieu-hanh/quy-dinh-gia-toi-da-dich-vu-su-dung-do-tai-khu-du-lich-ham-ho-huyen-tay-son-tinh-binh-dinh-cua-cong-ty-co-phan-du-lich-h.html
 
-7. Bamboo Airways - kinh nghiệm tham quan khu du lịch sinh thái Hầm Hô: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ham-ho
+- Bamboo Airways - kinh nghiệm tham quan khu du lịch sinh thái Hầm Hô: https://www.bambooairways.com/gl/vi/travel-guide/domestic-travels/quy-nhon/du-lich-ham-ho
 
-8. MIA.vn - review, kinh nghiệm, giá vé khu du lịch sinh thái Hầm Hô: https://mia.vn/cam-nang-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-11761
+- MIA.vn - review, kinh nghiệm, giá vé khu du lịch sinh thái Hầm Hô: https://mia.vn/cam-nang-du-lich/kham-pha-khu-du-lich-sinh-thai-ham-ho-hang-dong-xanh-giua-dat-troi-binh-dinh-11761
 
-9. Traveloka - trải nghiệm khu du lịch Hầm Hô Bình Định: https://www.traveloka.com/vi-vn/explore/destination/khu-du-lich-ham-ho-acc/288328
-
-10. Cổng TTĐT Chính phủ - Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025: https://vanban.chinhphu.vn/?docid=213987&pageid=27160
+- Traveloka - trải nghiệm khu du lịch Hầm Hô Bình Định: https://www.traveloka.com/vi-vn/explore/destination/khu-du-lich-ham-ho-acc/288328

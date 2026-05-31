@@ -1,5 +1,3 @@
-Tài liệu này tập trung vào lưu ý khi tham quan, quy định, điều cấm, mức độ đông khách, độ an toàn, khả năng tiếp cận và review tổng hợp. Đây là nhóm dữ liệu quan trọng để chatbot không chỉ quảng bá địa điểm mà còn tư vấn thực tế và an toàn.
-
 1. Lưu ý khi tham quan
 
 Điều cần lưu ý đầu tiên là thời tiết. Cù Lao Xanh là đảo ngoài khơi, vì vậy biển động, gió lớn, mưa bão hoặc áp thấp nhiệt đới có thể làm thay đổi toàn bộ lịch trình. Trước khi đi cần kiểm tra dự báo thời tiết, gọi xác nhận với đơn vị vận chuyển và không cố ra đảo nếu tàu hoặc cano thông báo không đảm bảo an toàn.
@@ -18,7 +16,7 @@ Nếu ở lại qua đêm, cần tôn trọng giờ nghỉ của cộng đồng 
 
 Khi tắm biển hoặc lặn san hô, nên đi theo nhóm, không tự ý bơi xa bờ, không xuống nước khi đã uống rượu bia, không tắm lúc sóng lớn và không tách khỏi khu vực được hướng dẫn. Người không biết bơi vẫn cần mặc áo phao ngay cả khi nước không sâu.
 
-3. Điều cấm và hạn chế
+3. Điều cấm / hạn chế
 
 Không nên bẻ, phá hoặc lấy san hô. Đây là hành vi gây hại môi trường biển và làm mất giá trị sinh thái của điểm đến. Chatbot nên nhắc điều này rõ trong các câu trả lời về lặn ngắm san hô.
 
@@ -76,7 +74,11 @@ Nhược điểm thứ hai là dịch vụ hạn chế so với đất liền. L
 
 Nhược điểm thứ ba là khả năng tiếp cận chưa phù hợp với mọi đối tượng. Người say sóng, người đi lại khó khăn, người cần chăm sóc y tế đặc biệt hoặc gia đình có trẻ quá nhỏ nên cân nhắc kỹ lịch trình và điều kiện thời tiết.
 
-10. Nguồn tham khảo
+10. Kinh nghiệm tránh rủi ro
+
+Để hạn chế rủi ro khi tham quan, du khách nên lưu ý. Độ an toàn của chuyến đi phụ thuộc nhiều vào thời tiết biển, phương tiện vận chuyển và ý thức của du khách. Nếu đi đúng mùa, biển êm, dùng cano hoặc tàu uy tín, mặc áo phao và nghe hướng dẫn, chuyến đi có thể an toàn cho phần lớn du khách có sức khỏe bình thường. Rủi ro chính gồm say sóng, trượt ngã ở bãi đá, nắng nóng, mất nước, chuột rút khi tắm biển, lạc đoàn, cháy nắng, thay đổi lịch tàu do thời tiết và hạn chế dịch vụ y tế.
+
+11. Nguồn tham khảo
 
 UBND xã Nhơn Châu, 'Cù Lao Xanh - hòn đảo xanh yên bình', https://nhonchau.gialai.gov.vn/tin-tuc/cu-lao-xanh-hon-dao-xanh-yen-binh.html
 

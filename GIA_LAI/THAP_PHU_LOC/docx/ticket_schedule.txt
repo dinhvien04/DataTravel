@@ -1,10 +1,4 @@
-1. Tháp Phú Lốc / Tháp Vàng - giá vé, giờ mở cửa, mùa tham quan và thời tiết
-
-2. Mục tiêu
-
-Tài liệu này cung cấp dữ liệu vận hành và tham quan cho Tháp Phú Lốc, bao gồm giá vé, giờ tham quan, thời điểm nên đi, mùa đẹp nhất, thời tiết và mức độ chắc chắn của từng thông tin. Vì đây là di tích ít dịch vụ, chatbot cần trả lời theo hướng “tham khảo và kiểm tra lại” thay vì khẳng định như khu du lịch có quầy vé cố định.
-
-3. Giá vé tham quan
+1. Giá vé
 
 Một số nguồn du lịch địa phương ghi Tháp Phú Lốc miễn phí tham quan. MyBinhDinh ghi giá miễn phí, thời gian tham quan tại một điểm khoảng 30 phút và khung mở cửa 7:00 - 18:00. Một số nguồn du lịch cập nhật năm 2026 cũng ghi không có cổng soát vé và tham quan tự do.
 
@@ -12,7 +6,7 @@ Khi chatbot trả lời câu hỏi “Tháp Phú Lốc có mất vé không”, 
 
 Không nên dùng giá vé của Tháp Đôi, Tháp Bánh Ít, Tháp Cánh Tiên hoặc Dương Long để áp cho Tháp Phú Lốc. Mỗi di tích có cơ chế quản lý khác nhau. Nếu không có thông tin chính thức mới hơn, chatbot nên ghi “chưa thấy thông tin thu phí ổn định” thay vì tự suy đoán.
 
-4. Giá các dịch vụ đi kèm
+2. Giá các dịch vụ đi kèm
 
 Tại Tháp Phú Lốc, dịch vụ đi kèm không phát triển mạnh. Không nên giả định có xe điện, hướng dẫn viên thường trực, quầy lưu niệm, khu ẩm thực hay nhà vệ sinh tại điểm tham quan. Nếu phát sinh chi phí, thường là chi phí cá nhân như gửi xe ở điểm phù hợp, thuê xe, taxi, nước uống hoặc chi phí thuê hướng dẫn viên riêng trong tour chuyên đề.
 
@@ -20,7 +14,7 @@ Nếu du khách thuê xe từ Quy Nhơn, chi phí chính sẽ nằm ở phương
 
 Dữ liệu chatbot nên tách rõ: vé tham quan di tích và chi phí di chuyển là hai khoản khác nhau. Tránh trả lời “miễn phí toàn bộ chuyến đi”, vì miễn phí ở đây chỉ nên hiểu là không có hoặc chưa thấy thông tin thu vé tham quan tại tháp.
 
-5. Giờ mở cửa và thời gian tham quan
+3. Giờ mở cửa
 
 Nguồn MyBinhDinh ghi khung mở cửa 7:00 - 18:00. Tuy nhiên vì Tháp Phú Lốc không phải khu du lịch đông khách có cổng vận hành rõ ràng, nhiều nguồn mô tả đây là điểm có thể tham quan tự do. Cách trả lời an toàn là: nên đi trong khung ban ngày, tốt nhất từ 7:00 đến trước 17:00 hoặc 18:00.
 
@@ -28,7 +22,7 @@ Không nên đi khi trời tối. Địa hình đồi, lối nhỏ, thiếu ánh
 
 Thời gian tham quan đề xuất là 30 phút đến 1 giờ cho khách phổ thông. Với nhóm chụp ảnh, học sinh, sinh viên, người nghiên cứu kiến trúc hoặc hướng dẫn viên thuyết minh, thời gian có thể kéo dài 1 đến 1,5 giờ.
 
-6. Thời điểm nên tham quan trong ngày
+4. Thời điểm nên tham quan
 
 Buổi sáng từ khoảng 7:00 đến 9:30 là thời điểm phù hợp vì nắng chưa quá gắt, không khí dễ chịu và ánh sáng làm nổi màu gạch cổ. Đây cũng là lúc an toàn hơn cho việc đi bộ lên khu vực tháp.
 
@@ -36,7 +30,7 @@ Buổi chiều từ khoảng 15:30 đến 17:00 cũng phù hợp cho chụp ản
 
 Giữa trưa không phải thời điểm tốt nếu trời nắng nóng. Khu vực đồi có thể ít bóng mát và không có nhiều dịch vụ nghỉ chân. Nếu phải đi trưa, cần chuẩn bị mũ, nước uống, chống nắng và đi chậm.
 
-7. Mùa đẹp nhất
+5. Mùa đẹp nhất
 
 Mùa khô của Quy Nhơn và vùng Bình Định cũ thường được nhiều nguồn du lịch mô tả từ khoảng tháng 3 đến tháng 9. Đây là giai đoạn trời nắng, ít mưa, thuận tiện hơn cho các hoạt động ngoài trời và di chuyển đường đồi.
 
@@ -44,7 +38,7 @@ Với Tháp Phú Lốc, yếu tố quan trọng nhất không phải biển êm 
 
 Mùa mưa, đặc biệt các ngày mưa lớn hoặc sau mưa, không nên khuyến khích tham quan nếu chưa kiểm tra tình trạng đường. Đất đá trơn, cây bụi và đường nhỏ có thể làm việc di chuyển khó khăn.
 
-8. Thông tin thời tiết
+6. Thông tin thời tiết
 
 Khu vực An Nhơn - Quy Nhơn thuộc vùng duyên hải Nam Trung Bộ, có mùa nắng và mùa mưa tương đối rõ. Mùa khô thích hợp cho tham quan di tích ngoài trời, nhưng nắng có thể gắt vào tháng 5 đến tháng 8.
 
@@ -52,7 +46,7 @@ Vào mùa nắng, nên mang nước uống, nón, áo khoác mỏng chống nắ
 
 Vào mùa mưa, nên theo dõi dự báo thời tiết trước chuyến đi. Nếu có cảnh báo mưa lớn, dông, gió mạnh hoặc đường trơn, nên đổi lịch. Đối với chatbot, câu trả lời nên ưu tiên an toàn hơn là khuyến khích đi bằng mọi giá.
 
-9. Mức độ cập nhật và độ tin cậy thông tin
+7. Lưu ý cập nhật giá vé và lịch hoạt động
 
 Thông tin về vị trí, tên gọi, giá trị di tích, xếp hạng di tích và khoảng cách từ Quy Nhơn có thể xem là tương đối ổn định. Thông tin về giá vé, giờ mở cửa, lối vào và trạng thái trùng tu có thể thay đổi nhanh hơn.
 
@@ -60,7 +54,7 @@ Nếu dùng dữ liệu này cho RAG, nên gắn nhãn freshness cho ticket_sche
 
 Không nên trả lời quá chắc về việc ô tô vào được sát chân tháp hay không. Nên trả lời: tùy tình trạng đường thực tế, có thể cần đi bộ đoạn cuối.
 
-10. Nguồn tham khảo
+8. Nguồn tham khảo
 
 Cổng du lịch tỉnh Gia Lai - Tháp Phú Lốc (Tháp Vàng): https://gialai.gov.vn/du-khach/danh-lam-thang-canh/thap-phu-loc-thap-vang-.html
 

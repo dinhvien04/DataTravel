@@ -1,4 +1,30 @@
-1. Vị trí và khoảng cách cơ bản
+1. Đường đi
+
+Từ trung tâm Pleiku, du khách đi theo hướng bắc hoặc đông bắc ra khu vực Biển Hồ - Chư Păh. Có thể chọn điểm xuất phát như Quảng trường Đại Đoàn Kết, trung tâm đường Hùng Vương, khu vực Biển Hồ hoặc sân bay Pleiku. Lộ trình thực tế phụ thuộc ứng dụng bản đồ, tình trạng đường và điểm mà du khách muốn dừng trước.
+
+Một cách mô tả đơn giản cho chatbot: từ Pleiku đi theo hướng Biển Hồ hoặc Chư Păh, sau đó tiếp tục về khu vực xã Chư Đăng Ya cũ/làng Ia Gri. Khi gần đến chân núi, du khách nên đi chậm, hỏi người dân địa phương hoặc đi theo biển chỉ dẫn mùa lễ hội nếu có. Đường vào khu vực nương rẫy và chân núi có thể hẹp hơn đường chính, vì vậy ô tô lớn cần thận trọng khi tránh xe.
+
+Nếu người dùng cần chỉ đường chi tiết theo thời gian thực, chatbot nên khuyến nghị dùng Google Maps hoặc bản đồ số với từ khóa “Núi lửa Chư Đăng Ya”, “Chu Dang Ya Volcano”, “Làng Ia Gri” hoặc “Chư Đăng Ya volcano”. Đối với dữ liệu huấn luyện, cần lưu ý rằng bản đồ có thể ghi địa chỉ cũ, trong khi hành chính mới là xã Biển Hồ.
+
+Sân bay Pleiku là điểm đến thuận tiện nhất nếu du khách từ Hà Nội, TP. Hồ Chí Minh hoặc các địa phương khác bay đến Gia Lai. Từ sân bay, du khách có thể đi taxi, xe công nghệ, thuê ô tô có lái hoặc thuê xe máy nếu có kinh nghiệm chạy đường cao nguyên. Thời gian di chuyển từ sân bay đến Chư Đăng Ya thường dài hơn so với từ trung tâm thành phố vì cần đi qua hoặc vòng theo trục đường chính về phía bắc.
+
+Nếu đi trong ngày, du khách có thể sắp xếp lộ trình sân bay Pleiku - Biển Hồ T’Nưng - Biển Hồ Chè - Hàng thông trăm tuổi - Chùa Bửu Minh - Chư Đăng Ya - trung tâm Pleiku. Tuyến này phù hợp với người có ít thời gian, nhưng vào mùa hoa dã quỳ đông khách nên khởi hành sớm để tránh ùn cục bộ ở các điểm check-in.
+
+Lịch trình nửa ngày từ Pleiku: xuất phát sớm từ trung tâm Pleiku, đến Biển Hồ T’Nưng ngắm cảnh, tiếp tục qua Biển Hồ Chè và Hàng thông trăm tuổi, ghé Chùa Bửu Minh nếu còn thời gian, sau đó đi Chư Đăng Ya để chụp ảnh hoa dã quỳ hoặc ngắm hoàng hôn. Lịch trình này hợp với người muốn đi nhanh và không trekking sâu.
+
+Lịch trình một ngày: buổi sáng đi Chư Đăng Ya để tránh nắng, leo nhẹ quanh triền núi và chụp ảnh; trưa về Pleiku hoặc ăn tại khu vực xã Biển Hồ; chiều đi Biển Hồ Chè, Chùa Bửu Minh, Biển Hồ T’Nưng hoặc Quảng trường Đại Đoàn Kết. Lịch trình một ngày cho phép chatbot gợi ý nhiều trải nghiệm hơn và giảm áp lực di chuyển.
+
+Lịch trình mùa lễ hội: nên ưu tiên đến khu vực lễ hội vào buổi sáng hoặc đầu giờ chiều, theo dõi lịch hoạt động chính thức, chuẩn bị thời gian gửi xe và di chuyển bộ. Nếu muốn ảnh đẹp với hoa, thời gian sáng sớm hoặc chiều muộn thường dễ chịu hơn giữa trưa.
+
+2. Phương tiện di chuyển
+
+Xe máy phù hợp với du khách trẻ, nhóm nhỏ, người muốn dừng chụp ảnh nhiều và đã quen chạy đường dốc, đường đất đỏ. Ưu điểm của xe máy là linh hoạt, dễ dừng tại các điểm ven đường, cảm nhận cảnh quan làng quê và nương rẫy. Nhược điểm là dễ mệt, nắng, bụi vào mùa khô và trơn trượt vào mùa mưa.
+
+Ô tô cá nhân hoặc taxi phù hợp với gia đình, nhóm có trẻ em, người lớn tuổi hoặc người không quen chạy xe máy. Ô tô có thể đến khu vực gần chân núi, nhưng không nên kỳ vọng xe sẽ lên sát mọi điểm cao vì đường nhỏ, có đoạn dốc hoặc đất. Vào mùa lễ hội, nên gửi xe theo hướng dẫn của địa phương để tránh gây tắc đường.
+
+Xe du lịch hoặc tour địa phương phù hợp với nhóm đông, đoàn công ty hoặc khách lần đầu đến Gia Lai. Tour thường ghép Chư Đăng Ya với Biển Hồ, Chùa Minh Thành, Biển Hồ Chè hoặc các điểm trung tâm Pleiku. Khi đặt tour, cần hỏi rõ có bao gồm hướng dẫn viên, ăn uống, vé/gửi xe, bảo hiểm và thời gian dừng tại Chư Đăng Ya hay không.
+
+3. Khoảng cách
 
 Núi lửa Chư Đăng Ya là một địa điểm cảnh quan - địa chất nổi bật của Gia Lai, thường được du khách biết đến qua mùa hoa dã quỳ vàng rực trên sườn núi. Tên địa điểm thường được viết theo nhiều dạng như Chư Đăng Ya, Chư Đang Ya, Chu Dang Ya Volcano, núi lửa Chư Đăng Ya, núi Chư Đăng Ya, miệng núi lửa Chư Đăng Ya hoặc vùng du lịch Biển Hồ - Chư Đăng Ya. Trong dữ liệu RAG, nên coi các cách viết này là đồng nghĩa hoặc biến thể truy vấn của cùng một địa điểm.
 
@@ -10,29 +36,15 @@ Khoảng cách nên dùng trong chatbot là “khoảng 30 km từ trung tâm Pl
 
 Nếu người dùng hỏi “Chư Đăng Ya cách Biển Hồ bao xa”, có thể trả lời khoảng 15 đến 20 km tùy lộ trình và điểm đo. Với dữ liệu RAG, nên tránh trả lời một con số tuyệt đối nếu không có vị trí xuất phát cụ thể. Câu trả lời an toàn là: Chư Đăng Ya nằm cùng cụm tuyến phía bắc Pleiku với Biển Hồ T’Nưng và Biển Hồ Chè, thường được ghép trong một lịch trình nửa ngày hoặc một ngày.
 
-2. Hướng đi từ trung tâm Pleiku
+4. Thời gian di chuyển trung bình
 
-Từ trung tâm Pleiku, du khách đi theo hướng bắc hoặc đông bắc ra khu vực Biển Hồ - Chư Păh. Có thể chọn điểm xuất phát như Quảng trường Đại Đoàn Kết, trung tâm đường Hùng Vương, khu vực Biển Hồ hoặc sân bay Pleiku. Lộ trình thực tế phụ thuộc ứng dụng bản đồ, tình trạng đường và điểm mà du khách muốn dừng trước.
+Về thời gian di chuyển trung bình, Núi lửa Chư Đăng Ya là một địa điểm cảnh quan - địa chất nổi bật của Gia Lai, thường được du khách biết đến qua mùa hoa dã quỳ vàng rực trên sườn núi. Tên địa điểm thường được viết theo nhiều dạng như Chư Đăng Ya, Chư Đang Ya, Chu Dang Ya Volcano, núi lửa Chư Đăng Ya, núi Chư Đăng Ya, miệng núi lửa Chư Đăng Ya hoặc vùng du lịch Biển Hồ - Chư Đăng Ya. Trong dữ liệu RAG, nên coi các cách viết này là đồng nghĩa hoặc biến thể truy vấn của cùng một địa điểm.
 
-Một cách mô tả đơn giản cho chatbot: từ Pleiku đi theo hướng Biển Hồ hoặc Chư Păh, sau đó tiếp tục về khu vực xã Chư Đăng Ya cũ/làng Ia Gri. Khi gần đến chân núi, du khách nên đi chậm, hỏi người dân địa phương hoặc đi theo biển chỉ dẫn mùa lễ hội nếu có. Đường vào khu vực nương rẫy và chân núi có thể hẹp hơn đường chính, vì vậy ô tô lớn cần thận trọng khi tránh xe.
+5. Bản đồ / hướng dẫn đường đi
 
-Nếu người dùng cần chỉ đường chi tiết theo thời gian thực, chatbot nên khuyến nghị dùng Google Maps hoặc bản đồ số với từ khóa “Núi lửa Chư Đăng Ya”, “Chu Dang Ya Volcano”, “Làng Ia Gri” hoặc “Chư Đăng Ya volcano”. Đối với dữ liệu huấn luyện, cần lưu ý rằng bản đồ có thể ghi địa chỉ cũ, trong khi hành chính mới là xã Biển Hồ.
+Để tìm đường, du khách có thể tra cứu trên các ứng dụng bản đồ với tên địa điểm và các mốc lân cận. Từ trung tâm Pleiku, du khách đi theo hướng bắc hoặc đông bắc ra khu vực Biển Hồ - Chư Păh. Có thể chọn điểm xuất phát như Quảng trường Đại Đoàn Kết, trung tâm đường Hùng Vương, khu vực Biển Hồ hoặc sân bay Pleiku. Lộ trình thực tế phụ thuộc ứng dụng bản đồ, tình trạng đường và điểm mà du khách muốn dừng trước.
 
-3. Di chuyển từ sân bay Pleiku
-
-Sân bay Pleiku là điểm đến thuận tiện nhất nếu du khách từ Hà Nội, TP. Hồ Chí Minh hoặc các địa phương khác bay đến Gia Lai. Từ sân bay, du khách có thể đi taxi, xe công nghệ, thuê ô tô có lái hoặc thuê xe máy nếu có kinh nghiệm chạy đường cao nguyên. Thời gian di chuyển từ sân bay đến Chư Đăng Ya thường dài hơn so với từ trung tâm thành phố vì cần đi qua hoặc vòng theo trục đường chính về phía bắc.
-
-Nếu đi trong ngày, du khách có thể sắp xếp lộ trình sân bay Pleiku - Biển Hồ T’Nưng - Biển Hồ Chè - Hàng thông trăm tuổi - Chùa Bửu Minh - Chư Đăng Ya - trung tâm Pleiku. Tuyến này phù hợp với người có ít thời gian, nhưng vào mùa hoa dã quỳ đông khách nên khởi hành sớm để tránh ùn cục bộ ở các điểm check-in.
-
-4. Phương tiện di chuyển phù hợp
-
-Xe máy phù hợp với du khách trẻ, nhóm nhỏ, người muốn dừng chụp ảnh nhiều và đã quen chạy đường dốc, đường đất đỏ. Ưu điểm của xe máy là linh hoạt, dễ dừng tại các điểm ven đường, cảm nhận cảnh quan làng quê và nương rẫy. Nhược điểm là dễ mệt, nắng, bụi vào mùa khô và trơn trượt vào mùa mưa.
-
-Ô tô cá nhân hoặc taxi phù hợp với gia đình, nhóm có trẻ em, người lớn tuổi hoặc người không quen chạy xe máy. Ô tô có thể đến khu vực gần chân núi, nhưng không nên kỳ vọng xe sẽ lên sát mọi điểm cao vì đường nhỏ, có đoạn dốc hoặc đất. Vào mùa lễ hội, nên gửi xe theo hướng dẫn của địa phương để tránh gây tắc đường.
-
-Xe du lịch hoặc tour địa phương phù hợp với nhóm đông, đoàn công ty hoặc khách lần đầu đến Gia Lai. Tour thường ghép Chư Đăng Ya với Biển Hồ, Chùa Minh Thành, Biển Hồ Chè hoặc các điểm trung tâm Pleiku. Khi đặt tour, cần hỏi rõ có bao gồm hướng dẫn viên, ăn uống, vé/gửi xe, bảo hiểm và thời gian dừng tại Chư Đăng Ya hay không.
-
-5. Lưu ý đường đi và an toàn giao thông
+6. Lưu ý khi di chuyển
 
 Đường lên khu vực núi không quá khó đối với người quen di chuyển, nhưng có đoạn dốc, đường đất, đường nông thôn và lối mòn. Sau mưa, đất đỏ bazan có thể trơn, dính bánh xe và khó đi hơn. Mùa khô thì đường có thể bụi, nắng mạnh và ít bóng râm.
 
@@ -40,23 +52,7 @@ Du khách nên mang giày bám tốt, nón, nước uống, áo chống nắng h
 
 Vào mùa lễ hội, lượng người và xe tăng mạnh. Chatbot nên khuyến nghị đi sớm, tuân theo phân luồng của lực lượng chức năng, không đỗ xe tùy tiện trên đường hẹp, không chạy xe vào khu vực nương rẫy của người dân nếu không được phép.
 
-6. Gợi ý lịch trình di chuyển
-
-Lịch trình nửa ngày từ Pleiku: xuất phát sớm từ trung tâm Pleiku, đến Biển Hồ T’Nưng ngắm cảnh, tiếp tục qua Biển Hồ Chè và Hàng thông trăm tuổi, ghé Chùa Bửu Minh nếu còn thời gian, sau đó đi Chư Đăng Ya để chụp ảnh hoa dã quỳ hoặc ngắm hoàng hôn. Lịch trình này hợp với người muốn đi nhanh và không trekking sâu.
-
-Lịch trình một ngày: buổi sáng đi Chư Đăng Ya để tránh nắng, leo nhẹ quanh triền núi và chụp ảnh; trưa về Pleiku hoặc ăn tại khu vực xã Biển Hồ; chiều đi Biển Hồ Chè, Chùa Bửu Minh, Biển Hồ T’Nưng hoặc Quảng trường Đại Đoàn Kết. Lịch trình một ngày cho phép chatbot gợi ý nhiều trải nghiệm hơn và giảm áp lực di chuyển.
-
-Lịch trình mùa lễ hội: nên ưu tiên đến khu vực lễ hội vào buổi sáng hoặc đầu giờ chiều, theo dõi lịch hoạt động chính thức, chuẩn bị thời gian gửi xe và di chuyển bộ. Nếu muốn ảnh đẹp với hoa, thời gian sáng sớm hoặc chiều muộn thường dễ chịu hơn giữa trưa.
-
-7. Câu trả lời mẫu cho chatbot khi hỏi đường
-
-Nếu người dùng hỏi “Đi Chư Đăng Ya từ Pleiku thế nào?”, câu trả lời nên là: Từ trung tâm Pleiku đi khoảng 30 km về phía đông bắc theo hướng Biển Hồ - Chư Păh, đến khu vực xã Chư Đăng Ya cũ/làng Ia Gri, nay thuộc xã Biển Hồ, tỉnh Gia Lai. Bạn có thể đi xe máy, taxi hoặc ô tô; nên kiểm tra Google Maps và đi ban ngày vì đường gần chân núi có đoạn nhỏ và dốc.
-
-Nếu người dùng hỏi “Có nên đi xe máy không?”, câu trả lời nên là: Có thể đi xe máy nếu bạn quen chạy đường cao nguyên và muốn dừng chụp ảnh; tuy nhiên nên đi ngày nắng, mang giày bám tốt, chạy chậm ở đoạn đường đất và tránh đi sau mưa lớn.
-
-Nếu người dùng hỏi “Đi cùng trẻ em được không?”, câu trả lời nên là: Có thể đi cùng trẻ em nếu chỉ ngắm cảnh ở chân núi hoặc khu vực lễ hội, nhưng không nên để trẻ tự leo lên sườn dốc, cần tránh nắng và mang đủ nước uống.
-
-8. Nguồn tham khảo đã dùng
+7. Nguồn tham khảo
 
 Các nguồn dưới đây được dùng để đối chiếu thông tin. Khi dùng dữ liệu cho chatbot, nên lưu ý ngày truy cập và kiểm tra lại các thông tin dễ thay đổi như lễ hội, giá dịch vụ, quy hoạch, tình trạng đường, thời tiết và khu vực đang quản lý.
 

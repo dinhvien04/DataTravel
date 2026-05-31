@@ -141,11 +141,9 @@ A: Nếu chỉ thích biển, điểm này có thể không phải ưu tiên cao
 Q: Thông tin cập nhật mới cần lưu ý là gì?
 A: Cần lưu ý thay đổi hành chính sau năm 2025: địa điểm trước đây thuộc xã Bình Tường, huyện Tây Sơn, tỉnh Bình Định; hiện thuộc xã Bình Phú, tỉnh Gia Lai mới. Thông tin vận hành vẫn cần kiểm tra lại trước khi đi.
 
-2. Ghi chú sử dụng FAQ cho chatbot RAG
+2. Thông tin cập nhật mới
 
-Các câu hỏi trên được viết để chatbot có thể trả lời cả truy vấn hành chính, lịch sử, trải nghiệm, hình ảnh và vận hành. Khi dùng cho RAG, nên chunk theo từng cặp Q/A để tránh mất ngữ cảnh. Các câu trả lời có nhắc đến vé, giờ mở cửa hoặc dịch vụ cần được xem là thông tin tham khảo, cần kiểm tra lại trước khi đi.
-
-Với truy vấn nhận diện hình ảnh, chatbot nên tránh khẳng định tuyệt đối nếu ảnh không có biển tên hoặc toàn cảnh. Nên trả lời theo xác suất: “Đây có thể là Đàn tế Trời Đất Tây Sơn nếu ảnh có bậc đá dài, nền đàn tế ba tầng, cổng Bảo Sơn Thiên Ấn hoặc Tháp Thông Linh”.
+Các thông tin như giá vé, giờ mở cửa, dịch vụ và quy định tại địa điểm có thể thay đổi theo thời gian, mùa cao điểm hoặc dịp lễ. Ngoài ra, địa danh hành chính có thể được ghi theo cách cũ hoặc mới sau các đợt sắp xếp đơn vị hành chính. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
 
 3. Nguồn tham khảo
 

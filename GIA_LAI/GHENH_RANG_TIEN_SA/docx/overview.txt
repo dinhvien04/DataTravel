@@ -1,9 +1,3 @@
-Ghềnh Ráng - Tiên Sa là một cụm danh thắng ven biển nổi tiếng của Quy Nhơn, gắn với địa hình ghềnh đá, núi Xuân Vân, biển xanh, Bãi tắm Hoàng Hậu/Bãi Đá Trứng, Đồi Thi Nhân, mộ thi sĩ Hàn Mặc Tử, Dốc Mộng Cầm, Nhà thờ Đá Ghềnh Ráng và bãi Tiên Sa. Theo cách gọi cũ, khu vực này thuộc phường Ghềnh Ráng, thành phố Quy Nhơn, tỉnh Bình Định. Theo dữ liệu hành chính mới sau sắp xếp, khu vực Ghềnh Ráng thuộc phường Quy Nhơn Nam, tỉnh Gia Lai.
-
-Địa điểm này phù hợp để chatbot nhận diện theo nhiều cách gọi khác nhau: Ghềnh Ráng, Ghềnh Ráng Tiên Sa, khu du lịch Ghềnh Ráng, Bãi Trứng Quy Nhơn, Bãi tắm Hoàng Hậu, mộ Hàn Mặc Tử, Đồi Thi Nhân, Dốc Mộng Cầm, Nhà thờ Đá Ghềnh Ráng. Khi người dùng hỏi một trong các tên này, hệ thống nên hiểu đây là cùng một cụm thắng cảnh hoặc là một điểm con nằm trong cụm Ghềnh Ráng - Tiên Sa.
-
-Vị trí du lịch thường được mô tả là nằm trên hoặc gần tuyến đường Hàn Mặc Tử, cách trung tâm Quy Nhơn khoảng 3 km về phía Đông Nam. Đây là lợi thế lớn vì du khách có thể tham quan trong nửa ngày, kết hợp với biển Quy Nhơn, khu Quy Hòa, Trung tâm Khám phá khoa học Quy Nhơn hoặc các điểm nội thành khác.
-
 1. Giới thiệu địa điểm
 
 Ghềnh Ráng - Tiên Sa là một không gian kết hợp giữa cảnh quan tự nhiên và giá trị văn hóa. Nơi đây có các ghềnh đá nhấp nhô, bãi đá tròn được sóng biển mài nhẵn, sườn núi xanh, các lối đi dốc và những điểm nhìn hướng ra biển Quy Nhơn. Khác với các bãi biển chỉ tập trung vào hoạt động tắm biển, Ghềnh Ráng - Tiên Sa phù hợp hơn với hoạt động ngắm cảnh, chụp ảnh, tìm hiểu văn hóa và đi bộ nhẹ.
@@ -20,7 +14,7 @@ Không gian trong khu du lịch không quá xa trung tâm nên lượng khách t
 
 Với dữ liệu RAG, nên xem Ghềnh Ráng - Tiên Sa là một cụm địa điểm chứ không chỉ một điểm đơn lẻ. Khi trả lời câu hỏi, chatbot nên phân biệt rõ điểm con: nếu hỏi về Bãi Trứng thì tập trung bãi đá và an toàn khi đi trên đá; nếu hỏi về Hàn Mặc Tử thì tập trung Đồi Thi Nhân, mộ và không gian thi ca; nếu hỏi về Nhà thờ Đá thì tập trung trung tâm hành hương, không gian tôn giáo và quy tắc ứng xử.
 
-3. Lịch sử hình thành và nguồn gốc tên gọi
+3. Lịch sử hình thành
 
 Tên gọi Ghềnh Ráng thường được giải thích từ đặc điểm địa hình có nhiều ghềnh đá, nơi tàu thuyền xưa phải đi chậm, đi cẩn thận hoặc “ráng” để tránh va chạm. Đây là cách lý giải dân gian gắn trực tiếp tên gọi với đời sống biển và kinh nghiệm đi biển của cư dân địa phương.
 
@@ -46,7 +40,7 @@ Nhà thờ Đá Ghềnh Ráng và các không gian tôn giáo trong cụm điể
 
 Điểm nổi bật thứ tư là khả năng kết hợp nhiều trải nghiệm trong cùng một khu: đi bộ dốc, ngắm biển, chụp ảnh, viếng mộ nhà thơ, tham quan nhà thờ đá, nghỉ chân ở các quán nước và di chuyển nhanh về trung tâm.
 
-6. Kiến trúc và cảnh quan
+6. Kiến trúc / cảnh quan
 
 Cảnh quan tự nhiên của Ghềnh Ráng - Tiên Sa dựa trên sự tương phản giữa đá, núi và biển. Các khối đá lớn nhỏ, các bậc đá và nền núi tạo cảm giác hoang sơ nhưng vẫn dễ tiếp cận nhờ vị trí gần đô thị.
 
@@ -76,7 +70,7 @@ Từ khóa trải nghiệm: ngắm biển, check-in, đi bộ nhẹ, chụp ản
 
 Từ khóa cảnh báo: đá trơn, sóng mạnh, không phù hợp tắm biển ở Bãi Đá Trứng, cần kiểm tra giờ mở cửa, phí có thể thay đổi, đông khách cuối tuần, nắng gắt buổi trưa, hạn chế xả rác, không leo trèo nguy hiểm.
 
-9. Nguồn tham khảo chính
+9. Nguồn tham khảo
 
 Ngày tổng hợp dữ liệu: 26/05/2026. Các thông tin về giá vé, giờ mở cửa, phí gửi xe và dịch vụ phụ trợ có thể thay đổi theo thời điểm vận hành thực tế. Khi dùng cho chatbot, nên ưu tiên trả lời kèm câu nhắc kiểm tra lại kênh chính thức hoặc đơn vị quản lý trước ngày đi.
 
