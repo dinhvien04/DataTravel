@@ -1,0 +1,51 @@
+1. Giới thiệu địa điểm
+
+Đài Phát thanh Quy Nhơn trong bộ dữ liệu này được xử lý là di tích lịch sử gắn với các trận đánh trong cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 tại nội thị Quy Nhơn. Đây không phải là cơ quan phát thanh - truyền hình đang hoạt động hiện nay, cũng không nên nhầm với Đài Phát thanh - Truyền hình Bình Định hay cơ quan Báo và Phát thanh, Truyền hình Gia Lai sau sáp nhập. Điểm cốt lõi của dữ liệu là địa điểm chiến đấu, ký ức chiến tranh, dấu tích phát thanh thời chiến và vai trò của Quy Nhơn trong chiến dịch Xuân Mậu Thân 1968.
+
+Theo nguồn Báo Gia Lai, Đài Phát thanh Quy Nhơn là nơi diễn ra nhiều trận đánh quyết liệt trong chiến dịch Xuân Mậu Thân 1968. Theo tài liệu “Bình Định - Lịch sử chiến tranh nhân dân 30 năm (1945-1975)”, các chiến sĩ đặc công đã chiếm giữ Đài Phát thanh Quy Nhơn và một số nhà cao tầng ở khu 1, khu 2, chiến đấu ngoan cường, nhiều người hy sinh, và Đài Phát thanh Quy Nhơn bị Quân giải phóng đánh sập trong cuộc Tổng tiến công Tết Mậu Thân 1968.
+
+Về hành chính, Quy Nhơn trước năm 2025 thuộc tỉnh Bình Định. Sau khi tỉnh Bình Định sáp nhập với tỉnh Gia Lai và thực hiện sắp xếp đơn vị hành chính cấp xã từ ngày 01/07/2025, khu vực thành phố Quy Nhơn cũ được tổ chức lại thành các phường mới thuộc tỉnh Gia Lai. Phường Quy Nhơn mới hình thành từ các phường cũ Đống Đa, Hải Cảng, Thị Nại và Trần Phú. Vì chưa có nguồn web phổ thông xác định chính xác bia/điểm di tích nằm ở phường cũ nào, dữ liệu nên ghi thận trọng: “khu vực Quy Nhơn, Bình Định cũ; nay thuộc tỉnh Gia Lai”, và chỉ gắn phường cụ thể khi có hồ sơ địa phương xác nhận.
+
+2. Mô tả tổng quan
+
+Đài Phát thanh Quy Nhơn là một địa chỉ đỏ quan trọng trong không gian lịch sử đô thị Quy Nhơn. Giá trị của địa điểm không nằm ở kiến trúc du lịch hoành tráng mà ở ký ức chiến đấu, dấu tích truyền thông thời chiến và vai trò của nó trong chiến dịch Xuân Mậu Thân 1968. Khi xây dựng chatbot RAG, cần giúp người dùng hiểu rằng đây là di tích lịch sử cách mạng, không phải điểm tham quan giải trí.
+
+3. Bối cảnh lịch sử
+
+Bối cảnh của di tích là cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân năm 1968. Đây là sự kiện quân sự - chính trị lớn trên toàn miền Nam, trong đó các đô thị trở thành hướng tiến công quan trọng. Tại Bình Định, lực lượng địa phương đã tập kích táo bạo vào nội thị Quy Nhơn, đưa chiến tranh nhân dân vào ngay hậu cứ và sào huyệt của địch ở địa phương.
+
+Đài Phát thanh Quy Nhơn là một mục tiêu đặc biệt quan trọng vì đài phát thanh không chỉ là công trình kỹ thuật truyền thông, mà còn là công cụ kiểm soát thông tin, tuyên truyền và phát lệnh trong đô thị. Việc đánh vào đài phát thanh trong bối cảnh chiến dịch đô thị mang ý nghĩa lớn về tâm lý, chính trị và quân sự: nếu làm chủ được đài, lực lượng tiến công có thể tạo hiệu ứng lan truyền thông tin, gây rối loạn hệ thống chỉ huy - tuyên truyền của đối phương và thể hiện sự hiện diện ngay trong trung tâm Quy Nhơn.
+
+4. Diễn biến và dấu ấn Mậu Thân 1968
+
+Theo các tư liệu lịch sử về Bình Định, trong đợt tiến công tại Quy Nhơn, lực lượng cách mạng chiến đấu rất quyết liệt ở khu vực Đài Phát thanh, nhà ga Quy Nhơn, khu 1, khu 2 và nhiều vị trí trong nội thị. Ngày 30/01/1968, địch mở các đợt phản kích vào Đài Phát thanh nhưng bị lực lượng ta đánh trả. Ngày 31/01/1968, địch tiếp tục dùng máy bay trực thăng vũ trang, pháo bắn thẳng và tổ chức nhiều đợt phản kích ở khu vực nhà ga Quy Nhơn.
+
+Tài liệu “Bình Định - Lịch sử chiến tranh nhân dân 30 năm” ghi rằng từ ngày 31/01 đến 07/02/1968, các chiến sĩ tiểu đoàn đặc công đã chiếm giữ Đài Phát thanh và một số nhà cao tầng ở khu 1, khu 2, chiến đấu ngoan cường, hy sinh đến người cuối cùng, trong đó có đồng chí Nguyễn Khuông, đánh bại hàng chục đợt phản kích của địch và làm chủ Đài Phát thanh 7 ngày liền. Đây là chi tiết rất quan trọng cần đưa vào FAQ và phần trải nghiệm lịch sử.
+
+5. Giá trị lịch sử - văn hóa
+
+Giá trị lịch sử của Đài Phát thanh Quy Nhơn nằm ở việc địa điểm này là một trong các tâm điểm chiến đấu quyết liệt trong nội thị Quy Nhơn. Nó phản ánh cách chiến tranh đô thị diễn ra trong Xuân Mậu Thân 1968: lực lượng tiến công không chỉ đánh vào căn cứ quân sự mà còn đánh vào các cơ sở hành chính, truyền thông, giao thông và vị trí có ý nghĩa biểu tượng.
+
+Giá trị văn hóa - giáo dục của di tích nằm ở khả năng kể lại câu chuyện về lòng dũng cảm, sự hy sinh và tinh thần bám trụ của các chiến sĩ. Đây là điểm phù hợp cho giáo dục truyền thống, hoạt động về nguồn, nghiên cứu lịch sử đô thị Quy Nhơn và xây dựng tuyến tham quan các địa chỉ đỏ ở Bình Định cũ.
+
+6. Điểm nổi bật
+
+Điểm nổi bật gồm: Đài Phát thanh Quy Nhơn là nơi diễn ra nhiều trận đánh quyết liệt trong chiến dịch Xuân Mậu Thân 1968; các chiến sĩ đặc công từng làm chủ Đài Phát thanh nhiều ngày; địa điểm gắn với chiến tranh đô thị, thông tin tuyên truyền, khu 1, khu 2 và nội thị Quy Nhơn; hiện trạng cần kiểm tra vì công trình đài cũ không còn được mô tả như một trụ sở nguyên vẹn.
+
+7. Kiến trúc / cảnh quan / hiện trạng
+
+Không nên mô tả Đài Phát thanh Quy Nhơn như một công trình phát thanh còn nguyên vẹn nếu chưa có nguồn xác nhận. Nguồn tư liệu cho biết đài bị đánh sập trong cuộc Tổng tiến công Tết Mậu Thân 1968. Hiện trạng có thể là bia di tích hoặc khu vực ghi dấu, cần kiểm tra thực tế. Khi mô tả cảnh quan, nên dùng các cụm từ: “địa điểm di tích”, “bia di tích nếu còn”, “khu vực từng đặt Đài Phát thanh”, “dấu tích chiến trường đô thị”.
+
+8. Từ khóa mô tả địa điểm
+
+Đài Phát thanh Quy Nhơn; di tích Đài Phát thanh Quy Nhơn; Đài phát thanh Quy Nhơn Mậu Thân 1968; Xuân Mậu Thân Quy Nhơn; Tổng tiến công và nổi dậy Xuân Mậu Thân 1968; Tiểu đoàn đặc công; Tiểu đoàn 50; khu 1 Quy Nhơn; khu 2 Quy Nhơn; nhà ga Quy Nhơn; nội thị Quy Nhơn; địa chỉ đỏ Quy Nhơn; Bình Định cũ; Gia Lai hiện nay; di tích lịch sử cách mạng; chiến tranh đô thị; phát thanh thời chiến.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Dấu ấn thao lược của Đảng”, đăng ngày 13/02/2018, có chú thích ảnh: Đài Phát thanh Quy Nhơn là nơi diễn ra nhiều trận đánh quyết liệt trong chiến dịch Xuân Mậu Thân 1968.
+- Sách/PDF “Bình Định - Lịch sử chiến tranh nhân dân 30 năm (1945-1975)”, phần viết về Tổng tiến công Tết Mậu Thân 1968 tại Quy Nhơn, có nhắc các chiến sĩ đặc công chiếm giữ Đài Phát thanh Quy Nhơn nhiều ngày và đài bị đánh sập.
+- Một số tư liệu ảnh cũ về Quy Nhơn năm 1968-1969 ghi cảnh Đài Phát thanh Quy Nhơn sau chiến sự.
+- Thư Viện Pháp Luật, thông tin danh sách các phường mới của thành phố Quy Nhơn thuộc Bình Định cũ sau sắp xếp từ 01/07/2025 theo Nghị quyết 1664/NQ-UBTVQH15.
+- VOV và các nguồn chính thống về kỷ niệm 50 năm Ngày giải phóng tỉnh Bình Định, dùng làm bối cảnh lịch sử Quy Nhơn - Bình Định.
+Ghi chú: Thông tin về vị trí chính xác của bia di tích, hiện trạng điểm di tích, đơn vị quản lý, giờ mở cửa, hoạt động tưởng niệm và tình trạng xếp hạng có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại với cơ quan văn hóa địa phương trước khi đi hoặc trước khi dùng trong hồ sơ chính thức.

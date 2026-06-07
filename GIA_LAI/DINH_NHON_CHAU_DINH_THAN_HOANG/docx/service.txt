@@ -1,0 +1,59 @@
+1. Dịch vụ tại địa điểm
+
+Bản thân Đình Nhơn Châu / Đình Thần Hoàng không phải điểm có nhiều dịch vụ du lịch trực tiếp. Đây là không gian tín ngưỡng cộng đồng, nên dịch vụ tại chỗ nếu có thường rất hạn chế. Du khách không nên kỳ vọng có quầy bán vé, quầy lưu niệm, nhà hàng, hướng dẫn viên thường trực hoặc khu dịch vụ chuyên nghiệp ngay trong khuôn viên đình.
+
+Dịch vụ liên quan đến chuyến tham quan thường nằm ở phạm vi xã đảo Nhơn Châu. Những dịch vụ này gồm tàu hoặc ca nô ra đảo, homestay, ăn uống tại hộ dân hoặc quán địa phương, xe máy/xe điện nếu có, hướng dẫn viên địa phương và các hoạt động biển. Khi xây dựng dữ liệu chatbot, nên đặt trường “dịch vụ tại địa điểm” ở mức thận trọng: có thể có hỗ trợ từ người dân hoặc hướng dẫn viên, nhưng chưa có cơ chế dịch vụ cố định như điểm du lịch thương mại.
+
+Nếu du khách cần thuyết minh về đình, nên liên hệ trước với chính quyền địa phương, người am hiểu văn hóa hoặc hướng dẫn viên trên đảo. Việc nghe kể trực tiếp từ người dân sẽ giúp trải nghiệm tốt hơn nhiều so với chỉ đến chụp ảnh. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+2. Ăn uống
+
+Ăn uống nên được bố trí trong khu dân cư Nhơn Châu hoặc theo tour Cù Lao Xanh. Đảo có lợi thế hải sản tươi, nhưng số lượng quán và khả năng phục vụ có thể thay đổi theo mùa, thời tiết và lượng khách. Nếu đi đoàn đông, nên đặt trước bữa ăn với homestay, nhà dân hoặc đơn vị tour.
+
+Không nên ăn uống trong khu vực đình, đặc biệt là khu thờ tự. Nếu có mang theo nước uống, nên giữ vệ sinh, không xả rác, không để đồ ăn trên bệ thờ hoặc sân đình. Đình là không gian thiêng nên cần tách biệt giữa hoạt động tham quan và hoạt động ăn uống.
+
+Một lịch trình hợp lý là ghé đình vào buổi sáng, sau đó đi hải đăng hoặc bãi biển, rồi ăn trưa tại điểm đã đặt trước. Nếu chỉ đi tự túc trong ngày, nên mang theo nước cá nhân, một ít đồ ăn nhẹ và túi đựng rác, nhưng vẫn ưu tiên dùng dịch vụ địa phương để hỗ trợ cộng đồng đảo.
+
+3. Đặc sản địa phương
+
+Đặc sản địa phương nên hiểu theo bối cảnh Cù Lao Xanh và vùng biển Quy Nhơn cũ. Các món phổ biến thường xoay quanh hải sản như cá, mực, tôm, ốc, nhum, cua, ghẹ và các món nướng hoặc hấp đơn giản. Tùy mùa biển, nguồn hải sản có thể khác nhau, nên không nên khẳng định món nào luôn có.
+
+Ngoài hải sản, du khách có thể thử các món dân dã của người dân đảo nếu homestay hoặc quán địa phương phục vụ. Trải nghiệm ẩm thực ở Nhơn Châu có giá trị ở sự gần gũi và không khí làng chài hơn là sự cầu kỳ như nhà hàng thành phố.
+
+Khi chatbot tư vấn, nên nhắc người dùng hỏi giá trước, đặt món trước nếu đi đoàn và tôn trọng sinh hoạt của người dân. Thông tin giá cả, thực đơn và địa điểm ăn uống là thông tin có thể thay đổi, cần kiểm tra lại trước khi đi.
+
+4. Lưu trú / khách sạn
+
+Nhơn Châu là xã đảo nhỏ nên loại hình lưu trú phổ biến hơn là homestay, nhà nghỉ nhỏ hoặc lưu trú cộng đồng, không phải hệ thống khách sạn lớn. Nếu người dùng chỉ muốn tham quan Đình Nhơn Châu trong ngày, có thể không cần ở lại. Nếu muốn trải nghiệm văn hóa làng đảo kỹ hơn, ở lại một đêm sẽ giúp có thời gian đi bộ trong làng, trò chuyện với người dân và cảm nhận nhịp sống đảo vào sáng sớm hoặc chiều muộn.
+
+Khi đặt lưu trú, cần hỏi rõ vị trí so với bến tàu, khu dân cư, hải đăng và Đình Thần Hoàng. Nên hỏi thêm điện, nước, wifi, phòng vệ sinh, ăn uống, hỗ trợ đón từ bến tàu và phương tiện nội đảo. Do đảo nhỏ, tiện nghi có thể đơn giản hơn đất liền.
+
+Vào mùa cao điểm, ngày lễ hoặc cuối tuần, số lượng phòng có thể hạn chế. Nên đặt trước, đặc biệt nếu đi đoàn đông hoặc có trẻ em/người lớn tuổi. Thông tin lưu trú là thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+5. Tiện ích hỗ trợ
+
+Tiện ích hỗ trợ trực tiếp tại Đình Nhơn Châu có thể hạn chế. Không nên mặc định có nhà vệ sinh công cộng, bãi gửi xe lớn, wifi, quầy nước hoặc chỗ nghỉ chính thức trong khuôn viên đình. Nếu cần các tiện ích này, du khách nên sử dụng tại homestay, quán nước, bến tàu hoặc khu dân cư.
+
+Trên đảo, du khách có thể cần các tiện ích như áo phao, thuốc say sóng, mũ nón, nước uống, sạc dự phòng, tiền mặt và liên lạc điện thoại. Vì là đảo, một số dịch vụ như ATM, thanh toán điện tử, y tế chuyên sâu hoặc mua sắm đặc biệt có thể không thuận tiện như đất liền.
+
+Với người lớn tuổi, trẻ em hoặc người có vấn đề sức khỏe, nên chuẩn bị kỹ trước khi ra đảo. Đường biển có thể gây say sóng, lịch tàu có thể thay đổi, thời tiết nắng gắt và việc đi bộ quanh làng có thể mệt nếu thiếu nước.
+
+6. Lưu ý về chi phí dịch vụ
+
+Chi phí chuyến đi gồm nhiều phần: di chuyển từ nơi ở đến bến tàu, vé tàu hoặc ca nô, ăn uống, lưu trú nếu ở lại, thuê phương tiện nội đảo, hướng dẫn viên nếu có và chi phí cá nhân. Riêng Đình Nhơn Châu hiện không có bảng giá vé tham quan chính thức được tìm thấy trong các nguồn công khai, nên không nên đưa vào chatbot như một khoản phí cố định.
+
+Nếu người dùng hỏi “đi Đình Nhơn Châu hết bao nhiêu tiền?”, nên trả lời theo hướng: chi phí chính phụ thuộc vào việc ra Cù Lao Xanh, không phải vé vào đình. Đi tự túc bằng tàu gỗ có thể tiết kiệm hơn nhưng lâu hơn; đi ca nô hoặc tour nhanh hơn nhưng chi phí cao hơn. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Khi công đức tại đình hoặc đóng góp bảo tồn, nên làm tự nguyện và đúng nơi quy định. Không nên đưa tiền cho người lạ không rõ vai trò. Nếu đi đoàn, có thể hỏi trước địa phương về cách đóng góp văn minh.
+
+7. Nguồn tham khảo
+
+- Bảo tàng Lịch sử Quốc gia - Nhơn Châu từ góc nhìn lịch sử: https://baotanglichsu.vn/vi/Articles/2001/66289/nhon-chau-tu-goc-nhin-lich-su.html
+- Báo Gia Lai - Vài nét về làng cổ Nhơn Châu: https://baogialai.com.vn/vai-net-ve-lang-co-nhon-chau-post539412.html
+- Cổng thông tin tỉnh Gia Lai - Xã Nhơn Châu: https://gialai.gov.vn/don-vi-hanh-chinh/xa-nhon-chau.html
+- UBND xã Nhơn Châu - Cù Lao Xanh, hòn đảo xanh yên bình: https://nhonchau.gialai.gov.vn/tin-tuc/cu-lao-xanh-hon-dao-xanh-yen-binh.html
+- UBND xã Nhơn Châu - Xã đảo duy nhất của Gia Lai giải quyết thủ tục hành chính ra sao: https://nhonchau.gialai.gov.vn/tin-tuc/xa-dao-duy-nhat-cua-gia-lai-giai-quyet-thuc-tuc-hanh-chinh-ra-sao-.html
+- UBND xã Nhơn Châu - Tự hào biểu trưng xã đảo Nhơn Châu - Cù Lao Xanh: https://nhonchau.gialai.gov.vn/tin-tuc/tu-hao-bieu-trung-xa-dao-nhon-chau-cu-lao-xanh..html
+- Cục Du lịch Quốc gia Việt Nam - Bình Định: Đưa xã đảo Nhơn Châu thành điểm du lịch hấp dẫn: https://vietnamtourism.gov.vn/post/56152
+- Traveloka - Cù Lao Xanh: cách di chuyển và kinh nghiệm du lịch: https://www.traveloka.com/vi-vn/explore/tips/cu-lao-xanh/168351
+- Xứ Nẫu Travel - Kinh nghiệm du lịch Cù Lao Xanh Quy Nhơn: https://xunautravel.com.vn/kinh-nghiem-du-lich-cu-lao-xanh-quy-nhon/

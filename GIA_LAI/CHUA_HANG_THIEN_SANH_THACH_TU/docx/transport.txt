@@ -1,0 +1,57 @@
+1. Đường đi
+
+Từ Quy Nhơn, du khách đi theo hướng bắc về khu vực Phù Mỹ rồi tiếp tục vào vùng Phù Mỹ Tây. Khi đến gần khu vực Hội Khánh, nên hỏi người dân bằng tên Chùa Hang vì đây là tên quen thuộc hơn Thiên Sanh Thạch tự hoặc Thạch Cốc tự.
+
+Một số hướng dẫn cũ nhắc tuyến từ thị trấn Phù Mỹ đi theo đường Chu Văn An về phía tây rồi rẽ vào hướng núi đá. Do tên đường, mốc hành chính và tình trạng đường có thể thay đổi, người đi nên kết hợp bản đồ số với hỏi đường địa phương.
+
+Cần phân biệt đoạn đi xe đến chân núi và đoạn đi bộ lên cửa hang. Phần cuối của hành trình là bậc đá, dốc và lối núi nên không thể xem là điểm đến hoàn toàn bằng phẳng.
+
+2. Phương tiện di chuyển
+
+Xe máy là phương tiện linh hoạt nhất nếu đi tự túc vì có thể vào các đường nhỏ. Ô tô cá nhân hoặc taxi phù hợp với gia đình và nhóm nhỏ, nhưng cần kiểm tra chỗ dừng đỗ gần chân núi.
+
+Khách từ xa có thể đến Quy Nhơn hoặc sân bay Phù Cát rồi thuê xe đi Phù Mỹ Tây. Nếu đi theo đoàn, nên thuê xe có tài xế quen địa phương để tiết kiệm thời gian tìm đường.
+
+Không nên kỳ vọng có xe điện hoặc phương tiện trung chuyển cố định từ chân núi lên cửa hang. Người tham quan cần tự đi bộ đoạn cuối.
+
+3. Khoảng cách
+
+Khoảng cách từ Quy Nhơn đến khu vực Chùa Hang phụ thuộc điểm xuất phát cụ thể, nhưng thường là hành trình liên huyện và cần dự phòng hơn một giờ di chuyển. Nếu xuất phát từ Phù Mỹ cũ, quãng đường ngắn hơn nhiều.
+
+Từ trung tâm Phù Mỹ cũ đến vùng Hội Khánh, đường đi chủ yếu là đường địa phương. Một số nguồn hướng dẫn cũ nêu chùa cách khu trung tâm Phù Mỹ vài cây số về phía tây, nhưng con số này chỉ nên xem là tham khảo.
+
+Khi xây dựng chatbot, nên trả lời theo hướng: Chùa Hang nằm không xa trung tâm Phù Mỹ cũ, nhưng từ Quy Nhơn đi sẽ cần tính cả thời gian đường dài và thời gian leo bộ.
+
+4. Thời gian di chuyển trung bình
+
+Từ Quy Nhơn đến Chùa Hang có thể mất khoảng hơn một giờ đến gần hai giờ tùy phương tiện, thời tiết và lộ trình. Nếu đi xe máy, nên dự phòng thời gian dừng nghỉ và hỏi đường.
+
+Từ khu vực Phù Mỹ cũ, thời gian đi đến chân núi thường ngắn hơn. Sau đó, du khách cần thêm thời gian đi bộ lên cửa hang, nhất là nếu đi cùng trẻ em hoặc người lớn tuổi.
+
+Nếu chỉ tham quan Chùa Hang, có thể bố trí trong một buổi. Nếu kết hợp hồ Hội Khánh, đèo Truông Gia Vấn và các điểm văn hóa, nên dành nửa ngày.
+
+5. Bản đồ / hướng dẫn đường đi
+
+Khi tra bản đồ, nên nhập các từ khóa Chùa Hang Phù Mỹ, Thiên Sanh Thạch tự, Thạch Cốc tự, Chùa Hang Hội Khánh hoặc Chùa Hang Phù Mỹ Tây. Không nên chỉ nhập Chùa Hang vì tên này trùng ở nhiều tỉnh.
+
+Khi đến gần Phù Mỹ Tây, nên hỏi người dân bằng tên Chùa Hang. Người địa phương thường biết lối lên núi và nơi có thể dừng xe tốt hơn bản đồ số.
+
+Nên đi vào ban ngày, lưu sẵn bản đồ và không phụ thuộc hoàn toàn vào sóng điện thoại khi đã vào khu vực núi hoặc hang.
+
+6. Lưu ý khi di chuyển
+
+Nên mang giày dép chống trơn, nước uống, mũ nón và trang phục gọn. Không nên đi khi trời mưa lớn vì bậc đá và đường núi có thể trơn.
+
+Nếu đi với người lớn tuổi, trẻ em hoặc người ít vận động, cần đi chậm và có người hỗ trợ. Không nên ép người không đủ sức leo lên tận cửa hang.
+
+Thông tin đường đi, bãi xe và điều kiện tham quan có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+7. Nguồn tham khảo
+
+Nguồn tham khảo chính:
+Báo Gia Lai, “Chùa Hang - Vẻ đẹp huyền bí giữa lòng núi”, 24/05/2025, https://baogialai.com.vn/chua-hang-ve-dep-huyen-bi-giua-long-nui-post324613.html
+Báo Gia Lai, “Chùa Thạch Cốc qua Mộc bản Triều Nguyễn”, 23/03/2023, https://baogialai.com.vn/chua-thach-coc-qua-moc-ban-trieu-nguyen-post371420.html
+Cục Du lịch Quốc gia Việt Nam, “Về Bình Định, khám phá chùa Hang, thưởng ngoạn đèo Truông Gia Vấn”, 04/03/2025, https://vietnamtourism.gov.vn/post/61617
+Báo Gia Lai, “Hương sen, bóng dừa và ký ức xưa ở Phù Mỹ Tây”, 24/08/2025, https://baogialai.com.vn/huong-sen-bong-dua-va-ky-uc-xua-o-phu-my-tay-post564474.html
+Báo Gia Lai, “Tĩnh lặng chùa Hang”, 20/12/2020, https://baogialai.com.vn/tinh-lang-chua-hang-post412478.html
+Dân Việt, “Truyền kỳ chùa Thiên Sanh có đường 'xuống âm phủ'”, 06/12/2013, https://danviet.vn/truyen-ky-chua-thien-sanh-co-duong-39xuong-am-phu39-7777163573-d292621.html

@@ -1,0 +1,49 @@
+1. Câu hỏi thường gặp
+
+Q: Chùa Tân An nằm ở đâu?
+A: Chùa nằm trên đường Nguyễn Thiếp, phường Tây Sơn, thị xã An Khê cũ, tỉnh Gia Lai; nay thuộc phường An Khê mới.
+
+Q: Chùa còn gọi là gì?
+A: Chùa còn gọi là Tân An tự. Cụm nhận diện quan trọng là “Sắc tứ Tân An tự”.
+
+Q: Chùa có gì nổi bật?
+A: Chùa được nhắc là ngôi chùa sắc tứ duy nhất tại Gia Lai.
+
+Q: Hoành phi Sắc tứ Tân An tự có niên đại nào?
+A: Hoành phi có niên đại Bảo Đại thứ 14, tức năm 1939.
+
+Q: Chùa được khởi dựng khi nào?
+A: Theo tư liệu được báo chí dẫn, chùa được khởi dựng năm 1930.
+
+Q: Chùa thuộc hệ phái nào?
+A: Chùa thuộc hệ phái Bắc tông.
+
+Q: Chùa có mất vé không?
+A: Hiện chưa thấy nguồn chính thức công bố vé tham quan. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Giờ mở cửa là khi nào?
+A: Chưa thấy nguồn chính thức ổn định về giờ mở cửa. Nên đi ban ngày và liên hệ trước nếu đi đoàn.
+
+Q: Có thể chụp ảnh hoành phi không?
+A: Nên xin phép trước vì hoành phi nằm trong chánh điện và là hiện vật quan trọng.
+
+Q: Chùa Tân An khác Chùa An Bình thế nào?
+A: Chùa An Bình được nhắc là ngôi chùa hình thành sớm nhất trong hệ thống tự viện Gia Lai; Chùa Tân An nổi bật vì được phong sắc tứ và có hoành phi năm 1939.
+
+Q: Nên tìm bản đồ bằng từ khóa nào?
+A: “Chùa Tân An An Khê”, “Tân An tự An Khê”, “Sắc tứ Tân An tự”, “Chùa Tân An đường Nguyễn Thiếp”.
+
+Q: Có nên đưa vào dữ liệu RAG không?
+A: Có. Chùa có nhiều thông tin nhận diện mạnh: tên gọi, địa chỉ cũ mới, sắc tứ, hoành phi năm 1939, lịch sử khởi dựng và bối cảnh An Khê.
+
+2. Thông tin cập nhật mới
+
+Dữ liệu cần lưu cả tên hành chính cũ và mới: phường Tây Sơn, thị xã An Khê cũ; nay thuộc phường An Khê mới. Cần ghi rõ bức hoành phi “Sắc tứ Tân An tự” có niên đại năm 1939 và văn bản sắc chỉ được nguồn địa phương ghi là đã thất lạc.
+
+3. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai: “Tân An tự: Ngôi chùa được phong sắc tứ duy nhất tại Gia Lai”, đăng ngày 18/11/2024.
+- Giác Ngộ Online: “An Khê - nơi linh địa tối cổ nhất ở Đông Nam Á”, đăng ngày 23/01/2025.
+- Thư Viện Pháp Luật: thông tin sắp xếp đơn vị hành chính thị xã An Khê, tỉnh Gia Lai cũ sau năm 2025.
+Ghi chú: Thông tin giá vé, giờ mở cửa, lịch lễ, trụ trì hiện nay và khả năng tiếp đoàn có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

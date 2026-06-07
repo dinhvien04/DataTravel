@@ -1,0 +1,49 @@
+1. Lưu ý khi tham quan
+
+Chiến thắng Núi Một là di tích lịch sử, cần giữ thái độ trang nghiêm. Không xả rác, không viết vẽ, không phá hoại bảng di tích nếu có, không tự ý đào bới hoặc tìm kiếm hiện vật. Nếu khu vực có đất tư nhân, khu quân sự, công trình công cộng hoặc khu vực cấm, cần tuân thủ quy định.
+
+2. Quy định tại địa điểm
+
+Nếu có biển báo, bia di tích, hàng rào hoặc hướng dẫn của địa phương, cần tuân thủ. Nếu đi theo đoàn, cần phổ biến quy tắc ứng xử trước khi vào khu vực di tích. Không tổ chức hoạt động ồn ào, vui chơi phản cảm tại địa chỉ đỏ.
+
+3. Điều cấm / hạn chế
+
+Không nhầm với Hồ Núi Một khi làm dữ liệu. Không đưa ảnh hồ sinh thái Nhơn Tân vào dataset của Chiến thắng Núi Một. Không khẳng định có công trình tưởng niệm, giờ mở cửa, vé hoặc dịch vụ nếu chưa có nguồn xác nhận. Không tự ý vào khu vực không rõ an toàn.
+
+4. Mức độ đông khách
+
+Đây không phải điểm du lịch đại chúng như biển Quy Nhơn, Kỳ Co hay Eo Gió. Khách phù hợp thường là đoàn học tập, cựu chiến binh, người nghiên cứu lịch sử hoặc người làm dữ liệu địa phương. Vì vậy, có thể ít thông tin dịch vụ trên web.
+
+5. Độ an toàn
+
+Rủi ro chính là đi nhầm địa điểm, thiếu thông tin vị trí, đường lên điểm cao nếu có, thời tiết nắng nóng và khu vực không có hạ tầng du lịch đầy đủ. Nên đi ban ngày, có bản đồ, hỏi địa phương và đi theo nhóm nếu chưa quen đường.
+
+6. Khả năng tiếp cận
+
+Khả năng tiếp cận cần kiểm tra thực tế. Nguồn phổ thông xác định vị trí theo hướng tây bắc Quy Nhơn nhưng không nêu cụ thể hạ tầng hiện nay. Người lớn tuổi hoặc đoàn học sinh nên có phương tiện phù hợp và người dẫn đoàn.
+
+7. Review tổng hợp
+
+Chiến thắng Núi Một là điểm có giá trị lịch sử cao, nhưng trải nghiệm du lịch trực quan có thể không mạnh nếu không có thuyết minh. Điểm mạnh là câu chuyện trận đánh rõ, mốc thời gian cụ thể, lực lượng tham gia cụ thể và ý nghĩa chiến thuật trong chiến dịch Xuân - Hè 1972. Điểm hạn chế là thông tin vị trí, hạ tầng và hiện trạng di tích trên web còn ít.
+
+8. Ưu điểm
+
+Có dữ kiện lịch sử mạnh: Núi Một, D30 Thị đội Quy Nhơn, Đại đội 598 đặc công nước, ngày 12/4/1972, 15 phút, 120 địch bị diệt, ngã ba Đống Đa, quân cảng Quy Nhơn, Hoài Ân, Bắc Hoài Nhơn. Rất phù hợp cho dữ liệu RAG.
+
+9. Nhược điểm
+
+Dễ nhầm với Hồ Núi Một, một thắng cảnh sinh thái khác. Khó làm dataset ảnh nếu không có ảnh bảng di tích hoặc ảnh đúng địa điểm. Cần kiểm tra thực địa hoặc nguồn chính thống địa phương trước khi thu ảnh.
+
+10. Kinh nghiệm tránh rủi ro
+
+Luôn dùng cụm “Chiến thắng Núi Một Quy Nhơn 1972” khi tìm kiếm. Tránh dùng ảnh “Hồ Núi Một”. Khi cần vị trí chính xác, liên hệ cơ quan văn hóa Quy Nhơn/Gia Lai hoặc hỏi người am hiểu lịch sử địa phương.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, mục “Di tích Chiến thắng Núi Một”, đăng ngày 13/04/2015, trong chuyên mục danh thắng - di tích Bình Định.
+- Báo Quân khu 5, “Chiến thắng Bình Định - 50 năm bản hùng ca lịch sử”, đăng ngày 25/03/2025.
+- VOV, “Ngày 31/3/1975, giải phóng thị xã Quy Nhơn và toàn tỉnh Bình Định”, đăng năm 2025.
+- Cổng thông tin phường Quy Nhơn, “Tổng quan về phường Quy Nhơn”, thông tin sau sắp xếp đơn vị hành chính năm 2025.
+- Thư Viện Pháp Luật, thông tin phường Quy Nhơn tỉnh Gia Lai hình thành từ 1/7/2025 theo Nghị quyết 1664/NQ-UBTVQH15.
+Ghi chú: Thông tin về vị trí chính xác, bảng chỉ dẫn, hiện trạng dấu tích, đơn vị quản lý, khả năng tham quan, giờ mở cửa và hoạt động tưởng niệm có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi hoặc trước khi dùng trong hồ sơ chính thức.

@@ -1,0 +1,58 @@
+1. Dịch vụ tại địa điểm
+
+Chùa An Thạnh không phải khu du lịch dịch vụ nên không có hệ thống dịch vụ tham quan quy mô lớn. Các hoạt động tại chùa chủ yếu là lễ Phật, sinh hoạt tôn giáo, tiếp nhận Phật tử và khách tham quan theo tính chất trang nghiêm. Vì vậy, khi xây dựng dữ liệu chatbot, cần tránh mô tả chùa như một điểm du lịch có nhiều tiện ích thương mại.
+
+Nếu đi theo đoàn, khách nên chủ động liên hệ trước để hỏi về khả năng tiếp đón, thời gian phù hợp và các quy định trong khuôn viên chùa. Với khách cá nhân, có thể ghé tham quan nhẹ, nhưng vẫn cần giữ phép lịch sự và không làm ảnh hưởng đến sinh hoạt của nhà chùa.
+
+Các dịch vụ như hướng dẫn thuyết minh, chụp ảnh chuyên nghiệp, tổ chức sự kiện hoặc ăn uống trong khuôn viên chùa không nên được mặc định là có sẵn. Nếu phát sinh nhu cầu, cần hỏi trực tiếp nhà chùa hoặc chính quyền địa phương.
+
+2. Ăn uống
+
+Bản thân Chùa An Thạnh không phải điểm cung cấp dịch vụ ăn uống cho khách du lịch. Du khách nên ăn uống ở trung tâm Pleiku hoặc các quán trên đường di chuyển. Nếu chỉ đi tham quan ngắn, có thể chuẩn bị nước uống cá nhân, nhưng không nên ăn uống bừa bãi trong khu vực chùa.
+
+Khu vực An Phú nổi tiếng với đồng rau, nếp sống nông nghiệp và không gian ven đô. Nếu có tour cộng đồng trong tương lai, trải nghiệm ẩm thực có thể gắn với rau sạch, món ăn gia đình và sản phẩm địa phương. Tuy nhiên, thông tin này cần được xác nhận theo từng thời điểm, không nên ghi như dịch vụ cố định.
+
+Khi ăn uống gần chùa, cần giữ vệ sinh, không xả rác và không mang đồ ăn có mùi mạnh vào khu vực thờ tự.
+
+3. Đặc sản địa phương
+
+Nếu kết hợp tham quan Chùa An Thạnh với Pleiku, du khách có thể tìm hiểu các món ăn đặc trưng của Gia Lai như phở khô, bún cua, gà nướng, cơm lam, cà phê Pleiku và các món rau địa phương. Tuy nhiên, những món này không phải đặc sản riêng của Chùa An Thạnh mà là đặc sản vùng Pleiku - Gia Lai.
+
+Riêng vùng An Phú có điểm mạnh về rau xanh và nông nghiệp. Nghề trồng rau ở cánh đồng An Phú được nhắc như một phần di sản sống của vùng. Vì vậy, khi mô tả trải nghiệm địa phương, có thể nhắc đến không gian rau An Phú như một yếu tố bổ sung cho tuyến du lịch văn hóa.
+
+Chatbot nên phân biệt rõ: “đặc sản gần khu vực” khác với “dịch vụ trong chùa”. Không nên nói chùa có bán đặc sản nếu không có nguồn xác nhận.
+
+4. Lưu trú / khách sạn
+
+Chùa An Thạnh nằm gần khu vực Pleiku nên du khách nên lưu trú tại trung tâm thành phố hoặc các phường trung tâm của Pleiku. Từ nơi lưu trú, có thể di chuyển đến An Phú trong thời gian ngắn bằng taxi, xe máy hoặc ô tô cá nhân.
+
+Các lựa chọn lưu trú phù hợp gồm khách sạn, homestay, nhà nghỉ trong khu vực trung tâm Pleiku. Nếu đi theo hướng du lịch văn hóa, nên chọn nơi ở thuận tiện để kết hợp nhiều điểm như Chùa An Thạnh, Đình An Mỹ, Biển Hồ, chùa Minh Thành và các quán cà phê Pleiku.
+
+Chùa không nên được mô tả như nơi lưu trú cho khách du lịch. Nếu người dùng hỏi có ngủ lại chùa được không, câu trả lời phù hợp là cần hỏi trực tiếp nhà chùa, không nên tự ý đến xin ở lại.
+
+5. Tiện ích hỗ trợ
+
+Các tiện ích hỗ trợ tại chùa có thể ở mức cơ bản, phục vụ sinh hoạt tôn giáo hơn là du lịch. Du khách nên tự chuẩn bị nước uống, khăn giấy, áo mưa, mũ nón và các vật dụng cá nhân cần thiết. Không nên kỳ vọng có quầy bán hàng, khu nghỉ chân lớn hoặc dịch vụ hỗ trợ du lịch chuyên nghiệp.
+
+Nếu cần nhà vệ sinh, khu gửi xe hoặc khu vực nghỉ, du khách nên hỏi người trong chùa hoặc người dân địa phương. Khi sử dụng tiện ích, cần giữ vệ sinh, không gây ồn ào và không tự ý vào khu vực riêng.
+
+Đối với người lớn tuổi, nên đi bằng ô tô hoặc taxi để giảm mệt khi di chuyển. Đối với trẻ em, cần nhắc các em giữ trật tự, không chạy nhảy trong khu vực thờ tự.
+
+6. Lưu ý về chi phí dịch vụ
+
+Chi phí chính khi tham quan Chùa An Thạnh thường là chi phí di chuyển và chi phí cá nhân. Nếu có công đức, cúng dường hoặc dâng hương, đó là tùy tâm, không phải phí bắt buộc. Không nên ghi mức tiền công đức cụ thể trong dữ liệu.
+
+Nếu đi đoàn, có thể phát sinh chi phí thuê xe, ăn uống, hướng dẫn viên hoặc chi phí tổ chức chương trình học tập. Những chi phí này không thuộc quản lý của chùa. Cần tách biệt rõ chi phí du lịch bên ngoài và hoạt động tôn giáo trong chùa.
+
+Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+7. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Chuyện người Bình Định lập làng trên cao nguyên”, đăng ngày 06/08/2025.
+- Báo Gia Lai, “Di sản sống của đô thị Pleiku”, đăng ngày 03/09/2023.
+- Vietnam.vn, “Về đình làng An Mỹ, Chùa An Thạnh thuộc xã An Phú, thành phố Pleiku”, đăng ngày 03/04/2024.
+- Báo Gia Lai, “Ngôi đình cổ giữa cánh đồng xanh”, đăng ngày 28/03/2022.
+- Cổng thông tin tỉnh Gia Lai, thông tin đơn vị hành chính phường An Phú.
+- Thế Giới Phật Giáo, mục “Chùa An Thạnh (Pleiku)”.
+Thông tin có thể thay đổi theo thời gian, đặc biệt là giờ sinh hoạt, hoạt động lễ nghi, thông tin quản lý và khả năng đón khách. Cần kiểm tra lại với địa phương hoặc nhà chùa trước khi đi.

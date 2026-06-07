@@ -1,0 +1,61 @@
+1. Câu hỏi thường gặp
+
+Q: Suối đá cổ nằm ở đâu?
+A: Suối đá cổ nằm tại khu vực làng Vân, thị trấn Ia Ly cũ, huyện Chư Păh, tỉnh Gia Lai, giáp xã Ia Phí. Sau sắp xếp hành chính năm 2025, cần tra theo xã Ia Ly mới và xã Ia Phí mới.
+
+Q: Suối đá cổ còn có tên gọi khác không?
+A: Có. Địa điểm còn được gọi là Suối đá cổ Ia Ruai, Suối đá đĩa Gia Lai, Suối đá đĩa làng Vân, Jrai Phă hoặc suối đá cổ Jrai Phă.
+
+Q: Vì sao gọi là Suối đá đĩa?
+A: Vì hai bên dòng suối có nhiều khối đá bazan hình lục giác, đa giác xếp san sát, gợi liên tưởng đến Gành Đá Đĩa ở Phú Yên.
+
+Q: Suối đá cổ bao nhiêu năm tuổi?
+A: Các nguồn báo chí dẫn ý kiến nhà địa chất cho rằng các khối đá có tuổi đời trên 100 triệu năm. Cần diễn giải theo hướng thận trọng vì đây là thông tin địa chất cần nghiên cứu chuyên sâu.
+
+Q: Đá ở Suối đá cổ hình thành như thế nào?
+A: Các khối đá được cho là hình thành từ đá bazan, liên quan đến hoạt động núi lửa, quá trình nguội lạnh và nứt tách thành các khối đa giác tự nhiên.
+
+Q: Suối đá cổ có giống Gành Đá Đĩa Phú Yên không?
+A: Có nét giống ở dạng đá lục giác, đa giác, nhưng Suối đá cổ Gia Lai nằm trong bối cảnh suối rừng, làng Vân, Ia Ly - Ia Phí và cao nguyên bazan.
+
+Q: Có mất vé tham quan không?
+A: Hiện chưa thấy nguồn chính thức công bố vé tham quan cố định. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Nên đi Suối đá cổ mùa nào?
+A: Nên đi khi thời tiết khô ráo và suối còn nước vừa phải. Mùa khô quá kéo dài có thể khiến suối cạn, còn mùa mưa đá trơn và nước mạnh.
+
+Q: Suối đá cổ có nguy cơ khô cạn không?
+A: Báo Gia Lai năm 2025 ghi nhận suối đá cổ làng Vân trước nguy cơ khô cạn do nắng nóng và hoạt động bơm nước tưới cây trồng hai bên bờ.
+
+Q: Có nên tắm ở Suối đá cổ không?
+A: Không nên tự ý tắm nếu không rõ độ sâu, dòng chảy và mức độ an toàn. Đá trơn và nước mạnh có thể nguy hiểm.
+
+Q: Cần chuẩn bị gì khi đi?
+A: Nên mang giày bám tốt, nước uống, mũ, áo mưa, túi chống nước, pin dự phòng và túi đựng rác.
+
+Q: Có phù hợp trẻ em không?
+A: Có thể đi cùng trẻ em nếu có người lớn giám sát chặt. Không nên để trẻ leo đá, chạy nhảy sát mép nước hoặc tắm suối.
+
+Q: Ảnh nào nên dùng cho dataset?
+A: Ảnh có đá bazan lục giác, dòng suối Ia Ruai, bãi đá như tổ ong, bảng chỉ đường Suối đá cổ, bối cảnh làng Vân/Ia Ly/Ia Phí.
+
+Q: Ảnh nào không nên dùng?
+A: Không nên dùng ảnh Suối Đá Vàng, Gành Đá Đĩa Phú Yên, bãi đá cổ khác ở Gia Lai hoặc ảnh suối không có đặc điểm đá lục giác.
+
+Q: Câu mô tả ngắn là gì?
+A: Suối đá cổ làng Vân, còn gọi Ia Ruai/Jrai Phă, là thắng cảnh địa chất ở Gia Lai nổi bật với dòng suối chảy giữa các khối đá bazan lục giác trên 100 triệu năm tuổi.
+
+2. Thông tin cập nhật mới
+
+Cần lưu tên hành chính cũ và mới: làng Vân, thị trấn Ia Ly cũ, huyện Chư Păh; sau sắp xếp hành chính cần tra theo xã Ia Ly mới và xã Ia Phí mới. Cần cảnh báo tình trạng suối có thể thay đổi theo mùa, đặc biệt nguy cơ cạn nước vào mùa khô. Khi làm dataset ảnh, phải phân biệt Suối đá cổ với Suối Đá Vàng và các bãi đá khác.
+
+3. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Suối đá cổ làng Vân trước nguy cơ khô cạn”, đăng ngày 10/03/2025.
+- Dân tộc và Miền núi / TTXVN, “Phát hiện suối đá cổ độc đáo tại Gia Lai”, đăng ngày 21/06/2021.
+- Nhân Dân, “Ấn tượng suối đá đĩa cổ ở Gia Lai”, đăng ngày 24/06/2021.
+- Cổng Du lịch Pleiku/Gia Lai, “Khám phá suối Đá cổ làng Vân, thị trấn Ia Ly, huyện Chư Păh, tỉnh Gia Lai”, đăng ngày 16/08/2021.
+- Cổng Du lịch quốc gia Việt Nam, “Du lịch Chư Păh (Gia Lai): Khám phá 6 điểm không thể bỏ lỡ”, đăng ngày 18/10/2024.
+- Thư Viện Pháp Luật, thông tin xã Ia Ly mới và xã Ia Phí mới sau sắp xếp đơn vị hành chính năm 2025.
+Ghi chú: Thông tin về đường đi, tình trạng nước, bảo tồn, xếp hạng di tích, dịch vụ và khả năng tham quan có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

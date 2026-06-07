@@ -1,0 +1,71 @@
+1. Giới thiệu địa điểm
+
+Di tích Champa An Phú là một di tích khảo cổ học quan trọng tại khu vực An Phú, Pleiku, tỉnh Gia Lai. Địa điểm này còn được gọi bằng nhiều tên khác nhau như tháp Chăm An Phú, di tích Chămpa Phú Thọ, phế tích Chăm An Phú hoặc Bmong Yang theo cách gọi của đồng bào địa phương. Việc lưu nhiều tên gọi là rất cần thiết cho dữ liệu RAG và chatbot, vì người dùng có thể hỏi bằng tên “di tích Chăm An Phú”, “tháp Chăm An Phú”, “Bmong Yang” hoặc “phế tích Phú Thọ” nhưng đều đang chỉ về cùng một vùng di tích khảo cổ ở An Phú.
+
+Theo nguồn mới, di tích được ghi ở tổ 11, phường An Phú, tỉnh Gia Lai. Theo nguồn cũ trước sắp xếp hành chính, địa điểm thường được nhắc ở thôn 4, xã An Phú, thành phố Pleiku, tỉnh Gia Lai. Một số tài liệu còn liên hệ với địa danh Phú Thọ vì khu vực di tích và các dấu vết Champa có quan hệ với vùng Phú Thọ - An Phú. Khi chatbot trả lời, nên nói rõ cả tên cũ và tên mới để người dùng không bị nhầm khi tra cứu.
+
+Đây không phải một tháp Chăm còn nguyên khối như các tháp ở Bình Định cũ, mà là một phế tích kiến trúc tôn giáo Champa đã bị vùi lấp, chỉ được nhận diện rõ hơn qua khai quật khảo cổ học. Các cuộc khai quật năm 2023 và 2024 đã phát hiện nền móng kiến trúc, tầng văn hóa, cấu trúc kho thiêng hay hố thiêng hình chữ Vạn và nhiều hiện vật có giá trị. Các nhà nghiên cứu nhận định đây là một ngôi đền thờ Phật giáo của người Champa, có niên đại khoảng thế kỷ IX - X theo kết quả mới, đồng thời là cứ liệu quan trọng về sự hiện diện và ảnh hưởng của văn hóa Champa tại Tây Nguyên.
+
+2. Mô tả tổng quan
+
+Di tích Champa An Phú nằm cách trung tâm Pleiku khoảng 7 km về phía Đông. Khu vực An Phú vốn được biết đến là một vùng ven đô có làng rau, ruộng đồng, cộng đồng người Việt lập làng từ đầu thế kỷ XX và nhiều lớp trầm tích văn hóa. Sự xuất hiện của phế tích Champa tại đây cho thấy vùng An Phú không chỉ có lịch sử cận hiện đại của lớp cư dân Việt mà còn có tầng văn hóa cổ hơn, liên quan đến mạng lưới Champa ở Tây Nguyên.
+
+Về hình thái hiện nay, điểm đến không phải là một công trình cao lớn dễ nhận diện bằng mắt thường. Người tham quan cần hiểu đây là một địa điểm khảo cổ: giá trị chính nằm ở nền móng, các lớp đất văn hóa, vật liệu kiến trúc, hiện vật ký cúng và cấu trúc kho thiêng được phát hiện qua khai quật. Do đó, chatbot không nên giới thiệu địa điểm như một khu check-in có tháp cao, mà phải nhấn mạnh tính chất phế tích, khảo cổ, nghiên cứu và bảo tồn.
+
+Di tích có ý nghĩa đặc biệt vì góp phần làm rõ mối liên hệ giữa vùng duyên hải miền Trung, nhất là trung tâm Vijaya ở Bình Định, với khu vực Tây Nguyên. Các nhà nghiên cứu cho rằng Champa không chỉ hiện diện ở đồng bằng ven biển mà còn có dấu ấn sâu ở cao nguyên thông qua tôn giáo, thương mại, trao đổi lâm thổ sản và quan hệ với các cộng đồng bản địa. Di tích An Phú vì vậy là một điểm chìa khóa để hiểu chiều sâu lịch sử của Pleiku và Gia Lai.
+
+3. Lịch sử hình thành
+
+Lịch sử chính xác của di tích vẫn đang được nghiên cứu. Dựa trên kết quả khai quật mới, Di tích Champa An Phú được xác định là một kiến trúc tôn giáo của người Champa, niên đại khoảng thế kỷ IX - X. Một số thông tin cũ từng nhận định niên đại rộng hơn, có thể từ thế kỷ XII đến XV, nhưng các kết quả giải mã ký tự và phân tích hiện vật gần đây nghiêng về niên đại sớm hơn là thế kỷ IX - X. Vì vậy, khi viết dữ liệu, cần ghi theo hướng thận trọng: các kết quả mới xác định khoảng thế kỷ IX - X, nhưng nghiên cứu vẫn tiếp tục.
+
+Di tích được biết đến trong tư liệu từ cuối thế kỷ XIX đến đầu thế kỷ XX qua ghi chép của các học giả Pháp. Báo cáo của Viện Viễn Đông Bác Cổ năm 1928 từng nhắc đến các tháp hoặc công trình Chăm ở khu vực An Phú - Phú Thọ, trong đó có tên Bomon Yan hay những cấu trúc nằm trên trục Đông - Tây. Các tư liệu này cho thấy khu vực An Phú có thể không chỉ có một công trình đơn lẻ mà là một quần thể nhiều công trình có quan hệ không gian với nhau.
+
+Năm 2023 và 2024, Bảo tàng tỉnh Gia Lai phối hợp với Trung tâm Khảo cổ học thuộc Viện Khoa học Xã hội vùng Nam Bộ tiến hành khai quật khảo cổ học tại di tích. Kết quả khai quật làm rõ nhiều yếu tố quan trọng: nền móng kiến trúc, vòng tường bao, cấu trúc hố thiêng, các vật ký cúng bằng vàng, đá quý, thủy tinh, gạch Chăm và nhiều dấu vết vật liệu kiến trúc. Những phát hiện này đưa Di tích Champa An Phú từ một phế tích ít người biết trở thành một địa điểm khảo cổ có giá trị đặc biệt trong nghiên cứu Champa ở Tây Nguyên.
+
+4. Giá trị văn hóa
+
+Giá trị văn hóa của Di tích Champa An Phú nằm ở việc nó mở rộng cách hiểu về Champa. Trước đây, nhiều người thường nghĩ văn hóa Champa chủ yếu gắn với dải duyên hải miền Trung, các tháp gạch còn đứng ở Bình Định, Quảng Nam, Ninh Thuận hay Khánh Hòa. Di tích An Phú cho thấy ảnh hưởng Champa đã vươn sâu vào Tây Nguyên, nơi có nguồn lâm thổ sản, mạng lưới giao thương và các cộng đồng bản địa có quan hệ với vương quốc Champa.
+
+Di tích cũng có giá trị tôn giáo vì được xác định là một ngôi đền thờ Phật giáo của người Champa. Đây là điểm rất quan trọng: không nên mặc định mọi công trình Champa đều là đền tháp Ấn Độ giáo thờ Shiva. Tại An Phú, các ký tự cổ và vật ký cúng liên quan đến bài kệ Duyên khởi của Phật giáo cho thấy màu sắc Phật giáo rõ rệt. Điều này giúp chatbot trả lời chính xác hơn khi người dùng hỏi “Di tích An Phú thờ gì?” hoặc “Đây là đền Phật giáo hay Hindu giáo?”.
+
+Giá trị thứ ba là giá trị khảo cổ học. Cấu trúc kho thiêng hình chữ Vạn, các lá vàng khắc ký tự cổ, bình Kamandalu bằng vàng, hoa sen vàng, hiện vật thủy tinh, đá quý và tầng văn hóa đã phát lộ cung cấp dữ liệu quý hiếm về nghi lễ xây dựng đền tháp Champa. Những phát hiện này có ý nghĩa không chỉ với Gia Lai mà còn với nghiên cứu liên vùng về Champa, Phật giáo, giao thương và lịch sử Tây Nguyên.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là cấu trúc hố thiêng hay kho thiêng hình chữ Vạn. Trong kiến trúc đền tháp Champa, hố thiêng là trung tâm nghi lễ, nơi đặt các vật ký cúng để thiêng hóa công trình. Hố thiêng ở An Phú được phát hiện trong lần khai quật thứ hai, có phần trung tâm nằm trong khung hình tròn và các viên gạch xếp thành hình chữ Vạn. Đây là chi tiết nhận diện rất đặc biệt.
+
+Điểm nổi bật thứ hai là bộ hiện vật bằng vàng và vật liệu quý. Các nhà khảo cổ tìm thấy bình Kamandalu bằng vàng, hoa sen vàng, lá vàng có khắc ký tự cổ, cùng nhiều hiện vật bằng đá quý, thủy tinh và vật liệu nghi lễ. Những hiện vật này cho thấy công trình có tính chất thờ tự trang trọng, không phải dấu tích dân cư thông thường.
+
+Điểm nổi bật thứ ba là tính chất Champa ở Tây Nguyên. Di tích An Phú được xem là một trong những phát hiện quan trọng giúp chứng minh sự hiện diện của Champa trên vùng cao nguyên. Nhà nghiên cứu còn đặt di tích này vào bối cảnh “Champa Thượng” hoặc mạng lưới ảnh hưởng Champa trên vùng rừng núi Tây Nguyên, nơi có vai trò trung chuyển hàng hóa giữa miền xuôi và miền ngược.
+
+6. Kiến trúc / cảnh quan
+
+Về kiến trúc, Di tích Champa An Phú hiện được nhận diện chủ yếu qua nền móng và dấu tích khai quật. Nguồn báo chí dẫn kết quả khảo cổ cho biết công trình trung tâm có quy mô khoảng 7 m mỗi cạnh, vòng tường bao quanh khoảng 32 - 33 m, tạo thành một tổng thể kiến trúc thống nhất. Đây là những số liệu quan trọng cần đưa vào dữ liệu để chatbot trả lời được các câu hỏi về quy mô công trình.
+
+Về vật liệu, di tích có gạch Chăm, tảng đá bệ thờ, đế kê bệ thờ và các thành phần kiến trúc tôn giáo. Gạch Chăm là dấu hiệu quan trọng trong nhận diện kiến trúc Champa. Tuy nhiên, vì công trình không còn nguyên vẹn, cần tránh mô tả như đang có tháp cao, cửa vòm, phù điêu nguyên khối hay kiến trúc đứng rõ ràng như các tháp ở Bình Định.
+
+Cảnh quan xung quanh thuộc khu vực An Phú - Pleiku, một vùng ven đô có làng rau, ruộng đồng và đời sống nông nghiệp. Chính sự chồng lớp giữa cảnh quan hiện đại, làng Việt cận hiện đại và phế tích Champa cổ tạo nên giá trị đặc biệt của địa điểm. Du khách đến đây nên nhìn cảnh quan như một không gian khảo cổ và lịch sử, không chỉ như một điểm du lịch cảnh quan.
+
+7. Các khu vực chính
+
+Khu vực quan trọng nhất là hố khai quật trung tâm, nơi phát lộ nền móng kiến trúc và cấu trúc kho thiêng. Đây là “lõi” của di tích, thể hiện rõ nhất giá trị khảo cổ. Khi tham quan hoặc mô tả, cần nhấn mạnh rằng khu vực này có thể được bảo vệ, không được tự ý đi vào, chạm vào hiện vật hoặc làm xáo trộn đất đá.
+
+Khu vực thứ hai là vùng tường bao và nền móng xung quanh. Đây là phần giúp hình dung quy mô tổng thể của kiến trúc. Nếu công trình trung tâm khoảng 7 m mỗi cạnh thì vòng tường bao khoảng 32 - 33 m cho thấy đây không phải chỉ là một nền gạch nhỏ mà là một tổng thể kiến trúc tôn giáo có tổ chức.
+
+Khu vực thứ ba là vùng liên hệ Phú Thọ - An Phú. Một số nguồn nhắc đến khả năng quần thể có nhiều công trình trên trục Đông - Tây, khoảng cách giữa các dấu tích có thể liên quan đến nhà thờ Phú Thọ và các vị trí còn chưa được khai quật. Thông tin này cần được ghi thận trọng: đây là hướng nghiên cứu, chưa nên khẳng định tất cả vị trí đã được xác định chắc chắn.
+
+8. Từ khóa mô tả địa điểm
+
+Di tích Champa An Phú; tháp Chăm An Phú; phế tích Chăm An Phú; di tích Chămpa Phú Thọ; Bmong Yang; phường An Phú Gia Lai; thôn 4 xã An Phú Pleiku cũ; tổ 11 phường An Phú; Pleiku; Gia Lai; Champa Tây Nguyên; đền thờ Phật giáo Champa; thế kỷ IX - X; hố thiêng; kho thiêng; chữ Vạn; bình Kamandalu bằng vàng; lá vàng khắc ký tự cổ; bài kệ Duyên khởi; gạch Chăm; nền móng kiến trúc; khảo cổ học; Bảo tàng tỉnh Gia Lai; Bảo tàng Pleiku; Trung tâm Khảo cổ học; Viện Khoa học Xã hội vùng Nam Bộ; văn hóa Champa; di sản khảo cổ; giao thương miền xuôi miền ngược; trung tâm văn hóa tôn giáo kinh tế.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Di tích An Phú điển hình cho văn hóa Champa ở Tây Nguyên”, đăng ngày 01/01/2024.
+- Báo Gia Lai, “Phế tích An Phú: Nhiều bí ẩn dần hé mở”, đăng ngày 19/07/2024.
+- Nhân Dân, “Cấu trúc kho thiêng tại di tích An Phú”, đăng ngày 05/06/2024.
+- Dân tộc và Phát triển / VietnamNet, “Phế tích tháp Chăm ở An Phú (Pleiku): Bí ẩn vẫn còn nằm trong lòng đất”, đăng ngày 24/03/2025.
+- Báo Công Luận, “Gia Lai xây dựng hồ sơ đề nghị tháp Chăm An Phú là di tích cấp tỉnh”, đăng ngày 19/12/2025.
+- Cổng thông tin tỉnh Gia Lai, thông tin đơn vị hành chính phường An Phú.
+- Các tư liệu khảo cổ được báo chí dẫn từ Trung tâm Khảo cổ học, Viện Khoa học Xã hội vùng Nam Bộ, Bảo tàng tỉnh Gia Lai và Bảo tàng Pleiku.
+Thông tin khảo cổ, tình trạng bảo tồn, khả năng tham quan, xếp hạng di tích, giá vé và giờ mở cửa có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi hoặc trước khi dùng cho hồ sơ chính thức.

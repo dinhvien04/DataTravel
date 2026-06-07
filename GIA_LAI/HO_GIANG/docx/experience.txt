@@ -1,0 +1,41 @@
+4. experience.txt - Hố Giang
+
+4.1. Hoạt động du lịch phù hợp
+Hoạt động phù hợp nhất ở Hố Giang là tham quan cảnh quan hồ, đi bộ nhẹ trong khu vực suối đá, chụp ảnh thiên nhiên và tìm hiểu câu chuyện Hòn đá Chữ. Đây là địa điểm dành cho trải nghiệm khám phá, không phải điểm nghỉ dưỡng tiện nghi. Người đi nên có tinh thần tự chuẩn bị và tôn trọng không gian tự nhiên.
+
+Với nhóm yêu lịch sử, Hố Giang hấp dẫn vì có yếu tố chữ Chăm cổ. Có thể xây dựng trải nghiệm theo hướng “một điểm dừng về dấu tích Champa ít được biết đến”, khác với các tháp Chăm nổi tiếng. Điều này giúp làm phong phú dữ liệu du lịch văn hóa của khu vực Hoài Nhơn.
+
+4.2. Điểm check-in
+Điểm check-in đầu tiên là khu vực hồ chứa nước Hố Giang, nếu tiếp cận thuận lợi. Hồ nước, bờ đá và núi xung quanh tạo phông nền tự nhiên. Điểm check-in thứ hai là các bãi đá, khe suối hoặc đường vào vùng núi. Điểm quan trọng nhất về mặt tư liệu là Hòn đá Chữ, nhưng cần lưu ý không tác động vào bề mặt chữ khắc.
+
+Nếu chụp Hòn đá Chữ, nên chụp toàn cảnh tảng đá, cận cảnh chữ khắc, ảnh bối cảnh xung quanh và ảnh đường tiếp cận. Những ảnh này hữu ích cho dataset nhận diện địa điểm. Tuy nhiên, cần tránh chụp hoặc lan truyền thông tin định vị quá chi tiết nếu có nguy cơ làm di tích bị xâm hại.
+
+4.3. Thời lượng tham quan đề xuất
+Với khách đi từ khu vực Hoài Nhơn, có thể dành một buổi sáng hoặc một buổi chiều. Với khách đi từ Quy Nhơn, nên xem đây là chuyến đi trong ngày, kết hợp thêm một số điểm gần Hoài Nhơn nếu còn thời gian. Không nên đến quá muộn vì đường về có thể tối và khó quan sát.
+
+Nếu mục tiêu chính là khảo sát văn hóa, cần thêm thời gian để đọc tư liệu trước, chuẩn bị câu hỏi, liên hệ người địa phương và ghi nhận hiện trạng. Nếu chỉ đi trải nghiệm tự nhiên, thời gian có thể ngắn hơn.
+
+4.4. Lịch trình gợi ý nửa ngày từ Hoài Nhơn
+Buổi sáng xuất phát từ trung tâm Hoài Nhơn, di chuyển đến khu vực Hoài Châu. Dừng ở điểm dân cư gần nhất để hỏi đường vào hồ chứa nước Hố Giang hoặc Hòn đá Chữ. Sau đó tham quan khu vực hồ, chụp ảnh cảnh quan và tiếp tục đi bộ nếu có người dẫn đường. Kết thúc trước trưa hoặc đầu giờ chiều để tránh nắng mạnh.
+
+Lịch trình này phù hợp với nhóm nhỏ, đi xe máy, có sức khỏe tốt và đã kiểm tra thời tiết. Không nên tổ chức nhóm quá đông vì đường vào có thể hẹp và thiếu dịch vụ.
+
+4.5. Lịch trình gợi ý một ngày từ Quy Nhơn
+Buổi sáng xuất phát sớm từ Quy Nhơn đi Hoài Nhơn. Đến khu vực Hoài Châu, hỏi đường vào Hố Giang. Tham quan hồ, suối đá và nếu thuận lợi thì khảo sát Hòn đá Chữ. Buổi trưa ăn tại khu vực dân cư hoặc quay lại trung tâm Hoài Nhơn. Buổi chiều có thể kết hợp tham quan thêm một điểm gần Hoài Nhơn hoặc quay về Quy Nhơn.
+
+Khi dùng lịch trình này cho chatbot, cần nhắc người dùng chuẩn bị đồ ăn nhẹ, nước uống, mũ nón, giày thể thao và không đi nếu thời tiết xấu.
+
+4.6. Kinh nghiệm tham quan
+Kinh nghiệm quan trọng nhất là hỏi đường người địa phương. Các điểm như Hòn đá Chữ có thể không được định vị rõ trên bản đồ du lịch. Kinh nghiệm thứ hai là chuẩn bị trang phục gọn, giày bám tốt và không mang quá nhiều đồ. Kinh nghiệm thứ ba là đi theo nhóm nhỏ, có người biết đường hoặc đã liên hệ trước.
+
+Khi đến gần các tảng đá có chữ cổ, không dùng phấn, nước, hóa chất, vật nhọn hoặc tay chà xát để làm nổi chữ. Việc làm này có thể làm hỏng bề mặt di tích. Nên chụp ảnh bằng ánh sáng tự nhiên và giữ khoảng cách an toàn.
+
+4.7. Đối tượng phù hợp
+Hố Giang phù hợp với người thích khám phá, sinh viên nghiên cứu lịch sử văn hóa, người chụp ảnh tư liệu, nhóm du lịch trải nghiệm và người quan tâm đến văn hóa Champa. Địa điểm ít phù hợp với trẻ nhỏ, người lớn tuổi, người cần dịch vụ đầy đủ hoặc du khách muốn vui chơi giải trí nhẹ nhàng.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

@@ -1,0 +1,54 @@
+1. Câu hỏi thường gặp
+
+Q: Nhà thờ cổ H’Bâu nằm ở đâu?
+A: Nhà thờ cổ H’Bâu nằm dưới chân núi lửa Chư Đang Ya, khu vực làng Xóa/Xõa, xã Biển Hồ, tỉnh Gia Lai. Nguồn cũ thường ghi thuộc huyện Chư Păh, Gia Lai.
+
+Q: Nhà thờ cổ H’Bâu được xây dựng khi nào?
+A: Nguồn Báo Gia Lai ghi nhà thờ được xây dựng năm 1909. Phía trước công trình còn dòng chữ Hán “Kỷ Dậu niên”, tức năm Kỷ Dậu.
+
+Q: Đây có phải nhà thờ còn hoạt động không?
+A: Không nên hiểu như một nhà thờ còn hoạt động đầy đủ. Hiện đây chủ yếu là phế tích, còn lại tháp chuông, mặt tiền và một số mảng tường.
+
+Q: Nhà thờ cổ H’Bâu có gì đặc biệt?
+A: Điểm đặc biệt là tuổi đời hơn 100 năm, kiến trúc Gothic Pháp pha yếu tố bản địa, vị trí dưới chân Chư Đang Ya và vẻ đẹp hoang phế rất riêng.
+
+Q: Nhà thờ có gần Chư Đang Ya không?
+A: Có. Nhiều nguồn mô tả nhà thờ nằm dưới chân hoặc gần núi lửa Chư Đang Ya, có thể kết hợp tham quan trong cùng tuyến.
+
+Q: Từ Pleiku đến Nhà thờ H’Bâu bao xa?
+A: Các nguồn du lịch thường ghi khoảng 30 km từ trung tâm Pleiku đến khu vực Chư Đang Ya - H’Bâu. Khoảng cách cụ thể tùy điểm xuất phát và đường đi.
+
+Q: Nên đi mùa nào?
+A: Mùa khô thuận lợi nhất. Tháng 11, mùa hoa dã quỳ Chư Đang Ya, là thời điểm rất đẹp để kết hợp chụp ảnh và tham quan.
+
+Q: Có mất vé không?
+A: Hiện chưa thấy nguồn chính thức công bố vé tham quan cố định. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Có thể chụp ảnh ở đây không?
+A: Có thể chụp ảnh, nhưng cần tôn trọng phế tích tôn giáo, không leo trèo, không tạo dáng phản cảm và không làm hư hại công trình.
+
+Q: Cần lưu ý gì khi tham quan?
+A: Đi ban ngày, tránh trời mưa, mang giày dễ đi, không lấy gạch đá, không leo lên tường cũ và hỏi người dân địa phương nếu đường vào không rõ.
+
+Q: Có nên đưa vào dataset ảnh không?
+A: Có, vì địa điểm có dấu hiệu nhận diện mạnh: mặt tiền nhà thờ, tháp chuông, tường rêu phong, kiến trúc Gothic, bối cảnh Chư Đang Ya và mốc 1909.
+
+Q: Những ảnh nào không nên dùng cho dataset?
+A: Không nên dùng ảnh chỉ có núi Chư Đang Ya, hoa dã quỳ, Biển Hồ hoặc cánh đồng Ngô Sơn nếu không thấy phế tích nhà thờ H’Bâu.
+
+Q: Câu mô tả ngắn gọn là gì?
+A: Nhà thờ cổ H’Bâu là phế tích giáo đường Công giáo xây năm 1909 dưới chân núi lửa Chư Đang Ya, nổi bật với tháp chuông rêu phong, kiến trúc Gothic và vẻ đẹp hoang phế giữa đại ngàn Gia Lai.
+
+2. Thông tin cập nhật mới
+
+Cần lưu cả tên cũ và mới của địa điểm: làng Xõa/Xóa, Chư Păh cũ; xã Biển Hồ hiện nay. Nên ghi rõ đây là phế tích nhà thờ, không phải nhà thờ còn nguyên vẹn. Thông tin về quản lý, bảo tồn, đường vào và dịch vụ có thể thay đổi, đặc biệt vào mùa lễ hội hoa dã quỳ Chư Đang Ya.
+
+3. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Khám phá di tích nhà thờ cổ trăm năm tuổi bên dãy Chư Đang Ya”, đăng ngày 28/11/2018.
+- Dân tộc và Phát triển / VietnamNet, “Nhà thờ cổ H’Bâu - Gia Lai: Dấu tích văn hóa, lịch sử dưới chân núi Chư Đang Ya”, đăng ngày 13/09/2025.
+- Văn hóa và Phát triển, “Nhà thờ cổ H’Bâu dưới chân núi lửa Chư Đang Ya: Di sản văn hóa độc đáo của Gia Lai”, đăng ngày 05/09/2025.
+- MIA.vn, “Khám phá tàn tích Nhà thờ cổ HBâu nằm im lìm bên dãy Chư Đăng Ya”, đăng ngày 28/09/2023.
+- Báo Gia Lai, các tin về Lễ hội hoa dã quỳ Chư Đang Ya, du lịch Chư Păh và quản lý điểm Nhà thờ cổ H’Bâu.
+Thông tin về đường đi, tình trạng bảo tồn, khả năng tham quan, dịch vụ và quy định quản lý có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

@@ -1,0 +1,52 @@
+1. Lưu ý khi tham quan
+
+Núi Chư Pao / Chư Thoi - Chư Pao là khu vực núi tự nhiên và chiến trường cũ, không phải điểm du lịch tiện nghi. Du khách cần chuẩn bị kỹ, đi ban ngày, tránh thời tiết xấu và không tự leo núi nếu không rõ đường.
+
+2. Quy định tại địa điểm
+
+Nếu có bảng chỉ dẫn, khu vực cấm, khu vực đang khảo sát di tích hoặc khu vực thuộc đất người dân, cần tuân thủ. Không tự ý đi vào rẫy, rừng hoặc khu vực quân sự/cấm nếu chưa được phép.
+
+3. Điều cấm / hạn chế
+
+Không xả rác, không vẽ lên đá, không bẻ cây, không đốt lửa, không lấy đá, không đào bới, không tự ý tìm kiếm hiện vật chiến tranh. Nếu thấy vật nghi là bom mìn, đạn hoặc hiện vật nguy hiểm, phải tránh xa và báo địa phương.
+
+4. Mức độ đông khách
+
+Đây không phải điểm đại chúng nên ngày thường có thể vắng. Khi có đoàn khảo sát, hoạt động tưởng niệm hoặc nhóm du lịch khám phá, khu vực có thể đông hơn. Người muốn yên tĩnh nên đi ngày thường và có kế hoạch rõ.
+
+5. Độ an toàn
+
+Cần đặc biệt chú ý an toàn vì địa hình có đá lớn, hang đá, cây rậm, dốc và có thể trơn khi mưa. Không leo lên tảng đá cao nếu không có thiết bị hoặc kinh nghiệm. Không đi một mình.
+
+6. Khả năng tiếp cận
+
+Có thể tiếp cận khu vực chân núi bằng đường bộ qua Quốc lộ 14/đường Hồ Chí Minh và đường địa phương. Việc lên núi có thể khó hơn, cần người dẫn đường. Khả năng tiếp cận cho người lớn tuổi, trẻ em nhỏ hoặc xe lăn không thuận lợi nếu muốn leo núi.
+
+7. Review tổng hợp
+
+Chư Thoi - Chư Pao là điểm đến có chiều sâu lịch sử và cảnh quan mạnh. Điểm mạnh là giá trị chiến trường, tảng đá kỳ vĩ, vị trí chiến lược trên đường 14 và ký ức Trung đoàn 95. Điểm hạn chế là ít dịch vụ, cần chuẩn bị kỹ và thông tin du lịch chưa nhiều.
+
+8. Ưu điểm
+
+Có dấu hiệu nhận diện rõ: dãy núi, đá tảng, hang đá, đường 14, chiến thắng Chư Thoi - Chư Pao, Trung đoàn 95, Ia Khươl, Ia Phí. Rất phù hợp cho dữ liệu RAG về lịch sử - du lịch Gia Lai.
+
+9. Nhược điểm
+
+Địa điểm dễ bị nhầm giữa Chư Pao, Chư Thoi, Chư Ren, Chư H’reng hoặc các núi săn mây khác. Khi làm dataset ảnh, cần kiểm tra kỹ nguồn và không dùng ảnh núi khác.
+
+10. Kinh nghiệm tránh rủi ro
+
+Đi cùng người địa phương, kiểm tra thời tiết, mang giày tốt, mang nước, không leo đá nguy hiểm, không đi tối, không tự ý vào hang sâu và không đụng vật lạ nghi là vật liệu chiến tranh.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Chư Thoi-Chư Pao: Dấu son trên đường 14”, đăng ngày 18/10/2023.
+- Báo Gia Lai, “Kỳ bí tượng ‘ông Phật’ trên núi Chư Pao”, đăng ngày 23/02/2022.
+- Cổng Thông tin Du lịch Việt Nam, “Kỳ bí tượng ‘ông Phật’ trên núi Chư Pao”, đăng ngày 24/02/2022.
+- Báo Lao Động, “Khám phá vẻ đẹp lạ của những hòn đá kỳ vĩ trên dãy Chư Pao”, đăng ngày 02/03/2022.
+- Báo Gia Lai, “Viết ở Chư Pao”, đăng ngày 27/07/2023.
+- Báo Gia Lai, “Kiêu hãnh Chư Pao!”, đăng ngày 15/04/2015.
+- Cổng thông tin tỉnh Gia Lai, thông tin đơn vị hành chính xã Ia Khươl và xã Ia Phí sau sắp xếp.
+- Cổng thông tin Chính phủ, danh sách 135 xã, phường của tỉnh Gia Lai mới sau sắp xếp năm 2025.
+Ghi chú: Thông tin về tình trạng xếp hạng di tích, đường lên núi, an toàn leo núi, dịch vụ địa phương và khả năng tham quan có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

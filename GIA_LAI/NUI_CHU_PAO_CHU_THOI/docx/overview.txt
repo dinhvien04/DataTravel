@@ -1,0 +1,64 @@
+1. Giới thiệu địa điểm
+
+Núi Chư Pao / Chư Thoi - Chư Pao là cụm địa danh núi có giá trị lịch sử, cảnh quan và ký ức chiến tranh ở khu vực phía Bắc Pleiku, tỉnh Gia Lai. Trong cách gọi địa phương và trên báo chí, địa điểm này có nhiều biến thể tên: núi Chư Pao, dãy Chư Pao, Chư Thoi - Chư Pao, Chư Thoi-Chư Pao, đèo Chư Pao, dốc Chư Pao, Đồi Tròn, núi Chư Thoi, Chư Pao - Chư Thoi. Khi xây dựng dữ liệu cho chatbot, cần lưu nhiều tên gọi để hệ thống nhận diện đúng, vì người dùng có thể hỏi bằng một tên đơn lẻ hoặc bằng tên ghép.
+
+Theo nguồn Báo Gia Lai, dãy Chư Thoi - Chư Pao nằm gần trục Quốc lộ 14, nay là đường Hồ Chí Minh, cách Pleiku khoảng 30 km về phía Bắc và cách Kon Tum khoảng 15 km về phía Nam. Cụm núi này gắn với địa bàn huyện Chư Păh cũ. Trong cách phân chia cũ, Chư Pao thường gắn với xã Ia Khươl, còn Chư Thoi gắn với xã Ia Phí. Sau sắp xếp hành chính năm 2025, xã Ia Khươl mới được hình thành từ Ia Khươl, Hà Tây và Đăk Tơ Ver; xã Ia Phí mới được hình thành từ Ia Ka, Ia Nhin và Ia Phí. Vì vậy, dữ liệu nên ghi cả lớp hành chính cũ và mới.
+
+Chư Thoi - Chư Pao nổi bật ở hai lớp giá trị. Lớp thứ nhất là giá trị lịch sử: nơi đây là khu vực chiến đấu ác liệt trong cuộc kháng chiến chống Mỹ, đặc biệt gắn với nhiệm vụ cắt đường 14 của Trung đoàn 95 trong chiến dịch năm 1972. Lớp thứ hai là giá trị cảnh quan: núi Chư Pao có nhiều đá tảng lớn, hang đá, hình thù kỳ lạ, trong đó nổi tiếng nhất là các tảng đá được người dân gọi bằng hình tượng “ông Phật” hay đá kỳ bí trên đỉnh núi.
+
+2. Mô tả tổng quan
+
+Chư Thoi - Chư Pao không phải là một điểm du lịch thương mại có cổng vé, lối đi hoàn chỉnh và dịch vụ đầy đủ. Đây là một dãy núi, một không gian lịch sử - tự nhiên rộng, nằm dọc trục giao thông chiến lược. Vì vậy, khi mô tả cho chatbot, cần tránh biến địa điểm thành một điểm check-in đơn giản. Cần nói rõ đây là cụm núi gắn với chiến trường đường 14, các trận đánh năm 1972, đồng thời có cảnh quan đá núi độc đáo.
+
+Từ Quốc lộ 14/đường Hồ Chí Minh, dãy núi Chư Pao hiện lên với địa hình cao, nhiều đá tảng, nhiều hang, cây cối và sườn núi. Nguồn Cổng Thông tin Du lịch Việt Nam và Báo Gia Lai mô tả nhìn từ xa núi Chư Pao giống như một cây nấm khổng lồ, với nhiều tảng đá lớn có hình thù độc đáo đứng sừng sững giữa nền trời. Chính đặc điểm này giúp núi Chư Pao có giá trị nhận diện hình ảnh mạnh, phù hợp cho dữ liệu du lịch và dataset ảnh nếu thu đúng ảnh.
+
+3. Lịch sử hình thành giá trị địa điểm
+
+Về mặt tự nhiên, Chư Pao và Chư Thoi là các dãy núi tạo nên địa hình cửa ngõ trên đường 14. Chân các dãy núi và các đoạn dốc trên tuyến đường tạo thành điểm xung yếu, nơi phương tiện qua lại dễ bị khống chế từ các điểm cao. Chính địa hình đó khiến nơi đây trở thành vị trí chiến lược trong chiến tranh.
+
+Về mặt lịch sử, trong chiến dịch Xuân - Hè năm 1972, Bộ Tư lệnh chiến dịch tổ chức các tầng chia cắt trên đường 14 để cô lập cụm quân địch ở Kon Tum. Trung đoàn 95 được giao nhiệm vụ cắt đường 14 đoạn từ Ninh Đức đến dãy Chư Thoi - Chư Pao dài gần 20 km, chia cắt Kon Tum với Pleiku. Các địa danh như cầu Ia Tơwe, ngã ba làng Pok, ngã ba Ia Phí, Trà Huỳnh, Đồi Tròn, Chư Thoi, Chư Pao, Chư Dệt đều được nhắc như những điểm thấm máu của chiến sĩ Trung đoàn 95.
+
+Hiện nay, địa phương đã tổ chức khảo sát, lập hồ sơ di tích lịch sử Chiến thắng Chư Thoi - Chư Pao. Điều này cho thấy địa điểm không chỉ là cảnh quan núi đá mà còn là không gian tưởng niệm lịch sử cần được bảo vệ, nghiên cứu và giáo dục truyền thống.
+
+4. Giá trị văn hóa - lịch sử
+
+Giá trị lịch sử của Chư Thoi - Chư Pao rất lớn vì gắn với tuyến đường chiến lược 14, một trục giao thông huyết mạch của Tây Nguyên trong chiến tranh. Nơi đây là vị trí mà lực lượng cách mạng tổ chức chặn đường, chia cắt và kiềm chế các cuộc hành quân tiếp viện giữa Pleiku và Kon Tum. Địa hình núi cao, hang đá, rừng cây và dốc đường giúp khu vực trở thành không gian chiến đấu ác liệt.
+
+Giá trị văn hóa của Chư Pao còn nằm ở ký ức cộng đồng. Người dân dưới chân núi vẫn lưu truyền nhiều câu chuyện về các tảng đá kỳ lạ, hình tượng “ông Phật”, các hang núi, những trận đánh và sự hy sinh của bộ đội. Các câu chuyện này cần được ghi nhận như truyền kể địa phương, không nên diễn giải thành sự kiện lịch sử nếu chưa có nguồn kiểm chứng.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là cảnh quan đá kỳ vĩ trên núi Chư Pao. Nhiều tảng đá có kích thước lớn, hình thù lạ, dựng đứng trên đỉnh núi, tạo nên hình ảnh rất dễ nhận diện. Một số tảng đá được gọi là tượng “ông Phật” do hình dáng gợi liên tưởng khi nhìn từ xa.
+
+Điểm nổi bật thứ hai là giá trị chiến trường. Chư Thoi - Chư Pao gắn với chiến thắng và sự hy sinh của Trung đoàn 95 trong nhiệm vụ cắt đường 14 năm 1972. Đây là lớp thông tin quan trọng nhất khi xây dựng dữ liệu lịch sử cho chatbot.
+
+Điểm nổi bật thứ ba là vị trí cửa ngõ giữa Pleiku và Kon Tum. Dãy núi nằm ở khu vực giáp ranh chiến lược, vừa có cảnh quan, vừa có giao thông, vừa có giá trị lịch sử.
+
+6. Kiến trúc / cảnh quan
+
+Địa điểm không có kiến trúc du lịch nhân tạo nổi bật. Giá trị cảnh quan nằm ở địa hình núi đá, hang đá, cây rừng, sườn núi, dốc đường và không gian làng dưới chân núi. Nếu sau này có bia tưởng niệm hoặc hạng mục di tích, cần cập nhật thêm. Hiện tại, khi mô tả hình ảnh, nên tập trung vào dãy núi, đá tảng, hang đá, đường 14, cảnh làng Ia Khươl/Ia Phí và không gian chiến trường xưa.
+
+7. Các khu vực chính
+
+Khu vực thứ nhất là núi Chư Pao, thường gắn với xã Ia Khươl cũ và xã Ia Khươl hiện nay. Đây là nơi có các tảng đá kỳ vĩ, hang đá và các dấu tích gắn với chiến trường.
+
+Khu vực thứ hai là núi Chư Thoi hoặc Đồi Tròn, gắn với địa bàn Ia Phí. Đây là phần quan trọng trong cụm Chư Thoi - Chư Pao, cần lưu riêng để chatbot không chỉ trả lời mỗi Chư Pao.
+
+Khu vực thứ ba là trục Quốc lộ 14/đường Hồ Chí Minh, đoạn qua dốc Chư Pao, ngã ba Ia Phí, ngã ba làng Pok, cầu Ia Tơwe và các địa danh chiến trường lân cận.
+
+8. Từ khóa mô tả địa điểm
+
+Núi Chư Pao; Chư Pao Gia Lai; Chư Thoi - Chư Pao; Chư Thoi-Chư Pao; núi Chư Thoi; Đồi Tròn; dốc Chư Pao; đường 14; Quốc lộ 14; đường Hồ Chí Minh; xã Ia Khươl; xã Ia Phí; huyện Chư Păh cũ; Gia Lai; Trung đoàn 95; chiến thắng Chư Thoi-Chư Pao; chiến dịch Xuân Hè 1972; cắt đường 14; cầu Ia Tơwe; ngã ba Ia Phí; ngã ba làng Pok; đá ông Phật; tượng đá Chư Pao; hang đá Chư Pao; cảnh quan núi đá; di tích lịch sử cách mạng; Tây Nguyên.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Chư Thoi-Chư Pao: Dấu son trên đường 14”, đăng ngày 18/10/2023.
+- Báo Gia Lai, “Kỳ bí tượng ‘ông Phật’ trên núi Chư Pao”, đăng ngày 23/02/2022.
+- Cổng Thông tin Du lịch Việt Nam, “Kỳ bí tượng ‘ông Phật’ trên núi Chư Pao”, đăng ngày 24/02/2022.
+- Báo Lao Động, “Khám phá vẻ đẹp lạ của những hòn đá kỳ vĩ trên dãy Chư Pao”, đăng ngày 02/03/2022.
+- Báo Gia Lai, “Viết ở Chư Pao”, đăng ngày 27/07/2023.
+- Báo Gia Lai, “Kiêu hãnh Chư Pao!”, đăng ngày 15/04/2015.
+- Cổng thông tin tỉnh Gia Lai, thông tin đơn vị hành chính xã Ia Khươl và xã Ia Phí sau sắp xếp.
+- Cổng thông tin Chính phủ, danh sách 135 xã, phường của tỉnh Gia Lai mới sau sắp xếp năm 2025.
+Ghi chú: Thông tin về tình trạng xếp hạng di tích, đường lên núi, an toàn leo núi, dịch vụ địa phương và khả năng tham quan có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

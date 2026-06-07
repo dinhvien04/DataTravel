@@ -1,0 +1,73 @@
+1. Giới thiệu địa điểm
+
+Đình làng Hữu Thành, thường được gọi ngắn là đình Hữu Thành hoặc đình làng Hữu Thành, là một không gian tín ngưỡng cộng đồng của thôn Hữu Thành, vùng Phước Hòa cũ, Tuy Phước cũ. Theo các nguồn báo chí địa phương, ngôi đình nằm ở xóm Trường Thế, thôn Hữu Thành, ven sông Gò Bồi, sau khu chợ Trường Thế và không xa khu vực di tích Chùa Bà - cảng thị Nước Mặn. Trong bối cảnh hành chính mới sau sắp xếp cấp xã từ năm 2025, khu vực Phước Hòa cũ thuộc xã Tuy Phước Đông, tỉnh Gia Lai; trong nhiều tài liệu cũ hơn vẫn ghi là xã Phước Hòa, huyện Tuy Phước, tỉnh Bình Định. Khi xây dựng chatbot, nên lưu cả hai lớp địa danh này để hệ thống nhận diện đúng câu hỏi của người dùng theo tên cũ hoặc tên mới.
+
+Đây không phải kiểu điểm đến du lịch đại chúng có cổng bán vé, khu dịch vụ lớn hay hoạt động giải trí thương mại. Giá trị chính của đình nằm ở di sản văn hóa làng, tín ngưỡng thờ Thành hoàng bổn cảnh, dấu tích của cộng đồng cư dân ven sông Gò Bồi và mối liên hệ lịch sử với vùng cảng thị Nước Mặn từng sầm uất. Đình hiện được nhắc đến như một điểm văn hóa địa phương còn lưu giữ sắc phong triều Nguyễn, bài vị, liễn thờ cổ và những lễ lệ truyền thống hằng năm.
+
+Với dữ liệu phục vụ Multimodal RAG hoặc chatbot du lịch, đình làng Hữu Thành nên được mô tả như một địa điểm văn hóa - tín ngưỡng quy mô làng, phù hợp với nhóm khách thích tìm hiểu di sản dân gian, lịch sử địa phương, đời sống cộng đồng và cảnh quan thôn quê ven sông. Điểm nhận diện nổi bật là cụm từ “đình làng ven sông Gò Bồi”, “xóm Trường Thế”, “chợ Trường Thế”, “5 sắc phong triều Nguyễn”, “lệ xuân kỳ ngày 16 tháng 2 âm lịch” và “lệ thu tế ngày 16 tháng 8 âm lịch”.
+
+2. Mô tả tổng quan
+
+Đình làng Hữu Thành là một đình làng truyền thống nằm trong không gian nông thôn của vùng Tuy Phước, nơi sông nước, chợ quê, di tích tín ngưỡng và ký ức cảng thị đan xen với nhau. Khu vực quanh đình gắn với chợ Trường Thế, sông Gò Bồi và tuyến giao thương xưa từng nối với cảng thị Nước Mặn. Nhờ bối cảnh đó, đình không chỉ là một nơi thờ tự biệt lập mà còn là một điểm kết nối câu chuyện về cư dân buôn bán, đi lại đường thủy, người Hoa từng sinh sống, làng nghề, chợ quê và các nghi lễ cộng đồng.
+
+Khác với nhiều di tích đã được khai thác du lịch mạnh, đình Hữu Thành giữ dáng vẻ mộc mạc và có phần thầm lặng. Khách đến đây chủ yếu để quan sát kiến trúc đình, tìm hiểu sắc phong, lắng nghe câu chuyện về Thành hoàng bổn cảnh, đi dạo quanh chợ Trường Thế và cảm nhận nhịp sống địa phương. Đây là dạng điểm đến cần sự tôn trọng không gian tín ngưỡng, vì đình vẫn gắn chặt với sinh hoạt của người dân hơn là một khu tham quan chuyên nghiệp.
+
+Theo các nguồn địa phương, đình nằm sau chợ Trường Thế, cách khu di tích Chùa Bà - cảng thị Nước Mặn khoảng 2 km. Vị trí này làm cho đình trở thành một điểm bổ sung hợp lý trong hành trình tìm hiểu văn hóa vùng Gò Bồi - Nước Mặn, đặc biệt nếu khách muốn đi theo chủ đề “dấu xưa cảng thị”, “đình làng Bình Định cũ”, “lễ lệ dân gian Tuy Phước” hoặc “đời sống ven đầm Thị Nại”.
+
+3. Lịch sử hình thành
+
+Tư liệu báo chí địa phương cho biết đình làng Hữu Thành hiện được cho là xây dựng vào khoảng năm 1866. Qua thời gian, ngôi đình đã được xây dựng, tôn tạo và trùng tu nhiều lần. Một thông tin quan trọng được người trong Ban quản lý đình cung cấp là ngôi đình hiện hữu được xây dựng lại năm 1958 và lần trùng tu gần nhất được nhắc tới là năm 2001. Như vậy, khi diễn giải cho chatbot, nên phân biệt giữa lịch sử hình thành của thiết chế đình và hiện trạng kiến trúc đã qua nhiều lần sửa dựng.
+
+Theo câu chuyện địa phương, đình từng có vị trí cũ tại khu vực nay là miếu Tây Định. Do biến động lịch sử, đình được dời về xây dựng lại tại xóm Trường Thế từ năm 1958, còn trên nền đình xưa, người dân dựng miếu thờ thần để tiếp tục duy trì tín ngưỡng. Chi tiết này rất quan trọng vì nó giải thích vì sao ở thôn Hữu Thành có sự song hành giữa không gian đình hiện nay và miếu Tây Định, nhưng sự song hành ấy không tạo chia tách cộng đồng mà cùng hướng về truyền thống uống nước nhớ nguồn.
+
+Một lớp lịch sử đáng chú ý khác là mối liên hệ giữa đình Hữu Thành, chợ Trường Thế và vùng cảng thị Nước Mặn. Theo lời kể được ghi lại, khu vực quanh đình và chợ ngày xưa có nhiều người Hoa sinh sống. Vị trí ven sông Gò Bồi từng là tuyến giao thông đường thủy sầm uất, ghe bầu qua lại tấp nập. Tên “Trường Thế” được giải thích là biến âm từ “Trường Thuế”, nơi thu thuế buôn bán và thuế tàu thuyền qua lại. Dữ liệu này giúp chatbot trả lời các câu hỏi về bối cảnh lịch sử, vì đình không chỉ là nơi thờ tự mà còn nằm trong một không gian kinh tế - văn hóa từng phát triển.
+
+4. Giá trị văn hóa
+
+Giá trị văn hóa nổi bật nhất của đình làng Hữu Thành là vai trò của một thiết chế tín ngưỡng làng xã. Đình là nơi thờ Thành hoàng bổn cảnh, nơi người dân tổ chức lễ cúng theo lệ xuân kỳ, thu tế và một số nghi lễ trong năm. Theo nguồn địa phương, hằng năm nhân dân tổ chức cúng đình theo lệ xuân kỳ vào ngày 16 tháng 2 âm lịch, gắn với lễ Thanh minh; cúng thu tế vào ngày 16 tháng 8 âm lịch; cúng đưa Ông Táo về trời vào ngày 22 tháng Chạp âm lịch; và cúng giao thừa đêm 30 Tết để cầu quốc thái dân an, dân làng ấm no, hạnh phúc.
+
+Đình còn giữ 5 sắc phong triều Nguyễn, gồm các sắc phong thời Tự Đức, Đồng Khánh, Duy Tân và Khải Định. Các sắc phong này đều liên quan tới Thành hoàng bổn cảnh, với các mỹ hiệu như Bảo An, Chánh trực, Hữu thiện, Đôn Ngưng, bổn cảnh Thành hoàng chi thần, sau được gia tặng thêm mỹ hiệu Tĩnh hầu trung đẳng thần dưới thời Khải Định. Đối với chatbot, đây là cụm thông tin then chốt để phân biệt đình Hữu Thành với những đình làng khác trong vùng.
+
+Ngoài thờ tự, đình còn là nơi cố kết cộng đồng. Người dân địa phương từng đóng góp tiền của, công sức làm xe rồng có rơ moóc, mua sắm trống, cờ, chiêng để tại đình và lập Hội nghĩa táng trong thôn. Khi trong thôn có người mất, cộng đồng cùng lo việc đưa tiễn, thể hiện tinh thần tương trợ. Vì vậy, giá trị của đình không chỉ nằm ở kiến trúc hay hiện vật cổ, mà còn nằm trong cách cộng đồng tổ chức đời sống tinh thần, giữ gìn nghĩa tình làng xóm và duy trì nếp văn hóa truyền đời.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là hệ thống 5 sắc phong triều Nguyễn còn được lưu giữ tại đình. Đây là bằng chứng vật chất quan trọng cho thấy tín ngưỡng thờ Thành hoàng bổn cảnh ở Hữu Thành đã được triều đình nhà Nguyễn công nhận và cho phép thờ phụng theo lệ cũ. Sắc phong không chỉ có giá trị văn bản mà còn là ký ức chính thống hóa tín ngưỡng dân gian của làng.
+
+Điểm nổi bật thứ hai là vị trí của đình trong vùng Gò Bồi - Nước Mặn. Đình nằm ven sông, gần chợ Trường Thế, cách khu Chùa Bà - cảng thị Nước Mặn khoảng 2 km. Khi đi thực địa, khách có thể cảm nhận cùng lúc ba lớp không gian: đình làng, chợ quê và dấu tích cảng thị. Đây là lợi thế lớn cho các tuyến tham quan chuyên đề, dù đình chưa phải điểm du lịch đại trà.
+
+Điểm nổi bật thứ ba là các lễ lệ dân gian còn duy trì. Lễ xuân kỳ gắn với Thanh minh ngày 16 tháng 2 âm lịch, lễ thu tế ngày 16 tháng 8 âm lịch và các nghi thức cuối năm tạo ra nhịp sinh hoạt văn hóa đều đặn. Trong một số dịp, ngoài phần lễ còn có hoạt động hội như đánh bài chòi dân gian, giúp không khí cộng đồng thêm vui tươi. Thông tin về thời điểm lễ hội có thể thay đổi theo từng năm, cần kiểm tra lại với người dân địa phương hoặc chính quyền xã trước khi đi.
+
+6. Kiến trúc / cảnh quan
+
+Kiến trúc đình Hữu Thành được các nguồn địa phương mô tả là còn giữ nét cổ kính của đình làng Việt dù đã qua nhiều lần xây dựng và trùng tu. Nguồn báo chí không cung cấp đầy đủ số đo, sơ đồ mặt bằng hoặc mô tả chi tiết từng cấu kiện kiến trúc, vì vậy không nên diễn giải quá mức như thể đã có hồ sơ kiến trúc chính thức. Cách mô tả phù hợp là nhấn mạnh đây là một kiến trúc tín ngưỡng dân gian, có không gian thờ tự, bài vị, liễn thờ cổ và nơi lưu giữ sắc phong.
+
+Cảnh quan quanh đình gắn với chợ Trường Thế và sông Gò Bồi. Chợ Trường Thế từng được nhắc tới với kiến trúc mái vòm kiểu nhà xưa và một giếng cổ xây bằng đá ong, có mạch nước ngầm chảy quanh năm, không bị nhiễm phèn, nhiễm mặn hay khô cạn theo lời kể trong nguồn địa phương. Những chi tiết xung quanh này làm cho trải nghiệm ở đình không chỉ là nhìn một công trình thờ tự mà còn là quan sát một mảng không gian làng cổ.
+
+Với chatbot nhận diện bằng hình ảnh, nếu có ảnh đầu vào, các đặc điểm có thể giúp suy đoán là: công trình đình trong khu dân cư nông thôn, không gian thờ truyền thống, biển tên hoặc chữ liên quan Hữu Thành nếu có, bối cảnh chợ Trường Thế hoặc vùng ven sông Gò Bồi. Tuy nhiên, do chưa có bộ ảnh chính thức trong dữ liệu này, hệ thống không nên nhận diện chỉ dựa vào hình dáng chung của đình làng, vì nhiều đình Việt Nam có dáng kiến trúc tương tự.
+
+7. Các khu vực chính
+
+Khu vực chính đầu tiên là không gian đình hiện tại ở xóm Trường Thế. Đây là nơi thờ Thành hoàng bổn cảnh, lưu giữ sắc phong, bài vị, liễn thờ cổ và tổ chức các nghi lễ cộng đồng trong năm. Khi khách đến tham quan, khu vực này cần được xem là không gian linh thiêng, nên ăn mặc lịch sự, nói chuyện nhỏ nhẹ và xin phép người trông coi nếu muốn chụp ảnh hoặc hỏi thêm về sắc phong.
+
+Khu vực thứ hai là chợ Trường Thế nằm gần đình. Chợ không phải là một phần của đình, nhưng là một điểm cảnh quan - sinh hoạt quan trọng để hiểu bối cảnh của đình. Câu chuyện tên Trường Thế từ Trường Thuế, liên quan đến hoạt động thu thuế buôn bán và tàu thuyền xưa, giúp giải thích vì sao nơi đây từng có vai trò trong tuyến giao thương đường thủy. Khách có thể ghé chợ để cảm nhận nhịp sống địa phương, nhưng nên tôn trọng sinh hoạt buôn bán của người dân.
+
+Khu vực thứ ba là miếu Tây Định, được nhắc đến như nơi dựng trên nền đình xưa. Đây là điểm gợi mở cho câu chuyện di dời đình vào năm 1958 và sự tiếp nối tín ngưỡng tại thôn Hữu Thành. Nếu khách có thời gian và được người địa phương hướng dẫn, có thể kết hợp tìm hiểu đình hiện tại và miếu Tây Định để thấy sự liên tục của không gian thờ thần trong cộng đồng.
+
+Khu vực thứ tư là vùng phụ cận Gò Bồi - Nước Mặn, gồm sông Gò Bồi, di tích Chùa Bà - cảng thị Nước Mặn, các điểm sinh thái ven đầm Thị Nại và làng hoa Bình Lâm. Những điểm này không nằm trong khuôn viên đình nhưng rất phù hợp để mở rộng hành trình tham quan văn hóa - sinh thái - làng nghề ở Tuy Phước cũ.
+
+8. Từ khóa mô tả địa điểm
+
+Từ khóa định danh cơ bản: Đình làng Hữu Thành, đình Hữu Thành, Hữu Thành communal house, thôn Hữu Thành, xóm Trường Thế, xã Phước Hòa cũ, xã Tuy Phước Đông, huyện Tuy Phước cũ, Bình Định cũ, tỉnh Gia Lai hiện nay.
+
+Từ khóa lịch sử - văn hóa: Thành hoàng bổn cảnh, 5 sắc phong triều Nguyễn, sắc phong Tự Đức, sắc phong Đồng Khánh, sắc phong Duy Tân, sắc phong Khải Định, Bảo An, Chánh trực, Hữu thiện, Đôn Ngưng, Tĩnh hầu trung đẳng thần, lễ xuân kỳ, lễ thu tế, Thanh minh, cúng đình, đình làng ven sông, tín ngưỡng dân gian.
+
+Từ khóa không gian - du lịch: sông Gò Bồi, chợ Trường Thế, chợ Trường Thuế, cảng thị Nước Mặn, Chùa Bà Nước Mặn, Gò Bồi, Tuy Phước, đầm Thị Nại, Cồn Chim, làng hoa Bình Lâm, du lịch văn hóa, du lịch nông thôn, di sản làng xã, điểm đến ít thương mại hóa.
+
+Từ khóa trải nghiệm: tham quan đình làng, tìm hiểu sắc phong, nghe chuyện làng cổ, xem lễ Thanh minh, xem thu tế, chụp ảnh kiến trúc cổ, đi chợ quê, kết hợp tuyến Gò Bồi - Nước Mặn, trải nghiệm nếp sống cộng đồng, tìm hiểu lịch sử người Hoa và giao thương đường thủy.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo chính: Báo Gia Lai, bài “Những trầm tích văn hóa ở đình làng Hữu Thành”, đăng ngày 09/11/2024, https://baogialai.com.vn/nhung-tram-tich-van-hoa-o-dinh-lang-huu-thanh-post342398.html; Báo Gia Lai, bài “Lễ Thanh minh - nét đẹp nhân văn từ những xóm làng”, đăng ngày 06/04/2026, https://baogialai.com.vn/le-thanh-minh-net-dep-nhan-van-tu-nhung-xom-lang-post584084.html; Cổng Du lịch Quy Nhơn - Bình Định, bài “Lễ hội Chùa Bà - Cảng thị Nước Mặn”, đăng ngày 27/02/2025, https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3679&t=ba-temple-festival-nuoc-man-port; Cổng Du lịch Quy Nhơn - Bình Định, bài “Sôi nổi hội đua thuyền sông Gò Bồi – Tuy Phước”, đăng ngày 31/01/2025, https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3637; Cổng Du lịch Quy Nhơn - Bình Định, bài “Bình Định: Phát triển du lịch nông thôn tại Làng nghề trồng hoa Bình Lâm”, đăng ngày 18/02/2025, https://dulichquynhon.binhdinh.gov.vn/vi/detailnews/?id=news_3668; Thư viện Pháp luật, bài tổng hợp Nghị quyết 1664/NQ-UBTVQH15 về sắp xếp đơn vị hành chính cấp xã tỉnh Gia Lai năm 2025, https://thuvienphapluat.vn/phap-luat/danh-sach-cac-don-vi-hanh-chinh-cua-huyen-tuy-phuoc-tinh-binh-dinh-cu-sau-sap-duoc-quy-dinh-nhu-the-709921-225634.html; Cục Du lịch Quốc gia Việt Nam, bài “Trải nghiệm Cồn Chim (Bình Định)”, https://vietnamtourism.gov.vn/post/41289.
+
+Ghi chú: Dữ liệu hành chính có thể thay đổi theo các đợt sắp xếp đơn vị hành chính. Khi dùng cho chatbot thực tế, nên lưu cả tên địa danh cũ và mới để tránh bỏ sót truy vấn của người dùng. Các thông tin về lễ lệ, giờ đón khách, khả năng vào bên trong đình và tình trạng hồ sơ di tích là thông tin tham khảo, cần kiểm tra lại trước khi đi.

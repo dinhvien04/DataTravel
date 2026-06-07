@@ -1,0 +1,60 @@
+1. Câu hỏi thường gặp
+
+Q: Đài Phát thanh Quy Nhơn trong dữ liệu này là gì?
+A: Đây là di tích lịch sử gắn với các trận đánh trong Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 tại nội thị Quy Nhơn, không phải cơ quan phát thanh hiện nay.
+
+Q: Địa điểm này nằm ở đâu?
+A: Nguồn hiện có gắn địa điểm với nội thị Quy Nhơn, Bình Định cũ. Sau sắp xếp năm 2025, khu vực Quy Nhơn thuộc tỉnh Gia Lai. Vị trí cấp phường chính xác cần kiểm tra hồ sơ địa phương.
+
+Q: Đài Phát thanh Quy Nhơn có vai trò gì trong Mậu Thân 1968?
+A: Đây là một mục tiêu thông tin - tuyên truyền quan trọng trong đô thị Quy Nhơn. Việc đánh vào Đài Phát thanh có ý nghĩa quân sự, chính trị và tâm lý trong chiến tranh đô thị.
+
+Q: Nguồn nào nói nơi đây có trận đánh quyết liệt?
+A: Báo Gia Lai chú thích ảnh rằng Đài Phát thanh Quy Nhơn là nơi diễn ra nhiều trận đánh quyết liệt trong chiến dịch Xuân Mậu Thân 1968.
+
+Q: Đài Phát thanh Quy Nhơn có bị đánh sập không?
+A: Tài liệu “Bình Định - Lịch sử chiến tranh nhân dân 30 năm (1945-1975)” ghi Đài Phát thanh Quy Nhơn bị Quân giải phóng đánh sập trong cuộc Tổng tiến công Tết Mậu Thân 1968.
+
+Q: Các chiến sĩ đã làm chủ đài bao lâu?
+A: Theo tài liệu lịch sử Bình Định, từ ngày 31/01 đến 07/02/1968, các chiến sĩ tiểu đoàn đặc công chiếm giữ Đài Phát thanh và một số nhà cao tầng ở khu 1, khu 2, chiến đấu ngoan cường và làm chủ Đài Phát thanh 7 ngày liền.
+
+Q: Có nhân vật nào được nhắc trong trận đánh không?
+A: Tài liệu lịch sử Bình Định có nhắc đồng chí Nguyễn Khuông trong lực lượng chiến đấu tại khu vực Đài Phát thanh.
+
+Q: Di tích này có phải Đài Phát thanh - Truyền hình Bình Định không?
+A: Không. Cần phân biệt di tích Đài Phát thanh Quy Nhơn thời Mậu Thân 1968 với cơ quan Đài Phát thanh - Truyền hình Bình Định hoặc các cơ quan báo chí - phát thanh hiện nay.
+
+Q: Có mất vé tham quan không?
+A: Hiện chưa thấy nguồn chính thức công bố vé tham quan cố định. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Có giờ mở cửa không?
+A: Chưa thấy nguồn chính thức ổn định về giờ mở cửa. Nếu là bia di tích ngoài trời, nên đi ban ngày; nếu nằm trong khu vực có quản lý, cần tuân thủ quy định tại chỗ.
+
+Q: Nên tham quan vào thời điểm nào?
+A: Nên đi ban ngày. Các dịp kỷ niệm Xuân Mậu Thân, 30/4, 27/7, 22/12 hoặc hoạt động giáo dục truyền thống rất phù hợp.
+
+Q: Có nên đưa vào dữ liệu RAG không?
+A: Có. Đây là địa điểm có nhiều câu hỏi lịch sử: Mậu Thân 1968, đài phát thanh, chiến tranh đô thị, đặc công, nội thị Quy Nhơn, khu 1, khu 2 và ký ức Bình Định.
+
+Q: Ảnh nào nên dùng cho dataset?
+A: Nên dùng ảnh bia di tích, bảng chú thích, khu vực di tích hoặc ảnh tư liệu cũ có chú thích rõ là Đài Phát thanh Quy Nhơn.
+
+Q: Ảnh nào không nên dùng?
+A: Không nên dùng ảnh trụ sở đài truyền hình hiện đại, ảnh cơ quan báo chí hiện nay hoặc ảnh đài phát thanh ở địa phương khác.
+
+Q: Câu mô tả ngắn là gì?
+A: Đài Phát thanh Quy Nhơn là di tích lịch sử gắn với các trận đánh ác liệt trong Xuân Mậu Thân 1968 tại nội thị Quy Nhơn, nơi các chiến sĩ đặc công từng bám trụ nhiều ngày và địa điểm đài cũ bị đánh sập trong chiến sự.
+
+2. Thông tin cập nhật mới
+
+Cần lưu lớp hành chính cũ và mới: Quy Nhơn, Bình Định cũ; nay thuộc tỉnh Gia Lai sau sắp xếp năm 2025. Phường Quy Nhơn mới được hình thành từ các phường cũ Hải Cảng, Thị Nại, Trần Phú và Đống Đa, nhưng vị trí cấp phường chính xác của di tích cần kiểm tra hồ sơ địa phương.
+
+3. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Dấu ấn thao lược của Đảng”, đăng ngày 13/02/2018, có chú thích ảnh: Đài Phát thanh Quy Nhơn là nơi diễn ra nhiều trận đánh quyết liệt trong chiến dịch Xuân Mậu Thân 1968.
+- Sách/PDF “Bình Định - Lịch sử chiến tranh nhân dân 30 năm (1945-1975)”, phần viết về Tổng tiến công Tết Mậu Thân 1968 tại Quy Nhơn, có nhắc các chiến sĩ đặc công chiếm giữ Đài Phát thanh Quy Nhơn nhiều ngày và đài bị đánh sập.
+- Một số tư liệu ảnh cũ về Quy Nhơn năm 1968-1969 ghi cảnh Đài Phát thanh Quy Nhơn sau chiến sự.
+- Thư Viện Pháp Luật, thông tin danh sách các phường mới của thành phố Quy Nhơn thuộc Bình Định cũ sau sắp xếp từ 01/07/2025 theo Nghị quyết 1664/NQ-UBTVQH15.
+- VOV và các nguồn chính thống về kỷ niệm 50 năm Ngày giải phóng tỉnh Bình Định, dùng làm bối cảnh lịch sử Quy Nhơn - Bình Định.
+Ghi chú: Thông tin về vị trí chính xác của bia di tích, hiện trạng điểm di tích, đơn vị quản lý, giờ mở cửa, hoạt động tưởng niệm và tình trạng xếp hạng có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại với cơ quan văn hóa địa phương trước khi đi hoặc trước khi dùng trong hồ sơ chính thức.

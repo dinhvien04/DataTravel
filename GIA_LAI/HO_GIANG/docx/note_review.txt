@@ -1,0 +1,40 @@
+7. note_review.txt - Hố Giang
+
+7.1. Lưu ý chung
+Hố Giang là địa điểm có tính khám phá và thông tin du lịch chưa đại chúng. Trước khi đi, cần kiểm tra đường, thời tiết và hỏi người địa phương. Không nên xem đây là điểm du lịch có đầy đủ dịch vụ như Eo Gió, Kỳ Co hoặc các khu du lịch nổi tiếng ở Quy Nhơn.
+
+Điểm cần nhấn mạnh trong dữ liệu là sự kết hợp giữa hồ, suối đá, cảnh quan núi và Hòn đá Chữ. Đây là lợi thế nhận diện nhưng cũng tạo yêu cầu bảo vệ di tích. Du khách không nên chạm, vẽ, cạo, tô màu hoặc làm nổi chữ trên đá.
+
+7.2. Quy định và điều cấm nên khuyến nghị
+Không xả rác trong khu vực hồ, suối và bãi đá. Không đốt lửa nếu không có khu vực cho phép. Không tắm ở nơi nước sâu hoặc dòng chảy nguy hiểm. Không đi vào khu vực công trình thủy lợi nếu có biển cấm. Không tự ý khai thác, di chuyển, đục đẽo hoặc làm thay đổi hiện trạng tảng đá có chữ cổ.
+
+Nếu địa điểm có biển báo của cơ quan quản lý hồ chứa, cần tuân thủ. Nếu đi theo nhóm nghiên cứu, nên ghi nhận thông tin bằng ảnh và ghi chú, không lấy mẫu vật hoặc tác động vào bề mặt đá.
+
+7.3. Mức độ đông khách
+Hố Giang không phải điểm du lịch đông khách phổ biến. Lượng người đến có thể chủ yếu là người địa phương, người thích khám phá hoặc nhóm quan tâm đến Hòn đá Chữ. Ưu điểm là không quá ồn ào và còn giữ vẻ hoang sơ. Nhược điểm là thiếu dịch vụ, ít biển chỉ dẫn và khó tìm đường.
+
+7.4. Độ an toàn
+Các rủi ro chính gồm đường đá trơn, đường dốc, thời tiết thay đổi, khu vực hồ nước sâu, sóng điện thoại yếu và thiếu người hỗ trợ tại chỗ. Không nên đi một mình. Không nên đi khi trời tối hoặc mưa lớn. Cần mang giày thể thao hoặc giày leo nhẹ, nước uống và điện thoại đầy pin.
+
+Nếu đi cùng trẻ nhỏ, cần giám sát chặt vì khu vực đá và hồ nước có thể nguy hiểm. Nếu đi cùng người lớn tuổi, chỉ nên tham quan phần dễ tiếp cận.
+
+7.5. Khả năng tiếp cận
+Khả năng tiếp cận của Hố Giang có thể không thuận lợi cho xe lớn, xe lăn hoặc người hạn chế vận động. Đường vào một số điểm có thể là đường nhỏ, đường mòn hoặc phải đi bộ. Vì vậy, chatbot nên khuyến nghị kiểm tra đường trước khi đi và không hứa rằng địa điểm dễ tiếp cận.
+
+7.6. Review tổng hợp
+Ấn tượng tích cực của Hố Giang là cảm giác hoang sơ, khác biệt và có chiều sâu văn hóa. Cảnh hồ, đá, núi và câu chuyện chữ Chăm cổ tạo nên điểm nhấn hiếm. Đây là nơi phù hợp cho người muốn tìm địa điểm ít người biết, có tư liệu để kể chuyện và có thể tạo nội dung du lịch khám phá.
+
+Điểm hạn chế là thông tin du lịch ít, dịch vụ hạn chế, đường vào có thể khó và chưa có dữ liệu vé, giờ mở cửa rõ ràng. Do đó, Hố Giang không nên được quảng bá như điểm vui chơi dễ đi cho mọi đối tượng. Cách mô tả phù hợp là “điểm cảnh quan và dấu tích văn hóa dành cho người thích khám phá, cần chuẩn bị kỹ.”
+
+7.7. Ưu điểm
+Ưu điểm nổi bật là cảnh quan tự nhiên còn thô mộc, có hồ và suối đá, ít đông đúc, có câu chuyện Hòn đá Chữ liên quan đến chữ Chăm cổ, phù hợp làm dữ liệu RAG về di sản văn hóa ít phổ biến.
+
+7.8. Nhược điểm
+Nhược điểm là thiếu dịch vụ, khó định vị, chưa có thông tin vé và giờ mở cửa rõ, cần hỏi người địa phương, có rủi ro đường đá và hồ nước, không phù hợp với đoàn đông hoặc du khách cần tiện nghi.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

@@ -1,0 +1,44 @@
+1. overview.txt - Hố Giang
+
+1.1. Giới thiệu địa điểm
+Hố Giang là một địa danh gắn với vùng núi, suối đá và hồ chứa nước thuộc khu vực Hoài Châu, Hoài Nhơn. Trong các nguồn hành chính cũ, địa điểm này thường được ghi là hồ chứa nước Hố Giang, xã Hoài Châu, huyện hoặc thị xã Hoài Nhơn, tỉnh Bình Định. Trong bộ dữ liệu du lịch Gia Lai sau sáp nhập, có thể ghi địa danh này theo tỉnh Gia Lai, đồng thời chú thích nguồn cũ dùng địa danh hành chính Bình Định để tránh nhầm lẫn.
+
+Hố Giang không phải là điểm du lịch đại chúng theo kiểu khu vui chơi hoàn chỉnh. Giá trị chính của địa điểm nằm ở không gian tự nhiên còn khá thô mộc, địa hình suối đá, hồ nước, bối cảnh núi rừng và đặc biệt là câu chuyện văn hóa khảo cổ liên quan đến Hòn đá Chữ, một tảng đá lớn có khắc chữ Chăm cổ được phát hiện trong khu vực Hố Giang. Vì vậy, khi xây dữ liệu cho chatbot du lịch, Hố Giang nên được nhận diện vừa là điểm cảnh quan tự nhiên, vừa là điểm có yếu tố di sản văn hóa Champa.
+
+1.2. Mô tả tổng quan
+Không gian Hố Giang có thể hình dung gồm khu vực hồ chứa, đường vào vùng suối, các bãi đá lớn nhỏ và khung cảnh núi thấp bao quanh. Dữ liệu báo chí mô tả đường tiếp cận khu vực Hòn đá Chữ phải đi qua đoạn dốc đá, đường mòn hoặc lối đi trong vùng núi. Điều này cho thấy địa điểm phù hợp hơn với nhóm du khách thích khám phá, khảo sát, chụp ảnh tư liệu, tìm hiểu dấu tích cổ và trải nghiệm thiên nhiên, hơn là nhóm cần dịch vụ du lịch đầy đủ.
+
+Điểm đáng chú ý nhất ở Hố Giang là Hòn đá Chữ. Theo các bài viết về phát hiện bia đá cổ Champa, tảng đá này có kích thước lớn, nằm trong khu vực núi đá gần Hố Giang và trên bề mặt có các dòng ký tự cổ. Nhiều nguồn mô tả văn tự trên đá là chữ Chăm cổ, có giá trị nghiên cứu lịch sử, văn hóa và tín ngưỡng Champa. Khi giới thiệu địa điểm, không nên chỉ ghi Hố Giang là hồ hoặc suối, mà nên gắn với cụm từ khóa: Hố Giang, Hòn đá Chữ, bia đá Chăm, suối đá Hoài Châu, cảnh quan núi đá Hoài Nhơn.
+
+1.3. Lịch sử hình thành và bối cảnh văn hóa
+Về mặt cảnh quan, Hố Giang gắn với điều kiện tự nhiên của khu vực trung du ven núi phía bắc Hoài Nhơn. Hồ chứa nước Hố Giang được nhắc trong các văn bản hành chính liên quan đến thủy lợi, kênh tưới và vận hành hồ chứa. Điều này cho thấy địa danh Hố Giang đồng thời là một không gian tự nhiên và một công trình phục vụ đời sống sản xuất nông nghiệp địa phương.
+
+Về mặt văn hóa, Hố Giang được chú ý rộng rãi hơn sau khi có thông tin về Hòn đá Chữ. Dấu tích chữ Chăm cổ trên đá khiến khu vực này có liên hệ với lịch sử Champa ở Bình Định cũ. Bình Định là vùng có nhiều di tích Chăm nổi tiếng như tháp Bánh Ít, tháp Dương Long, tháp Cánh Tiên, tháp Bình Lâm và nhiều phế tích khác. Vì vậy, Hố Giang có thể bổ sung một lớp dữ liệu đặc biệt cho hệ thống RAG: không chỉ là nơi tham quan tự nhiên mà còn là đầu mối để chatbot trả lời câu hỏi về dấu tích Champa ngoài hệ thống tháp cổ.
+
+1.4. Giá trị văn hóa
+Giá trị văn hóa nổi bật của Hố Giang nằm ở khả năng kết nối giữa cảnh quan tự nhiên và câu chuyện khảo cổ. Hòn đá Chữ giúp địa danh này có chiều sâu hơn so với một điểm suối đá thông thường. Dữ liệu về các ký tự cổ, quá trình giải mã, giả thuyết về niên đại và bối cảnh Champa có thể dùng để tạo các câu trả lời giàu thông tin cho chatbot.
+
+Tuy nhiên, khi xây dữ liệu, cần phân biệt rõ giữa thông tin đã được nguồn đáng tin cậy công bố và thông tin dân gian hoặc suy đoán. Những dữ liệu như “bia đá Chăm cổ”, “tảng đá nặng hàng chục tấn”, “khu vực Hố Giang” có thể dùng làm thông tin nền. Các chi tiết chuyên sâu về nội dung văn bia, niên đại chính xác hoặc ý nghĩa từng dòng chữ nên ghi kèm lưu ý rằng cần đối chiếu thêm với công bố chuyên môn.
+
+1.5. Điểm nổi bật
+Điểm nổi bật thứ nhất là cảnh quan suối đá và hồ nước trong vùng núi Hoài Châu. Không gian này phù hợp để giới thiệu như một điểm đến hoang sơ, ít thương mại hóa và có cảm giác khám phá.
+
+Điểm nổi bật thứ hai là Hòn đá Chữ. Đây là chi tiết giúp Hố Giang khác biệt với nhiều hồ, suối hoặc thác nhỏ khác. Khi người dùng hỏi “Hố Giang có gì đặc biệt?”, chatbot nên ưu tiên trả lời về sự kết hợp giữa thiên nhiên và dấu tích chữ Chăm cổ.
+
+Điểm nổi bật thứ ba là vị trí trong cụm di sản phía bắc Hoài Nhơn. Hố Giang có thể liên kết tuyến tham quan với các điểm như Hoài Châu, Tam Quan, Hoài Nhơn, các làng biển phía bắc tỉnh và hệ thống di tích Chăm ở Bình Định cũ.
+
+1.6. Kiến trúc và cảnh quan
+Hố Giang không có kiến trúc du lịch nhân tạo nổi bật như các khu nghỉ dưỡng hoặc đền tháp. Cảnh quan chính là hồ chứa, khe suối, đá tự nhiên, sườn núi và cây rừng. Nếu đưa vào dữ liệu nhận diện ảnh, cần ưu tiên hình ảnh có hồ nước, bờ đá, đường mòn núi, tảng đá khắc chữ hoặc khung cảnh suối đá. Không nên dùng ảnh tháp Chăm khác để đại diện cho Hố Giang vì sẽ gây nhầm với các tháp Bình Định.
+
+1.7. Các khu vực chính
+Khu vực hồ chứa nước Hố Giang là phần dễ định vị nhất trong các nguồn hành chính. Khu vực suối đá và đường lên Hòn đá Chữ là phần có giá trị du lịch khám phá. Khu vực núi và cây rừng xung quanh tạo bối cảnh cảnh quan. Nếu tổ chức dữ liệu ảnh, có thể chia thành ba nhóm: ảnh hồ nước, ảnh suối đá, ảnh Hòn đá Chữ hoặc dấu tích chữ cổ.
+
+1.8. Từ khóa mô tả địa điểm
+Hố Giang; hồ chứa nước Hố Giang; Hoài Châu; Hoài Nhơn; Gia Lai sau sáp nhập; Bình Định cũ; Hòn đá Chữ; bia đá Chăm; chữ Chăm cổ; dấu tích Champa; suối đá; hồ nước; núi đá; điểm hoang sơ; du lịch khám phá; khảo cổ; di sản văn hóa.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

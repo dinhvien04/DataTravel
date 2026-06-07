@@ -1,0 +1,37 @@
+5. service.txt - Hố Giang
+
+5.1. Dịch vụ tại điểm
+Hố Giang hiện không nên được mô tả như khu du lịch có hệ thống dịch vụ hoàn chỉnh. Các tiện ích như cổng vào, quầy vé, khu vệ sinh, bãi đỗ xe lớn, nhà hàng hoặc hướng dẫn viên cố định có thể không có hoặc không ổn định. Đây là điểm cần ghi rõ để chatbot không tạo kỳ vọng sai cho người dùng.
+
+Nếu du khách đến với mục tiêu khám phá tự nhiên hoặc tìm hiểu Hòn đá Chữ, cần chuẩn bị như một chuyến đi thực địa ngắn. Nên mang nước, đồ ăn nhẹ, túi rác cá nhân, thuốc cơ bản, điện thoại đầy pin và giày phù hợp. Không nên phụ thuộc vào việc sẽ mua được đồ ngay tại điểm.
+
+5.2. Ăn uống
+Khu vực Hố Giang có thể không có hàng quán phục vụ du lịch ngay tại nơi tham quan. Du khách nên ăn trước tại khu dân cư, trung tâm Hoài Nhơn hoặc chuẩn bị đồ ăn nhẹ. Nếu đi từ Quy Nhơn, nên mua nước uống và thức ăn trước khi vào khu vực Hoài Châu.
+
+Khi ăn uống trong khu vực tự nhiên, cần mang rác ra ngoài. Không để lại chai nhựa, túi nilon, hộp xốp hoặc đồ ăn thừa ở suối, hồ và bãi đá. Điều này đặc biệt quan trọng vì Hố Giang có yếu tố cảnh quan hoang sơ và có thể có dấu tích văn hóa cần bảo vệ.
+
+5.3. Đặc sản gợi ý gần khu vực
+Nếu kết hợp chuyến đi với khu vực Hoài Nhơn, có thể tìm các món ăn địa phương của vùng Bình Định cũ như bún chả cá, bánh hỏi, bánh xèo, nem chợ Huyện, các món hải sản nếu đi tiếp về phía biển Tam Quan hoặc Hoài Hương. Tuy nhiên, không nên gắn các món này trực tiếp là “đặc sản tại Hố Giang” nếu không có cơ sở cụ thể.
+
+Chatbot nên trả lời theo hướng: “Tại Hố Giang dịch vụ ăn uống hạn chế; bạn nên ăn ở khu vực Hoài Nhơn hoặc mang theo đồ ăn nhẹ.”
+
+5.4. Lưu trú
+Hố Giang không phải nơi có lưu trú du lịch ngay tại điểm. Người đi xa nên lưu trú ở trung tâm Hoài Nhơn, Tam Quan hoặc Quy Nhơn tùy kế hoạch. Nếu mục tiêu là khảo sát buổi sáng, có thể ngủ tại Hoài Nhơn đêm trước để giảm thời gian di chuyển.
+
+Với khách du lịch phổ thông, lưu trú ở Quy Nhơn sẽ tiện hơn vì có nhiều khách sạn, nhà hàng và dịch vụ. Với nhóm nghiên cứu hoặc nhóm chụp ảnh cần đến sớm, lưu trú gần Hoài Nhơn có thể hợp lý hơn.
+
+5.5. Tiện ích hỗ trợ
+Các tiện ích như nhà vệ sinh, wifi, điểm sạc pin, gửi xe có thể không sẵn có tại khu vực vào Hố Giang. Nên chuẩn bị trước pin dự phòng, dữ liệu di động, bản đồ ngoại tuyến và tiền mặt. Nếu gửi xe ở nhà dân hoặc điểm dân cư, nên hỏi rõ và giữ gìn trật tự.
+
+5.6. Dịch vụ hướng dẫn
+Do Hố Giang có đường vào tự nhiên và có yếu tố Hòn đá Chữ không dễ định vị, người địa phương là nguồn hỗ trợ quan trọng. Nên hỏi trưởng thôn, người dân gần khu vực hồ chứa hoặc người từng dẫn đường. Nếu đi theo mục tiêu nghiên cứu, nên liên hệ trước với đơn vị văn hóa địa phương nếu có thể.
+
+5.7. Mức độ phù hợp cho nhóm đông
+Không nên tổ chức đoàn quá đông vào Hố Giang nếu chưa khảo sát đường. Đường nhỏ, dịch vụ hạn chế và nguy cơ tác động đến cảnh quan khiến địa điểm phù hợp hơn với nhóm nhỏ. Nếu tổ chức hoạt động giáo dục hoặc ngoại khóa, cần có kế hoạch an toàn, người phụ trách, danh sách vật dụng, phương án liên lạc và quy định không tác động vào di tích.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

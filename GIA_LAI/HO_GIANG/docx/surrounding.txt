@@ -1,0 +1,35 @@
+6. surrounding.txt - Hố Giang
+
+6.1. Địa điểm gần có thể kết hợp
+Hố Giang nằm trong khu vực Hoài Nhơn, vì vậy có thể kết hợp với các điểm thuộc vùng phía bắc Bình Định cũ, nay trong dữ liệu dự án có thể gán theo tỉnh Gia Lai sau sáp nhập. Các điểm có thể cân nhắc theo tuyến gồm khu vực Tam Quan, Hoài Hương, các làng biển phía bắc Hoài Nhơn hoặc những điểm di tích Champa ở Bình Định cũ nếu xây tuyến văn hóa rộng hơn.
+
+Nếu người dùng quan tâm đến di sản Champa, Hố Giang nên được đặt trong tuyến nội dung cùng các tháp Chăm như tháp Bình Lâm, tháp Bánh Ít, tháp Dương Long, tháp Cánh Tiên hoặc các phế tích tháp khác. Hố Giang khác các tháp này vì nổi bật ở dấu tích chữ khắc trên đá trong bối cảnh tự nhiên.
+
+6.2. Kết hợp tuyến thiên nhiên
+Với nhóm thích thiên nhiên, Hố Giang có thể là một điểm dừng ngắn trong hành trình khám phá phía bắc Hoài Nhơn. Sau khi tham quan hồ, suối đá hoặc khu vực Hòn đá Chữ, có thể quay lại khu dân cư để ăn uống, sau đó đi tiếp về hướng biển nếu còn thời gian.
+
+Tuyến thiên nhiên nên thiết kế nhẹ, không quá tham nhiều điểm vì thời gian di chuyển từ Quy Nhơn khá dài. Nếu đi trong ngày, chỉ nên chọn một đến hai điểm chính để đảm bảo an toàn.
+
+6.3. Kết hợp tuyến văn hóa Champa
+Hố Giang có giá trị khi đặt cạnh câu chuyện Champa ở Bình Định cũ. Nếu chatbot được hỏi “Hố Giang liên quan gì đến văn hóa Chăm?”, có thể trả lời rằng khu vực này được nhắc đến trong các bài viết về Hòn đá Chữ, một tảng đá có chữ Chăm cổ, qua đó bổ sung thêm loại hình dấu tích Champa ngoài các tháp gạch nổi tiếng.
+
+Tuyến văn hóa có thể bắt đầu bằng giới thiệu tổng quan Champa ở Bình Định cũ, sau đó nói đến hệ thống tháp, rồi mở rộng sang dấu tích chữ khắc Hố Giang. Cách làm này giúp người dùng hiểu rằng di sản Champa không chỉ là kiến trúc tháp mà còn có văn bia, ký tự, địa danh và cảnh quan gắn với lịch sử.
+
+6.4. Sự kiện và lễ hội
+Hiện chưa có thông tin phổ biến về lễ hội riêng tại Hố Giang. Không nên tự gán lễ hội cho địa điểm nếu không có nguồn. Nếu người dùng hỏi về lễ hội, nên trả lời rằng Hố Giang chưa được biết đến với lễ hội du lịch riêng; người dùng có thể kết hợp tìm hiểu các sinh hoạt văn hóa của khu vực Hoài Nhơn hoặc các lễ hội truyền thống Bình Định cũ.
+
+6.5. Hoạt động theo mùa
+Mùa khô phù hợp cho đi bộ, chụp ảnh và khảo sát đá. Mùa mưa có thể làm cảnh quan xanh hơn nhưng đường đi khó hơn, suối và hồ có nguy cơ mất an toàn. Nếu đi vào mùa nắng, cần chống nắng và mang đủ nước. Nếu đi sau mưa, nên hỏi người địa phương về tình trạng đường trước khi vào.
+
+6.6. Đối tượng phù hợp
+Hố Giang phù hợp với người thích khám phá, người yêu lịch sử, nhóm nghiên cứu, nhóm chụp ảnh, sinh viên ngành văn hóa, du lịch, lịch sử hoặc khảo cổ. Địa điểm ít phù hợp với gia đình có trẻ nhỏ, đoàn đông, người lớn tuổi hoặc người muốn dịch vụ tiện nghi.
+
+6.7. Gợi ý dùng cho chatbot
+Khi người dùng hỏi “Hố Giang gần điểm nào?”, chatbot nên trả lời theo hướng mở: “Hố Giang nằm ở khu vực Hoài Châu, Hoài Nhơn; có thể kết hợp với các điểm ở Hoài Nhơn, Tam Quan, các làng biển phía bắc hoặc tuyến di sản Champa Bình Định cũ.” Không nên đưa địa điểm quá xa nếu người dùng chỉ có nửa ngày.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

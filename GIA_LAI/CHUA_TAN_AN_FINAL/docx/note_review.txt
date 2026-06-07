@@ -1,0 +1,47 @@
+1. Lưu ý
+
+Chùa Tân An là nơi thờ tự, nên du khách cần ăn mặc lịch sự, nói nhỏ và không làm ảnh hưởng đến người lễ Phật. Nếu muốn chụp ảnh trong chánh điện hoặc ảnh hoành phi sắc tứ, nên xin phép trước.
+
+2. Quy định
+
+Không xả rác, không hút thuốc trong khuôn viên, không chạm vào tượng Phật, pháp khí, đồ thờ hoặc hoành phi khi chưa được phép.
+
+3. Điều cấm / hạn chế
+
+Không tạo dáng phản cảm, không quay phim ồn ào, không khẳng định chùa còn nguyên sắc chỉ nếu nguồn địa phương ghi sắc chỉ đã thất lạc.
+
+4. Mức độ đông khách
+
+Ngày thường có thể yên tĩnh hơn. Dịp rằm, mùng một, Tết hoặc lễ Phật giáo có thể đông hơn.
+
+5. Độ an toàn
+
+Chùa là điểm đến an toàn. Rủi ro chính là đi nhầm địa điểm do trùng tên hoặc di chuyển từ xa trong thời tiết xấu.
+
+6. Khả năng tiếp cận
+
+Nếu ở An Khê, chùa tương đối dễ tiếp cận. Nếu đi từ Pleiku hoặc Quy Nhơn, cần chọn phương tiện phù hợp và tính thời gian theo quốc lộ 19.
+
+7. Review tổng hợp
+
+Chùa Tân An có giá trị cao với người yêu Phật giáo và lịch sử. Điểm mạnh là bức hoành phi sắc tứ năm 1939 và tính độc nhất trong hệ thống chùa Gia Lai. Điểm hạn chế là thông tin dịch vụ, vé và giờ mở cửa chưa rõ như khu du lịch chuyên nghiệp.
+
+8. Ưu điểm
+
+Có dấu hiệu nhận diện mạnh, phù hợp làm dữ liệu RAG và dataset ảnh nếu thu đúng ảnh chùa ở An Khê.
+
+9. Nhược điểm
+
+Tên chùa dễ trùng với nơi khác. Khi thu thập dữ liệu phải kiểm tra kỹ nguồn, địa chỉ và ảnh.
+
+10. Kinh nghiệm
+
+Dùng từ khóa “Sắc tứ Tân An tự”, “An Khê”, “Nguyễn Thiếp” khi tìm nguồn. Xin phép trước nếu chụp ảnh hiện vật trong chánh điện.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai: “Tân An tự: Ngôi chùa được phong sắc tứ duy nhất tại Gia Lai”, đăng ngày 18/11/2024.
+- Giác Ngộ Online: “An Khê - nơi linh địa tối cổ nhất ở Đông Nam Á”, đăng ngày 23/01/2025.
+- Thư Viện Pháp Luật: thông tin sắp xếp đơn vị hành chính thị xã An Khê, tỉnh Gia Lai cũ sau năm 2025.
+Ghi chú: Thông tin giá vé, giờ mở cửa, lịch lễ, trụ trì hiện nay và khả năng tiếp đoàn có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

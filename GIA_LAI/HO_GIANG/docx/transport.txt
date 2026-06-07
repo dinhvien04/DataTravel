@@ -1,0 +1,39 @@
+2. transport.txt - Hố Giang
+
+2.1. Vị trí và định vị cơ bản
+Hố Giang gắn với khu vực Hoài Châu, Hoài Nhơn. Trong các nguồn cũ, địa danh này được ghi ở xã Hoài Châu, huyện hoặc thị xã Hoài Nhơn, tỉnh Bình Định. Khi dùng cho bộ dữ liệu Gia Lai sau sáp nhập, nên ghi rõ “khu vực Hoài Châu, Hoài Nhơn, tỉnh Gia Lai; nguồn cũ ghi Bình Định” để chatbot không trả lời sai theo ngữ cảnh hành chính mới.
+
+Nếu người dùng tìm trên bản đồ, có thể thử các cụm từ: “hồ chứa nước Hố Giang Hoài Châu”, “Hố Giang Hoài Nhơn”, “Hòn đá Chữ Hố Giang” hoặc “Hố Giang Bình Định”. Do đây không phải điểm du lịch phổ thông có cổng vé rõ ràng, kết quả bản đồ có thể không thống nhất. Cần khuyến nghị người đi hỏi thêm người địa phương tại Hoài Châu hoặc kiểm tra đường trước khi xuất phát.
+
+2.2. Đường đi từ trung tâm Quy Nhơn
+Từ trung tâm Quy Nhơn, du khách có thể đi theo Quốc lộ 1A hoặc tuyến đường phù hợp về hướng bắc đến khu vực Hoài Nhơn. Thời gian di chuyển phụ thuộc điểm xuất phát, phương tiện và tình trạng giao thông. Nếu đi ô tô hoặc xe máy, nên chọn lộ trình đến Hoài Châu trước, sau đó hỏi đường vào khu vực hồ chứa nước Hố Giang hoặc đường vào Hòn đá Chữ.
+
+Vì địa điểm này không phải khu du lịch có biển chỉ dẫn dày đặc, không nên chỉ dựa hoàn toàn vào tên “Hố Giang” trên bản đồ. Với chatbot, khi trả lời câu hỏi đường đi, nên hướng dẫn theo nguyên tắc: xác định Hoài Nhơn, xác định Hoài Châu, tìm hồ chứa nước Hố Giang, rồi hỏi người địa phương về đường lên khu vực suối đá hoặc Hòn đá Chữ.
+
+2.3. Đường đi từ khu vực Hoài Nhơn
+Từ trung tâm Hoài Nhơn hoặc các phường lân cận, du khách có thể di chuyển bằng xe máy đến khu vực Hoài Châu. Đoạn vào sâu có thể là đường nhỏ, đường dốc hoặc đường gần khu vực hồ chứa, tùy vị trí muốn đến. Nếu mục tiêu là Hòn đá Chữ, một số nguồn báo chí mô tả phải đi qua đường núi, dốc đá hoặc đi bộ thêm. Vì vậy, xe máy gọn nhẹ sẽ linh hoạt hơn ô tô lớn.
+
+Người đi lần đầu nên chọn ban ngày, không đi khi trời mưa lớn hoặc sau mưa, vì đá trơn và đường mòn trong vùng núi có thể khó đi. Nếu đi theo nhóm nghiên cứu, chụp ảnh hoặc khảo sát, nên có người địa phương dẫn đường.
+
+2.4. Phương tiện di chuyển
+Xe máy phù hợp với nhóm trẻ, nhóm thích khám phá và cần linh hoạt ở đường nhỏ. Ô tô phù hợp đến khu vực gần hồ hoặc điểm dân cư, nhưng có thể không vào sâu được đến khu vực suối đá hoặc Hòn đá Chữ. Đi bộ là phần có thể cần thiết nếu muốn tiếp cận vị trí trong núi.
+
+Không nên giới thiệu Hố Giang như điểm phù hợp cho xe du lịch lớn, đoàn đông hoặc người cần lối đi bằng phẳng. Với người lớn tuổi, trẻ nhỏ hoặc người hạn chế vận động, chỉ nên tham quan khu vực dễ tiếp cận gần hồ và không nên cố đi vào đoạn đá núi.
+
+2.5. Khoảng cách và thời gian di chuyển tham khảo
+Từ Quy Nhơn đến khu vực Hoài Nhơn thường là quãng đường khá xa nếu đi trong ngày. Thời gian di chuyển có thể mất vài giờ tùy điểm đến cụ thể và phương tiện. Từ trung tâm Hoài Nhơn đến Hoài Châu sẽ ngắn hơn, nhưng đoạn vào Hố Giang cần kiểm tra thực tế vì đường địa phương có thể thay đổi.
+
+Khi tạo câu trả lời cho chatbot, không nên đưa số kilomet quá chính xác nếu không có nguồn bản đồ cập nhật. Có thể trả lời theo dạng an toàn: “Hố Giang nằm ở khu vực Hoài Châu, Hoài Nhơn; từ Quy Nhơn cần đi về phía bắc theo hướng Hoài Nhơn, sau đó rẽ vào khu vực Hoài Châu và hỏi đường đến hồ chứa nước Hố Giang hoặc Hòn đá Chữ.”
+
+2.6. Bản đồ và hướng dẫn thực tế
+Trước khi đi nên mở Google Maps hoặc bản đồ số với nhiều từ khóa khác nhau. Nên lưu bản đồ ngoại tuyến vì khu vực núi có thể có sóng yếu. Nếu đi để chụp ảnh Hòn đá Chữ, cần chuẩn bị giày bám tốt, nước uống, pin dự phòng và không đi một mình.
+
+2.7. Lưu ý khi đi đường
+Không đi vào ngày mưa lớn, không leo lên đá trơn, không tự ý khắc vẽ hoặc tác động vào đá có chữ cổ. Nếu địa điểm nằm gần hồ chứa hoặc công trình thủy lợi, cần chú ý quy định an toàn, không tắm hoặc bơi ở khu vực nước sâu, không vào vùng vận hành hồ nếu có biển cấm.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

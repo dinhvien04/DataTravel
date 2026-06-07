@@ -1,0 +1,61 @@
+1. Câu hỏi thường gặp
+
+Q: Thác Hang Dơi nằm ở đâu?
+A: Thác Hang Dơi nằm trên suối Đăk Lơ Pe, khu vực Kbang, tỉnh Gia Lai. Nguồn cũ ghi thuộc thị trấn Kbang, huyện Kbang; hiện nay nên tra theo xã Kbang.
+
+Q: Thác Hang Dơi còn gọi là gì?
+A: Thác còn được gọi là Thác Dơi Kbang hoặc Thác Dơi Gia Lai.
+
+Q: Vì sao gọi là Thác Hang Dơi?
+A: Vì dưới dòng thác có hang dạng vòm, trong hang có nhiều dơi trú ngụ và phía trên hang có dòng thác chảy qua.
+
+Q: Thác cách trung tâm Kbang bao xa?
+A: Nguồn Báo Gia Lai ghi từ thị trấn Kbang đi về hướng Đông chưa đầy 5 km là đến thác.
+
+Q: Thác nằm trên suối nào?
+A: Thác nằm trên suối Đăk Lơ Pe.
+
+Q: Có mất vé tham quan không?
+A: Hiện chưa thấy nguồn chính thức công bố vé tham quan cố định. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+Q: Có dịch vụ tại thác không?
+A: Dịch vụ còn hạn chế. Một số nguồn cho biết khu vực chưa có điện, wifi và dịch vụ du lịch đầy đủ, nên du khách cần tự chuẩn bị đồ dùng cần thiết.
+
+Q: Nên đi mùa nào?
+A: Nên đi ngày khô ráo, ưu tiên mùa khô hoặc thời điểm không mưa lớn. Mùa mưa thác đẹp hơn nhưng đường trơn và nước mạnh hơn.
+
+Q: Có thể cắm trại không?
+A: Một số nguồn du lịch nhắc đến trải nghiệm cắm trại, nhưng cần kiểm tra thực tế và tuyệt đối không xả rác, không đốt lửa bừa bãi gần rừng đầu nguồn.
+
+Q: Có nên tắm ở thác không?
+A: Chỉ nên xuống nước ở nơi an toàn, nước không xiết và có người đi cùng. Không nên tắm khi mưa, nước mạnh hoặc không rõ độ sâu.
+
+Q: Cần chuẩn bị gì khi đi?
+A: Giày bám tốt, nước uống, áo mưa, đèn pin, thuốc chống côn trùng, pin dự phòng, túi chống nước và túi đựng rác.
+
+Q: Thác có bị ô nhiễm rác không?
+A: Báo Gia Lai ngày 24/05/2026 ghi nhận tình trạng rác thải sinh hoạt kéo dài tại thác và đã có kiến nghị xử lý. Du khách cần tự mang rác ra khỏi khu vực.
+
+Q: Ảnh nào nên dùng cho dataset?
+A: Ảnh có dòng thác, cửa hang, hang vòm, đàn dơi nếu có, suối Đăk Lơ Pe, rừng nguyên sinh và lối xuống thác.
+
+Q: Ảnh nào không nên dùng?
+A: Không nên dùng ảnh thác K50, thác Kon Bông, thác Phú Cường hoặc ảnh rừng thác không thấy hang dơi/cửa hang đặc trưng.
+
+Q: Câu mô tả ngắn là gì?
+A: Thác Hang Dơi là thác nước trên suối Đăk Lơ Pe ở xã Kbang, Gia Lai, nổi bật với dòng thác đổ qua hang vòm có nhiều dơi trú ngụ giữa không gian rừng nguyên sinh.
+
+2. Thông tin cập nhật mới
+
+Cần lưu tên hành chính cũ và mới: thị trấn Kbang, huyện Kbang cũ; nay thuộc xã Kbang, tỉnh Gia Lai. Cần ghi rõ cảnh báo rác thải năm 2026 tại khu vực thác để chatbot khuyến nghị du khách bảo vệ môi trường.
+
+3. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Thác Hang Dơi - Tiềm năng còn bỏ ngỏ”, đăng ngày 12/10/2017.
+- Báo Gia Lai, “Kiến nghị xử lý tình trạng rác thải ở thác Hang Dơi”, đăng ngày 24/05/2026.
+- Du lịch Kbang, “Thác Dơi Kbang Gia Lai”.
+- Saco Travel, “Thác Hang Dơi độc đáo ở Gia Lai”, đăng ngày 06/12/2022.
+- Vexere Blog, “Địa điểm du lịch Kbang: Top 10 điểm đến đẹp và nổi tiếng nhất”, đăng ngày 02/03/2026.
+- Thư Viện Pháp Luật / Báo Gia Lai, thông tin sắp xếp đơn vị hành chính huyện Kbang năm 2025.
+Ghi chú: Thông tin về đường đi, rác thải, dịch vụ, quản lý, an toàn, giá vé và giờ mở cửa có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

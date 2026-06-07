@@ -1,0 +1,49 @@
+1. Lưu ý khi tham quan
+
+Đài Phát thanh Quy Nhơn là di tích lịch sử, cần giữ thái độ trang nghiêm. Không xả rác, không viết vẽ, không làm hư hại bia di tích nếu có, không tạo dáng phản cảm và không gây ồn ào tại địa chỉ đỏ.
+
+2. Quy định tại địa điểm
+
+Nếu có bảng nội quy, bia di tích, hàng rào hoặc hướng dẫn của địa phương, cần tuân thủ. Nếu di tích nằm trong khuôn viên công cộng, vẫn cần giữ vệ sinh và tôn trọng không gian chung. Nếu nằm gần công sở hoặc khu dân cư, cần tránh làm ảnh hưởng người dân.
+
+3. Điều cấm / hạn chế
+
+Không nhầm di tích với cơ quan phát thanh hiện đại. Không dùng ảnh Đài Phát thanh - Truyền hình Bình Định/Gia Lai hiện nay nếu không liên quan. Không khẳng định giờ mở cửa, vé, dịch vụ hoặc công trình còn nguyên nếu chưa có nguồn xác nhận. Không tự ý vào khu vực không rõ an toàn.
+
+4. Mức độ đông khách
+
+Đây không phải điểm du lịch đại chúng như biển Quy Nhơn, Kỳ Co hay Eo Gió. Người đến thường là đoàn học tập, cựu chiến binh, người nghiên cứu lịch sử hoặc người làm dữ liệu địa phương. Vì vậy, thông tin dịch vụ trên web có thể ít.
+
+5. Độ an toàn
+
+Rủi ro chính là đi nhầm địa điểm, thiếu thông tin vị trí, không có thuyết minh hoặc dùng sai ảnh tư liệu. Nếu đi trong đô thị, cần chú ý giao thông, chỗ dừng xe và quy định tại khu vực công cộng.
+
+6. Khả năng tiếp cận
+
+Khả năng tiếp cận cần kiểm tra thực tế vì nguồn phổ thông chưa nêu rõ vị trí và hạ tầng hiện nay. Nếu chỉ còn bia di tích ở khu vực công cộng, việc tiếp cận có thể tương đối dễ; nếu nằm trong khu vực quản lý riêng, cần xin phép hoặc hỏi trước.
+
+7. Review tổng hợp
+
+Di tích Đài Phát thanh Quy Nhơn có giá trị lịch sử cao nhưng trải nghiệm du lịch trực quan có thể không mạnh nếu không có thuyết minh. Điểm mạnh là câu chuyện Mậu Thân 1968, chiến đấu trong nội thị, vai trò của đài phát thanh và sự hy sinh của các chiến sĩ. Điểm hạn chế là thông tin hiện trạng, vị trí và dịch vụ trên web còn ít.
+
+8. Ưu điểm
+
+Có dữ liệu lịch sử rõ: Xuân Mậu Thân 1968, Đài Phát thanh Quy Nhơn, nhiều trận đánh quyết liệt, đặc công bám trụ nhiều ngày, chiến tranh đô thị, nội thị Quy Nhơn, khu 1, khu 2, nhà ga Quy Nhơn. Rất phù hợp cho dữ liệu RAG.
+
+9. Nhược điểm
+
+Khó làm dataset ảnh nếu không có ảnh bia di tích rõ nguồn. Dễ nhầm với đài phát thanh hiện đại hoặc ảnh Đài Phát thanh Quy Nhơn sau năm 1969 không ghi đủ bối cảnh. Cần kiểm tra nguồn ảnh kỹ.
+
+10. Kinh nghiệm tránh rủi ro
+
+Luôn dùng cụm “di tích Đài Phát thanh Quy Nhơn Mậu Thân 1968” khi tìm kiếm. Tránh dùng ảnh cơ quan truyền thông hiện đại. Nếu cần địa chỉ chính xác, liên hệ cơ quan văn hóa địa phương hoặc khảo sát thực địa.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Dấu ấn thao lược của Đảng”, đăng ngày 13/02/2018, có chú thích ảnh: Đài Phát thanh Quy Nhơn là nơi diễn ra nhiều trận đánh quyết liệt trong chiến dịch Xuân Mậu Thân 1968.
+- Sách/PDF “Bình Định - Lịch sử chiến tranh nhân dân 30 năm (1945-1975)”, phần viết về Tổng tiến công Tết Mậu Thân 1968 tại Quy Nhơn, có nhắc các chiến sĩ đặc công chiếm giữ Đài Phát thanh Quy Nhơn nhiều ngày và đài bị đánh sập.
+- Một số tư liệu ảnh cũ về Quy Nhơn năm 1968-1969 ghi cảnh Đài Phát thanh Quy Nhơn sau chiến sự.
+- Thư Viện Pháp Luật, thông tin danh sách các phường mới của thành phố Quy Nhơn thuộc Bình Định cũ sau sắp xếp từ 01/07/2025 theo Nghị quyết 1664/NQ-UBTVQH15.
+- VOV và các nguồn chính thống về kỷ niệm 50 năm Ngày giải phóng tỉnh Bình Định, dùng làm bối cảnh lịch sử Quy Nhơn - Bình Định.
+Ghi chú: Thông tin về vị trí chính xác của bia di tích, hiện trạng điểm di tích, đơn vị quản lý, giờ mở cửa, hoạt động tưởng niệm và tình trạng xếp hạng có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại với cơ quan văn hóa địa phương trước khi đi hoặc trước khi dùng trong hồ sơ chính thức.

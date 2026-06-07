@@ -1,0 +1,50 @@
+1. Lưu ý khi tham quan
+
+Suối đá cổ là thắng cảnh tự nhiên và có giá trị địa chất, nên cần tham quan có trách nhiệm. Không xả rác, không vẽ lên đá, không lấy đá, không phá cây, không làm ô nhiễm nước và không gây ảnh hưởng đến sinh hoạt, sản xuất của người dân xung quanh.
+
+2. Quy định tại địa điểm
+
+Nếu có biển báo, rào chắn, khu vực nguy hiểm hoặc hướng dẫn của địa phương, cần tuân thủ. Không tự ý đi vào đất sản xuất của người dân nếu không được phép. Nếu có người địa phương hướng dẫn, nên đi theo đúng lối.
+
+3. Điều cấm / hạn chế
+
+Không nên leo lên các khối đá trơn hoặc mép vực nước. Không tắm suối ở đoạn nước mạnh. Không tổ chức ăn uống, nhậu nhẹt hoặc đốt lửa trên bãi đá. Không dùng drone nếu khu vực có quy định cấm hoặc gây ảnh hưởng người dân.
+
+4. Mức độ đông khách
+
+Sau khi được báo chí giới thiệu, Suối đá cổ trở thành điểm check-in của nhiều người yêu khám phá. Tuy vậy, đây chưa phải điểm đại chúng có hạ tầng hoàn chỉnh. Ngày thường có thể vắng hơn; cuối tuần hoặc mùa đẹp có thể có nhóm phượt, nhóm chụp ảnh.
+
+5. Độ an toàn
+
+Rủi ro chính là trượt ngã trên đá ướt, nước chảy mạnh, đi sai đường, nắng nóng hoặc thiếu nước uống. Cần đi giày bám tốt, đi chậm, không đứng sát mép nước sâu và không đi một mình nếu không quen địa hình.
+
+6. Khả năng tiếp cận
+
+Có thể tiếp cận bằng xe máy hoặc ô tô đến gần khu vực, nhưng đoạn cuối có thể cần đi bộ theo lối nhỏ. Khả năng tiếp cận cho xe lăn, người lớn tuổi hoặc trẻ nhỏ không thuận lợi nếu muốn xuống sát bờ suối.
+
+7. Review tổng hợp
+
+Suối đá cổ là điểm đến rất đặc biệt của Gia Lai, nổi bật với bãi đá bazan hình tổ ong, dòng suối Ia Ruai và giá trị địa chất hơn 100 triệu năm. Điểm mạnh là cảnh quan lạ, tính nhận diện cao và khả năng kết hợp nhiều điểm Chư Păh. Điểm hạn chế là ít dịch vụ, nguy cơ trơn trượt và tình trạng suối có thể thay đổi theo mùa.
+
+8. Ưu điểm
+
+Ưu điểm lớn nhất là cảnh quan độc đáo, hiếm gặp. Đá lục giác, suối nước, bờ cây, bối cảnh làng Vân và tên gọi Jrai Phă tạo nên bộ nhận diện rất mạnh cho chatbot và dataset ảnh.
+
+9. Nhược điểm
+
+Nhược điểm là dễ nhầm với Suối Đá Vàng, Gành Đá Đĩa Phú Yên hoặc các bãi đá cổ khác ở Gia Lai. Khi làm dữ liệu ảnh, cần kiểm tra nguồn và chỉ giữ ảnh có đúng suối đá cổ làng Vân/Ia Ruai/Jrai Phă.
+
+10. Kinh nghiệm tránh rủi ro
+
+Đi ban ngày, hỏi đường người địa phương, mang giày bám tốt, không đi khi mưa lớn, không leo đá trơn, không xả rác và kiểm tra tình trạng nước trước khi đi, nhất là vào mùa khô.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Suối đá cổ làng Vân trước nguy cơ khô cạn”, đăng ngày 10/03/2025.
+- Dân tộc và Miền núi / TTXVN, “Phát hiện suối đá cổ độc đáo tại Gia Lai”, đăng ngày 21/06/2021.
+- Nhân Dân, “Ấn tượng suối đá đĩa cổ ở Gia Lai”, đăng ngày 24/06/2021.
+- Cổng Du lịch Pleiku/Gia Lai, “Khám phá suối Đá cổ làng Vân, thị trấn Ia Ly, huyện Chư Păh, tỉnh Gia Lai”, đăng ngày 16/08/2021.
+- Cổng Du lịch quốc gia Việt Nam, “Du lịch Chư Păh (Gia Lai): Khám phá 6 điểm không thể bỏ lỡ”, đăng ngày 18/10/2024.
+- Thư Viện Pháp Luật, thông tin xã Ia Ly mới và xã Ia Phí mới sau sắp xếp đơn vị hành chính năm 2025.
+Ghi chú: Thông tin về đường đi, tình trạng nước, bảo tồn, xếp hạng di tích, dịch vụ và khả năng tham quan có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

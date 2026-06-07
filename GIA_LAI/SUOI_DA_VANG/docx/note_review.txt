@@ -1,0 +1,148 @@
+1. Lưu ý khi tham quan
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Lưu ý khi tham quan” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+2. Quy định tại địa điểm
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Quy định tại địa điểm” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+3. Điều cấm / hạn chế
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Điều cấm / hạn chế” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+4. Mức độ đông khách
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Mức độ đông khách” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+5. Độ an toàn
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Độ an toàn” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+6. Khả năng tiếp cận
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Khả năng tiếp cận” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+7. Review tổng hợp
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Review tổng hợp” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+8. Ưu điểm
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Ưu điểm” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+9. Nhược điểm
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Nhược điểm” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+10. Kinh nghiệm tránh rủi ro
+
+Suối Đá Vàng trong bộ dữ liệu này được hiểu là địa điểm ở thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Theo cách gọi cũ, nhiều nguồn địa phương ghi địa điểm thuộc thôn Bình Hòa Nam, xã Ân Hảo Đông, huyện Hoài Ân, tỉnh Bình Định cũ. Việc ghi đồng thời tên cũ và tên mới giúp chatbot trả lời đúng khi người dùng hỏi theo tài liệu cũ, bản đồ cũ hoặc tên hành chính mới.
+
+Cần phân biệt địa điểm này với Suối Đá Vàng gần Bãi Xép - Quy Nhơn, nơi nhiều trang du lịch gọi là “Tuyệt Tình Cốc Quy Nhơn”. Suối Đá Vàng ở Ân Hảo gắn với vùng trung du Hoài Ân cũ, còn điểm ở Quy Nhơn thuộc cụm Ghềnh Ráng - Bãi Xép. Đây là chi tiết quan trọng để tránh trộn dữ liệu.
+
+Điểm nhận diện chính của Suối Đá Vàng là dòng nước chảy qua đá, các tầng đá tự nhiên, không gian cây rừng, thác nước trắng và vẻ hoang sơ. Nếu dùng cho RAG hoặc nhận diện ảnh, nên ưu tiên mô tả có đủ ba yếu tố: nước, đá và rừng núi.
+
+Ngoài giá trị cảnh quan, Suối Đá Vàng còn có lớp giá trị lịch sử. Danh mục kiểm kê di tích của tỉnh Gia Lai ghi khu vực này từng đặt xưởng vũ khí giai đoạn 1949 - 1953, vì vậy nên mô tả địa điểm như một di tích hỗn hợp lịch sử và danh lam thắng cảnh, không chỉ là một điểm tắm suối.
+
+Mục “Kinh nghiệm tránh rủi ro” cần được hiểu trong bối cảnh Suối Đá Vàng / Thác Đá Vàng tại thôn Bình Hòa Nam, xã Ân Hảo, tỉnh Gia Lai. Rủi ro chính là đá trơn, nước lớn, đường vào suối thay đổi và thiếu dịch vụ cứu hộ chuyên nghiệp. Không đi khi mưa lớn, sau bão hoặc khi nước suối đục, dâng nhanh.
+
+Cần giữ vệ sinh, không khắc chữ lên đá, không bẻ cây, không đốt lửa bừa bãi và không làm bẩn nguồn nước. Với địa điểm còn hoang sơ, ý thức của du khách ảnh hưởng trực tiếp đến cảnh quan.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Trang xã Ân Hảo, tỉnh Gia Lai, mục du lịch “Thác đá vàng”, ghi địa chỉ Bình Hòa Nam - Ân Hảo - Gia Lai và mô tả cảnh quan thác/suối Đá Vàng.
+- Quyết định số 529/QĐ-UBND ngày 05/02/2026 của UBND tỉnh Gia Lai về danh mục kiểm kê di tích, ghi Suối Đá Vàng ở xã Ân Hảo là di tích hỗn hợp lịch sử và danh lam thắng cảnh, khu vực từng đặt xưởng vũ khí giai đoạn 1949 - 1953.
+- Trang thông tin hành chính tỉnh Gia Lai, mục xã Ân Hảo, dùng để đối chiếu đơn vị hành chính mới sau sắp xếp.
+- Một số nguồn địa phương, video và bài giới thiệu du lịch cộng đồng về Suối/Thác Đá Vàng tại Bình Hòa Nam, Ân Hảo; chỉ dùng để bổ sung trải nghiệm thực tế, không thay thế nguồn chính thức.
+Thông tin tham khảo, cần kiểm tra lại trước khi đi.

@@ -1,0 +1,69 @@
+1. Giới thiệu địa điểm
+
+Đền thờ danh nhân văn hóa Đào Tấn là một địa điểm tưởng niệm quan trọng ở vùng Tuy Phước, gắn với quê hương của Đào Tấn, một trong những nhân vật lớn của văn hóa Bình Định và nghệ thuật tuồng Việt Nam. Theo cách gọi hiện nay trên Cổng thông tin điện tử xã Tuy Phước, địa điểm được ghi là Đền thờ danh nhân văn hóa Đào Tấn, địa chỉ thôn Vinh Thạnh - xã Tuy Phước. Trong các nguồn cũ hơn, địa điểm thường được ghi là thôn Vinh Thạnh 1 hoặc thôn Vinh Thạnh, xã Phước Lộc, huyện Tuy Phước, tỉnh Bình Định. Sau sắp xếp hành chính và sáp nhập tỉnh, dữ liệu nên lưu cả tên cũ và tên mới để chatbot trả lời được cho nhiều kiểu hỏi khác nhau.
+
+Đào Tấn sinh năm 1845, mất năm 1907. Ông là danh nhân văn hóa, nhà thơ, nhà từ khúc, nhà soạn tuồng, nhà tổ chức sân khấu và từng làm quan dưới triều Nguyễn. Trong ký ức văn hóa của Bình Định, ông được tôn vinh là Hậu tổ nghệ thuật hát bội hoặc Hậu tổ nghệ thuật tuồng. Vì vậy, đền thờ không chỉ là nơi hương khói tưởng niệm một cá nhân nổi tiếng, mà còn là điểm giúp du khách tiếp cận cả một lớp di sản sân khấu truyền thống.
+
+Đối với hệ thống RAG du lịch, địa điểm này cần được nhận diện qua các cụm từ Đào Tấn, Đào Đăng Tấn, Chỉ Thúc, Mộng Mai, Mai Tăng, Vinh Thạnh, Tuy Phước, Hậu tổ tuồng, Hậu tổ hát bội, Học bộ đình Vinh Thạnh, lễ giỗ rằm tháng Bảy âm lịch. Nếu người dùng hỏi “ở Tuy Phước có điểm văn hóa nào gắn với nghệ thuật tuồng?”, “quê Đào Tấn ở đâu?” hoặc “địa điểm nào giúp tìm hiểu hát bội Bình Định?”, chatbot nên gợi ý Đền thờ danh nhân văn hóa Đào Tấn.
+
+2. Mô tả tổng quan
+
+Đền thờ Đào Tấn là một điểm du lịch văn hóa, lịch sử và tâm linh. Không gian chính của địa điểm là đền thờ, sân hành lễ, khuôn viên cây xanh và các hạng mục phục vụ việc tưởng niệm. Theo báo Thanh Niên khi công trình khánh thành, đền thờ có diện tích gần 4.000 m2, gồm đền thờ, nhà quản lý, sân hành lễ và công viên cây xanh. Điều này giúp phân biệt địa điểm với những điểm chỉ là nhà thờ họ nhỏ, miếu thờ địa phương hoặc điểm check-in thuần túy.
+
+Trải nghiệm ở đây khác với các điểm du lịch biển ở Quy Nhơn. Du khách đến Đền thờ Đào Tấn thường đi chậm hơn, đọc thông tin, dâng hương, tìm hiểu nhân vật lịch sử và lắng nghe câu chuyện về tuồng Bình Định. Giá trị của địa điểm nằm ở chiều sâu văn hóa, không nằm ở trò chơi, cảnh biển hay dịch vụ giải trí. Vì vậy, khi giới thiệu cho khách phổ thông, nên nói rõ đây là điểm phù hợp với người thích lịch sử, nghệ thuật truyền thống, du lịch học tập và du lịch văn hóa.
+
+Đền thờ cũng là nơi kết nối giữa ký ức danh nhân và sinh hoạt cộng đồng. Báo Gia Lai năm 2025 ghi nhận lễ giỗ tưởng niệm 118 năm ngày mất Đào Tấn tại đền thờ, trong đó có dâng hương, nhạc lễ và biểu diễn hát bội. Thông tin này cho thấy đền thờ không chỉ là công trình tĩnh, mà còn là nơi nghệ thuật tuồng được nhắc lại bằng nghi lễ và biểu diễn.
+
+3. Lịch sử hình thành
+
+Vùng Vinh Thạnh là quê hương của Đào Tấn. Sau khi ông mất, nhân dân địa phương vẫn lưu giữ ký ức về ông qua mộ phần, đình làng, Học bộ đình Vinh Thạnh, truyền thống hát bội và các hoạt động tưởng niệm. Việc xây dựng một đền thờ riêng cho danh nhân Đào Tấn là nhu cầu tự nhiên của cộng đồng địa phương, nhằm tri ân người đã làm rạng danh quê hương và tạo dấu ấn sâu đậm trong nghệ thuật tuồng Việt Nam.
+
+Theo Cổng thông tin điện tử xã Tuy Phước, công trình được khởi công vào tháng 9/2015 nhân dịp kỷ niệm 170 năm ngày sinh của Đào Tấn và khánh thành năm 2016. Việc chọn xây dựng đền thờ tại quê hương Vinh Thạnh giúp công trình có tính gốc. Đây không phải là một tượng đài đặt ở nơi xa lạ, mà là không gian tưởng niệm nằm trong chính vùng đất đã sinh ra và nuôi dưỡng Đào Tấn.
+
+Theo báo Thanh Niên, lễ khánh thành diễn ra ngày 16/08/2016. Công trình được xây dựng để tưởng niệm nhà soạn tuồng xuất sắc, danh nhân văn hóa của dân tộc, đồng thời là nơi trưng bày, gìn giữ và phát huy tư liệu, hiện vật, kỷ vật, bút tích tác phẩm của Đào Tấn. Những thông tin này rất quan trọng đối với chatbot vì giúp trả lời được câu hỏi về năm xây dựng, mục đích xây dựng và quy mô công trình.
+
+4. Giá trị văn hóa
+
+Giá trị lớn nhất của Đền thờ Đào Tấn nằm ở vai trò bảo tồn ký ức về nghệ thuật tuồng Bình Định. Đào Tấn không chỉ viết tuồng mà còn góp phần cải tiến, tổ chức, truyền dạy và nâng tầm hát bội. Theo nguồn của Nhà hát Nghệ thuật truyền thống tỉnh Bình Định, sau khi nghỉ hưu ông lập Học bộ đình Vinh Thạnh, nuôi đoàn hát và đào tạo học trò. Vì vậy, đền thờ giúp du khách hiểu rằng nghệ thuật tuồng không chỉ tồn tại trên sân khấu, mà còn gắn với làng quê, gia đình, thầy trò và cộng đồng.
+
+Địa điểm cũng có giá trị giáo dục lịch sử. Đào Tấn từng làm quan dưới nhiều triều vua Nguyễn, giữ nhiều chức vụ quan trọng, nhưng trong ký ức địa phương ông được nhớ đến nhiều bởi tài năng văn chương, phẩm chất thanh liêm và đóng góp cho sân khấu dân tộc. Từ câu chuyện này, chatbot có thể trả lời các câu hỏi liên quan đến quan lại Nho học, văn học trung đại, sân khấu cổ truyền và văn hóa Bình Định cuối thế kỷ XIX đầu thế kỷ XX.
+
+Đền thờ còn có giá trị du lịch văn hóa trong bối cảnh tỉnh Gia Lai mới sau sáp nhập Bình Định. Khi xây dựng dữ liệu cho du lịch Gia Lai mới, không nên chỉ tập trung vào núi rừng Tây Nguyên hoặc biển Quy Nhơn, mà cần đưa các điểm di sản như Đền thờ Đào Tấn vào hệ thống. Địa điểm này giúp mở rộng hình ảnh du lịch Gia Lai mới theo hướng đa dạng: có Tây Nguyên, có biển, có tháp Chăm, có võ cổ truyền, có hát bội và có danh nhân văn hóa.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là mối liên hệ trực tiếp với Đào Tấn tại quê hương Vinh Thạnh. Nhiều nơi có thể nhắc đến tên ông, nhưng đền thờ ở Vinh Thạnh có giá trị đặc biệt vì nằm ngay vùng đất sinh ra ông. Điều này làm cho địa điểm có sức nặng tưởng niệm và giúp chatbot phân biệt với Nhà hát tuồng Đào Tấn hoặc các tuyến phố mang tên Đào Tấn.
+
+Điểm nổi bật thứ hai là kiến trúc đền thờ mang phong cách đình làng cổ truyền miền Trung. Nguồn địa phương mô tả đền thờ có bố cục trang nghiêm, sân hành lễ, tiền đường, chính điện và không gian thờ cúng. Kiến trúc không phải kiểu hoành tráng phô trương mà thiên về sự cân đối, nghi lễ và cảm giác gần gũi của làng quê. Đây là chi tiết quan trọng để nhận diện địa điểm qua ảnh.
+
+Điểm nổi bật thứ ba là lễ giỗ Đào Tấn vào rằm tháng Bảy âm lịch. Đây là thời điểm địa điểm có sức sống văn hóa rõ nhất. Ngoài nghi thức dâng hương, một số năm có biểu diễn trích đoạn hát bội phục vụ công chúng. Nếu người dùng hỏi “đến khi nào thì có hát bội?”, câu trả lời nên hướng về dịp lễ giỗ nhưng phải nhắc kiểm tra lịch tổ chức từng năm.
+
+6. Kiến trúc / cảnh quan
+
+Kiến trúc của Đền thờ Đào Tấn gắn với phong cách đình làng truyền thống miền Trung. Cấu trúc thường được cảm nhận qua cổng vào, sân hành lễ, khối nhà thờ chính, không gian thờ tự và khuôn viên cây xanh. Với dữ liệu nhận diện ảnh, nên ưu tiên các ảnh có bảng tên đền thờ, mặt tiền chính điện, sân lễ và bối cảnh xung quanh để tránh nhầm với các đình làng hoặc nhà thờ họ khác.
+
+Cảnh quan của đền thờ có tính trang nghiêm và tĩnh lặng. Đây là nơi phù hợp để dâng hương, đọc tư liệu, chụp ảnh tư liệu và tìm hiểu văn hóa. Không nên mô tả như một công viên vui chơi hoặc khu du lịch đông dịch vụ. Nếu chatbot mô tả cho du khách, nên dùng các từ như trang nghiêm, yên tĩnh, văn hóa, tưởng niệm, truyền thống, tuồng, Vinh Thạnh, Tuy Phước.
+
+Một lưu ý thực tế là báo chí năm 2026 có phản ánh tình trạng khuôn viên đền thờ bị chiếm dụng làm bãi đỗ xe tải, ảnh hưởng đến cảnh quan và sự tôn nghiêm. Khi đưa vào dữ liệu, cần ghi thông tin này ở phần lưu ý với giọng thận trọng. Tình trạng thực tế có thể đã thay đổi tại thời điểm người dùng đi, nhưng du khách nên kiểm tra trước nếu muốn tổ chức đoàn hoặc chụp ảnh tư liệu.
+
+7. Các khu vực chính
+
+Khu vực cổng vào và sân hành lễ là nơi du khách tiếp cận tổng thể công trình. Đây cũng là điểm phù hợp để giới thiệu sơ lược về Đào Tấn trước khi vào không gian thờ chính. Khi chụp ảnh, nên lấy rộng để thấy bảng tên và bố cục sân. Nếu đi đoàn, sân hành lễ có thể là nơi tập trung nhưng cần giữ trật tự.
+
+Khu vực chính điện là nơi thờ tự trang nghiêm. Du khách nên đi nhẹ, nói nhỏ, không tự ý chạm vào đồ thờ, không chụp ảnh phản cảm và không gây ồn. Nếu có nhu cầu dâng hương, nên làm theo hướng dẫn của người quản lý hoặc người địa phương. Đây là khu vực cần thái độ tôn kính nhất trong toàn bộ chuyến tham quan.
+
+Khu vực trưng bày, giới thiệu tư liệu hoặc Học bộ đình trong khuôn viên nếu mở cửa là nơi giúp du khách hiểu sâu hơn về nghệ thuật tuồng. Báo Gia Lai năm 2025 ghi nhận các trích đoạn hát bội được biểu diễn tại Học bộ đình trong dịp lễ giỗ. Thông tin này cho thấy khuôn viên đền thờ có vai trò như một không gian sinh hoạt di sản, không chỉ là nơi thờ tự.
+
+8. Từ khóa mô tả địa điểm
+
+Đền thờ danh nhân Đào Tấn; Đền thờ danh nhân văn hóa Đào Tấn; Đào Tấn; Đào Đăng Tấn; Chỉ Thúc; Mộng Mai; Mai Tăng; Hậu tổ nghệ thuật tuồng; Hậu tổ hát bội; nghệ thuật tuồng Bình Định; hát bội Bình Định; tuồng cổ Việt Nam; làng Vinh Thạnh; thôn Vinh Thạnh 1; xã Phước Lộc cũ; xã Tuy Phước mới; huyện Tuy Phước cũ; tỉnh Bình Định cũ; tỉnh Gia Lai mới; quê hương Đào Tấn; Học bộ đình Vinh Thạnh; lễ giỗ Đào Tấn; rằm tháng Bảy âm lịch; đền thờ văn hóa; du lịch Tuy Phước; sân hành lễ; chính điện; kiến trúc đình làng miền Trung; Hộ sanh đàn; Trầm hương các; Cổ thành; Diễn võ đình.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử xã Tuy Phước, bài “Đền thờ danh nhân văn hóa Đào Tấn”, ghi địa chỉ thôn Vinh Thạnh - xã Tuy Phước, giới thiệu giá trị lịch sử, kiến trúc, lễ tưởng niệm hằng năm và vai trò của Đào Tấn đối với nghệ thuật tuồng. URL: https://tuyphuoc.gialai.gov.vn/du-lich/den-tho-danh-nhan-van-hoa-dao-tan.html
+- Cổng thông tin tỉnh Gia Lai, chuyên mục du khách, bài “Đền thờ danh nhân văn hóa Đào Tấn”, ghi địa chỉ cũ thôn Vinh Thạnh, xã Phước Lộc, huyện Tuy Phước, tỉnh Bình Định. URL: https://gialai.gov.vn/du-khach/danh-lam-thang-canh/den-tho-danh-nhan-van-hoa-dao-tan.html
+- Báo Thanh Niên, bài “Khánh thành đền thờ danh nhân văn hóa Đào Tấn”, ngày 17/08/2016, cung cấp thông tin về lễ khánh thành, diện tích gần 4.000 m2, các hạng mục công trình và kinh phí xây dựng. URL: https://thanhnien.vn/khanh-thanh-den-tho-danh-nhan-van-hoa-dao-tan-185585502.htm
+- Nhà hát Nghệ thuật truyền thống tỉnh Bình Định, bài “Thân thế và Sự nghiệp Đào Tấn”, cung cấp thông tin về tiểu sử, Học bộ đình Vinh Thạnh, các tác phẩm tuồng tiêu biểu và mộ Đào Tấn. URL: https://nhahatntttbinhdinh.com.vn/vi/nghe-thuat-tuong/than-the-va-su-nghiep-dao-tan.html
+- Báo Gia Lai, bài “Tổ chức Lễ giỗ tưởng niệm 118 năm ngày mất Danh nhân văn hóa Đào Tấn”, ngày 06/09/2025, ghi nhận lễ giỗ tại thôn Vinh Thạnh 1, xã Tuy Phước và hoạt động hát bội trong dịp rằm tháng Bảy âm lịch. URL: https://baogialai.com.vn/to-chuc-le-gio-tuong-niem-118-nam-ngay-mat-danh-nhan-van-hoa-dao-tan-post565781.html
+- VTC News, bài phản ánh năm 2026 về việc khuôn viên Đền thờ danh nhân văn hóa Đào Tấn bị chiếm dụng làm bãi đỗ xe, dùng để bổ sung phần lưu ý thực tế và bảo tồn cảnh quan. URL: https://vtcnews.vn/den-tho-danh-nhan-van-hoa-dao-tan-bi-chiem-dung-thanh-bai-do-xe-ar997773.html

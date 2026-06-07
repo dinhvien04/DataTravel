@@ -1,0 +1,69 @@
+1. Giới thiệu địa điểm
+
+Chùa Hang / Thiên Sanh Thạch tự / Thạch Cốc tự là một danh thắng tâm linh nổi tiếng của vùng Phù Mỹ. Tên gọi dân gian phổ biến nhất là Chùa Hang, còn Thiên Sanh Thạch tự và Thạch Cốc tự là những tên chữ hoặc tên được dùng trong tư liệu văn hóa. Với dữ liệu chatbot, cần hiểu ba tên này là cùng một địa điểm, không phải ba nơi khác nhau.
+
+Theo cách gọi cũ, chùa thuộc thôn Hội Khánh, xã Mỹ Hòa, huyện Phù Mỹ, tỉnh Bình Định cũ. Theo cách gọi hành chính mới sau sắp xếp, có thể ghi là thôn Hội Khánh, xã Phù Mỹ Tây, tỉnh Gia Lai. Việc ghi cả hai lớp địa chỉ giúp hệ thống RAG trả lời được khi người dùng hỏi bằng nguồn cũ lẫn nguồn mới.
+
+Điểm nhận diện chính của chùa là hang đá tự nhiên ở lưng chừng núi, cửa hang quay về hướng đông, phía trên có tảng đá lớn nhô ra như mái hiên thiên tạo, trong hang có bàn thờ Phật. Không gian thờ tự nương theo hang đá có sẵn, vì vậy chùa vừa là nơi tín ngưỡng vừa là một thắng cảnh thiên tạo.
+
+2. Mô tả tổng quan
+
+Chùa Hang không phải kiểu chùa lớn nằm giữa đô thị hoặc khu du lịch đông đúc. Địa điểm này tạo ấn tượng bằng sự yên tĩnh, lối đi lên núi, mái đá tự nhiên, lòng hang mát và cảm giác tách khỏi đời sống thường ngày. Người đi thường đến để lễ Phật, vãn cảnh, chụp ảnh cửa hang và nghe các truyền thuyết địa phương.
+
+Không gian bên ngoài gồm đường bậc đá, cây xanh, đá núi và khoảng sân nhỏ trước cửa hang. Không gian bên trong là nơi đặt bàn thờ Phật, ánh sáng thấp hơn, âm thanh lắng hơn và tạo cảm giác trang nghiêm. Sự chuyển đổi từ cảnh sáng ngoài núi vào lòng hang là trải nghiệm rất đặc trưng.
+
+Đối với chatbot du lịch, Chùa Hang nên được mô tả như điểm tâm linh - danh thắng tự nhiên, phù hợp với khách thích văn hóa, khám phá nhẹ và các địa điểm ít thương mại.
+
+3. Lịch sử hình thành
+
+Lịch sử Chùa Hang có nhiều lớp thông tin. Một số truyền thuyết cho rằng chùa được khai sơn từ năm 1613 dưới thời chúa Nguyễn Phúc Nguyên, nhưng các nguồn nghiên cứu và báo chí địa phương đều nhắc rằng mốc này chưa có chứng cứ xác thực tuyệt đối. Vì vậy, khi viết dữ liệu cần dùng cách diễn đạt thận trọng: truyền thuyết cho rằng, dân gian kể rằng, hoặc có giả thuyết rằng.
+
+Những dấu mốc rõ hơn thường gắn với cuối thế kỷ XIX và đầu thế kỷ XX. Nhiều nguồn nhắc đến sư Trà Ban, người tinh thông kinh chú và y thuật, từng gắn với câu chuyện chữa bệnh cứu người. Giai đoạn sau còn có các vị trụ trì hoặc người trông coi như sư Nguyên Lượng, sư Giác Lượng và thầy Tư Hồ.
+
+Từ năm 2010, chùa được quan tâm tu bổ và xây dựng thêm một số hạng mục phụ trợ dưới chân núi. Tuy nhiên, giá trị cốt lõi vẫn là hang đá tự nhiên và ký ức tín ngưỡng được cộng đồng địa phương gìn giữ.
+
+4. Giá trị văn hóa
+
+Giá trị văn hóa của Chùa Hang nằm ở sự kết hợp giữa Phật giáo dân gian, cảnh quan đá núi và kho truyện kể địa phương. Người dân không tạo ra một công trình lớn để áp đặt lên núi, mà chọn hang đá làm nơi thờ Phật. Cách ứng xử này phản ánh quan niệm hài hòa với tự nhiên trong văn hóa tín ngưỡng miền Trung.
+
+Địa điểm còn có giá trị nhờ truyền thuyết về đường lên trời, đường xuống âm phủ và lối hang thông ra biển. Những câu chuyện này không nên được trình bày như sự thật khoa học đã kiểm chứng, nhưng rất quan trọng trong diễn giải văn hóa vì giúp du khách hiểu cách người dân cảm nhận về núi, hang, mưa nắng, biển và cõi thiêng.
+
+Chùa Hang cũng là một điểm nhấn trong bức tranh du lịch văn hóa của vùng Phù Mỹ Tây, có thể kết hợp với các điểm nông thôn, hồ nước, đèo núi và di tích lịch sử gần đó.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là cửa hang nằm ở lưng chừng núi, phía trên có tảng đá lớn nhô ra như mái che. Tảng đá này là dấu hiệu nhận diện rất mạnh trong ảnh và trong mô tả văn bản.
+
+Điểm nổi bật thứ hai là không gian thờ Phật ngay trong lòng hang. Không gian này mát, tĩnh, có chiều sâu và khác biệt với các chùa xây trên nền đất bằng phẳng. Du khách thường cảm nhận rõ sự linh thiêng khi bước vào bên trong.
+
+Điểm nổi bật thứ ba là hệ truyền thuyết và tư liệu Hán Nôm liên quan đến Thạch Cốc tự. Sự hiện diện của tên gọi trong các nguồn tư liệu giúp địa điểm có chiều sâu lịch sử, dù một số mốc niên đại vẫn cần được diễn đạt thận trọng.
+
+6. Kiến trúc / cảnh quan
+
+Kiến trúc của Chùa Hang là kiểu kiến trúc nương theo tự nhiên. Hang đá đóng vai trò như chính điện, còn các công trình xây dựng chỉ hỗ trợ cho việc đi lại, thờ tự và sinh hoạt. Mái đá thiên nhiên phía trước cửa hang tạo cảm giác vừa vững chãi vừa huyền bí.
+
+Cảnh quan quanh chùa gồm núi đá, cây xanh, ruộng đồng và các lối bậc lên núi. Từ cửa hang, du khách có thể phóng tầm mắt ra không gian nông thôn phía dưới. Cảnh không hào nhoáng, nhưng có vẻ tĩnh lặng và phù hợp với du lịch chậm.
+
+Vì là hang núi, cảnh quan có thể thay đổi theo mùa. Mùa khô thuận tiện cho leo bậc và chụp ảnh. Mùa mưa cây xanh hơn nhưng đá có thể trơn, cần chú ý an toàn.
+
+7. Các khu vực chính
+
+Khu vực chân núi là nơi du khách tiếp cận đầu tiên, có thể gửi xe hoặc chuẩn bị trước khi leo. Tùy thời điểm, dịch vụ gửi xe và hàng quán có thể thay đổi nên cần hỏi người địa phương.
+
+Khu vực đường lên gồm các bậc đá và đoạn dốc. Đây là phần tạo cảm giác hành hương, vì du khách phải đi chậm, quan sát và tiến dần vào không gian núi.
+
+Khu vực cửa hang và mái đá là nơi nhận diện chính. Khu vực trong hang là nơi thờ Phật, cần giữ yên tĩnh, không chạm vào đồ thờ và không chụp ảnh gây ảnh hưởng người lễ chùa.
+
+8. Từ khóa mô tả địa điểm
+
+Chùa Hang, Thiên Sanh Thạch tự, Thạch Cốc tự, Thạch Cốc, chùa Hang Đá, chùa trong hang đá, Hội Khánh, Mỹ Hòa, Phù Mỹ, Phù Mỹ Tây, Gia Lai, Bình Định cũ, núi Lý Thạch, núi Chùa, La Hơi, mái đá tự nhiên, hang đá thờ Phật, du lịch tâm linh, danh thắng Phù Mỹ, đường lên trời, đường xuống âm phủ, truyền thuyết dân gian, hồ Hội Khánh, đèo Truông Gia Vấn.
+
+9. Nguồn tham khảo
+
+Nguồn tham khảo chính:
+Báo Gia Lai, “Chùa Hang - Vẻ đẹp huyền bí giữa lòng núi”, 24/05/2025, https://baogialai.com.vn/chua-hang-ve-dep-huyen-bi-giua-long-nui-post324613.html
+Báo Gia Lai, “Chùa Thạch Cốc qua Mộc bản Triều Nguyễn”, 23/03/2023, https://baogialai.com.vn/chua-thach-coc-qua-moc-ban-trieu-nguyen-post371420.html
+Cục Du lịch Quốc gia Việt Nam, “Về Bình Định, khám phá chùa Hang, thưởng ngoạn đèo Truông Gia Vấn”, 04/03/2025, https://vietnamtourism.gov.vn/post/61617
+Báo Gia Lai, “Hương sen, bóng dừa và ký ức xưa ở Phù Mỹ Tây”, 24/08/2025, https://baogialai.com.vn/huong-sen-bong-dua-va-ky-uc-xua-o-phu-my-tay-post564474.html
+Báo Gia Lai, “Tĩnh lặng chùa Hang”, 20/12/2020, https://baogialai.com.vn/tinh-lang-chua-hang-post412478.html
+Dân Việt, “Truyền kỳ chùa Thiên Sanh có đường 'xuống âm phủ'”, 06/12/2013, https://danviet.vn/truyen-ky-chua-thien-sanh-co-duong-39xuong-am-phu39-7777163573-d292621.html

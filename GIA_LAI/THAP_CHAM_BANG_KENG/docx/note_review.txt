@@ -1,0 +1,51 @@
+1. Lưu ý khi tham quan
+
+Tháp Bang Keng là phế tích khảo cổ, cần tham quan có trách nhiệm. Không nhặt gạch, không lấy mảnh gốm, không đào bới, không xê dịch hiện vật, không viết vẽ và không làm xáo trộn nền móng.
+
+2. Quy định tại địa điểm
+
+Nếu có hàng rào, bia tạm, biển báo hoặc hướng dẫn của địa phương, cần tuân thủ. Nếu đi vào đất canh tác hoặc khu vực dân cư buôn Jú, cần hỏi người dân trước.
+
+3. Điều cấm / hạn chế
+
+Không tự ý khai quật, không dùng máy dò kim loại, không đứng sát bờ sông khi đất bị xói lở, không đi mùa mưa nước dâng nếu không có người am hiểu. Không mô tả di tích như tháp còn nguyên vì phần trên đã sụp đổ hoàn toàn.
+
+4. Mức độ đông khách
+
+Đây không phải điểm du lịch đại chúng, nên ngày thường có thể rất vắng. Người đến chủ yếu là nhà nghiên cứu, cán bộ văn hóa, người địa phương, nhóm tìm hiểu di sản hoặc người làm dữ liệu.
+
+5. Độ an toàn
+
+Rủi ro chính là đường vào khó, nắng nóng, bờ sông xói lở, nước dâng theo mùa, cây cỏ rậm và nguy cơ đi nhầm vị trí. Nên đi ban ngày, có người địa phương dẫn đường và mang đủ nước.
+
+6. Khả năng tiếp cận
+
+Khả năng tiếp cận chưa thuận lợi như khu du lịch. Người lớn tuổi, trẻ nhỏ hoặc người hạn chế vận động có thể khó tiếp cận nếu đường vào rẫy, bờ sông hoặc khu phế tích không bằng phẳng.
+
+7. Review tổng hợp
+
+Bang Keng là điểm có giá trị lịch sử - khảo cổ rất cao nhưng trải nghiệm du lịch trực quan còn hạn chế. Điểm mạnh là niên đại sớm, ý nghĩa Champa ở Tây Nguyên, vị trí bên sông và vật liệu khảo cổ rõ. Điểm hạn chế là ít dịch vụ, phế tích khó nhận diện nếu không có thuyết minh và nguy cơ xói mòn/bán ngập.
+
+8. Ưu điểm
+
+Có dấu hiệu nhận diện mạnh cho dữ liệu RAG: Bang Keng, buôn Jú, Krông Năng, Krông Pa, sông Krông Năng, sông Ba, thế kỷ VII - VIII, Bà-la-môn giáo, gạch Chăm, ngói mặt người, khai quật năm 2010.
+
+9. Nhược điểm
+
+Dễ nhầm với Di tích Champa An Phú, tháp Bằng An ở Quảng Nam hoặc các tháp Chăm Bình Định nếu chỉ tìm ảnh bằng từ khóa chung “tháp Chăm”. Khi làm dataset ảnh, phải kiểm tra đúng nguồn Bang Keng.
+
+10. Kinh nghiệm tránh rủi ro
+
+Đi mùa khô, hỏi đường buôn Jú, tránh sát mép sông, không động vào hiện vật, không đi một mình, không đi khi nước dâng. Nếu cần dữ liệu chính xác, nên liên hệ Bảo tàng tỉnh Gia Lai hoặc nguồn khảo cổ.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Thăm lại tháp cổ Bang Keng”, đăng ngày 22/07/2023.
+- Báo Gia Lai, “Tháp cổ Bang Keng: Nguy cơ quên lãng!”, đăng ngày 24/10/2019.
+- Bảo tàng Lịch sử Quốc gia, “Gia Lai: Khai quật phế tích tháp Bang Keng”, đăng ngày 07/06/2010.
+- Công an nhân dân, “Gia Lai: Khai quật di tích tháp Chăm Bang Keng”, đăng ngày 20/08/2007.
+- Thanh Niên, “Tiếng hú giữa màn đêm thung lũng”, đăng ngày 23/10/2023.
+- Tạp chí Khoa học Xã hội TP. Hồ Chí Minh, bài “Di tích kiến trúc Bang Keng (Krông Pa - Gia Lai) trong bối cảnh văn hóa Champa vùng Nam Trung Bộ và Tây Nguyên”.
+- Nghị quyết 1664/NQ-UBTVQH15 năm 2025 về sắp xếp đơn vị hành chính cấp xã của tỉnh Gia Lai.
+Ghi chú: Thông tin về tình trạng bảo tồn, đường vào, vùng bán ngập, nghiên cứu khảo cổ, xếp hạng di tích và khả năng tham quan có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

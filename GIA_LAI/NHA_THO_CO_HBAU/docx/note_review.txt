@@ -1,0 +1,49 @@
+1. Lưu ý khi tham quan
+
+Nhà thờ cổ H’Bâu là phế tích tôn giáo, nên du khách cần giữ thái độ tôn trọng. Không leo trèo lên tường cũ, không bẻ gạch, không viết vẽ, không làm hư hại mảng tường, không tạo dáng phản cảm trước tượng Chúa hoặc thập giá.
+
+2. Quy định tại địa điểm
+
+Nếu có biển báo, rào chắn hoặc hướng dẫn của địa phương, cần tuân thủ. Không tự ý tổ chức sự kiện, đốt lửa, cắm trại hoặc tụ tập đông người trong khu vực phế tích nếu chưa được phép.
+
+3. Điều cấm / hạn chế
+
+Không lấy gạch đá làm kỷ niệm. Không trèo lên tháp chuông, cửa vòm hoặc các mảng tường vì công trình đã cũ, có nguy cơ mất an toàn. Không xả rác hoặc làm ồn gây ảnh hưởng đến người dân địa phương.
+
+4. Mức độ đông khách
+
+Ngày thường có thể khá vắng. Vào mùa hoa dã quỳ và dịp lễ hội Chư Đang Ya, khu vực có thể đông khách hơn. Nếu muốn chụp ảnh yên tĩnh, nên đi sớm hoặc tránh cao điểm lễ hội.
+
+5. Độ an toàn
+
+Cần chú ý vì đây là công trình hoang phế, tường cũ có thể xuống cấp. Nền đất có thể trơn khi mưa. Trẻ em cần có người lớn giám sát. Không nên đi ban đêm vì đường vào có thể vắng và khó quan sát.
+
+6. Khả năng tiếp cận
+
+Đường vào đã dễ hơn trước nhưng đoạn cuối có thể quanh co, phức tạp. Người lần đầu nên hỏi người dân địa phương. Khả năng tiếp cận cho xe lăn hoặc người hạn chế vận động có thể khó, cần kiểm tra thực tế.
+
+7. Review tổng hợp
+
+Nhà thờ cổ H’Bâu là điểm đến rất giàu cảm xúc: hoang phế, trầm mặc, cổ kính và có bối cảnh thiên nhiên đẹp. Điểm mạnh là giá trị lịch sử, kiến trúc, vị trí dưới chân Chư Đang Ya và tính nhận diện cao. Điểm hạn chế là ít dịch vụ, công trình xuống cấp và đường vào có thể khó với người không quen địa hình.
+
+8. Ưu điểm
+
+Ưu điểm lớn nhất là có dấu hiệu nhận diện rõ: tháp chuông, mặt tiền Gothic, mốc 1909, chữ Hán Kỷ Dậu niên, Chư Đang Ya và cảnh quan hoa dã quỳ. Đây là dữ liệu rất tốt cho chatbot và dataset ảnh du lịch.
+
+9. Nhược điểm
+
+Nhược điểm là thông tin chính thức về quản lý, vé, giờ mở cửa và bảo tồn còn hạn chế. Công trình không còn nguyên vẹn nên người dùng cần hiểu đúng là phế tích, không phải nhà thờ đang hoạt động hoàn chỉnh.
+
+10. Kinh nghiệm tránh rủi ro
+
+Đi ban ngày, tránh trời mưa, mang giày dễ đi, không leo trèo, hỏi người dân địa phương khi cần, giữ vệ sinh và tôn trọng không gian tôn giáo. Khi làm dataset ảnh, tránh dùng ảnh Chư Đang Ya hoặc Biển Hồ đơn thuần nếu không thấy phế tích H’Bâu.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Khám phá di tích nhà thờ cổ trăm năm tuổi bên dãy Chư Đang Ya”, đăng ngày 28/11/2018.
+- Dân tộc và Phát triển / VietnamNet, “Nhà thờ cổ H’Bâu - Gia Lai: Dấu tích văn hóa, lịch sử dưới chân núi Chư Đang Ya”, đăng ngày 13/09/2025.
+- Văn hóa và Phát triển, “Nhà thờ cổ H’Bâu dưới chân núi lửa Chư Đang Ya: Di sản văn hóa độc đáo của Gia Lai”, đăng ngày 05/09/2025.
+- MIA.vn, “Khám phá tàn tích Nhà thờ cổ HBâu nằm im lìm bên dãy Chư Đăng Ya”, đăng ngày 28/09/2023.
+- Báo Gia Lai, các tin về Lễ hội hoa dã quỳ Chư Đang Ya, du lịch Chư Păh và quản lý điểm Nhà thờ cổ H’Bâu.
+Thông tin về đường đi, tình trạng bảo tồn, khả năng tham quan, dịch vụ và quy định quản lý có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.

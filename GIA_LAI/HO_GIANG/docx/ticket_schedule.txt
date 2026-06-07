@@ -1,0 +1,39 @@
+3. ticket_schedule.txt - Hố Giang
+
+3.1. Giá vé tham quan
+Hiện chưa thấy thông tin phổ biến về vé vào cổng cố định cho Hố Giang như các khu du lịch thương mại. Hố Giang được nhắc nhiều dưới dạng hồ chứa nước, khu vực suối đá và địa điểm có Hòn đá Chữ. Vì vậy, khi trả lời người dùng, nên nói rằng chưa có dữ liệu xác nhận về vé tham quan chính thức; du khách cần kiểm tra lại tại địa phương trước khi đi.
+
+Nếu có dịch vụ tự phát hoặc người địa phương dẫn đường, chi phí có thể phát sinh theo thỏa thuận. Không nên đưa giá vé cụ thể khi chưa có nguồn chính thức. Đối với bộ dữ liệu RAG, câu trả lời chuẩn nên là: “Chưa có thông tin vé tham quan công khai ổn định; nên hỏi người dân hoặc chính quyền địa phương trước chuyến đi.”
+
+3.2. Dịch vụ đi kèm
+Hố Giang không phải khu du lịch phát triển dịch vụ đồng bộ. Các dịch vụ như bãi xe, nhà vệ sinh, quán ăn, hướng dẫn viên, biển chỉ dẫn hoặc điểm nghỉ chân có thể hạn chế. Nếu đến khu vực hồ chứa hoặc đường núi, du khách nên tự chuẩn bị nước uống, đồ ăn nhẹ, mũ nón, thuốc chống côn trùng và giày phù hợp.
+
+Nếu mục tiêu là tìm hiểu Hòn đá Chữ, nên đi cùng người địa phương hoặc người am hiểu đường. Dịch vụ hướng dẫn chuyên nghiệp có thể chưa phổ biến, nhưng người dân địa phương có thể hỗ trợ định hướng nếu được hỏi trước.
+
+3.3. Giờ mở cửa
+Chưa có thông tin về giờ mở cửa cố định. Vì địa điểm nằm trong khu vực tự nhiên và có yếu tố hồ chứa, thời gian tham quan an toàn nhất là ban ngày, đặc biệt là buổi sáng hoặc đầu giờ chiều. Không nên vào khu vực suối đá, hồ nước hoặc đường núi khi trời tối.
+
+Nếu khu vực thuộc phạm vi công trình thủy lợi, có thể có quy định an toàn hoặc hạn chế tiếp cận một số khu vực. Du khách cần quan sát biển báo tại chỗ và tuân thủ hướng dẫn của người quản lý hoặc người dân địa phương.
+
+3.4. Thời điểm nên tham quan
+Thời điểm phù hợp nhất là mùa khô hoặc những ngày nắng ráo, khi đường mòn và đá ít trơn trượt. Nếu muốn chụp ảnh cảnh quan, buổi sáng có ánh sáng dịu và thời tiết mát hơn. Nếu muốn khảo sát chữ khắc trên đá, cần chọn thời điểm đủ sáng, tránh nắng gắt phản chiếu mạnh lên mặt đá.
+
+Không nên đi sau mưa lớn vì nước suối có thể dâng, đá trơn và đường đất dễ lầy. Khu vực hồ chứa cũng cần chú ý an toàn mực nước, nhất là trong mùa mưa bão.
+
+3.5. Mùa đẹp nhất
+Mùa đẹp nhất để khám phá Hố Giang thường là giai đoạn thời tiết khô ráo. Với vùng duyên hải Nam Trung Bộ, mùa nắng giúp đường đi dễ hơn và cảnh quan hồ, đá, núi rõ hơn. Tuy nhiên, nắng mạnh cũng khiến chuyến đi dễ mất sức, nên cần mang nước và chống nắng.
+
+Mùa mưa có thể tạo cảm giác xanh mát hơn nhưng rủi ro cao hơn về đường trơn, lũ nhỏ ở suối và khó tiếp cận các tảng đá. Với chatbot, nên khuyến nghị người dùng không đi vào ngày mưa hoặc thời tiết xấu.
+
+3.6. Thông tin thời tiết
+Trước chuyến đi cần kiểm tra dự báo thời tiết cho khu vực Hoài Nhơn hoặc Gia Lai/Bình Định cũ. Nếu có cảnh báo mưa lớn, gió mạnh hoặc áp thấp nhiệt đới, nên hoãn chuyến đi. Hố Giang không phải nơi phù hợp để tham quan khi thời tiết xấu vì nhiều đoạn có thể là đường núi, suối đá và hồ nước.
+
+3.7. Thời lượng tham quan gợi ý
+Nếu chỉ đến khu vực hồ chứa và chụp ảnh cảnh quan, có thể dành khoảng một đến hai giờ. Nếu kết hợp tìm Hòn đá Chữ, đi bộ, chụp ảnh tư liệu và nghỉ chân, nên dành nửa ngày. Nếu xuất phát từ Quy Nhơn, nên tính cả thời gian di chuyển dài và không nên sắp xếp quá nhiều điểm trong cùng ngày.
+
+Nguồn tham khảo chính:
+- Cổng thông tin điện tử Gia Lai, văn bản hỗ trợ ngân sách công trình kiên cố hóa kênh tưới thuộc hồ chứa nước Hố Giang, xã Hoài Châu, huyện Hoài Nhơn.
+- Công báo Gia Lai, văn bản bổ sung nhiệm vụ của hồ chứa nước Hố Giang, xã Hoài Châu, thị xã Hoài Nhơn.
+- Dân trí, bài viết về phát hiện bia đá cổ Champa ở vùng núi Bình Định, khu vực Hố Giang.
+- Bảo tàng Lịch sử Quốc gia, bài viết giải mã ký tự cổ trên tảng đá nặng hàng chục tấn ở Bình Định.
+- Báo Công an nhân dân, bài viết về Hòn đá Chữ huyền bí.

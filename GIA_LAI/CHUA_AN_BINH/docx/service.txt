@@ -1,0 +1,47 @@
+1. Dịch vụ tại địa điểm
+
+Chùa An Bình là cơ sở tôn giáo nên dịch vụ tại chỗ không giống khu du lịch thương mại. Các hoạt động chính là lễ Phật, chiêm bái, sinh hoạt Phật giáo và tham quan không gian chùa. Không nên mặc định có vé, quầy dịch vụ, hướng dẫn viên thường trực, xe điện hoặc dịch vụ tham quan chuyên nghiệp.
+
+Nếu đi theo đoàn, nên liên hệ trước với nhà chùa hoặc địa phương để hỏi thời gian phù hợp, quy định tham quan và khả năng tiếp đoàn. Nếu đi cá nhân, vẫn cần giữ trật tự và không tự ý vào khu vực riêng.
+
+2. Ăn uống
+
+Chùa không phải nơi cung cấp dịch vụ ăn uống cho du khách. Người đi nên ăn uống tại trung tâm An Khê hoặc trên tuyến đường trước khi đến chùa. Nếu chỉ tham quan ngắn, có thể mang nước uống cá nhân, nhưng cần giữ vệ sinh và không ăn uống bừa bãi trong khuôn viên.
+
+Nếu đi theo tuyến An Khê, có thể thưởng thức các món ăn địa phương tại thị xã An Khê cũ hoặc các quán trên quốc lộ 19. Cần phân biệt rõ “dịch vụ ăn uống gần chùa” với “dịch vụ trong chùa”.
+
+3. Đặc sản địa phương
+
+Đặc sản nên tìm hiểu là đặc sản vùng An Khê và Gia Lai, không phải đặc sản riêng trong chùa. Du khách có thể kết hợp trải nghiệm ẩm thực địa phương như các món cao nguyên, cà phê, món ăn dân dã An Khê hoặc các món trên tuyến quốc lộ 19.
+
+Nếu xây dựng chatbot, có thể gợi ý người dùng ăn uống ở trung tâm An Khê sau khi viếng chùa. Không nên nói chùa có bán đặc sản nếu không có nguồn xác nhận.
+
+4. Lưu trú / khách sạn
+
+Du khách có thể lưu trú tại trung tâm An Khê nếu muốn khám phá kỹ vùng An Khê, hoặc ở Pleiku nếu đi tuyến rộng hơn. Từ Pleiku đi An Khê có thể đi về trong ngày nhưng sẽ cần tính thời gian di chuyển. Nếu đi từ Quy Nhơn, có thể xem An Khê là điểm dừng trên tuyến lên Gia Lai.
+
+Chùa An Bình không nên được mô tả là nơi lưu trú cho khách du lịch. Nếu người dùng hỏi có thể ngủ lại chùa không, câu trả lời phù hợp là cần hỏi trực tiếp nhà chùa, không nên tự ý đến xin ở lại.
+
+5. Tiện ích hỗ trợ
+
+Tiện ích tại chùa có thể ở mức cơ bản phục vụ sinh hoạt tôn giáo. Du khách nên tự chuẩn bị nước uống, mũ, áo mưa, khăn giấy và các vật dụng cá nhân. Nếu cần nhà vệ sinh, chỗ nghỉ hoặc nơi gửi xe, nên hỏi người phụ trách hoặc người dân địa phương.
+
+Người lớn tuổi nên đi bằng ô tô hoặc taxi nếu xuất phát từ xa. Trẻ em cần được nhắc giữ trật tự, không chạy nhảy trong chánh điện và không chạm vào đồ thờ.
+
+6. Lưu ý về chi phí
+
+Chi phí chính thường là di chuyển, ăn uống và lưu trú nếu có. Công đức hoặc cúng dường là tùy tâm, không phải phí bắt buộc. Không nên ghi mức tiền công đức cụ thể trong dữ liệu.
+
+Thông tin tham khảo, cần kiểm tra lại trước khi đi.
+
+7. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Tân An tự: Ngôi chùa được phong sắc tứ duy nhất tại Gia Lai”, đăng ngày 18/11/2024.
+- Báo Gia Lai, “Vùng đất giữa 2 đèo mây”, đăng ngày 22/04/2017.
+- Giác Ngộ Online, “An Khê - nơi linh địa tối cổ nhất ở Đông Nam Á”, đăng ngày 23/01/2025.
+- Bazan Travel, “Chùa An Bình - Điểm du lịch Gia Lai”.
+- Liên Hoa Sanh, “Địa chỉ các chùa ở Gia Lai - Pleiku”, đăng năm 2013.
+- Báo Gia Lai, “Phường An Khê cần xác định rõ các nhiệm vụ trọng tâm, trọng điểm trong giai đoạn tới”, đăng ngày 15/07/2025.
+- Cổng thông tin Chính phủ / Xây dựng chính sách, “Danh sách 135 xã, phường của tỉnh Gia Lai mới”, đăng ngày 04/08/2025.
+Thông tin về giờ mở cửa, giá vé, trụ trì, đơn vị quản lý, địa chỉ chi tiết và lịch lễ có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi hoặc trước khi dùng trong hồ sơ chính thức.

@@ -1,0 +1,151 @@
+1. Giới thiệu địa điểm
+
+Lăng Ông Nam Hải trong bộ dữ liệu này được hiểu là Lăng Ông Nam Hải vạn Kim Giao, nằm tại khu vực
+thôn Kim Giao Nam, xã Hoài Hải, thị xã Hoài Nhơn, tỉnh Bình Định cũ. Sau điều chỉnh địa giới hành
+chính, xã Hoài Hải cùng phường Hoài Hương và xã Hoài Mỹ được nhập vào phường Hoài Nhơn Đông, tỉnh
+Gia Lai. Khi xây dựng dữ liệu cho chatbot, cần lưu cả hai lớp địa danh cũ và mới vì khách du lịch,
+người dân địa phương và các nguồn báo chí vẫn thường gọi theo tên Hoài Hải, Hoài Nhơn, Bình Định.
+Đây là một thiết chế tín ngưỡng biển của cộng đồng vạn chài Kim Giao, nơi thờ cá Ông hay Nam Hải Đại
+tướng quân. Trong văn hóa cư dân duyên hải miền Trung, cá Ông được xem là vị phúc thần cứu giúp
+người đi biển, che chở tàu thuyền khi gặp sóng gió và là điểm tựa tinh thần trong đời sống mưu sinh
+ngoài khơi. Không gian lăng gắn với nghi lễ cầu ngư, lễ vía, việc lưu giữ hài cốt cá Ông và ký ức
+cộng đồng của các thế hệ ngư dân vùng Hoài Hải.
+
+Các nguồn địa phương cho biết Lăng Ông Nam Hải vạn
+Kim Giao được tạo lập từ thế kỷ XIX, có nguồn ghi năm 1852, có nguồn về tín ngưỡng cá Ông tại Bình
+Định nhắc đến năm 1825 đối với lăng Ông ở thôn Kim Giao Nam. Vì các mốc năm có sai khác giữa nguồn
+báo chí và truyền khẩu địa phương, dữ liệu nên trình bày theo hướng thận trọng: lăng có lịch sử lâu
+đời, được hình thành trong khoảng thế kỷ XIX và nổi bật vì còn lưu giữ nhiều sắc phong triều Nguyễn.
+Nguồn Báo Gia Lai ghi lăng hiện còn giữ nguyên vẹn 9 sắc phong, còn bài VTC News cũng nhấn mạnh đây
+là lăng giữ được nhiều sắc phong nhất trong các lăng Ông ở Bình Định.
+
+Trong ngôn ngữ du lịch, tên ngắn có thể ghi là Lăng Ông Nam Hải, nhưng để tránh nhầm với các lăng
+Ông khác ở Nhơn Lý, Nhơn Hải, Đề Gi, Vĩnh Lợi hay các tỉnh ven biển khác, tên đầy đủ nên ghi là Lăng
+Ông Nam Hải vạn Kim Giao. Từ khóa địa danh quan trọng gồm Kim Giao Nam, Hoài Hải, Hoài Nhơn, Hoài
+Nhơn Đông, Bình Định cũ và Gia Lai hiện nay. Đây không phải là lăng mộ của một nhân vật lịch sử cụ
+thể, mà là nơi thờ phụng cá Ông, lưu giữ cốt Ông và sinh hoạt tín ngưỡng của cộng đồng ngư dân.
+
+Đối với chatbot du lịch, địa điểm này nên được giới thiệu như một điểm văn hóa tâm linh ven biển hơn
+là một điểm vui chơi giải trí đại chúng. Giá trị chính của lăng nằm ở chiều sâu tín ngưỡng, sắc
+phong, lễ nghi cầu ngư và quan hệ giữa cộng đồng vạn chài với biển. Khách đến đây thường kết hợp
+tham quan không gian làng biển Hoài Hải, Mũi Gành, Bãi Con, Cửa An Dũ, các bãi đá ven biển và các
+điểm du lịch cộng đồng ở Hoài Nhơn Đông.
+
+2. Mô tả tổng quan
+
+Lăng nằm trong không gian làng biển, gần khu dân cư và sinh hoạt nghề cá. Không gian lăng thường gắn
+với sân lễ, khu thờ tự, gian chính điện, nơi đặt khám thờ, bài vị, sắc phong hoặc hiện vật liên quan
+đến tín ngưỡng cá Ông. Về cảm nhận cảnh quan, đây là điểm đến có sự giao hòa giữa kiến trúc tín
+ngưỡng dân gian và bối cảnh biển: phía trước là không khí làng chài, tàu thuyền, gió biển; phía sau
+và xung quanh là đời sống cộng đồng địa phương.
+
+Lăng Ông Nam Hải vạn Kim Giao không nên mô tả như một khu du lịch có dịch vụ khép kín. Đây là di
+tích văn hóa cấp tỉnh, nơi sinh hoạt tín ngưỡng của dân làng. Khách tham quan cần đi với thái độ tôn
+trọng, giữ trật tự, không tự ý chạm vào đồ thờ, không quay chụp ở khu vực nhạy cảm khi chưa được
+phép. Trong mùa lễ hội, không gian lăng có thể đông, nhiều nghi lễ diễn ra, khách nên quan sát theo
+hướng tìm hiểu văn hóa thay vì chen lấn.
+
+3. Lịch sử hình thành
+
+Các nguồn hiện có cho biết lăng được tạo lập trong thế kỷ XIX. Báo Gia Lai nêu Lăng Ông Nam Hải vạn
+Kim Giao ở thôn Kim Giao Nam, xã Hoài Hải được tạo lập năm 1852 và lần trùng tu gần nhất năm 2015.
+Một nguồn báo khác về tín ngưỡng cá Ông ở Bình Định cho biết lăng Ông tại thôn Kim Giao Nam được xây
+dựng vào năm 1825. Khi xây dựng dữ liệu RAG, nên lưu hai mốc này như thông tin tham khảo và giải
+thích rằng các nguồn hiện có chưa hoàn toàn thống nhất.
+
+Lịch sử của lăng gắn với quá trình hình thành các vạn chài ở Hoài Hải. Cộng đồng ngư dân trong vùng
+duy trì tục thờ cá Ông, an táng cá Ông khi Ông lụy vào bờ, sau đó cải táng, đưa cốt vào lăng phụng
+thờ. Qua nhiều đời, lăng trở thành điểm quy tụ tinh thần của dân biển, nơi tổ chức lễ cầu an, cầu
+ngư, tạ ơn thần Nam Hải và lưu giữ sắc phong. Việc được xếp hạng di tích cấp tỉnh theo Quyết định
+174/QĐ-UBND ngày 15 tháng 01 năm 2022 giúp khẳng định giá trị lịch sử, văn hóa của lăng trong hệ
+thống di tích Hoài Nhơn.
+
+4. Giá trị văn hóa
+
+Giá trị văn hóa quan trọng nhất của Lăng Ông Nam Hải vạn Kim Giao là tín ngưỡng thờ cá Ông. Trong
+quan niệm dân gian ven biển, cá Ông không chỉ là sinh vật biển mà còn là vị thần hộ mệnh. Người đi
+biển tin rằng cá Ông từng cứu giúp người gặp nạn, dìu thuyền vào bờ, che chở ngư dân trước sóng to
+gió lớn. Niềm tin ấy hình thành một hệ thống nghi lễ, câu chuyện, cách xưng hô kính trọng và tập tục
+tang lễ dành cho cá Ông.
+
+Lăng cũng có giá trị lưu giữ ký ức cộng đồng. Những sắc phong triều Nguyễn, các nghi thức cúng tế,
+việc trang hoàng tàu thuyền trong lễ hội, văn tế, âm nhạc dân gian, trò diễn và sự tham gia của các
+bậc cao niên đều tạo nên một chỉnh thể văn hóa. Đối với du lịch bền vững, đây là nguồn dữ liệu quý
+giúp du khách hiểu biển không chỉ là cảnh quan để chụp ảnh, mà còn là không gian sống, lao động, tâm
+linh và bản sắc của người miền Trung.
+
+5. Điểm nổi bật
+
+Điểm nổi bật đầu tiên là lăng gắn với vạn Kim Giao, một trong những vạn chài lâu đời của khu vực
+Hoài Hải. Theo Báo Gia Lai, xã Hoài Hải có nhiều lăng Ông, nhưng Lăng Ông Nam Hải vạn Kim Giao nổi
+bật vì còn giữ nguyên vẹn 9 sắc phong của các vua triều Nguyễn. Đây là chi tiết nhận diện rất quan
+trọng, giúp phân biệt địa điểm này với các lăng Ông khác cùng tên ở Bình Định và nhiều địa phương
+ven biển Việt Nam.
+
+Điểm nổi bật thứ hai là vị trí ven biển Hoài Hải. Lăng không tách rời khỏi đời sống biển mà nằm
+trong mạng lưới không gian gồm làng chài, bãi biển, Mũi Gành, Bãi Con, cửa biển An Dũ, các bãi đá và
+đời sống nghề cá. Vì vậy, khi mô tả cho khách du lịch, nên giới thiệu lăng như một điểm dừng văn hóa
+trong tuyến khám phá Hoài Nhơn Đông, đặc biệt phù hợp với người muốn tìm hiểu tín ngưỡng biển, di
+sản làng chài và câu chuyện cá Ông.
+
+6. Kiến trúc / cảnh quan
+
+Kiến trúc lăng mang tính dân gian ven biển, thường gồm khu cổng, sân, không gian thờ chính, các gian
+phụ và nơi lưu giữ đồ thờ. Dữ liệu không nên phóng đại lăng như một công trình kiến trúc hoành tráng
+kiểu cung đình. Giá trị của lăng nằm ở sự bền bỉ của cộng đồng, các lần tu sửa, đồ thờ, sắc phong và
+không khí linh thiêng. Nguồn địa phương cho biết lăng đã được trùng tu, trong đó có lần trùng tu gần
+đây năm 2015.
+
+Cảnh quan xung quanh có dấu ấn biển rõ rệt. Khi đứng ở khu vực lăng và vùng Hoài Hải, du khách có
+thể cảm nhận gió biển, tiếng sóng, không gian làng chài và màu sắc của tàu thuyền. Nếu kết hợp với
+Mũi Gành - Bãi Con, trải nghiệm cảnh quan càng rõ: một bên là di sản tâm linh, một bên là bờ đá,
+cát, sóng và hoạt động mưu sinh ven biển.
+
+7. Các khu vực chính
+
+Các khu vực chính có thể nhận diện gồm khu sân lăng, khu tiền điện hoặc không gian tiếp lễ, gian thờ
+chính và khu vực lưu giữ hiện vật tín ngưỡng như bài vị, đồ thờ, sắc phong hoặc thông tin về hài cốt
+cá Ông. Tùy thời điểm và quy định của ban quản lý hoặc người trông coi, một số khu vực có thể không
+mở cho khách tự do tiếp cận. Khách nên hỏi người địa phương hoặc người quản lý trước khi vào sâu bên
+trong.
+
+Bên ngoài lăng là không gian làng biển Hoài Hải, có thể xem như phần mở rộng của trải nghiệm. Dữ
+liệu chatbot nên gợi ý người dùng đi bộ nhẹ quanh làng, quan sát đời sống ngư dân, kết hợp thăm Mũi
+Gành, Bãi Con hoặc Cửa An Dũ. Tuy nhiên, cần nhắc khách không làm ảnh hưởng đến sinh hoạt dân cư,
+không xả rác và không chụp ảnh người dân quá gần nếu chưa xin phép.
+
+8. Từ khóa mô tả địa điểm
+
+Lăng Ông Nam Hải, Lăng Ông Nam Hải vạn Kim Giao, vạn Kim Giao, Kim Giao Nam, Hoài Hải, Hoài Nhơn
+Đông, Hoài Nhơn, Bình Định cũ, Gia Lai, tín ngưỡng cá Ông, Nam Hải Đại tướng quân, lăng cá Ông, lễ
+hội cầu ngư, sắc phong triều Nguyễn, di tích cấp tỉnh, làng chài Hoài Hải, văn hóa biển, Mũi Gành,
+Bãi Con, Cửa An Dũ.
+
+Các từ khóa nhận diện hình ảnh có thể gồm: lăng thờ ven biển, cổng lăng, sân lăng, bàn thờ cá Ông,
+khám thờ, sắc phong, không gian vạn chài, tàu thuyền, bãi biển Hoài Hải, lễ cầu ngư, cờ phướn, đồ
+lễ, ngư dân, cảnh biển xanh cát trắng.
+
+9. Nguồn tham khảo
+
+Báo Gia Lai, “Kỳ thú Lăng Ông Nam Hải”: https://baogialai.com.vn/ky-thu-lang-ong-nam-hai-
+post401968.html
+
+Sở Văn hóa, Thể thao và Du lịch Gia Lai, tin đón nhận bằng xếp hạng di tích Lăng Ông Nam Hải vạn Kim
+Giao: https://svhttdl.gialai.gov.vn/van-hoa-nghe-thuat/le-cong-bo-quyet-dinh-xa-hoai-huong-dat-
+chuan-nong-thon-moi-nang-cao-va-dong-nhan-bang-xep-hang-di-tich-lich-su-van-hoa-cap-tinh-lang-ong-
+nam-hai-van-kim-giao-194.html
+
+Cục Du lịch Quốc gia Việt Nam, bài viết về Hoài Hải: https://vietnamtourism.gov.vn/post/60012
+
+Cục Du lịch Quốc gia Việt Nam, bài viết Hoài Nhơn - tình biển, xứ dừa, cao nguyên xanh:
+https://vietnamtourism.gov.vn/post/58148
+
+VTC News, “Đức tin cá Ông, vị phúc thần của ngư dân vùng biển Bình Định”: https://vtcnews.vn/duc-
+tin-ca-ong-vi-phuc-than-cua-ngu-dan-vung-bien-binh-dinh-ar852876.html
+
+Thư viện Pháp luật, Quyết định 16/2024/QĐ-UBND về quản lý, bảo vệ và phát huy giá trị di tích lịch
+sử - văn hóa Bình Định: https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Quyet-dinh-16-2024-QD-
+UBND-Quan-ly-bao-ve-va-phat-huy-gia-tri-di-tich-lich-su-van-hoa-Binh-Dinh-611136.aspx
+
+Báo Gia Lai, thông tin sắp xếp phường Hoài Nhơn Đông: https://baogialai.com.vn/hoai-nhon-doi-ten-
+phuong-moi-can-bo-nguoi-dan-ung-ho-post334368.html

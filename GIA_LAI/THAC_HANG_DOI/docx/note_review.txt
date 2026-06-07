@@ -1,0 +1,52 @@
+1. Lưu ý khi tham quan
+
+Nguồn Báo Gia Lai ngày 24/05/2026 ghi nhận tình trạng xả rác sinh hoạt kéo dài tại khu vực Thác Hang Dơi, thuộc suối Đăk Lơ Pe, xã Kbang. Rác thải gồm bao bì ni lông, chai nhựa, hộp xốp, lon nước, thức ăn dư thừa và vật dụng sau dã ngoại. Một phần rác bị đốt tự phát, có điểm cháy âm ỉ sát khu vực rừng đầu nguồn, tiềm ẩn nguy cơ cháy rừng; một phần rác bị xả xuống suối, ảnh hưởng nguồn nước mặt. Đây là thông tin cập nhật rất quan trọng cần đưa vào phần lưu ý, review và FAQ để chatbot khuyến cáo du khách đi có trách nhiệm.
+
+Du khách cần đi có trách nhiệm: mang rác ra khỏi khu vực thác, không đốt lửa, không xả rác xuống suối, không làm ồn trong hang, không bắt hoặc làm phiền dơi. Đây là điểm thiên nhiên còn hoang sơ, rất dễ bị tổn thương nếu khách dã ngoại thiếu ý thức.
+
+2. Quy định tại địa điểm
+
+Nếu có biển cảnh báo, thùng rác, khu vực cấm lửa, cấm xuống nước hoặc hướng dẫn của địa phương, cần tuân thủ. Không tự ý vào khu rừng sâu, không tự đốt lửa nướng đồ ăn gần rừng đầu nguồn.
+
+3. Điều cấm / hạn chế
+
+Không xả rác, không đốt rác, không đốt lửa bừa bãi, không vẽ lên đá, không chặt cây, không bắt dơi, không tắm ở đoạn nước xiết, không vào hang khi thiếu ánh sáng hoặc không rõ an toàn.
+
+4. Mức độ đông khách
+
+Ngày thường có thể vắng. Cuối tuần hoặc mùa đẹp có thể có nhóm dã ngoại. Do địa điểm gần khu dân cư và trung tâm Kbang cũ, lượng khách địa phương có thể tăng vào cuối tuần.
+
+5. Độ an toàn
+
+Rủi ro chính là đá trơn, dốc xuống thác, nước sâu, nước xiết, hang tối, côn trùng và thời tiết xấu. Trẻ em cần được giám sát. Không nên đi một mình hoặc đi khi trời mưa lớn.
+
+6. Khả năng tiếp cận
+
+Thác khá gần trung tâm Kbang, nhưng đoạn xuống thác và vào hang có thể không phù hợp với người lớn tuổi, người hạn chế vận động hoặc xe lăn. Cần kiểm tra thực tế trước khi đi.
+
+7. Review tổng hợp
+
+Thác Hang Dơi có cảnh quan độc đáo, gần trung tâm Kbang, vừa có thác nước vừa có hang dơi và rừng nguyên sinh. Điểm mạnh là vẻ hoang sơ, tính nhận diện cao và phù hợp dã ngoại. Điểm hạn chế là dịch vụ ít, đường xuống có thể trơn và vấn đề rác thải cần được xử lý nghiêm túc.
+
+8. Ưu điểm
+
+Có dấu hiệu nhận diện rõ: thác nước, hang vòm có dơi, suối Đăk Lơ Pe, rừng thực nghiệm nguyên sinh, vị trí gần Kbang. Rất phù hợp cho dữ liệu RAG và dataset ảnh nếu thu đúng ảnh thác/hang.
+
+9. Nhược điểm
+
+Dễ bị nhầm với các thác khác ở Kbang nếu chỉ dùng ảnh rừng thác chung chung. Dịch vụ chưa hoàn chỉnh và vấn đề rác thải năm 2026 là điểm cần cảnh báo.
+
+10. Kinh nghiệm tránh rủi ro
+
+Đi ban ngày, mang giày chống trơn, không xả rác, không đốt lửa, không vào hang sâu nếu không có đèn, không tắm ở đoạn nước mạnh, hỏi người dân địa phương nếu không rõ đường.
+
+11. Nguồn tham khảo
+
+Nguồn tham khảo:
+- Báo Gia Lai, “Thác Hang Dơi - Tiềm năng còn bỏ ngỏ”, đăng ngày 12/10/2017.
+- Báo Gia Lai, “Kiến nghị xử lý tình trạng rác thải ở thác Hang Dơi”, đăng ngày 24/05/2026.
+- Du lịch Kbang, “Thác Dơi Kbang Gia Lai”.
+- Saco Travel, “Thác Hang Dơi độc đáo ở Gia Lai”, đăng ngày 06/12/2022.
+- Vexere Blog, “Địa điểm du lịch Kbang: Top 10 điểm đến đẹp và nổi tiếng nhất”, đăng ngày 02/03/2026.
+- Thư Viện Pháp Luật / Báo Gia Lai, thông tin sắp xếp đơn vị hành chính huyện Kbang năm 2025.
+Ghi chú: Thông tin về đường đi, rác thải, dịch vụ, quản lý, an toàn, giá vé và giờ mở cửa có thể thay đổi. Thông tin tham khảo, cần kiểm tra lại trước khi đi.
